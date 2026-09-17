@@ -125,7 +125,7 @@ function wireControls(){
 
 async function init(){
   try{
-    const res = await fetch('data/news.json', { cache: 'no-store' });
+    const res =  await fetch('news.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('Could not load news.json');
     items = await res.json();
     const latest = items.reduce((max, i) => i.date > max ? i.date : max, items[0]?.date || '');
