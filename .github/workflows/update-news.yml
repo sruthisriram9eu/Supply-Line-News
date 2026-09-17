@@ -26,7 +26,7 @@ jobs:
       - name: Run the fetch & summarize script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/fetch_and_summarize.py
+        run: python fetch_and_summarize.py
 
       - name: Commit and push updated news.json
         run: |
