@@ -58,7 +58,7 @@ CATEGORIES = [
 # was written (roughly 15 requests/minute, 1000/day, no billing required).
 # If Google renames or retires it, check https://aistudio.google.com for the
 # current free-tier model list and update the line below.
-MODEL = "gemini-2.5-flash-lite"
+MODEL = "gemini-flash-lite-latest"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 API_KEY = os.environ.get("GEMINI_API_KEY")
 
