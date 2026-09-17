@@ -1,5 +1,25 @@
 [
   {
+    "headline": "US Rail Freight Experiences Rare Weekly Volume Decline",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "United States freight railroad operators recorded a temporary dip in shipping volumes during an off-week. Despite this minor setback, cumulative traffic remains comfortably ahead of the pace set in previous periods, positioning the sector well as operations head toward upcoming annual figures. Industry analysts monitor these weekly fluctuations closely to gauge broader economic momentum and movement trends across domestic distribution networks, though current performance metrics still reflect a resilient and active freight market overall.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/rail-freight-slides-in-rare-off-week"
+  },
+  {
+    "headline": "USMCA Deadlock and Canada Tariffs Disrupt Cross-Border Trucking",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "international_relations",
+    "date": "2026-09-17",
+    "summary": "Escalating trade tensions between the United States and Canada are significantly impacting cross-border logistics. Canada has implemented extensive tariffs on numerous American goods, alongside total bans on select imports, while broader USMCA negotiations remain stalled. These trade barriers are forcing adjustments in freight routing and supply chain planning across key industrial sectors, including automotive, steel, and aluminum manufacturing. Industry analysts note that these policy shifts are already altering traditional transportation networks and forcing shippers to reevaluate regional distribution strategies.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/usmca-deadlock-canada-bans-what-it-means-for-trucking"
+  },
+  {
     "headline": "SC Ports and Norfolk Southern Expand Southeast Rail Service",
     "continent": "North America",
     "country": "United States",
