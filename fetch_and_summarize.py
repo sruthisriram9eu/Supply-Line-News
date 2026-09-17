@@ -47,7 +47,7 @@ FEEDS = [
 
 MAX_NEW_PER_FEED_PER_RUN = 4   # keeps this comfortably inside the free daily quota
 MAX_ITEMS_TOTAL = 250          # oldest stories drop off past this
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "news.json"
+DATA_PATH = Path(__file__).resolve().parent / "news.json" 
 
 CATEGORIES = [
     "strategy", "procurement", "manufacturing", "logistics",
