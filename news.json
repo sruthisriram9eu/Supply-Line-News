@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Fuel price shocks drive volatile global logistics surcharges",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Escalating oil prices, driven by ongoing geopolitical conflict in the Middle East, are forcing widespread increases in freight transportation costs globally. Shippers face severe financial uncertainty as carriers implement rapid emergency fuel surcharges that fluctuate weekly across all transport modes, compounding overall supply chain expenses.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/continued-fuel-price-shocks-leave-emergency-surcharges-stuck-in-overdrive/"
+  },
+  {
+    "headline": "German Port Workers Reject Pay Offer, Raising Strike Risks",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Labor negotiations at German sea ports have stalled after union members voted down the latest compensation proposal from terminal operators during their fourth round of talks. A strong majority of participating union members rejected the management's terms, increasing the likelihood of widespread and indefinite labor disruptions across the country's major maritime gateways. This potential industrial action threatens to severely impact terminal operations, vessel turnaround times, and the broader freight forwarding network connecting German ports to international supply chains.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/german-port-workers-move-closer-to-indefinite-strike-after-ver-di-rejected-pay-offer/"
+  },
+  {
+    "headline": "Maersk suspends transpacific extra loader service for fourth quarter",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Ocean carrier Maersk is halting its standalone TPX extra loader route across the transpacific trade lane ahead of China's upcoming Golden Week holiday. The final voyage for this season will depart from Vietnam in late September utilizing the Maersk Boston vessel. According to the company's advisory notice, the route will stay inactive throughout the remainder of the fourth quarter in response to anticipated seasonal demand shifts and market conditions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/maersk-cuts-transpacific-capacity-as-golden-week-slowdown-looms/"
+  },
+  {
+    "headline": "HMM Expands Intra-Asia Shipping Operations Amid Shift in Regional Cargo Flows",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "South Korean carrier HMM is increasing its presence in the intra-Asia container shipping market, challenging smaller local feeder operators. This expansion is driven by rising manufacturing and logistics activity in Southeast Asia, fueled largely by increased Chinese investment. Demand for maritime transport connecting China, Thailand, South Korea, Vietnam, and neighboring economies is growing as regional supply chains evolve, prompting major carriers to capture a larger share of intra-regional trade routes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hmm-muscles-in-on-intra-asia-trade-as-regional-cargo-flows-shift/"
+  },
+  {
+    "headline": "Turkish Carriers Expand India-Mediterranean Capacity",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Turkish shipping companies Turkon Line and Arkas Line have upgraded their joint vessel-sharing service connecting West India and the Mediterranean through the Red Sea corridor. The carriers introduced a larger, LNG-fueled container ship with a capacity of 4,000 TEUs to the weekly loop to handle growing cargo volumes. This capacity enhancement follows a partnership with Concor, strengthening operational capabilities and service reliability as both carriers expand their presence in the emerging trade corridor between South Asia and the Mediterranean region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/turkon-and-arkas-increase-india-mediterranean-offering-with-concor-collaboration/"
+  },
+  {
     "headline": "Good Culture Appoints New COO to Optimize Supply Chain",
     "continent": "North America",
     "country": "United States",
@@ -190,6 +240,56 @@
     "sourceUrl": "https://theloadstar.com/south-koreas-arctic-shipping-ambitions-on-ice-due-to-high-costs-and-low-volumes/"
   },
   {
+    "headline": "US Container Imports Rise 3.8% to Reach 2.6 Million TEUs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Containerized import volumes into the United States expanded by 3.8 percent from the preceding month, reaching 2.60 million TEUs. This total marks the third-highest monthly volume recorded. Growth was distributed across marine terminals on the East, Gulf, and West coasts. The upward trend was supported by widespread volume increases across primary sourcing regions. Concurrently, maritime gateways experienced extended transit delays as cargo processing volumes increased.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/u-s-container-imports-climb-3-8-to-2-6-million-teus-3rd-highest-monthly-level"
+  },
+  {
+    "headline": "Amazon Suspends Cargo Contract With 21 Air Following Crash",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Amazon has temporarily halted its air freight operations with provider 21 Air. The decision follows a fatal accident involving one of the carrier's aircraft. The e-commerce giant stated that the operational pause is a precautionary measure while officials investigate the underlying causes of the incident. This temporary suspension impacts Amazon's domestic air logistics network as the company reviews its safety standards and carrier partnerships in the wake of the tragedy.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amazon-calls-timeout-on-21-air-cargo-contract"
+  },
+  {
+    "headline": "Radiant Logistics Reports Strong FQ4 Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Radiant Logistics surpassed fiscal fourth-quarter expectations, driven by robust performance within its international operations and a tightening domestic surface transportation market. Leadership anticipates that these favorable freight conditions will continue to positively impact financial results in upcoming periods. Company shares experienced a sixteen percent increase following the earnings announcement.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/radiant-logistics-sees-double-digit-growth-in-fq4-shares-up-16"
+  },
+  {
+    "headline": "Red Sea Returns Expose Carriers to Heightened Houthi Risks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Ocean carriers are bringing back Red Sea shipping routes, which has driven ocean freight rates down. However, this shift increases vulnerability to potential security incidents and operational interruptions. While routing through the canal offers faster transit times compared to the longer journey around Africa, ongoing regional instability means ocean carriers face heightened exposure to militant activity. Industry observers note that despite cost benefits, the decision to resume transits introduces significant risk management challenges for global maritime supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/houthi-gains-deepen-risk-as-carriers-restore-red-sea-services"
+  },
+  {
+    "headline": "FMCSA Issues Warning Over Fake Motus Registration Web Domains",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Motor carriers face potential fraud threats as fraudulent operators establish unauthorized web addresses mimicking federal vehicle registration systems. These deceptive portals falsely claim that carrier profiles require urgent updates, directing unsuspecting transportation businesses away from official government networks. Federal regulators have intervened to clarify that only a specific official domain serves as the authorized destination for these administrative procedures, urging trucking operators to remain vigilant against phishing attempts and unauthorized data collection tactics.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-warns-trucking-companies-about-4-fake-motus-registration-sites"
+  },
+  {
     "headline": "Burlington Expands Solar Power Across Warehouse Network",
     "continent": "North America",
     "country": "United States",
@@ -288,6 +388,56 @@
     "summary": "Chemical producer OXEA has chosen Uber Freight to oversee its entire transportation network spanning the United States, Canada, Mexico, and Europe. This agreement involves utilizing digital freight management capabilities to streamline logistics operations and improve oversight across multiple international markets. By outsourcing transport management to a third-party platform, the chemical manufacturer aims to optimize its supply chain performance and freight execution in key regions.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/oxea-taps-uber-freight-to-manage-north-american-european-logistics"
+  },
+  {
+    "headline": "FedEx Freight Combines Technology and Commercial Roles",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-14",
+    "summary": "Less-than-truckload provider FedEx Freight has appointed Mike Rodgers as chief commercial and technology officer, merging the two operational domains under a single executive. This organizational update comes in the wake of a recent departure in the commercial leadership ranks. The newly expanded position aims to align technology initiatives more closely with commercial strategy as the carrier navigates ongoing operational adjustments within its freight network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-freight-expands-ctos-role-to-cover-commercial-strategy-following-cco-ouster"
+  },
+  {
+    "headline": "August Cass Index Shows Truckload Rates Up and Freight Volumes Rebounding",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-14",
+    "summary": "Data from Cass reveals a significant double-digit percentage increase in truckload linehaul rates during August compared to the same period last year. Concurrently, freight shipment volumes experienced positive growth, marking the end of a prolonged forty-two month contraction phase. This shift indicates a potential turning point in market conditions for road freight transportation carriers and shippers alike, reflecting changing capacity dynamics across the domestic shipping network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cass-tl-rates-jump-11-in-august-freight-shipments-turn-positive"
+  },
+  {
+    "headline": "Port of Long Beach nears one million TEUs in historic volume month",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-14",
+    "summary": "The Port of Long Beach reported robust cargo volumes, achieving nearly one million TEUs in a single month. This milestone represents one of the busiest periods in the port's history, driven by strong growth across both inbound and outbound container movements. The surge highlights ongoing high demand at major North American maritime gateways, reflecting shifts in international trade flows and domestic retail inventory preparations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/almost-1-million-teus-in-new-record-for-this-u-s-container-gateway"
+  },
+  {
+    "headline": "Hub Group faces Nasdaq delisting warning after reporting delay",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-14",
+    "summary": "Transportation provider Hub Group anticipates receiving a delisting notification from the Nasdaq stock exchange following a missed filing deadline caused by an internal accounting mistake. The company also reported an operating loss for the first half of the year. Management intends to appeal the decision by requesting a formal hearing in an effort to keep its shares traded on the exchange. The financial reporting delay has created temporary regulatory hurdles for the logistics firm as it works to resolve the underlying accounting discrepancies.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hub-group-warns-of-nasdaq-delisting-notice-flags-h1-operating-loss"
+  },
+  {
+    "headline": "Kenco Expands Warehouse Automation Testing Space",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-14",
+    "summary": "Kenco has established a large new testing facility in Chattanooga, significantly expanding its previous footprint for evaluating warehouse automation technology. The expanded center allows the third-party logistics provider to scale its testing operations as adoption of advanced fulfillment systems continues to grow across the industry.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/kenco-warehouse-automation-testing-lab"
   },
   {
     "headline": "EU tightens the customs paperwork on imported steel",
