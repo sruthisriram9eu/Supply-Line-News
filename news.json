@@ -1,5 +1,85 @@
 [
   {
+    "headline": "SC Ports and Norfolk Southern Expand Southeast Rail Service",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "South Carolina Ports and Norfolk Southern have launched a daily intermodal rail service connecting the Port of Charleston to Huntsville, Alabama. This new transportation link broadens regional market access, providing enhanced connectivity for freight movers into Middle Tennessee. By leveraging rail infrastructure, the expansion aims to streamline cargo movement across the Southeast, offering shippers a reliable alternative for distributing goods throughout the region and supporting growing industrial supply chain demands.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/sc-ports-norfolk-southerns-intermodal-service-grows-southeast-reach/830582/"
+  },
+  {
+    "headline": "San Pedro Ports Propose Zero-Emission Truck Incentives",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Ports in the San Pedro area are introducing a financial incentive initiative designed to accelerate the adoption of zero-emission freight vehicles. Under the proposed plan, eligible truck operators serving the port complex could receive annual payments of up to $36,000. This effort aims to encourage fleet modernization and reduce environmental impact within the regional logistics network by supporting the transition to cleaner transportation technologies for drayage operations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/san-pedro-ports-seek-zero-emission-truck-usage-boost-via-new-incentive-prog/830536/"
+  },
+  {
+    "headline": "CMT Debuts Carrier Safety Data Platform for Freight Brokers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Cambridge Mobile Telematics has introduced a specialized software tool designed to provide freight brokers with direct access to carrier driving behavior metrics. This release comes amid rising industry emphasis on rigorous carrier vetting practices and operational safety standards. By utilizing recent telematics data, brokers can better evaluate motor carriers during the selection process to mitigate risk and improve compliance throughout their freight networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cmt-launches-safety-platform-for-freight-brokers"
+  },
+  {
+    "headline": "Mexico ends empty truck border restriction",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Mexican customs officials have reversed a newly implemented restriction on empty commercial trucks entering the country through Piedras Negras. The policy change had previously disrupted cross-border freight operations, stranding approximately 700 tractor units in Eagle Pass, Texas. Following the reversal, normal traffic flow is expected to resume, alleviating the severe congestion and delays experienced by carriers operating along this key North American trade corridor.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-lifts-empty-truck-restriction-after-700-tractors-stranded-at-border"
+  },
+  {
+    "headline": "Trucking capacity exits accelerate amid regulatory crackdowns",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Industry leaders indicate that heightened regulatory enforcement targeting noncompliant commercial drivers is still in its initial phases, pointing to a widening contraction in available freight capacity. This trend suggests that established trucking enterprises are well-positioned to command substantial freight rate increases, even if overall market demand remains relatively subdued. The ongoing departure of noncompliant operators is steadily tightening market conditions across the sector, shifting pricing power toward larger carriers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/carriers-tl-capacity-exodus-growing-not-slowing"
+  },
+  {
+    "headline": "Norfolk Southern Aims to Streamline Intermodal Rail Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Norfolk Southern outlines a strategy to drive growth in its intermodal sector by eliminating inefficiencies within the rail network. The freight carrier emphasizes improving terminal reliability, enhancing predictability, and matching the accountability of the trucking industry. To achieve a seamless, coast-to-coast operational framework, the company highlights the importance of strengthened service performance and unified network capabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/norfolk-southern-new-intermodal-era-about-removing-rail-friction"
+  },
+  {
+    "headline": "Ocean Freight Booking Risks Persist Across Major Trade Lanes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Maritime transport risks are projected to stay high on prominent trade routes connecting Asia with North America and Europe throughout the upcoming month. A primary challenge driving this uncertainty is the declining consistency of vessel schedules, which threatens supply chain predictability for cargo owners. Industry analysts note that shippers utilizing these vital corridors must navigate persistent volatility regarding vessel availability and operational timing.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ocean-freight-booking-risk-remains-elevated-wisetech-warns/"
+  },
+  {
+    "headline": "Norfolk Southern Merger Faces Scrutiny Amid Safety Debates",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Norfolk Southern is promoting a significant drop in reportable train accidents as part of its transcontinental rail merger application. However, recent developments complicate this narrative, including a previously unshared contamination report surfaced by class-action attorneys, multiple derailments within a single Pennsylvania county, and evolving legal standards regarding intermediary liability. These factors are drawing increased attention from shippers and regulators evaluating the carriers operational reliability and safety claims during the ongoing merger process.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/us-rail-merger-what-norfolk-southerns-buried-test-results-mean-for-shippers/"
+  },
+  {
     "headline": "Fuel price shocks drive volatile global logistics surcharges",
     "continent": "Global",
     "country": "Multiple",
@@ -388,6 +468,26 @@
     "summary": "Chemical producer OXEA has chosen Uber Freight to oversee its entire transportation network spanning the United States, Canada, Mexico, and Europe. This agreement involves utilizing digital freight management capabilities to streamline logistics operations and improve oversight across multiple international markets. By outsourcing transport management to a third-party platform, the chemical manufacturer aims to optimize its supply chain performance and freight execution in key regions.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/oxea-taps-uber-freight-to-manage-north-american-european-logistics"
+  },
+  {
+    "headline": "Texas Couple Sentenced for Cross-Border Drug Smuggling",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-14",
+    "summary": "A Texas-based couple received prison sentences for running an illicit e-commerce enterprise that distributed unregistered veterinary medications and pesticides illegally brought across the border from Mexico. The unauthorized distribution network generated substantial revenue by evading standard regulatory compliance and importation controls for agricultural and animal health products entering the domestic market from abroad. Federal authorities dismantled the operation following an investigation into the cross-border trafficking of restricted merchandise.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/texas-couple-sentenced-in-2-4m-mexico-to-us-smuggling-operation"
+  },
+  {
+    "headline": "LX Pantos Expands U.S. Footprint and Global Logistics Reach",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-14",
+    "summary": "Korean logistics provider LX Pantos is executing an international expansion plan centered on strengthening its United States presence, enhancing digital freight platforms, and growing its specialized installation services. Leadership outlines the company's contract logistics approach, targets key international markets for expansion, and shares updates regarding corporate sustainability goals as part of a long-term strategy to establish market leadership in the worldwide transportation and supply chain sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/lx-pantos-sets-its-sights-on-global-logistics-leadership"
   },
   {
     "headline": "FedEx Freight Combines Technology and Commercial Roles",
