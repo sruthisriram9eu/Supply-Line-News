@@ -43,10 +43,11 @@ FEEDS = [
     ("https://www.aircargonews.net/feed", "Air Cargo News"),
     ("https://theloadstar.com/feed/", "The Loadstar"),
     ("https://www.scdigest.com/rss/scdigest_headlines.xml", "Supply Chain Digest"),
+    ("https://www.imd.org/ibyimd/tag/manufacturing/feed/", "IMD Business School"),
 ]
 
-MAX_NEW_PER_FEED_PER_RUN = 4   # keeps this comfortably inside the free daily quota
-MAX_ITEMS_TOTAL = 250          # oldest stories drop off past this
+MAX_NEW_PER_FEED_PER_RUN = 10   # keeps this comfortably inside the free daily quota
+MAX_ITEMS_TOTAL = 300          # oldest stories drop off past this
 DATA_PATH = Path(__file__).resolve().parent / "news.json" 
 
 CATEGORIES = [
