@@ -155,9 +155,11 @@ function handleKey(key){
 
     if (currentGuess === ANSWER){
       gameOver = true;
+      if (window.goatcounter) window.goatcounter.count({ path: 'game-finished', event: true });
       setMessage("Solved! Nicely done.");
     } else if (guesses.length >= 6){
       gameOver = true;
+      if (window.goatcounter) window.goatcounter.count({ path: 'game-finished', event: true });
       setMessage(`The word was ${ANSWER}.`);
     } else {
       setMessage('');
@@ -191,6 +193,7 @@ document.addEventListener('keydown', (e) => {
 
 openBtn.addEventListener('click', () => {
   overlay.classList.add('open');
+  if (window.goatcounter) window.goatcounter.count({ path: 'game-opened', event: true });
 });
 closeBtn.addEventListener('click', () => {
   overlay.classList.remove('open');
