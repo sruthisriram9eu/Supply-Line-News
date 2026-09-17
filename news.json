@@ -1,13 +1,123 @@
 [
   {
-    "headline": "\"Volatility is the new normal,\" 2026 logistics report finds",
+    "headline": "USPS Network Overhaul Delays Rural Deliveries",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "A federal watchdog report indicates that recent operational changes within the postal network have negatively affected shipping performance for remote communities. The restructuring initiative aimed to decrease transportation trips between distant post offices and central processing hubs, but the resulting adjustments have disproportionately slowed down package transit times and on-time delivery rates for residents living outside major metropolitan areas.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/usps-network-revamp-challenges-on-time-delivery-from-rural-areas/830507/"
+  },
+  {
+    "headline": "Munchkin Appoints First Chief Supply Chain Officer",
     "continent": "North America",
     "country": "United States",
     "category": "strategy",
-    "date": "2026-06-15",
-    "summary": "The 2026 State of Logistics Report concludes that supply chain volatility has become a permanent operating condition rather than a temporary disruption, with U.S. logistics costs now running at $2.4 trillion, or 7.8% of GDP. The report argues that resilience needs to move from a reactive stance into core strategy, pushing companies to build flexibility into sourcing, inventory and transportation decisions rather than optimizing purely for cost, since the next shock is treated as a matter of when, not if.",
+    "date": "2026-09-16",
+    "summary": "Baby product manufacturer Munchkin has appointed Kunal Thakkar as its inaugural chief supply chain officer. In this newly created role, the former Walmart and Thrasio executive will oversee global operations, sourcing, and related supply chain functions. The leadership addition aims to strengthen the company's international operational capabilities and navigate current logistical challenges within the consumer goods sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/munchkin-taps-20-year-industry-veteran-as-first-chief-supply-chain-officer/830446/"
+  },
+  {
+    "headline": "Macy's Scales AI Tool for Inventory Replenishment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-16",
+    "summary": "Macy's is expanding the implementation of an artificial intelligence forecasting solution across its operations. Following an initial trial phase, the department store chain aims to enhance inventory availability and boost overall supply chain efficiency by utilizing predictive analytics to manage stock levels more effectively.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/macys-rolls-out-ai-inventory-replenishment-tool/830441/"
+  },
+  {
+    "headline": "New York Fed Survey Shows U.S. Manufacturing Slowdown Amid Price Hikes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-16",
+    "summary": "Recent data from the Federal Reserve Bank of New York indicates that regional factory activity has pulled back from a four-year peak as production costs increase. Although current demand for factory goods remains relatively stable, economic analysts caution that ongoing price pressures could destabilize output volumes in the near future. Businesses are navigating a shifting economic landscape where rising expenses threaten to dampen consumer and commercial purchasing momentum.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-slows-from-four-year-high-as-prices-rise-ny-fed-survey/830511/"
+  },
+  {
+    "headline": "Private Fleets Pivot to Driver Development Amid Shortages",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Persistent labor shortages are forcing private fleets to alter their safety management strategies. Instead of replacing struggling drivers, logistics operators are increasingly turning to advanced technology and targeted coaching programs to improve performance and retention. This operational shift emphasizes internal talent development and risk mitigation, addressing the ongoing driver deficit while maintaining fleet safety standards without relying heavily on external recruitment.",
     "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
+    "sourceUrl": "https://www.freightwaves.com/news/driver-shortage-changes-the-playbook-for-private-fleet-safety"
+  },
+  {
+    "headline": "Ocean Freight Fuel Costs Stay High Despite Better Supply",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Marine fuel expenses for cargo carriers have doubled throughout the current year. While availability constraints for bunker fuel have begun to alleviate, pricing levels across major maritime routes continue to remain high. This persistent cost pressure affects operational expenditures for container shipping lines worldwide, even as the physical availability of marine fuel improves across key global bunkering ports.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/container-shipping-fuel-prices-remain-elevated-as-supply-fears-ease"
+  },
+  {
+    "headline": "American Eagle Praises Amazon Shipping as Top Last-Mile Courier",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-16",
+    "summary": "Apparel retailer American Eagle Outfitters has integrated Amazon Shipping into its distribution network, establishing the service as a primary last-mile delivery partner. The partnership has proven successful due to specific operational features and high reliability standards provided by the carrier, enhancing the retailer's outbound logistics capabilities within the domestic market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amazon-shippings-parcel-delivery-delights-american-eagle-outfitters"
+  },
+  {
+    "headline": "Commercial Vehicle Inspections Sideline Trucks in Canada and Missouri",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Recent targeted regulatory enforcement operations conducted by law enforcement authorities in Canada and Missouri resulted in more than one hundred commercial trucks being taken out of service. Additionally, four commercial vehicle drivers were sidelined during these coordinated safety inspections. These actions highlight ongoing regional efforts to enforce compliance with transport regulations, commercial vehicle safety standards, and operational guidelines across North American freight corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/more-than-100-trucks-four-drivers-sidelined-in-recent-enforcement-actions"
+  },
+  {
+    "headline": "Maersk Prepares Massive 40-Ship Fleet Expansion Order",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Industry reports indicate that Danish shipping giant Maersk is preparing a substantial vessel procurement initiative that could potentially double its current orderbook pipeline. Market analysts observe that the carrier has shown significant activity within the charter market recently. This aggressive pursuit of additional maritime capacity is driven by the urgent need to maintain service coverage, specifically to compensate for chartered vessels reaching their scheduled redelivery dates as the company navigates ongoing fleet management demands.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/maersk-on-cusp-of-doubling-orderbook-with-40-ship-mega-newbuild-spree/"
+  },
+  {
+    "headline": "CMA CGM Declares General Average After Container Ship Fire",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Carrier CMA CGM has invoked General Average for the vessel CMA CGM Petra following a container fire that broke out in late August during a voyage from Singapore to Colombo. The ship's crew successfully managed the initial blaze without casualties before professional salvors intervened near Penang. The vessel was later towed to a secure location for further assessment and repairs, triggering complex financial and legal responsibilities for all cargo owners involved in the voyage.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/general-average-declared-on-cma-cgm-petra-as-maersk-wins-13m-fire-case/"
+  },
+  {
+    "headline": "Maersk Becomes Top Intra-Asia Carrier by Capacity",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Maersk has surpassed Cosco to secure the leading position in deployed container shipping capacity within the intra-Asia market. Market data indicates that regional trade capacity experienced a 6.2 percent year-over-year increase, reaching nearly 2.6 million TEUs. This growth rate outpaces the broader global container fleet expansion of over five percent during the same timeframe, highlighting heightened competition and continued expansion across the regional trade corridor.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/maersk-overtakes-cosco-to-top-intra-asia-capacity-rankings/"
+  },
+  {
+    "headline": "South Korea Arctic shipping plan falters over costs and volume",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "South Korea faces setbacks in its initiative to establish regular container shipping services along the Northern Sea Route by the end of the decade. Despite financial incentives offered by the Ministry of Oceans and Fisheries to support the construction of ice-class vessels in domestic shipyards, local maritime companies remain hesitant. Persistent economic hurdles, including prohibitive operating expenses and insufficient cargo volumes, have stalled progress toward creating a faster maritime trade corridor linking the nation to European markets.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/south-koreas-arctic-shipping-ambitions-on-ice-due-to-high-costs-and-low-volumes/"
   },
   {
     "headline": "EU tightens the customs paperwork on imported steel",
@@ -20,16 +130,6 @@
     "sourceUrl": "https://www.maersk.com/news/articles/2026/09/09/europe-market-update-september"
   },
   {
-    "headline": "China's factory activity cools to the flatline",
-    "continent": "Asia",
-    "country": "China",
-    "category": "manufacturing",
-    "date": "2026-06-02",
-    "summary": "China's official manufacturing purchasing managers' index slipped to 50.0 in May, the line between expansion and contraction, signaling that factory output is barely growing. The reading adds to a run of soft data out of Chinese manufacturing this year and is being watched closely by planners elsewhere in Asia, since a slowdown in China's factory base tends to ripple into component and raw-material orders across the wider region. Analysts see manufacturers leaning harder into lean scheduling to protect margins rather than chase volume.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
-  },
-  {
     "headline": "Panama Canal squeeze pushes carriers toward Suez and the Cape",
     "continent": "North America",
     "country": "Panama",
@@ -40,92 +140,22 @@
     "sourceUrl": "https://www.intelligentaudit.com/blog/ia-insights-september-8-2026"
   },
   {
-    "headline": "Mundra Port standoff hits landside logistics",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-09-07",
-    "summary": "A dispute between Adani Ports and the trucking and warehousing firms that move containers out of India's Mundra Port has escalated, disrupting cargo flow off the terminal. Mundra is India's largest private port and a key gateway for inland-bound containers, so any slowdown ripples through the country's import and export chains, adding to congestion pressure already building from monsoon weather and knock-on delays from typhoons elsewhere in Asia.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/"
-  },
-  {
-    "headline": "USPS shifts more mail onto air cargo as costs climb",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-08-13",
-    "summary": "The US Postal Service moved a larger share of its volume onto air cargo, much of it handled by UPS, pushing its transportation costs higher year over year in the most recent quarter. The agency's inspector general says USPS still sees room to compete on dynamic routing against dedicated parcel carriers, even as it works through a broader reorganization intended to speed decisions across its middle-mile transportation network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/topic/logistics/"
-  },
-  {
-    "headline": "DHL folds its global business under a new parent, DHL AG",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-09-01",
-    "summary": "DHL Group has completed a corporate restructuring that places its worldwide operations under a new parent entity, DHL AG. The reorganization is designed to streamline how the group governs its logistics, freight forwarding and express divisions globally, and comes as the company keeps expanding its footprint across express delivery and contract logistics in fast-growing markets.",
-    "sourceName": "Asia Cargo News",
-    "sourceUrl": "https://www.asiacargonews.com/en/News/Main/?cat_id=10"
-  },
-  {
-    "headline": "Typhoons back up four Chinese port hubs at once",
-    "continent": "Asia",
-    "country": "China",
-    "category": "storage_distribution",
-    "date": "2026-09-02",
-    "summary": "A run of typhoons swept through Shanghai, Ningbo, Yantian and Hong Kong within days of each other, leaving an estimated 400,000 containers stuck waiting for clearance. Shekou and Yantian remain under gate-in restrictions while terminals work through the backlog, and forwarders expect the congestion to stretch into September. The disruption lands during peak pre-Golden Week shipping season, straining already-tight vessel space toward Europe and North America and pushing carriers to layer on extra surcharges.",
-    "sourceName": "Dimerco Asia Pac Freight Report",
-    "sourceUrl": "https://dimerco.com/news-press/asia-pac-freight-report-september-2026/"
-  },
-  {
-    "headline": "A third of the world's busiest ports face high disruption risk",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-08-28",
-    "summary": "A new risk assessment from Verisk Maplecroft finds that roughly one in three of the world's busiest ports and airports face elevated risk of disruption from armed conflict, extreme weather or political instability. The report is a reminder that physical distribution networks stay concentrated around a small number of chokepoints, and that resilience planning increasingly has to weigh climate and geopolitical risk together rather than as separate categories.",
-    "sourceName": "Supply Chain 24/7",
-    "sourceUrl": "https://www.supplychain247.com/topic/category/news"
-  },
-  {
-    "headline": "Amazon opens a Shanghai warehouse to speed Chinese sellers into the US",
-    "continent": "Asia",
-    "country": "China",
-    "category": "storage_distribution",
-    "date": "2026-08-20",
-    "summary": "Amazon has opened a new warehouse near Shanghai designed to help Chinese third-party sellers consolidate and move inventory into its US fulfillment network more quickly and cheaply. The facility shortens the first leg of a journey that typically ends in an American fulfillment center, part of a broader push by Amazon to tighten the pipeline between Chinese manufacturing and US shelves as sellers navigate shifting tariff rules.",
-    "sourceName": "Supply Chain 24/7",
-    "sourceUrl": "https://www.supplychain247.com/topic/category/news"
-  },
-  {
-    "headline": "Generic drug imports from the EU lose their tariff shield",
-    "continent": "Europe",
-    "country": "European Union",
-    "category": "international_relations",
-    "date": "2026-09-01",
-    "summary": "From 1 September, generic medicines, their active ingredients and chemical precursors shipped from the EU to the US move off the negotiated 15% tariff ceiling and onto standard most-favored-nation rates, ending a protection that still applies to branded pharma. The change is one of two phased steps written into the EU-US trade framework, and comes as Washington separately threatens tariffs as high as 100% on branded drug imports from firms that haven't committed to US manufacturing.",
-    "sourceName": "Tariffs Tool",
-    "sourceUrl": "https://www.tariffstool.com/guides/eu-us-trade-deal-15-percent-tariff-live"
-  },
-  {
-    "headline": "China opens a $10 billion canal that redraws ASEAN trade routes",
-    "continent": "Asia",
-    "country": "China",
-    "category": "international_relations",
-    "date": "2026-09-05",
-    "summary": "China has opened a new $10 billion canal that shortens shipping distances between its southern provinces and Southeast Asia, giving Beijing a fresh lever in shaping regional trade flows. The project strengthens China's position along routes tied to its Belt and Road ambitions and is expected to pull some volume away from existing ports, prompting ASEAN economies to reassess their own logistics investments and hub strategies in response.",
-    "sourceName": "Value Chain Asia",
-    "sourceUrl": "https://valuechainasia.com/articles/all"
-  },
-  {
     "headline": "Hapag-Lloyd edges closer to buying Israel's Zim",
     "continent": "Middle East",
     "country": "Israel",
     "category": "international_relations",
     "date": "2026-09-08",
     "summary": "German carrier Hapag-Lloyd looks set to complete its long-pursued acquisition of Zim, the Israeli shipping line, after the Israeli government signaled it would allow the deal to proceed. A successful purchase would be one of the more significant consolidation moves in container shipping this year, folding an established Middle East carrier into one of Europe's largest lines and reshaping capacity on trades that connect the region to Asia and North America.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/"
+  },
+  {
+    "headline": "Mundra Port standoff hits landside logistics",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-09-07",
+    "summary": "A dispute between Adani Ports and the trucking and warehousing firms that move containers out of India's Mundra Port has escalated, disrupting cargo flow off the terminal. Mundra is India's largest private port and a key gateway for inland-bound containers, so any slowdown ripples through the country's import and export chains, adding to congestion pressure already building from monsoon weather and knock-on delays from typhoons elsewhere in Asia.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/"
   },
@@ -140,24 +170,14 @@
     "sourceUrl": "https://theloadstar.com/"
   },
   {
-    "headline": "EU push for new free-trade deals counters rising US tariffs",
-    "continent": "Europe",
-    "country": "European Union",
+    "headline": "China opens a $10 billion canal that redraws ASEAN trade routes",
+    "continent": "Asia",
+    "country": "China",
     "category": "international_relations",
-    "date": "2026-08-10",
-    "summary": "With Middle East shipping disruptions and elevated US tariffs squeezing European trade, the EU is leaning harder into new free-trade agreements, including deals with India and the Mercosur bloc in South America, to open alternative markets and sourcing options. The strategy reflects a broader European effort to diversify away from reliance on any single trading partner, giving multinationals operating in Europe more room to rethink where they source and sell.",
-    "sourceName": "Oxford Economics",
-    "sourceUrl": "https://www.oxfordeconomics.com/trade/"
-  },
-  {
-    "headline": "Washington's tariff push takes aim at generic drug supply chains",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-08-15",
-    "summary": "The US administration is preparing tariffs targeting generic medicines, a corner of the pharmaceutical industry with an unusually complex, cost-sensitive global supply chain built on thin margins. Because generics rely heavily on active ingredients sourced from a handful of manufacturing hubs, procurement teams warn that added tariffs could squeeze supply and push up prices for widely used medicines faster than for branded drugs, which have more room to absorb the cost.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
+    "date": "2026-09-05",
+    "summary": "China has opened a new $10 billion canal that shortens shipping distances between its southern provinces and Southeast Asia, giving Beijing a fresh lever in shaping regional trade flows. The project strengthens China's position along routes tied to its Belt and Road ambitions and is expected to pull some volume away from existing ports, prompting ASEAN economies to reassess their own logistics investments and hub strategies in response.",
+    "sourceName": "Value Chain Asia",
+    "sourceUrl": "https://valuechainasia.com/articles/all"
   },
   {
     "headline": "Thailand pulls in $30 billion as manufacturers pick their ASEAN base",
@@ -170,14 +190,44 @@
     "sourceUrl": "https://valuechainasia.com/articles/all"
   },
   {
-    "headline": "Morgan Stanley commits $200 billion to sustainability investment",
-    "continent": "North America",
-    "country": "United States",
-    "category": "sustainability",
-    "date": "2026-05-20",
-    "summary": "Morgan Stanley says it will invest $200 billion in sustainability-focused companies and projects while pulling back some financing tied to fossil fuels, a move that follows internal criticism over the bank's climate record. The shift matters for supply chain teams because banks increasingly influence which capital projects, including greener freight, packaging and manufacturing investments, get funded, and a major lender leaning further into sustainability financing can make climate-linked upgrades cheaper for suppliers to justify.",
-    "sourceName": "Supply Chain Digest",
-    "sourceUrl": "https://www.scdigest.com/"
+    "headline": "Typhoons back up four Chinese port hubs at once",
+    "continent": "Asia",
+    "country": "China",
+    "category": "storage_distribution",
+    "date": "2026-09-02",
+    "summary": "A run of typhoons swept through Shanghai, Ningbo, Yantian and Hong Kong within days of each other, leaving an estimated 400,000 containers stuck waiting for clearance. Shekou and Yantian remain under gate-in restrictions while terminals work through the backlog, and forwarders expect the congestion to stretch into September. The disruption lands during peak pre-Golden Week shipping season, straining already-tight vessel space toward Europe and North America and pushing carriers to layer on extra surcharges.",
+    "sourceName": "Dimerco Asia Pac Freight Report",
+    "sourceUrl": "https://dimerco.com/news-press/asia-pac-freight-report-september-2026/"
+  },
+  {
+    "headline": "DHL folds its global business under a new parent, DHL AG",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-09-01",
+    "summary": "DHL Group has completed a corporate restructuring that places its worldwide operations under a new parent entity, DHL AG. The reorganization is designed to streamline how the group governs its logistics, freight forwarding and express divisions globally, and comes as the company keeps expanding its footprint across express delivery and contract logistics in fast-growing markets.",
+    "sourceName": "Asia Cargo News",
+    "sourceUrl": "https://www.asiacargonews.com/en/News/Main/?cat_id=10"
+  },
+  {
+    "headline": "Generic drug imports from the EU lose their tariff shield",
+    "continent": "Europe",
+    "country": "European Union",
+    "category": "international_relations",
+    "date": "2026-09-01",
+    "summary": "From 1 September, generic medicines, their active ingredients and chemical precursors shipped from the EU to the US move off the negotiated 15% tariff ceiling and onto standard most-favored-nation rates, ending a protection that still applies to branded pharma. The change is one of two phased steps written into the EU-US trade framework, and comes as Washington separately threatens tariffs as high as 100% on branded drug imports from firms that haven't committed to US manufacturing.",
+    "sourceName": "Tariffs Tool",
+    "sourceUrl": "https://www.tariffstool.com/guides/eu-us-trade-deal-15-percent-tariff-live"
+  },
+  {
+    "headline": "A third of the world's busiest ports face high disruption risk",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-08-28",
+    "summary": "A new risk assessment from Verisk Maplecroft finds that roughly one in three of the world's busiest ports and airports face elevated risk of disruption from armed conflict, extreme weather or political instability. The report is a reminder that physical distribution networks stay concentrated around a small number of chokepoints, and that resilience planning increasingly has to weigh climate and geopolitical risk together rather than as separate categories.",
+    "sourceName": "Supply Chain 24/7",
+    "sourceUrl": "https://www.supplychain247.com/topic/category/news"
   },
   {
     "headline": "AI is moving from back-office reports to live supplier and customer calls",
@@ -188,5 +238,75 @@
     "summary": "Manufacturers are increasingly using AI-driven orchestration tools to manage live decisions about tariffs, nearshoring and which supplier or customer order gets priority when capacity is tight. Kinaxis says the shift marks a move away from AI as a static reporting layer toward something closer to a real-time control tower, helping account teams answer customer questions about delivery dates with more confidence during a volatile trade environment.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
+  },
+  {
+    "headline": "Amazon opens a Shanghai warehouse to speed Chinese sellers into the US",
+    "continent": "Asia",
+    "country": "China",
+    "category": "storage_distribution",
+    "date": "2026-08-20",
+    "summary": "Amazon has opened a new warehouse near Shanghai designed to help Chinese third-party sellers consolidate and move inventory into its US fulfillment network more quickly and cheaply. The facility shortens the first leg of a journey that typically ends in an American fulfillment center, part of a broader push by Amazon to tighten the pipeline between Chinese manufacturing and US shelves as sellers navigate shifting tariff rules.",
+    "sourceName": "Supply Chain 24/7",
+    "sourceUrl": "https://www.supplychain247.com/topic/category/news"
+  },
+  {
+    "headline": "Washington's tariff push takes aim at generic drug supply chains",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-08-15",
+    "summary": "The US administration is preparing tariffs targeting generic medicines, a corner of the pharmaceutical industry with an unusually complex, cost-sensitive global supply chain built on thin margins. Because generics rely heavily on active ingredients sourced from a handful of manufacturing hubs, procurement teams warn that added tariffs could squeeze supply and push up prices for widely used medicines faster than for branded drugs, which have more room to absorb the cost.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
+  },
+  {
+    "headline": "USPS shifts more mail onto air cargo as costs climb",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-08-13",
+    "summary": "The US Postal Service moved a larger share of its volume onto air cargo, much of it handled by UPS, pushing its transportation costs higher year over year in the most recent quarter. The agency's inspector general says USPS still sees room to compete on dynamic routing against dedicated parcel carriers, even as it works through a broader reorganization intended to speed decisions across its middle-mile transportation network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/topic/logistics/"
+  },
+  {
+    "headline": "EU push for new free-trade deals counters rising US tariffs",
+    "continent": "Europe",
+    "country": "European Union",
+    "category": "international_relations",
+    "date": "2026-08-10",
+    "summary": "With Middle East shipping disruptions and elevated US tariffs squeezing European trade, the EU is leaning harder into new free-trade agreements, including deals with India and the Mercosur bloc in South America, to open alternative markets and sourcing options. The strategy reflects a broader European effort to diversify away from reliance on any single trading partner, giving multinationals operating in Europe more room to rethink where they source and sell.",
+    "sourceName": "Oxford Economics",
+    "sourceUrl": "https://www.oxfordeconomics.com/trade/"
+  },
+  {
+    "headline": "\"Volatility is the new normal,\" 2026 logistics report finds",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-06-15",
+    "summary": "The 2026 State of Logistics Report concludes that supply chain volatility has become a permanent operating condition rather than a temporary disruption, with U.S. logistics costs now running at $2.4 trillion, or 7.8% of GDP. The report argues that resilience needs to move from a reactive stance into core strategy, pushing companies to build flexibility into sourcing, inventory and transportation decisions rather than optimizing purely for cost, since the next shock is treated as a matter of when, not if.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
+  },
+  {
+    "headline": "China's factory activity cools to the flatline",
+    "continent": "Asia",
+    "country": "China",
+    "category": "manufacturing",
+    "date": "2026-06-02",
+    "summary": "China's official manufacturing purchasing managers' index slipped to 50.0 in May, the line between expansion and contraction, signaling that factory output is barely growing. The reading adds to a run of soft data out of Chinese manufacturing this year and is being watched closely by planners elsewhere in Asia, since a slowdown in China's factory base tends to ripple into component and raw-material orders across the wider region. Analysts see manufacturers leaning harder into lean scheduling to protect margins rather than chase volume.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
+  },
+  {
+    "headline": "Morgan Stanley commits $200 billion to sustainability investment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-05-20",
+    "summary": "Morgan Stanley says it will invest $200 billion in sustainability-focused companies and projects while pulling back some financing tied to fossil fuels, a move that follows internal criticism over the bank's climate record. The shift matters for supply chain teams because banks increasingly influence which capital projects, including greener freight, packaging and manufacturing investments, get funded, and a major lender leaning further into sustainability financing can make climate-linked upgrades cheaper for suppliers to justify.",
+    "sourceName": "Supply Chain Digest",
+    "sourceUrl": "https://www.scdigest.com/"
   }
 ]
