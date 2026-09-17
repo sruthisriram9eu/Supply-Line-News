@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Good Culture Appoints New COO to Optimize Supply Chain",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-16",
+    "summary": "Cottage cheese brand Good Culture has appointed Kirk Jensen as its chief operating officer to oversee manufacturing operations and supply chain infrastructure. The leadership change aims to enhance product availability and accelerate delivery times for retail partners.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/good-culture-names-coo-to-scale-supply-chain/830360/"
+  },
+  {
+    "headline": "Nebraska Troopers Recover Stolen Cargo Worth Quarter-Million",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "State troopers in Nebraska discovered a quarter-million dollars worth of stolen commercial speakers and other illicit merchandise inside a commercial semi-trailer during a traffic stop. The driver escaped the scene before apprehension. Law enforcement officials also uncovered fraudulent delivery documentation during the inspection. Subsequent investigations linked the recovered freight to cargo thefts originating in Illinois and New York. The incident highlights ongoing security vulnerabilities within interstate freight transportation and logistics networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trucker-flees-after-nebraska-troopers-find-250k-in-stolen-speakers"
+  },
+  {
+    "headline": "Intermodal Rail Delays Mount at Major U.S. Ports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Intermodal shipping containers bound for rail transport are experiencing worsening turnaround times at the busiest maritime gateways in the United States. This trend highlights ongoing strain within domestic freight networks and intermodal capacity constraints. Industry observers note that mounting congestion at these critical transfer points can ripple across broader domestic supply chains, impacting transit velocity and equipment availability for cargo owners moving goods inland from coastal terminals.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/container-delays-by-rail-increase-at-busiest-u-s-ports"
+  },
+  {
+    "headline": "Savannah Port Hits 1 Million TEU Milestone at Fiscal Year Start",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "The Port of Savannah in Georgia achieved strong cargo volume growth at the beginning of its fiscal year, crossing the one million TEU mark. This performance was maintained despite operational headwinds from severe weather events and ongoing navigational constraints in the Panama Canal region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/savannah-port-moves-1-million-teus-to-start-fiscal-year"
+  },
+  {
+    "headline": "J.B. Hunt Warns of Q3 Earnings Drop Due to Rising Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Transportation provider J.B. Hunt Transport Services announced that its third-quarter earnings are projected to decline between 5% and 10% compared to the previous period. The downward revision is driven by escalating expenses related to fuel and driver operations. Following the financial outlook disclosure, the company's stock experienced a significant twelve percent drop in market value.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/j-b-hunt-flags-q3-cost-pressures-shares-sink-12"
+  },
+  {
+    "headline": "ICE Operations Target Truck Drivers at Inspection Stations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "Federal authorities have arrested three individuals in separate enforcement actions at travel stops and weigh stations. The operations coincided with investigations into fraudulent commercial driver's license training facilities. These enforcement measures highlight increased scrutiny on commercial motor vehicle operators and compliance within the freight transport sector, potentially impacting driver availability and operational oversight across the logistics industry.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ice-targets-truck-drivers-at-travel-stops-and-inspection-checkpoints"
+  },
+  {
+    "headline": "Polish road haulage sector faces severe operational crisis",
+    "continent": "Europe",
+    "country": "Poland",
+    "category": "logistics",
+    "date": "2026-09-16",
+    "summary": "After experiencing rapid growth following European Union accession two decades ago, Poland's road freight industry now confronts severe financial strain. Local transport operators have captured a significant share of the European market, yet contemporary conditions have severely compressed profit margins to near zero. Industry leaders report immense economic pressure and uncertainty threatening the future viability of many commercial trucking enterprises across the country as they struggle to maintain operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/polish-road-haulage-success-story-hits-the-buffers/"
+  },
+  {
     "headline": "USPS Network Overhaul Delays Rural Deliveries",
     "continent": "North America",
     "country": "United States",
@@ -118,6 +188,106 @@
     "summary": "South Korea faces setbacks in its initiative to establish regular container shipping services along the Northern Sea Route by the end of the decade. Despite financial incentives offered by the Ministry of Oceans and Fisheries to support the construction of ice-class vessels in domestic shipyards, local maritime companies remain hesitant. Persistent economic hurdles, including prohibitive operating expenses and insufficient cargo volumes, have stalled progress toward creating a faster maritime trade corridor linking the nation to European markets.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/south-koreas-arctic-shipping-ambitions-on-ice-due-to-high-costs-and-low-volumes/"
+  },
+  {
+    "headline": "Burlington Expands Solar Power Across Warehouse Network",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-09-15",
+    "summary": "Discount retailer Burlington is integrating on-site solar power installations into its supply chain infrastructure. The green energy initiative includes upcoming distribution facilities located in Arizona and California, alongside an operational warehouse in Georgia. This move reflects the company's broader effort to incorporate sustainable energy practices within its physical logistics and warehousing network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/829942/"
+  },
+  {
+    "headline": "DHL Express launches new heavy air cargo service",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Logistics provider DHL Express has introduced a dedicated freight offering designed for heavy shipments weighing up to 6,000 pounds. The new capability is tailored for commercial clients operating in various industries, including the pharmaceutical sector and automotive manufacturing. By expanding its high-capacity transport options, the company aims to better accommodate oversized industrial freight requirements across its international shipping network, supporting time-sensitive and complex distribution needs for enterprise customers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/dhl-express-rolls-out-heavyweight-air-cargo-service/830311/"
+  },
+  {
+    "headline": "OnTrac Trials Capacity Tool to Reduce Delivery Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Regional delivery carrier OnTrac is currently pilot testing a new savings mechanism designed to utilize open network capacity and offer reduced shipping rates to customers. Led by CEO Mike Brown, the initiative represents a strategic shift toward a more customer-focused operational model, aiming to optimize asset utilization and improve value for shippers facing rising logistics expenses.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ontrac-aims-to-turn-available-capacity-into-lower-delivery-prices/830393/"
+  },
+  {
+    "headline": "Tesla Plans New Texas Distribution Center by 2028",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-15",
+    "summary": "The automotive manufacturer is preparing to develop a large distribution facility in Texas, according to recent state filings. The expansive property will cover over five hundred thousand square feet and represent an investment of more than one million dollars. Project timelines indicate the facility is scheduled to begin full operational activities by the conclusion of 2028, bolstering the company's regional fulfillment network and distribution capabilities in the American market.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/tesla-preps-14m-texas-distribution-center/830082/"
+  },
+  {
+    "headline": "McCain Foods Appoints New Chief Manufacturing Officer",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-09-15",
+    "summary": "Frozen food manufacturer McCain Foods has appointed a former PepsiCo supply chain executive to lead its global operations. Victoriano Perez Mies steps into the role of chief manufacturing and operations officer, taking charge of overseeing the company's end-to-end supply chain network. The leadership transition aims to optimize production efficiency and strengthen operational execution across the enterprise as the food producer navigates ongoing industry demands and capacity management challenges.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/mccain-foods-taps-pepsico-supply-chain-exec-to-head-operations/829776/"
+  },
+  {
+    "headline": "FMCSA Shuts Down CDL Schools Nationwide",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Federal regulators have executed an emergency shutdown targeting commercial driver's license training facilities across twenty states. The enforcement sweep, spearheaded by authorities in states including Texas, Pennsylvania, California, Florida, and Utah, aims to address compliance and safety issues within the commercial vehicle training sector. This nationwide action directly impacts the pipeline of new truck drivers entering the transportation workforce, potentially tightening driver availability for freight carriers and logistics operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-names-cdl-schools-swept-into-nationwide-emergency-shutdown"
+  },
+  {
+    "headline": "Shipium Launches AI Freight Audit Tool to Catch Billing Errors Early",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Shipium has introduced an automated freight auditing tool that replaces traditional retrospective invoice reviews with real-time shipment monitoring. Utilizing artificial intelligence agents and a digital twin framework, the system identifies misapplied rates, unexpected surcharges, and billing discrepancies before invoices are finalized. According to company leadership, early adopters are already leveraging this capability to prevent financial errors and streamline logistics cost management proactively.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/shipium-rethinks-freight-audit-as-forensics-not-archaeology"
+  },
+  {
+    "headline": "Hapag-Lloyd CEO Highlights Strong Demand Amid Regional Disruptions",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Container shipping demand has demonstrated unexpected resilience in the face of ongoing geopolitical tensions and tariff pressures. However, industry leaders warn that persistent uncertainty surrounding Middle East transit routes and elevated operational expenses continue to present significant challenges for the global maritime logistics sector. Extended voyages and altered pathways through the Red Sea region are driving up costs and straining capacity, creating a complex operating environment for carriers navigating these international trade lanes.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyd-ceo-cites-resilient-demand-but-sees-shipping-market-exposed-to-middle-east-disruption"
+  },
+  {
+    "headline": "New Spot Cargo Insurance Targets Freight Fraud and Theft",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Verified Carrier and MiKargo247 are collaborating to introduce spot cargo insurance tailored to combat sophisticated freight theft schemes. The new offering protects logistics brokers against rising threats such as fictitious pickups, fraudulent double brokering, and carrier identity theft. This partnership aims to mitigate financial risks within the freight transportation network by addressing vulnerabilities exploited by bad actors during the cargo movement process.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mikargo247-verified-carrier-launch-coverage-for-strategic-cargo-theft"
+  },
+  {
+    "headline": "OXEA Partners with Uber Freight for Transatlantic Logistics",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "Chemical producer OXEA has chosen Uber Freight to oversee its entire transportation network spanning the United States, Canada, Mexico, and Europe. This agreement involves utilizing digital freight management capabilities to streamline logistics operations and improve oversight across multiple international markets. By outsourcing transport management to a third-party platform, the chemical manufacturer aims to optimize its supply chain performance and freight execution in key regions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/oxea-taps-uber-freight-to-manage-north-american-european-logistics"
   },
   {
     "headline": "EU tightens the customs paperwork on imported steel",
