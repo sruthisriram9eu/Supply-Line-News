@@ -1,5 +1,35 @@
 [
   {
+    "headline": "CBP Expands IEEPA Tariff Processing and Refunds",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-17",
+    "summary": "Customs and Border Protection is scheduled to roll out updates to its international emergency economic powers act tariff processing system. Beginning in early October, the agency will permit certain fully liquidated import entries to qualify for financial reimbursements. This operational adjustment aims to streamline how adjustments and repayments are handled for affected shipments moving through border processing channels.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/cbp-to-expand-ieepa-tariff-processing-in-october/830618/"
+  },
+  {
+    "headline": "UNFI streamlines Midwest distribution and automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-17",
+    "summary": "Grocery wholesaler United Natural Foods is reducing its physical footprint by consolidating several Midwest facilities. This network reduction coincides with the deployment of lean daily management systems across forty-four distinct distribution centers. The operational adjustments aim to improve efficiency and leverage advanced automation technologies within their warehouse network. These combined initiatives reflect an ongoing effort to optimize supply chain operations and better manage distribution workflows.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/unfi-consolidates-midwest-facilities-to-leverage-automation/830616/"
+  },
+  {
+    "headline": "Estes Invests $56M to Expand Cross-Border and Offshore Logistics",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-17",
+    "summary": "Estes Express Lines has committed nearly $56 million to upgrade its terminal infrastructure, equipment, and network capacity. This capital expenditure is directed at strengthening freight operations across Canada, Mexico, Alaska, Hawaii, and Puerto Rico, aiming to enhance service reliability and expand the carrier's footprint in key non-contiguous and international shipping corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/estes-bets-56m-on-cross-border-offshore-freight-expansion"
+  },
+  {
     "headline": "US Rail Freight Experiences Rare Weekly Volume Decline",
     "continent": "North America",
     "country": "United States",
@@ -148,6 +178,16 @@
     "summary": "Turkish shipping companies Turkon Line and Arkas Line have upgraded their joint vessel-sharing service connecting West India and the Mediterranean through the Red Sea corridor. The carriers introduced a larger, LNG-fueled container ship with a capacity of 4,000 TEUs to the weekly loop to handle growing cargo volumes. This capacity enhancement follows a partnership with Concor, strengthening operational capabilities and service reliability as both carriers expand their presence in the emerging trade corridor between South Asia and the Mediterranean region.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/turkon-and-arkas-increase-india-mediterranean-offering-with-concor-collaboration/"
+  },
+  {
+    "headline": "US Manufacturing Growth Cools as Inflation Pressures Mount",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-16",
+    "summary": "Industrial production growth in the United States retreated from a four-year peak following accelerated price increases. Analysts note that consumer demand for manufactured products remains stable for the moment, but rising costs are expected to create future volatility in output levels and broader supply chain momentum.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-slows-from-4-year-high-as-prices-rise/830511/"
   },
   {
     "headline": "Good Culture Appoints New COO to Optimize Supply Chain",
