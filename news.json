@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Tesla Plans European Semi Deliveries by Late 2027",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Tesla has announced plans to introduce its electric Semi truck to the European market, scheduling regional demonstration events for the initial half of 2027. Following these trials, the manufacturer intends to begin fulfilling customer orders across Europe by the conclusion of that same year. This expansion timeline was outlined by the company's executive responsible for the commercial vehicle program, marking a significant step toward international deployment of the heavy-duty electric fleet.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-europe-delivery-timeline"
+  },
+  {
+    "headline": "Ocean Freight Rates Remain High Amid Strong US Demand",
+    "continent": "Global",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Ocean freight markets continue to experience tight capacity and elevated rates as seasonal shipping demand extends past typical peak periods. Robust American import volumes, combined with unfavorable weather events and strategic carrier capacity reductions, have prevented the anticipated post-peak market softening. Analysts report that September import figures are tracking roughly ten percent higher than the previous year, maintaining sustained pressure on global maritime logistics networks and keeping shipping costs elevated.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/no-post-peak-relief-for-ocean-freight-as-capacity-tightens/"
+  },
+  {
+    "headline": "FAA Grants Boeing 777F Exemption Amid Freighter Shortages",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "United States regulators have granted Boeing an exemption to continue producing the current 777 freighter model for an additional three years following the implementation of stricter fuel-efficiency standards. This regulatory relief comes as the cargo sector faces persistent capacity constraints and delays surrounding the development of newer aircraft models. The decision permits the production and certification of a limited number of these freighters into early the next decade, helping maintain manufacturing continuity and supporting global logistics networks struggling with limited heavy-lift aircraft availability.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/faa-gives-777f-three-year-lifeline-as-freighter-capacity-crunch-bites/"
+  },
+  {
+    "headline": "Hong Kong Unveils Five-Year Maritime Strategy for Port Modernization",
+    "continent": "Asia",
+    "country": "China",
+    "category": "storage_distribution",
+    "date": "2026-09-18",
+    "summary": "Hong Kong authorities have released a comprehensive maritime development roadmap extending to 2030, aimed at modernizing the Kwai Tsing Container Terminals through digital upgrades and eco-friendly initiatives. The strategy also introduces a revised dual ship registration system and expands local offerings in marine insurance and maritime financing. This policy push seeks to reinforce the territory's competitive standing as a premier global shipping hub amid evolving international supply chain demands.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hong-kong-bets-on-green-digital-ports-heres-why-it-needs-more/"
+  },
+  {
+    "headline": "New vessels expand capacity on Asia-Latin America trade lane",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Recent newbuilding deliveries are increasing vessel capacity on the maritime route connecting the Far East to the South America east coast. Shipping line MSC has integrated two newly delivered container vessels into its existing regional service lane. This addition reflects a broader trend of rising deliveries following a seasonal summer slowdown, as carriers continue to inject new tonnage into this specific trade corridor to accommodate shifting volume demands.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/strong-asia-latin-america-lane-continues-to-take-in-new-tonnage/"
+  },
+  {
+    "headline": "FedEx closes gap with rivals following major network restructuring",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Logistics provider FedEx has successfully narrowed the performance gap with key competitors through a comprehensive restructuring initiative. The company executed a freight business spin-off, consolidated its delivery network, and shifted its commercial strategy to prioritize higher-yield shipping volumes over lower-margin business. While financial analysts acknowledge these structural changes, opinions remain divided regarding the long-term durability of the resulting earnings power as the parcel delivery firm faces the next phase of its operational transformation.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/smaller-simpler-fedex-closes-ups-gap-it-gets-harder-now/"
+  },
+  {
+    "headline": "Asian Carriers Launch New India-East Africa Shipping Routes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Major container shipping lines are introducing two weekly maritime routes connecting western India to East Africa to accommodate growing trade volumes between the regions. This capacity expansion, driven by shifting global sourcing patterns, is led by prominent Asian carriers including Pacific International Lines, HMM, and Cosco. The new services are designed to provide exporters in India with increased cargo space and improved connectivity to the developing East African market as international supply chains continue to adapt.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/asian-carriers-target-india-east-africa-trade-with-new-dual-string-service-launch/"
+  },
+  {
+    "headline": "Abu Dhabi's L'Imad Eyes Stake in Cargo Carrier Atlas Air",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-18",
+    "summary": "Abu Dhabi state investor L'Imad Holding is reportedly exploring a potential equity stake acquisition in cargo airline Atlas Air Worldwide. Discussions remain in the preliminary stages, though market sources indicate the prospective deal could value the freighter operator at ten billion dollars or higher. This development provides private equity owner Apollo Global Management with a significant valuation benchmark for the air cargo business, even as negotiations continue to evolve without certainty of a final agreement.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/limads-atlas-air-interest-could-give-apollo-a-valuable-price-marker/"
+  },
+  {
     "headline": "Daimler Truck and Partners Address European Hydrogen Refueling Gaps",
     "continent": "Europe",
     "country": "Multiple",
