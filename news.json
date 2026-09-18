@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Daimler Truck and Partners Address European Hydrogen Refueling Gaps",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "During the IAA Transportation event, eight major industry participants formed an alliance to tackle the inadequate infrastructure for hydrogen-powered long-haul freight in Europe. Currently, the continent features a limited network of refuelling stations, many of which fail to provide the correct pressure specifications required for heavy-duty commercial transport. Concurrently, Daimler Truck showcased its next-generation hydrogen technology, highlighting the pressing need for coordinated infrastructure development to support zero-emission logistics and enable broader commercial adoption of hydrogen fuel cell trucks across the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/daimler-nextgenh2-hydrogen-ecosystem-iaa"
+  },
+  {
     "headline": "CBP Expands IEEPA Tariff Processing and Refunds",
     "continent": "North America",
     "country": "United States",
@@ -378,6 +388,16 @@
     "summary": "South Korea faces setbacks in its initiative to establish regular container shipping services along the Northern Sea Route by the end of the decade. Despite financial incentives offered by the Ministry of Oceans and Fisheries to support the construction of ice-class vessels in domestic shipyards, local maritime companies remain hesitant. Persistent economic hurdles, including prohibitive operating expenses and insufficient cargo volumes, have stalled progress toward creating a faster maritime trade corridor linking the nation to European markets.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/south-koreas-arctic-shipping-ambitions-on-ice-due-to-high-costs-and-low-volumes/"
+  },
+  {
+    "headline": "US Diesel Benchmark and Futures Hit Record Highs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-15",
+    "summary": "The national average diesel price utilized for calculating standard fuel surcharges has reached an unprecedented peak. Simultaneously, corresponding futures contracts have climbed to record levels, driving up operational expenses for fleet operators and freight carriers across the transportation sector. This significant fuel cost escalation directly impacts logistics expenses throughout the distribution network, placing additional financial pressure on carriers that rely heavily on fuel surcharge adjustments to manage volatile energy markets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/doe-eia-price-at-record-as-diesel-surge-shows-no-sign-of-retreat"
   },
   {
     "headline": "US Container Imports Rise 3.8% to Reach 2.6 Million TEUs",
