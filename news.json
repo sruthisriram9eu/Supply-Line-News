@@ -1,5 +1,105 @@
 [
   {
+    "headline": "TJX distribution model mitigates supply chain disruptions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-18",
+    "summary": "During a quarterly earnings call, the chief executive of TJX explained that the company's fulfillment network is structured to buffer against weather-related disruptions. By utilizing a strategy that retains inventory within distribution centers rather than shipping merchandise directly to retail outlets, the off-price retailer maintains greater flexibility. This operational approach allows the company to better navigate external challenges such as El Nino weather patterns, ensuring steady product availability across its store network despite potential transport hurdles.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/tjx-ceo-distribution-model-will-help-weather-el-nino/830665/"
+  },
+  {
+    "headline": "National diesel fuel prices climb past $6.28 per gallon",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Fuel costs for commercial transport across the country have experienced another substantial increase, pushing the national average to unprecedented levels. This escalation places mounting cost pressures on freight operators, logistics providers, and shipping companies, which will likely translate into higher operational expenses for moving goods. The ongoing surge in fuel prices reflects broader energy market volatility, directly impacting bottom lines throughout domestic supply chain and distribution networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/diesel-prices-surge-past-628-per-gallon/830541/"
+  },
+  {
+    "headline": "Target Highlights Supplier Renewable Energy in Scope 3 Strategy",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-09-18",
+    "summary": "Retailer Target identifies upstream supplier energy transitions as the primary driver for shrinking its Scope 3 greenhouse gas footprint. Initiatives such as the Forward Renew program, developed alongside Schneider Electric, represent critical steps toward engaging vendor networks in sustainable practices and decarbonizing the broader supply chain ecosystem. These collaborative efforts focus on expanding access to renewable power sources across manufacturing and distribution operations to meet long-term corporate climate targets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/target-supplier-energy-transitions-key-for-scope-3-reductions/830681/"
+  },
+  {
+    "headline": "Asia-US container shipping spot rates surge past $11,000",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Ocean freight shipping rates moving from Asia to the United States have experienced a dramatic climb, surpassing eleven thousand dollars per container. Data from Xeneta indicates that spot prices have expanded by over three hundred and twenty percent since the end of February, pushing current transportation expenses close to the historic peaks witnessed during the global pandemic. This significant market escalation highlights ongoing cost pressures and capacity constraints within major transpacific trade corridors, impacting cargo owners and logistics operations globally.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/asia-us-container-rates-soar-past-11000-near-pandemic-records"
+  },
+  {
+    "headline": "Fuel Tanker Trucks Granted Hours of Service Waiver",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Motor carriers transporting petroleum fuels have been granted a three-month regulatory exemption by the Federal Motor Carrier Safety Administration. This decision temporarily relieves fuel-hauling drivers from standard hours of service limits to maintain steady transport operations and prevent regional shortages. The temporary measure applies specifically to commercial vehicles engaged in the distribution of motor fuels, ensuring uninterrupted energy supply chains during the covered period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trucks-hauling-fuel-get-hos-waiver-for-3-months"
+  },
+  {
+    "headline": "Link Logistics Expands Portfolio with Four New Facilities",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-18",
+    "summary": "Link Logistics has recently expanded its operational footprint through the acquisition of a four-property industrial portfolio totaling 700,000 square feet. This strategic purchase includes last-mile warehouse facilities located in the Dallas-Fort Worth and Atlanta metropolitan areas. The investment enhances the company's regional distribution capabilities, supporting faster delivery times and growing e-commerce fulfillment demands in these key metropolitan freight markets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/link-logistics-buys-4-last-mile-facilities-in-dallas-fort-worth-atlanta"
+  },
+  {
+    "headline": "Cybersecurity risks threaten food supply chain operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Cybersecurity experts warn that digital attacks against food distributors can rapidly evolve into severe supply chain crises. During an industry conference panel, specialists highlighted how security breaches have the potential to cripple warehouse management systems, halt delivery fleets, disrupt customer ordering processes, and stall the physical flow of freight. Officials emphasized the urgent need for heightened digital preparedness across the sector to safeguard operational continuity and prevent widespread distribution bottlenecks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/food-distributors-warn-cyberattacks-can-quickly-become-supply-chain-disruptions"
+  },
+  {
+    "headline": "Union Pacific opposes rivals' trackage rights bids",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Union Pacific leadership has expressed strong opposition to competitor proposals seeking trackage rights over a potential combined rail network involving Union Pacific and Norfolk Southern. During an investor conference, the chief executive criticized the concept of surrendering rail infrastructure without clear business justification. This pushback follows recent moves by competing rail operators attempting to secure access across the unified system, highlighting ongoing competitive tensions and strategic maneuvering within the freight rail sector as major carriers navigate potential network integrations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/union-pacific-blasts-rival-railroads-trackage-rights-requests"
+  },
+  {
+    "headline": "Amazon Air Selects Airbus A330 as Future Freighter",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Amazon Air and its primary airline partner have designated the Airbus A330 as their upcoming cargo aircraft model. Despite this future fleet direction, the Boeing 767-300 continues to serve as the foundational workhorse for current air freight operations. This transition highlights a strategic shift in equipment planning for the retail giant's logistics network, even as legacy aircraft maintain their prominent operational role in the interim.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amazons-freighter-aircraft-of-the-future-is-the-airbus-a330"
+  },
+  {
+    "headline": "Transpacific container spot rates surge past $10,000",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "Container shipping prices on major trade lanes continue to move in opposite directions, with transpacific routes experiencing significant upward pressure while Asia-Europe rates decline. Drewry's World Container Index shows that shipping costs from Shanghai to New York have climbed past the ten-thousand-dollar threshold for a forty-foot container. This milestone marks the highest price point recorded for this specific corridor since mid-2022, driven by persistent market divergence over a seven-week period.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/transpacific-spot-rates-top-10000-as-asia-europe-slide-accelerates/"
+  },
+  {
     "headline": "Tesla Plans European Semi Deliveries by Late 2027",
     "continent": "Europe",
     "country": "Multiple",
