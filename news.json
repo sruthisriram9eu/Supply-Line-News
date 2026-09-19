@@ -1,5 +1,55 @@
 [
   {
+    "headline": "FedEx Implements Surcharges on US Imports for Peak Season",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "FedEx has announced new demand surcharges on international shipments entering the United States from regions including Canada, Europe, and China. These additional fees take effect ahead of the busy holiday shipping period, impacting parcel transport costs for businesses utilizing global supply chains. The carrier adjusts its pricing structure annually to manage network capacity and operational pressures during periods of heightened consumer demand.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fedex-levies-fees-on-us-imports-from-canada-europe-and-others/830797/"
+  },
+  {
+    "headline": "Moving BNSF Train Target of Burglary and Container Fire in California",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-18",
+    "summary": "A freight train traveling from Los Angeles to Chicago via BNSF was targeted by thieves while in motion through Riverside, resulting in a container catching fire. Local fire departments from Riverside and Colton responded quickly to put out the flames. Following the extinguishment of the fire, jurisdiction of the investigation was handed over to BNSF Police. This incident highlights ongoing security challenges for rail freight operations and the risks associated with cargo theft along major North American transportation corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/burglary-hits-moving-bnsf-train-as-container-catches-fire-in-riverside"
+  },
+  {
+    "headline": "US investigates diversion of F-35 parts to Hong Kong",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "category": "international_relations",
+    "date": "2026-09-18",
+    "summary": "American legislators and defense officials have launched an investigation into the unauthorized rerouting of sensitive military aircraft components. The parts, originally shipped from Australia toward the United States for maintenance, were intercepted or redirected to Hong Kong instead of reaching their intended destination. Authorities are currently working to locate the missing hardware and determine how the security breach occurred within the international transport and repair pipeline, raising concerns over the vulnerability of defense supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/federal-probe-into-diversion-of-f-35-parts-to-hong-kong"
+  },
+  {
+    "headline": "FleetCor and CEO Settle for $100 Million Over Fuel Card Fees",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-09-18",
+    "summary": "Payment solutions provider FleetCor, recently rebranded as Corpay, along with its chief executive officer, reached a settlement agreement totaling one hundred million dollars following judicial rulings that upheld Federal Trade Commission allegations regarding concealed fuel card charges. The resolution establishes a financial pool dedicated to compensating commercial clients who experienced monetary losses due to the deceptive fee structures. This concludes a significant regulatory dispute concerning business practices within the fleet management and logistics transaction sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fleetcor-ceo-agree-to-pay-100-million-over-hidden-fuel-card-fees"
+  },
+  {
+    "headline": "Costco Partners with DoorDash and Uber for Same-Day Delivery",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-18",
+    "summary": "Warehouse retail operator Costco is scaling up its same-day delivery capabilities by collaborating with third-party gig economy platforms including DoorDash, Uber, and Instagram. This initiative utilizes independent drivers to fulfill rapid customer orders, marking a strategic shift in the company's approach to last-mile logistics and consumer fulfillment operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/costco-expands-ultra-fast-delivery-through-doordash-uber"
+  },
+  {
     "headline": "TJX distribution model mitigates supply chain disruptions",
     "continent": "North America",
     "country": "United States",
