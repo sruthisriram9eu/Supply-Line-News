@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Supreme Court Ruling and Lipe Verdict Expose Freight Brokers to Litigation Risks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-21",
+    "summary": "Recent judicial decisions, highlighted by a massive financial judgment, have intensified legal exposure for freight brokers across the United States. While major industry players possess the scale to navigate shifting regulatory landscapes better than smaller competitors, they remain vulnerable to significant liability claims related to broker selection. Industry analysts warn that these evolving legal standards could drive up operational costs and force large logistics enterprises to reevaluate their risk management strategies.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/lipe-verdict-could-bring-legal-risks-to-chrw-and-rxo/"
+  },
+  {
+    "headline": "Transpacific Container Rates Surge Toward Pandemic Levels",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Container shipping spot rates moving from the Far East to the United States are climbing rapidly, nearing the historic peaks recorded throughout the pandemic era. Ocean carriers are aggressively expanding vessel capacity on eastbound routes to capture higher revenue amid escalating demand. Market analysts report that spot shipping prices for both the US west and east coasts have more than quadrupled since late February, driven by shifting maritime dynamics and regional shipping disruptions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/transpac-rates-close-in-on-covid-records-as-carriers-pile-in-capacity/"
+  },
+  {
+    "headline": "Long Beach CEO warns capacity limits loom despite record August volumes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "The Port of Long Beach reported a modest two percent year-over-year increase in August throughput, reaching 919,922 TEUs. Despite setting a new monthly record driven by rising import and export figures, port leadership cautioned that the surge stems from broader supply chain disruptions instead of genuine market growth. The executive team emphasized that looming economic headwinds and tightening operational capacity pose significant risks for upcoming freight movements, suggesting that the current high-volume period may introduce severe congestion challenges.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/record-long-beach-volumes-mask-trouble-ahead-as-capacity-tightens-warns-lb-boss/"
+  },
+  {
+    "headline": "Nanjing Port Launches Direct Container Service to North Africa",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Nanjing port is expanding its maritime capabilities beyond river operations by introducing a direct liner route to North Africa, operated by Cosco Shipping Lines. The new connection utilizes a large general cargo vessel, which departed from the Longtan Container terminal partially loaded. This development marks a significant upgrade for the facility, enhancing its international reach and integrating it more deeply into global trade networks by providing direct maritime access between Chinese inland manufacturing hubs and North African markets.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/nanjing-steps-up-deepsea-ambitions-with-direct-north-africa-service/"
+  },
+  {
+    "headline": "Mexico's Aviation Agency Faces Proposed 73% Budget Reduction",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-09-21",
+    "summary": "Mexican aviation companies and industry stakeholders are expressing deep concern over a proposed 73.3 percent funding reduction for the national civil aviation authority, AFAC, slated for the upcoming federal budget. Industry leaders warn that the drastic financial contraction could threaten the country's recently restored Category 1 aviation safety rating. Furthermore, stakeholders fear the funding shortfall will disrupt regulatory oversight and stall growth initiatives for domestic carriers, creating potential bottlenecks for regional air cargo and logistics networks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/mexican-aviation-alarmed-as-afac-faces-73-budget-cut/"
+  },
+  {
+    "headline": "EU Shippers Face €572M in Carbon Costs Amid Logistics Changes",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "European importers incurred over half a billion euros in extra expenses during the second quarter due to maritime carbon pricing regulations. Research indicates that container shipping routes utilizing specific ports, such as Felixstowe in the United Kingdom, can significantly lower compliance expenses tied to these environmental mandates. The data highlights how strategic port selection and voyage planning impact maritime shipping overhead as regulatory frameworks tighten across European waters.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/eu-shippers-face-e572m-ets-bill-but-felixstowe-calls-slash-exposure/"
+  },
+  {
     "headline": "Kuehne + Nagel and Amazon Establish Strategic Alliance",
     "continent": "Global",
     "country": "Multiple",
