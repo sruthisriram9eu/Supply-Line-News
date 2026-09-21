@@ -1,5 +1,95 @@
 [
   {
+    "headline": "US Agencies Investigate Suspected Cyberattacks on Vessels",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Federal authorities are investigating potential cyber threats targeting commercial ships approaching domestic ports. This inquiry highlights growing concerns regarding maritime security and the vulnerabilities within critical transport infrastructure. Law enforcement and defense agencies are collaborating to assess the scope of the incidents and secure critical supply chain entry points against future digital disruptions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fbi-coast-guard-probe-suspected-cyberattacks-on-ships-entering-us-waters/830774/"
+  },
+  {
+    "headline": "Mondelēz Appoints New Chief Procurement Officer Amid Cocoa Stabilization",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-09-21",
+    "summary": "Zakaria Dahkoun has stepped into the role of chief procurement officer at Mondelēz. Formerly serving as senior vice president of cocoa enterprise, Dahkoun assumed the position following improvements in supply security for the essential raw material. The leadership transition coincides with a period of stabilization within the global cocoa market, which has previously experienced severe volatility and sourcing challenges for major food manufacturers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/mondelez-names-new-chief-procurement-officer-as-cocoa-market-stabilizes/830791/"
+  },
+  {
+    "headline": "International Taps Sebastian Leger for Global Procurement",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-09-21",
+    "summary": "Truck and commercial vehicle manufacturer International has appointed automotive sourcing expert Sebastian Leger to direct its worldwide procurement operations. In this role, he will oversee overarching strategy and manage external supplier partnerships to support the company's manufacturing and production requirements.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/international-taps-automotive-sourcing-veteran-to-lead-procurement/830799/"
+  },
+  {
+    "headline": "Samsara Study Links Driver Risk Scores to Crash Rates",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "A recent analysis from Samsara reveals that a small fraction of commercial drivers represents nearly half of all fleet collisions. By examining driver risk profiles, fleet operators can pinpoint problematic behaviors and direct targeted coaching programs toward the highest-risk personnel. This data-driven strategy aims to improve road safety and optimize workforce management within transportation operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/samsara-report-finds-10-of-risk-ranked-drivers-account-for-47-of-crashes"
+  },
+  {
+    "headline": "Kuehne+Nagel Secures Global Amazon Data Center Logistics Deal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Global logistics provider Kuehne+Nagel has been awarded a major contract by Amazon to manage supply chain and freight operations supporting its worldwide data center development and operational activities. This agreement involves coordinating complex shipments and supply networks internationally to ensure timely delivery of necessary infrastructure components. The collaboration highlights the growing logistical demands driven by rapid expansion in cloud computing and digital infrastructure investments across multiple markets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/kuehnenagel-takes-logistics-lead-for-amazon-data-center-expansion"
+  },
+  {
+    "headline": "CBP Crackdown Threatens Cross-Border Freight Shipments",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-21",
+    "summary": "U.S. Customs and Border Protection is actively invalidating importer-of-record numbers that feature incorrect or missing data. This enforcement action places thousands of cross-border freight shipments in jeopardy of delays and disruptions at ports of entry. Importers must urgently review and correct their registration details to maintain compliance and ensure their goods continue to move across the border without regulatory interruptions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cbp-importer-crackdown-puts-thousands-of-cross-border-freight-shipments-at-risk"
+  },
+  {
+    "headline": "Old Dominion advances 4.9% rate increase schedule",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Less-than-truckload carrier Old Dominion Freight Line has advanced its planned 4.9 percent general rate increase to October fifth, moving the effective date up by a month compared to previous schedules. This adjustment marks the second consecutive year the company has accelerated its tariff rate adjustments. The move reflects a broader industry trend where logistics and freight operators are implementing price hikes earlier than traditional timelines to manage rising operational costs and market pressures.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/old-dominion-pulls-forward-4-9-gri-as-ltl-carriers-accelerate-rate-hikes"
+  },
+  {
+    "headline": "Canadian Transport Company Facing Foreign Worker Violations",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "A Canadian trucking firm faces official charges for alleged violations under provincial legislation governing foreign worker recruitment and immigration services. Authorities initiated the legal action following compliance investigations into the carrier's employment practices. This enforcement highlights ongoing regulatory scrutiny within the transportation sector regarding the treatment and recruitment of international labor forces.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/canadian-carrier-charged-over-alleged-foreign-worker-violations"
+  },
+  {
+    "headline": "Kuehne+Nagel and Amazon Form Strategic Partnership",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-09-21",
+    "summary": "Kuehne+Nagel has entered into a long-term strategic agreement with Amazon that includes a call option on shares. While Amazon frequently uses milestone-linked financial structures to strengthen commercial ties, this collaboration is distinct because Kuehne+Nagel functions as both a key service provider and a competitor in developing logistics capabilities. The arrangement raises questions about the future dynamic between the two companies as their operations increasingly overlap within the global freight and supply chain sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/up-in-the-air-kuehne-amazon-tie-up-leaves-questions-unanswered/"
+  },
+  {
     "headline": "Supreme Court Ruling and Lipe Verdict Expose Freight Brokers to Litigation Risks",
     "continent": "North America",
     "country": "United States",
