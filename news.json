@@ -1,5 +1,145 @@
 [
   {
+    "headline": "P.F. Chang's Extends Tech Partnership for Supply Chain",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-09-22",
+    "summary": "Restaurant operator P.F. Chang's has prolonged its technology agreement with ArrowStream to enhance inventory management and purchasing operations. The collaboration focuses on improving supply contract administration, tracking inventory levels, and gaining better visibility over procurement expenditures across its restaurant network. By maintaining this digital infrastructure, the company aims to optimize its restaurant-level supply chain performance and cost controls.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/pf-changs-renews-tech-partnership-to-sharpen-inventory-management-purch/830929/"
+  },
+  {
+    "headline": "Wegmans Invests $110M in Upstate New York Facility",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-22",
+    "summary": "Regional supermarket chain Wegmans is committing $110 million toward a new operational facility located in upstate New York. This infrastructure investment aims to centralize regional activities and decrease the company's reliance on external third-party service providers. By expanding its proprietary footprint, the grocer seeks to gain greater control over its internal distribution channels, improve inventory efficiency, and streamline overall operational workflows across its network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/wegmans-invests-110m-in-its-supply-chain/830887/"
+  },
+  {
+    "headline": "Tabi Connect and Kleinschmidt Partner for Automated Freight Quoting",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Tabi Connect and Kleinschmidt have established a partnership to integrate automated freight pricing tools with predictive capacity insights. This collaboration aims to assist logistics brokers by providing additional data points when determining rates and evaluating shipment quote requests, streamlining the overall pricing workflow within the transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tabi-connect-kleinschmidt-partner-to-automate-freight-quoting"
+  },
+  {
+    "headline": "Piston secures $15M for fuel payment network expansion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-09-22",
+    "summary": "Financial technology startup Piston has secured $15 million in Series A funding to scale its cardless fuel payment network across the United States. The capital will also support the integration of artificial intelligence capabilities designed to enhance fraud prevention measures and provide deeper analysis of operational spending for commercial fleets and logistics providers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/piston-raises-15m-to-expand-cardless-fuel-payments-network"
+  },
+  {
+    "headline": "New Alabama Inland Rail Terminal Boosts Freight Capacity",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-22",
+    "summary": "A new one hundred million dollar inland container terminal in Alabama will connect regional shippers directly to the Port of Mobile through CSX rail infrastructure. Designed to process sixty thousand twenty-foot equivalent units annually, this facility aims to streamline freight movement and enhance connectivity for central Alabama logistics operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-100m-inland-rail-terminal-will-handle-60000-teus-a-year"
+  },
+  {
+    "headline": "Thieves Steal Beef Cargo from Trailer in Philadelphia",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Unidentified perpetrators in Philadelphia targeted a parked commercial transport, cutting the hinges on a trailer to access the interior. The criminals successfully stole roughly half a pallet of Black Angus ribs. The stolen meat cargo was loaded into a Ford F-150 truck, which fled the scene accompanied by an unknown Jeep model acting as an escort. Local law enforcement is currently investigating the cargo theft incident.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/masked-thieves-cut-trailer-hinges-steal-black-angus-beef-in-philadelphia"
+  },
+  {
+    "headline": "DHL Delivery Drivers in Dallas Unionize with Teamsters",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Fifty-five delivery drivers working for two DHL Express subcontractors in the Dallas area have successfully organized and joined the Teamsters union, specifically Local 745. This move is part of a broader unionization push aimed at securing better workforce protections and benefits similar to those already held by thousands of other DHL Express union members across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/drivers-at-dhl-express-delivery-vendors-in-dallas-join-teamsters-union"
+  },
+  {
+    "headline": "Benchmark Diesel Reaches Record High",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "The primary benchmark price utilized for calculating fuel surcharges has surged by nearly two dollars per gallon compared to its level at the beginning of July. This significant increase heightens operating expenses for freight carriers and shippers alike. However, upcoming futures market indicators suggest that cost relief may soon materialize for the transportation sector as market conditions shift.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/benchmark-diesel-sets-new-record-futures-signaling-relief"
+  },
+  {
+    "headline": "Over a Dozen US Trucking Firms File for Bankruptcy",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "More than fifteen motor carriers operating within the United States have initiated bankruptcy proceedings since late August. This wave of financial distress highlights ongoing economic pressures facing domestic freight operators, including fluctuating demand, capacity imbalances, and rising operational costs that continue to impact the broader surface transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/16-trucking-companies-hit-bankruptcy-court-in-less-than-a-month"
+  },
+  {
+    "headline": "Low Rhine water levels restrict barge traffic in Europe",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Central European supply chains face mounting pressure as historically low water levels on the Rhine River severely disrupt commercial barge operations. The diminished river capacity has forced freight carriers to scale back shipments, transferring a heavier volume of goods onto ground transportation networks. This modal shift has triggered widespread logistical delays and driven up freight transportation expenses throughout Germany and neighboring regions, highlighting vulnerabilities in inland waterway logistics caused by environmental conditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/record-low-rhine-levels-choke-barge-traffic-stress-ground-transport"
+  },
+  {
+    "headline": "Tavio Expands Integration Platform into Freight Sector",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Following a merger of two human resources technology integration firms, Tavio is branching into the supply chain industry with a new software platform. The company has already secured Uber Freight as an early customer for its integration solutions. This move marks a strategic shift for the organization as it enters the logistics technology market to help companies streamline their freight operations and connect various enterprise systems.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tavio-supply-chain-integration-platform"
+  },
+  {
+    "headline": "Union Pacific and Norfolk Southern Merger Advances",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "The Surface Transportation Board has unanimously denied requests from opponents to dismiss the pending merger between Union Pacific Railroad and Norfolk Southern without a formal review. In addition, the carriers secured a labor agreement with SMART-MD to protect worker positions. These developments advance the carriers' plans to establish the nation's first transcontinental railroad network, intended to streamline freight transportation operations across the United States.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/union-pacific-norfolk-southern-combo-gains-additional-momentum/"
+  },
+  {
+    "headline": "Global Container Fleet Orderbook Reaches 45% Following Massive Orders",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "The global container fleet orderbook-to-fleet ratio has climbed to forty-five percent, driven by significant vessel acquisitions. Major ocean carriers recently confirmed substantial new construction commitments for ultra-large container ships. Maersk finalized firm contracts for twenty-six massive vessels, while French carrier CMA CGM also commissioned an additional series of ultra-large ships. According to industry analysts, this surge marks a new post-2009 peak for outstanding vessel construction orders within the global maritime shipping sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/maersk-mega-order-and-cma-cgm-push-containership-orderbook-ratio-above-45/"
+  },
+  {
+    "headline": "China-EU Ecommerce Air Cargo Volumes Decline Following New Fees",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Low-value retail shipments from China to the European Union experienced a sharp year-over-year drop of sixty-five percent in August, following a fifty-four percent decrease in July. This sustained contraction stems from regulatory adjustments, specifically a new per-item fee implemented recently. Meanwhile, outbound shipments to the United Kingdom faced milder declines during the same summer months. Industry analysts note that these regulatory shifts are significantly altering established air cargo distribution routes and freight demand patterns between Asian manufacturing hubs and European consumer markets.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/continued-china-europe-ecommerce-slump-exposes-shifting-air-cargo-flows/"
+  },
+  {
     "headline": "US Maritime Regulator Removes Time Limit on Carrier Fee Disputes",
     "continent": "North America",
     "country": "United States",
