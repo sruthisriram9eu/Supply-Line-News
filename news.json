@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Regulators Reject Shippers' Bid to Dismiss Railway Merger",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Trade groups representing chemical and agricultural shippers petitioned to halt a major railway merger, arguing the consolidation would stifle market competition and disadvantage transport users. However, federal regulators dismissed the dismissal requests, allowing the review process to proceed. Shippers remain concerned that reduced rail carrier options will lead to higher shipping rates and diminished service quality across the freight network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/up-ns-merger-stb-denies-shippers-calls-for-dismissal/830906/"
+  },
+  {
+    "headline": "Kodiak and PrePass Integrate Autonomous Trucks with Weigh Stations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Autonomous trucking developer Kodiak is partnering with PrePass to integrate its driverless heavy-duty vehicles with roadside inspection systems. Ahead of scheduled commercial highway runs without safety drivers by the end of the year, the technology aims to allow roadside inspectors to seamlessly clear unmanned cabs at weigh stations. This collaboration addresses regulatory and operational compliance hurdles for autonomous freight transport, ensuring that vehicles without human drivers can navigate mandatory inspection checkpoints without disrupting transit schedules or requiring physical intervention from drivers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/prepass-kodiak-driverless-truck-weigh-station-bypass"
+  },
+  {
+    "headline": "Global Diesel Supplies Fall 8% Amid Middle East and Russian Unrest",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Worldwide diesel inventories have dropped by eight percent due to geopolitical disruptions impacting Russian refineries and key shipping lanes in the Middle East. Although crude oil pricing remains relatively stable, the reduction in refined diesel output threatens to increase transportation and fuel expenditures for fleet operators and freight carriers globally. Energy analysts emphasize that monitoring these specific inventory metrics is crucial for logistics managers navigating escalating operational costs.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/diesel-supply-down-8-what-trucking-faces-next"
+  },
+  {
+    "headline": "FAA Relaxes Boeing 777 Emissions Rules to Ease Air Cargo Capacity",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "U.S. aviation regulators have reversed specific emissions standards for legacy Boeing 777 freighter aircraft. This regulatory adjustment aims to alleviate severe capacity constraints currently impacting the air freight sector, allowing operators greater flexibility in utilizing existing aircraft models to maintain and expand cargo flow as market demand fluctuates.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/u-s-emissions-rollback-on-boeing-777-freighter-helps-air-logistics"
+  },
+  {
     "headline": "US Agencies Investigate Suspected Cyberattacks on Vessels",
     "continent": "North America",
     "country": "United States",
