@@ -1,5 +1,45 @@
 [
   {
+    "headline": "US Maritime Regulator Removes Time Limit on Carrier Fee Disputes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-22",
+    "summary": "Ocean carriers operating in the United States face extended liability after federal regulators determined that certain cargo fee challenges lack a standard three-year limitation period. This regulatory stance impacts disputes concerning charges assessed since mid-2022, permitting stakeholders to contest financial penalties long after the transaction date. The agency's position creates ongoing uncertainty for ocean transport providers regarding historical billing practices and potential financial restitution claims from affected cargo owners and supply chain partners.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/fmc-leaves-carriers-facing-open-ended-exposure-to-charge-complaints/"
+  },
+  {
+    "headline": "Bangkokmax Charter Rates Jump 18% Amid Vessel Shortage",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Rental costs for Bangkokmax container ships have risen 18% over the past year, reaching nearly $32,000 per day. This increase is driven by expanding regional trade volumes alongside a limited supply of new vessels, as an absence of recent shipbuilding orders has resulted in only three new deliveries in 2026. Consequently, asset values have climbed, and recent fixtures indicate major carriers are paying even higher daily rates to secure mid-sized tonnage for operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/bangkokmax-charter-rates-jump-18-as-vessel-shortage-bites/"
+  },
+  {
+    "headline": "FedEx Announces 5.9% Rate Hike for 2027",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "FedEx has announced an average shipping rate increase of 5.9% set to take effect in early January 2027, marking the fourth consecutive year of matching increases at this percentage. This upcoming adjustment outpaces the current national inflation rate. While the headline figure suggests a moderate rise, industry analysis indicates that online retail shippers will experience significantly steeper cost increases due to restructuring and additional surcharges embedded within the new pricing schedule.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/fedex-5-9-rate-rise-masks-steeper-hikes-for-ecommerce-shippers/"
+  },
+  {
+    "headline": "DHL Expands Global Battery Logistics Infrastructure",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-09-22",
+    "summary": "Logistics provider DHL is scaling its worldwide battery transport network to support the rapidly growing electric vehicle and energy sectors. The upgraded integrated platform currently links over twenty facilities internationally, offering end-to-end transportation, manufacturing support, warehousing, and aftermarket solutions. This expansion aims to assist automakers, battery producers, and energy firms in managing complex supply chains driven by electrification trends across multiple regions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/dhl-ramps-up-battery-logistics-network-worldwide/"
+  },
+  {
     "headline": "FedEx Announces Upcoming 5.9% U.S. Shipping Rate Increase",
     "continent": "North America",
     "country": "United States",
