@@ -1,5 +1,125 @@
 [
   {
+    "headline": "Old Dominion Implements 4.9% General Rate Increase",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Less-than-truckload carrier Old Dominion has introduced a 4.9% rate hike affecting specific shipping services, set to take effect on October 5. This adjustment reflects ongoing cost pressures within the domestic freight and transportation sector, impacting shippers utilizing the carrier's network. Such general rate increases are commonly employed by logistics providers to offset rising operational expenses, including labor, equipment maintenance, and fuel costs, while maintaining service reliability across their distribution footprint.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/old-dominion-announces-49-general-rate-increase/830901/"
+  },
+  {
+    "headline": "Amazon Launches Direct Rail Service from LA to East Coast",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Amazon has rolled out a new direct rail shipping option designed to move inventory across the country from Los Angeles to the East Coast more rapidly than existing alternatives. The service, known as Standard Ocean Express, aims to accelerate domestic freight transit times for the company's supply chain network by streamlining long-distance cargo movement between major coastal hubs.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-debuts-direct-rail-service-for-los-angeles-to-east-coast-shipments/830836/"
+  },
+  {
+    "headline": "Tariff Policy Shifts Create Uncertainty Across Plastics Supply Chain",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-09-23",
+    "summary": "Recent trade tariff adjustments are generating significant confusion for companies operating within the plastics packaging and logistics sector. Industry experts note that the impact of these regulatory shifts varies widely depending on a firm's market scale and its degree of leverage over upstream and downstream partners. As businesses attempt to navigate these trade barriers, stakeholders are facing complex challenges related to cost management and sourcing continuity, highlighting the broader vulnerabilities inherent in specialized manufacturing networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/plastics-get-pulled-into-tariff-turmoil/830768/"
+  },
+  {
+    "headline": "Hurricane Polo Disrupts Mexican Pacific Ports",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Severe weather brought by Hurricane Polo is impacting maritime operations across several ports along the Pacific coast of Mexico, characterized by heavy precipitation and strong wind conditions. Despite the adverse weather events affecting regional transport infrastructure, major cargo ships are maintaining their operations at the Port of Manzanillo without reported closures. Authorities are monitoring the storm's progression to ensure shipping safety and mitigate potential supply chain bottlenecks in the area.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hurricane-polo-disrupts-mexican-pacific-ports-with-high-winds-heavy-rain"
+  },
+  {
+    "headline": "US Container Imports Drop 4.5% Following Tariff Implementation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-23",
+    "summary": "Recent trade data analyzed by Descartes reveals that United States containerized ocean imports experienced a 4.5 percent decline during the twelve-month period following the enactment of Liberation Day tariffs. This downturn highlights the measurable impact of trade policy shifts on international maritime freight volumes entering North American ports, reflecting broader adjustments in commercial sourcing and import demand patterns across the domestic market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-report-us-imports-fell-4-5-in-year-after-liberation-day-tariffs"
+  },
+  {
+    "headline": "Potential 2028 Labor Strikes Threaten Global Freight Networks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Supply chain operations face mounting uncertainty as major labor negotiations for both parcel carrier UPS and West Coast maritime ports are slated to happen simultaneously in 2028. The concurrent contract talks between unions and employers create a significant risk of synchronized strikes. If negotiations fail, the resulting disruptions could severely impact domestic and international freight movement, forcing businesses to reevaluate contingency plans years in advance to mitigate widespread logistical bottlenecks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dual-labor-shocks-in-2028-ups-west-coast-port-bargaining-to-overlap"
+  },
+  {
+    "headline": "Uber Freight Expands European Footprint With New Polish Hub",
+    "continent": "Europe",
+    "country": "Poland",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Uber Freight is committing significant financial resources to expand its presence in Europe by establishing a new operational facility and control tower in Poland. This multi-year investment aims to strengthen the company's regional logistics network and enhance service delivery across European markets. The new Krakow hub will serve as a central point for managing operations, reflecting growing corporate focus on scaling digital freight brokerage and transportation management capabilities internationally.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/uber-freight-makes-significant-multi-year-bet-on-europe-with-krakow-hub"
+  },
+  {
+    "headline": "Alvys Acquires LoadOps Customer Base from Optym",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Transportation management system provider Alvys has taken over the customer base for LoadOps following an agreement with Optym, which evaluated several software alternatives before selecting Alvys for the transition. Migration processes for the transferred users have already commenced. Meanwhile, Optym retained ownership of its LoadAi product. Financial terms of the transaction were not publicly disclosed. This consolidation impacts freight operators utilizing these specialized logistics platforms to manage their daily routing and operational workflows.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/alvys-acquires-optym-loadops-customers"
+  },
+  {
+    "headline": "Loblaw Deploys Automated Gate Technology at Flagship Facility",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "storage_distribution",
+    "date": "2026-09-23",
+    "summary": "Canadian retail giant Loblaw Companies is utilizing automated gate technology developed by EAIGLE at its premier distribution center. The facility was specifically constructed to integrate advanced operational innovations designed to streamline transportation workflows. By implementing this system at its primary logistics hub, the company aims to enhance efficiency across its extensive national supply chain network. The project represents a significant step in modernizing warehousing and transport infrastructure for one of the country's largest food distributors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/a-look-at-how-loblaw-and-eaigle-are-bringing-automated-gates-to-a-national-distribution-network"
+  },
+  {
+    "headline": "Federal Charges Filed in $600K Interstate Cargo Theft Ring",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Federal authorities have indicted three individuals in connection with two separate interstate cargo theft schemes totaling nearly $600,000. The investigations, which spanned multiple states throughout 2024, specifically targeted commercial freight operations as well as four rail shipments transported by CSX. The criminal cases highlight ongoing security vulnerabilities within domestic freight transportation networks, prompting increased federal scrutiny and enforcement efforts to combat organized cargo theft operations affecting major logistics hubs and rail corridors across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/federal-indictments-target-nearly-600k-in-interstate-cargo-theft-tied-to-memphis"
+  },
+  {
+    "headline": "Greenbrier Secures $600 Million in Railcar Orders",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-23",
+    "summary": "Manufacturer Greenbrier has registered thousands of additional railcar purchase commitments throughout the fourth fiscal quarter. The incoming orders bolster the company's manufacturing pipeline and reflect steady industrial demand for freight transport equipment. This influx of business highlights ongoing equipment investments by rail shippers and carriers aiming to expand or modernize their rolling stock fleets amid evolving supply chain requirements.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/greenbrier-racks-up-600-million-in-new-railcar-orders"
+  },
+  {
+    "headline": "Canada Shifts Freight and Sourcing to Europe Amid US Tariffs",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "international_relations",
+    "date": "2026-09-23",
+    "summary": "Escalating trade tensions and steep import duties imposed by the United States on Canadian goods are prompting Canadian importers to alter their supply chains. In response to these prohibitive tariffs and subsequent retaliatory measures, local businesses are actively establishing alternative trade routes and seeking new suppliers across the United Kingdom and the European Union to substitute goods previously sourced from the American market.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/canada-looks-to-eu-and-uk-to-replace-tariff-hit-us-shipments/"
+  },
+  {
     "headline": "Forwarders Urge Early Bookings on Europe-Latin America Trade",
     "continent": "Global",
     "country": "Multiple",
@@ -48,6 +168,16 @@
     "summary": "Singapore-based ocean carrier Pacific International Lines has announced that its chief executive will step down, initiating a six-month transition period. The outgoing leader will be succeeded by an executive currently holding a corporate strategy role at Temasek International, the parent organization owning the shipping line. The incoming chief executive will initially assume the role of deputy chief executive before fully taking over the top position. This upcoming shift marks a notable executive change for the carrier as it navigates its ongoing operational strategies under its current ownership.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/lars-karstrup-to-step-down-what-does-it-mean-for-singapores-pil/"
+  },
+  {
+    "headline": "Federal Reserve Increases Interest Rates to Combat Inflation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-22",
+    "summary": "The Federal Open Market Committee has elevated the federal funds target range by 25 basis points to a bracket between 3.75 percent and 4.00 percent. This adjustment marks the initial rate increase following a sequence of reductions. Officials attributed the policy shift to persistent inflationary pressures that remain above desired targets, a trend central bank leadership indicates must be addressed. Analysts suggest this monetary tightening cycle will directly impact borrowing costs and capital availability across the freight and transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-fed-just-raised-rates-again-heres-what-it-means-for-freight"
   },
   {
     "headline": "Extreme Heat Threatens Electronics Supply Chains",
