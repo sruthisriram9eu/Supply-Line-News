@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Extreme Heat Threatens Electronics Supply Chains",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-09-22",
+    "summary": "Electronics manufacturers are facing significant supply chain disruptions as extreme weather conditions impede factory productivity and slow down component deliveries. According to industry reports from the Global Electronics Association, rising temperatures are negatively impacting overall operational efficiency and straining vendor schedules across the sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/electronics-manufacturers-fret-over-extreme-heat-disruptions/830938/"
+  },
+  {
+    "headline": "Cargo.one highlights adoption of AI-generated freight quotes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Forwarding operations are increasingly automating freight quotation processes through artificial intelligence platforms. Most generated quotes are now dispatched without manual review, representing a significant shift from initial implementation phases where staff verified every transaction. Industry experts note that building operational trust in automated systems requires structured processes rather than passive time progression, mirroring standard workflow improvements within the logistics sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/how-a-team-learns-to-trust-a-quote-it-did-not-build/"
+  },
+  {
     "headline": "Coca-Cola Commits $10 Billion to US Production by 2030",
     "continent": "North America",
     "country": "United States",
@@ -218,6 +238,16 @@
     "summary": "Logistics provider DHL is scaling its worldwide battery transport network to support the rapidly growing electric vehicle and energy sectors. The upgraded integrated platform currently links over twenty facilities internationally, offering end-to-end transportation, manufacturing support, warehousing, and aftermarket solutions. This expansion aims to assist automakers, battery producers, and energy firms in managing complex supply chains driven by electrification trends across multiple regions.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/dhl-ramps-up-battery-logistics-network-worldwide/"
+  },
+  {
+    "headline": "Florida Troopers Recover Stolen Semi-Trucks and Cargo",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-21",
+    "summary": "Law enforcement in Florida successfully recovered two stolen semi-trucks along with their cargo consisting of automotive batteries and tires. Acting on a theft notification originating from Georgia, troopers located the missing vehicles within St. Johns County. During the operation, the operator of one of the transport vehicles managed to escape before being detained. Authorities have subsequently filed multiple grand theft charges in connection with the incident, highlighting ongoing challenges regarding cargo security and freight theft across state lines.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/florida-troopers-recover-2-stolen-semis-hauling-tires-and-batteries-driver-flees"
   },
   {
     "headline": "FedEx Announces Upcoming 5.9% U.S. Shipping Rate Increase",
