@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Coca-Cola Commits $10 Billion to US Production by 2030",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-22",
+    "summary": "The beverage manufacturer and its distribution partners are investing heavily to scale up domestic production and supply chain infrastructure in the United States over the decade. This multi-year initiative aims to strengthen the company's operational capacity within its primary consumer market by expanding manufacturing facilities and improving local distribution networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/coca-cola-to-spend-10b-on-us-manufacturing-by-2030/830535/"
+  },
+  {
+    "headline": "Container Shipping Schedule Reliability Drops in August",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Global container shipping reliability declined significantly in August, with only about one-third of vessels arriving on schedule. Performance has dropped toward levels last seen during the pandemic, driven primarily by ongoing transportation disruptions along the Far East to Europe trade routes. These schedule failures reflect broader instability within maritime logistics networks, impacting international trade flows and supply chain planning for businesses relying on ocean freight.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-report-just-a-third-of-container-shipping-on-time"
+  },
+  {
+    "headline": "US Regulators Advance Union Pacific and Norfolk Southern Merger Review",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-22",
+    "summary": "Federal transport authorities have declined preliminary requests to dismiss the proposed combination between Union Pacific and Norfolk Southern. Opposing parties sought a rapid rejection of the transaction, but the decision allows the formal regulatory review process to move forward. The evaluation will assess the potential impacts of uniting the two major rail networks on freight transport competition, industry logistics, and regional shipping operations across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/regulators-turn-down-requests-for-summary-denial-of-up-ns-merger"
+  },
+  {
+    "headline": "Delayed $23B CK Hutchison Port Acquisition Stalls",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-09-22",
+    "summary": "An eighteen-month delay continues to block a massive multi-billion-dollar transaction involving the transfer of numerous global marine terminals. The agreement, originally unveiled to shift ownership of forty-three port facilities spanning over twenty nations to an investment consortium, remains unresolved amid complex regulatory hurdles. The transaction had initially drawn cautious optimism from international observers regarding the future operational control of these critical maritime infrastructure assets, but obstacles have prevented its finalization.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hutchwatch-the-23bn-port-deal-that-nobody-can-close/"
+  },
+  {
     "headline": "P.F. Chang's Extends Tech Partnership for Supply Chain",
     "continent": "North America",
     "country": "United States",
