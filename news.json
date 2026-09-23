@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Forwarders Urge Early Bookings on Europe-Latin America Trade",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Supply chain intermediaries are advising cargo owners to secure transport bookings well in advance for shipping lanes connecting Europe and Latin America. Persistent equipment availability constraints and significant terminal congestion at ports on both ends of the route are driving the advisory. Despite these operational friction points and rising cargo volumes moving from Europe toward Latin America, maritime freight rates have not yet experienced upward pressure. Industry participants are closely monitoring these persistent logistical bottlenecks as trade volumes continue their steady upward trajectory.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/book-earlier-on-latam-europe-trades-as-disruptions-continue/"
+  },
+  {
+    "headline": "Uber Freight Expands European 4PL Operations and Hub",
+    "continent": "Europe",
+    "country": "Poland",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Uber Freight is scaling its fourth-party logistics capabilities across Europe by investing in technology, personnel, and a new control tower scheduled to open in Krakow next year. This strategic expansion comes as the traditional boundaries between third-party and fourth-party logistics providers continue to fade from the perspective of shippers. To support this growth, the company has also named a new leadership appointment to drive its regional logistics services forward.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/uber-freight-bets-on-european-4pl-services-as-distinction-with-3pl-blurs/"
+  },
+  {
+    "headline": "Major ocean carriers decrease reliance on chartered vessels",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Leading container shipping companies have significantly reduced their dependence on chartered ships following the pandemic-era freight boom. With record profits accumulated during that period, top ocean carriers heavily invested in acquiring newbuilds and second-hand tonnage to expand their owned fleets. Meanwhile, Zim remains a notable exception to this broader industry trend, maintaining a high reliance on chartered capacity compared to its major competitors who have systematically scaled back their leased vessel exposure over recent years.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/zim-the-outlier-as-top-carriers-slash-reliance-on-chartered-tonnage/"
+  },
+  {
+    "headline": "Transpacific container shipping rates to remain elevated",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Executives at Taiwanese ocean carrier Yang Ming indicate that container freight pricing across transpacific routes will likely maintain strength despite the onset of the typical fourth-quarter seasonal downturn. This resilience stems from ongoing operational challenges, including reduced vessel transit allowances through the Panama Canal, tight overall capacity, vessel bottlenecks at ports, and shifting import volumes across various United States entry points. These combined pressures are expected to keep pricing elevated for shippers moving cargo from Asia to North America.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/transpac-rates-set-to-stay-high-despite-slowdown-to-golden-week/"
+  },
+  {
+    "headline": "PIL Prepares for Leadership Transition as CEO Lars Kastrup Steps Down",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "strategy",
+    "date": "2026-09-23",
+    "summary": "Singapore-based ocean carrier Pacific International Lines has announced that its chief executive will step down, initiating a six-month transition period. The outgoing leader will be succeeded by an executive currently holding a corporate strategy role at Temasek International, the parent organization owning the shipping line. The incoming chief executive will initially assume the role of deputy chief executive before fully taking over the top position. This upcoming shift marks a notable executive change for the carrier as it navigates its ongoing operational strategies under its current ownership.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/lars-karstrup-to-step-down-what-does-it-mean-for-singapores-pil/"
+  },
+  {
     "headline": "Extreme Heat Threatens Electronics Supply Chains",
     "continent": "Global",
     "country": "Multiple",
@@ -238,6 +288,16 @@
     "summary": "Logistics provider DHL is scaling its worldwide battery transport network to support the rapidly growing electric vehicle and energy sectors. The upgraded integrated platform currently links over twenty facilities internationally, offering end-to-end transportation, manufacturing support, warehousing, and aftermarket solutions. This expansion aims to assist automakers, battery producers, and energy firms in managing complex supply chains driven by electrification trends across multiple regions.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/dhl-ramps-up-battery-logistics-network-worldwide/"
+  },
+  {
+    "headline": "Manufacturers Prioritize Resilience Over Cost in Facility Siting",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-21",
+    "summary": "Industrial site selection is undergoing a fundamental shift, with companies prioritizing supply chain resilience and risk mitigation over pure cost reduction. Industry experts report that manufacturers now evaluate a complex mix of factors when establishing new capacity, including local energy reliability, workforce availability, logistics access, geopolitical tariff exposure, border risks, and potential community pushback. This evolving strategy has given North America a competitive advantage as firms increasingly delay irreversible capital investments to better navigate global uncertainties and operational vulnerabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/site-selection-shift-cost-is-out-resilience-is-in"
   },
   {
     "headline": "Florida Troopers Recover Stolen Semi-Trucks and Cargo",
