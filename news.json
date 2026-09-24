@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Shippers pool demand to accelerate electric truck adoption",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "A coalition of major corporations, including Microsoft and PepsiCo, is leveraging aggregated purchasing power to secure sustainable freight transport at a lower cost, recently committing to an order of 2,500 heavy-duty electric vehicles. This collaborative procurement strategy aims to overcome cost barriers associated with fleet electrification, driving the transition toward lower-emission logistics operations and expanding the deployment of zero-emission commercial transport across supply chains.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/shippers-coalition-advances-class-8-electric-battery-truck-adoption/831160/"
+  },
+  {
+    "headline": "Regulator Criticizes Railroad Merger Proposal as Insufficient",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Rail freight volumes experienced a positive rebound across North America during the thirty-seventh week of the year, driven by increases in both carload and intermodal transport. Concurrently, regulatory oversight of a prominent railway consolidation proposal intensified. A newly appointed member of the Surface Transportation Board expressed unexpected reservations regarding the submission, characterizing the merger documentation as superficial and deficient in necessary detail. This scrutiny adds complexity to the ongoing regulatory evaluation process for the proposed industry combination.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stb-board-member-calls-major-railroad-merger-plan-shallow"
+  },
+  {
+    "headline": "Tesla Leads Record-Breaking Electric Class 8 Truck Order",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Tesla has secured the primary role in an unprecedented agreement for 2,500 electric Class 8 trucks, marking the largest commercial deployment of zero-emission heavy-duty vehicles in the United States so far. The heavy transport assets will be rolled out across ten major freight centers situated between Los Angeles and Newark. This initiative is expected to significantly accelerate the adoption of sustainable transportation and reduce carbon emissions within critical domestic freight corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-zet-scale-2500-truck-order"
+  },
+  {
+    "headline": "US Imposes Total Import Ban on Canadian Dairy, Alcohol, and Motorcycles",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "international_relations",
+    "date": "2026-09-23",
+    "summary": "Trade tensions between North American neighbors intensified as the United States implemented an absolute prohibition on specific Canadian goods, including alcoholic beverages, dairy products, and heavy motorcycles. This regulatory action represents a significant escalation beyond traditional trade tariffs, creating immediate disruptions for cross-border shipping networks and supply chain partners moving specialized goods between the two nations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/specialty-wine-and-car-parts"
+  },
+  {
+    "headline": "Parallel Systems launches expanded autonomous railcar tests",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Parallel Systems has advanced its battery-electric, autonomous container railcar technology into a second phase of commercial service testing. This initiative aims to evaluate the operational capabilities of self-steering rail vehicles designed to modernize freight movement and improve efficiency across rail networks. The extended trials mark a significant step toward commercial adoption, offering potential alternatives for intermodal freight transportation and terminal operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/next-phase-for-autonomous-railcar-technology-in-commercial-service-testing"
+  },
+  {
+    "headline": "Houston Freight Market Tightens Rapidly Amid Rising Rates",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "The freight market in Houston experienced a swift contraction, moving from loose conditions to become the second fastest-tightening market in a brief two-week span. This shift featured elevated tender rejection levels exceeding fourteen percent, rising spot rates, and high diesel fuel costs. Additionally, intermodal transport volumes showed resilience, while analysts began monitoring potential tropical storm threats that could introduce further disruptions to regional logistics and distribution networks in the near term.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/houston-freight-tightened-fast-no-2-in-2-weeks"
+  },
+  {
     "headline": "Old Dominion Implements 4.9% General Rate Increase",
     "continent": "North America",
     "country": "United States",
@@ -418,6 +478,16 @@
     "summary": "Logistics provider DHL is scaling its worldwide battery transport network to support the rapidly growing electric vehicle and energy sectors. The upgraded integrated platform currently links over twenty facilities internationally, offering end-to-end transportation, manufacturing support, warehousing, and aftermarket solutions. This expansion aims to assist automakers, battery producers, and energy firms in managing complex supply chains driven by electrification trends across multiple regions.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/dhl-ramps-up-battery-logistics-network-worldwide/"
+  },
+  {
+    "headline": "Overcoming Operational Hurdles in Yard Truck Automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-21",
+    "summary": "Autonomous yard trucks are transitioning into commercial deployment, but widespread implementation faces operational barriers rather than technological limitations. Fleet and facility modernization is currently slowed by integration challenges with existing yard management systems, along with requirements for process consistency, end-to-end visibility, and reliable remote supervision capabilities. Industry experts emphasize that successful adoption depends on organizational readiness and workflow adaptation rather than the maturity of the autonomous driving technology itself.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/yard-automation-is-here-whats-blocking-adoption"
   },
   {
     "headline": "Manufacturers Prioritize Resilience Over Cost in Facility Siting",
