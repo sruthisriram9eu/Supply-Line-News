@@ -1,5 +1,145 @@
 [
   {
+    "headline": "US and China Extend Trade War Truce Through January",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-09-24",
+    "summary": "The United States and China have agreed to prolong their existing trade agreement, keeping reduced tariff rates and suspended economic penalties in place until January 10. Treasury Secretary Scott Bessent announced the two-month extension, maintaining the current standstill in bilateral trade tensions. The arrangement preserves the temporary relief measures established last year, avoiding immediate tariff escalation between the two global economic powers while negotiations continue.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/us-china-to-extend-trade-war-truce-by-2-months/831251/"
+  },
+  {
+    "headline": "Amazon Introduces AI Supply Chain Agents for Sellers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-24",
+    "summary": "Amazon is rolling out artificial intelligence tools designed to assist marketplace merchants with inbound shipment planning and the management of older stock. These new capabilities form part of a broader corporate initiative aimed at simplifying international expansion for independent sellers utilizing the e-commerce platform. By automating complex logistical workflows, the technology seeks to optimize inventory positioning and streamline cross-border trade operations for businesses of varying sizes.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-ai-supply-chain-agents-among-seller-upgrades/831164/"
+  },
+  {
+    "headline": "Lowe's launches drone delivery pilot with Wing and DoorDash",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Home improvement retailer Lowe's has introduced an aerial delivery test in North Carolina through partnerships with Wing and DoorDash. The initial phase offers a catalog of more than 100 items from a single store location. Depending on the performance and customer response during this pilot phase, the retailer may scale the aerial fulfillment program to additional stores in the future, enhancing last-mile delivery speed for common home improvement goods.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/lowes-debuts-drone-delivery-pilot-with-wing-doordash/831162/"
+  },
+  {
+    "headline": "Small and Midsize Businesses Diversify Sourcing Beyond China",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-09-24",
+    "summary": "Recent data indicates that smaller enterprises are actively broadening their procurement networks to mitigate rising delivery delays associated with Chinese suppliers. Companies are seeking alternative geographic partners to stabilize their supply chains and reduce vulnerability to ongoing lead-time volatility. This strategic shift reflects a broader trend toward supplier diversification as organizations adapt to persistent operational uncertainties in international trade.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/china-lead-time-concerns-surge-as-shippers-widen-global-sourcing-networks"
+  },
+  {
+    "headline": "US Intermodal Rail Volume Climbs Seven Percent",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Recent weekly data published by the Association of American Railroads indicates that domestic rail freight volumes maintained a strong performance compared to the same period in the previous year. Specifically, intermodal rail traffic experienced a notable seven percent increase, highlighting steady growth and resilience in national freight movement and rail-based supply chain operations across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/intermodal-rail-powers-up-with-7-gain-for-latest-week"
+  },
+  {
+    "headline": "Copeland Enhances Cold Chain via Dickson Acquisition",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-24",
+    "summary": "Copeland has strengthened its cold chain operations through the acquisition of Dickson, incorporating sophisticated compliance and monitoring technologies tailored to the healthcare and life sciences industries. This strategic move allows Copeland to expand its service offerings within temperature-sensitive supply chains, ensuring enhanced regulatory adherence and product integrity during transit and storage for critical medical and biological goods.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/copeland-expands-cold-chain-capabilities-with-dickson-acquisition"
+  },
+  {
+    "headline": "Trans-Pacific container shipping rates hold near peak levels",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Ocean freight shipping costs from Asia to the United States remain elevated, hovering around $9,600 per container. Strong import demand from American buyers combined with ongoing port congestion at major Asian maritime hubs continues to strain capacity across the Trans-Pacific trade lane. While these spot rates stay high due to these persistent logistical bottlenecks, they have not reached the unprecedented peaks seen during the global health crisis.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/but-no-pandemic-high-asia-us-container-rate-at-9600"
+  },
+  {
+    "headline": "Cargo Theft Costs Exceed One Million Dollars For Many U.S. Firms",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "A recent survey of loss prevention and retail crime experts reveals escalating concerns over cargo theft in the United States. Nearly half of the respondents indicate that their organizations suffer annual financial damages exceeding one million dollars. The data highlights a growing trend of organized theft and the adoption of more advanced methods by criminals targeting freight networks. These findings emphasize the mounting challenges faced by logistics and supply chain operators in securing goods during transit.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/40-of-loss-prevention-professionals-report-annual-cargo-theft-losses-topping-1m"
+  },
+  {
+    "headline": "Airlines Finalize Operations for Joint Cargo Venture",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Three major airline cargo divisions, including operations from Qatar Airways, IAG, and Malaysia Airlines, are nearing the completion of their systems and operational integration. This final phase paves the way for the official launch of their collaborative freight business, which aims to combine resources and streamline international air cargo services across their respective networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/airline-trio-take-final-steps-towards-launch-of-joint-cargo-business"
+  },
+  {
+    "headline": "Mexican Truck Drivers File Lawsuit Over US Forced-Labor Allegations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "A federal lawsuit filed in the United States accuses an employment recruiter and several transport companies of orchestrating a forced-labor scheme involving dozens of Mexican commercial truck operators. According to the legal complaint, workers were lured across the border with false assurances of legal employment authorization. Once engaged in hauling freight, the drivers allegedly faced severe exploitation, including excessive debt-inducing fees, the confiscation of vital personal documents, and coercion involving threats regarding their immigration status.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/45-mexican-truck-drivers-accuse-us-recruiter-carriers-of-forced-labor-scheme"
+  },
+  {
+    "headline": "Suez Canal Shipping Transits Surge 27% in August",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Recent shipping data indicates that maritime traffic through the Suez Canal increased by twenty-seven percent compared to the same period in the previous year. This growth is driven by ocean carriers choosing to selectively reintroduce voyages through the Red Sea and Suez Canal corridor, suggesting a gradual shift in carrier routing strategies following prolonged disruptions in the region. The uptick highlights evolving tactical decisions within international maritime logistics as operators reassess security conditions and transit times.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-data-shows-suez-route-transits-rose-27-in-august"
+  },
+  {
+    "headline": "Tractor Supply Opens $200M Idaho Distribution Center",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-24",
+    "summary": "Tractor Supply has established a new $200 million distribution facility in Idaho to streamline fulfillment operations. The site is slated to commence outbound shipments to 123 retail locations across the region, enhancing the company's regional logistics network and inventory management capabilities to support store growth.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tractor-supply-inaugurates-200m-distribution-facility-in-idaho"
+  },
+  {
+    "headline": "White House export ban discussions impact diesel and gasoline futures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-24",
+    "summary": "Energy markets responded to potential policy shifts from the administration regarding fuel movement across borders. Fuel futures experienced notable volatility following reports that federal officials are evaluating an export ban on diesel, which triggered a decline in diesel values while simultaneously driving up gasoline prices as traders repositioned themselves amid changing regulatory expectations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/export-ban-talk-sinks-diesel-boosts-gasoline-as-white-house-eyes-options"
+  },
+  {
+    "headline": "Europe and Sub-Saharan Africa Trade Volumes Rise",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Recent data from Container Trades Statistics indicates consistent volume growth on maritime routes connecting Europe and Sub-Saharan Africa. Figures show four consecutive months of year-on-year increases for southbound shipments, while northbound traffic maintains a similar upward trajectory. Despite the positive metrics reported for the corridor, certain freight forwarders remain skeptical regarding the long-term sustainability of these trade gains, reflecting cautious sentiment within the logistics industry.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/steady-gains-in-europe-ssa-trade-but-some-forwarders-have-doubts/"
+  },
+  {
     "headline": "Einride and Nvidia Partner for Autonomous Trucking Expansion",
     "continent": "Global",
     "country": "Multiple",
