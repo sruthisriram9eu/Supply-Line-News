@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Einride and Nvidia Partner for Autonomous Trucking Expansion",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Autonomous electric transport provider Einride is collaborating with Nvidia to advance its heavy-duty automated vehicle technology. The initiative supports the company's growth targets, which project a fleet size of up to 2,000 vehicles by 2028. Leadership estimates that the vast majority of this projected operational footprint is well-suited for autonomous deployment in the medium term, signaling a significant push toward integrating advanced artificial intelligence and automation into heavy-duty freight operations and long-term commercial logistics networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking"
+  },
+  {
+    "headline": "Yangtze River Ports Launch Direct Ocean Shipping Routes",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Chinese ports along the Yangtze River are expanding their international maritime capabilities by introducing direct container services to overseas destinations. Cosco Shipping Specialised Carriers initiated a route connecting Jiangyin to Mexico and another linking Nanjing to North Africa. These operations utilize multi-purpose vessels to transport machinery and manufactured goods, marking a strategic shift for regional terminals as they extend their geographic reach into global long-haul shipping networks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/yangtze-ports-test-the-water-with-longer-container-shipping-routes/"
+  },
+  {
+    "headline": "Container Shortages Disrupt Exports at India's JNPA",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Exporters utilizing India's Nhava Sheva Port are facing severe difficulties securing empty shipping containers due to ongoing vessel schedule disruptions. Container depots report an inability to fulfill pickup requests, impacting major carriers including CMA CGM. The equipment imbalance is slowing down outbound supply chain operations and lengthening cargo turnaround times for local businesses relying on the facility.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/indias-exporters-struggling-with-shortage-of-empty-boxes-at-jnpa/"
+  },
+  {
+    "headline": "IATA's New Direct Air Waybill Rules Spark Liability Disputes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Months after the introduction of updated Direct Air Waybill regulations by the International Air Transport Association, ongoing confusion persists between freight forwarders and airlines regarding liability protocols. Many industry operators remain uncertain about the operational adjustments and legal ramifications when shipping issues arise. Several logistics companies are unaware of the shifts, while major carriers are still evaluating whether to implement the updated contractual amendments, leaving accountability ambiguous across the air cargo sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/liability-the-battleground-as-forwarders-and-airlines-question-new-dawb-rules/"
+  },
+  {
+    "headline": "Hapag-Lloyd cuts guaranteed container capacity for forwarders",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Container shipping line Hapag-Lloyd has reduced contracted capacity allocations within its guaranteed service offering by up to 40 percent. This move has sparked frustration among freight forwarders who rely on the contractual program to secure container space amid ongoing regional transportation disruptions originating in Asia. The adjustments highlight growing operational tensions between carriers and logistics intermediaries regarding schedule reliability and guaranteed volume commitments under volatile market conditions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/forwarder-anger-as-hapag-lloyd-cuts-guaranteed-capacity-allocations/"
+  },
+  {
+    "headline": "Produce Shippers Draft Logistics Best Practices Charter",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "The Global Coalition of Fresh Produce is developing a transport best practice charter aimed at improving transparency and resilience within perishables logistics. Driven by severe reliability challenges that threaten industry survival, the upcoming framework intends to establish a common operational baseline for all supply chain stakeholders. By formalizing these shared guidelines, agricultural shippers seek to secure more dependable transport pathways and enhance coordination across the perishable goods network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/produce-shippers-prepare-best-practice-charter-for-transport/"
+  },
+  {
+    "headline": "Hapag-Lloyd CEO Travels to Israel for Zim Acquisition Talks",
+    "continent": "Asia",
+    "country": "Israel",
+    "category": "strategy",
+    "date": "2026-09-24",
+    "summary": "The chief executive of German ocean carrier Hapag-Lloyd has traveled to Israel to negotiate a revised acquisition offer for container shipping line Zim. The high-level discussions focus on securing government approval for the takeover, with maintaining critical maritime trade connectivity between Asia and Israel serving as a primary condition for the potential transaction. Both companies are navigating regulatory requirements and strategic concessions to advance the maritime logistics merger.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hapag-tries-to-close-zim-deal-asia-connectivity-the-crux/"
+  },
+  {
     "headline": "F-35 Component Chain of Custody Fails Amid Carrier Confusion",
     "continent": "Asia",
     "country": "China",
