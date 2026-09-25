@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Transpacific Container Spot Rates Fall Ahead of Golden Week",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Container spot rates on transpacific routes started to decline following a strong late-season surge driven by the upcoming Golden Week holidays in China. Freight prices from Asia to both North American coasts had steadily increased since late August, with shipments to the US east coast exceeding ten thousand dollars per forty-foot equivalent unit on recent index measures. Despite this temporary dip, market analysts note that ocean carriers and cargo owners continue to navigate persistent capacity imbalances and fluctuating shipping costs as the fourth quarter approaches.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shippers-face-rate-hikes-and-a-classic-supply-demand-mismatch-in-q4/"
+  },
+  {
+    "headline": "Hacis Tests New Road-Air Freight Route Linking Vietnam to HKIA",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Hacis, the logistics division of Hong Kong Air Cargo Terminals, has successfully completed an initial test for a new transportation corridor designed to capture export freight originating in Vietnam. The route moves cargo by road from Hanoi across mainland China to Hong Kong International Airport for outbound flights. Although the initial trial run is complete, the establishment of a permanent, scheduled service remains contingent upon sustained market demand from shippers.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hacis-targets-vietnam-cargo-with-road-feeder-route-to-hkia/"
+  },
+  {
+    "headline": "IATA Cargo Check Push Halted by Poor Data",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Industry bodies are facing resistance regarding new directives to conduct dangerous goods inspections earlier in the supply chain for e-commerce parcels. Experts point out that logistics providers and airlines struggle to detect hidden items like batteries because e-commerce merchants frequently fail to supply precise product documentation. Industry data highlights that a significant majority of reported safety incidents stem from undisclosed cargo, emphasizing the critical need for improved upstream data transparency before enhanced screening mandates can be successfully implemented across the network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/iata-calls-for-earlier-cargo-checks-but-poor-data-leaves-forwarders-blind/"
+  },
+  {
+    "headline": "Container Shipping Reliability Drops to Lowest Level Since 2022",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Global maritime schedule reliability has declined for two consecutive months, falling below fifty percent due to persistent port congestion across Asia. Industry analysts report that ongoing operational disruptions are creating a challenging environment for liner operations. Experts suggest these systemic delays and unpredictable transit times are hardening into standard operating conditions for international ocean freight, impacting supply chains worldwide as logistics providers struggle to restore schedule integrity.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/box-shipping-reliability-the-worst-since-2022-a-new-normal-says-dp-world/"
+  },
+  {
+    "headline": "India-Middle East Container Rates Surge Amid Port Disruption",
+    "continent": "Middle East",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Container freight costs between India and the Middle East experienced steep increases of up to forty percent following operational disruptions at regional ports impacted by ongoing conflict. Persistent capacity constraints and tightening vessel availability since late August enabled ocean carriers to capitalize on the tightened market conditions, driving up spot prices significantly for key trade lanes connecting ports like Nhava Sheva to destinations in Saudi Arabia.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/india-middle-east-spot-prices-soar-as-ports-struggle-and-liners-cash-in/"
+  },
+  {
+    "headline": "Intra-Asia Container Freight Rates Rise Amid Regional Congestion",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Spot freight rates for intra-Asia shipping lanes have continued to climb, driven by persistent port congestion, rising marine fuel costs, and weather disruptions caused by typhoons. Ahead of the Golden Week holidays, increased cargo demand combined with constrained vessel capacity to push the Drewry index higher for four consecutive weeks. Disruptions have restricted available tonnage across major regional trade corridors, keeping shipping costs elevated.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/congestion-and-costlier-bunkers-keeping-intra-asia-rates-high/"
+  },
+  {
     "headline": "Firms Retain IEEPA Tariff Refunds, Atlanta Fed Reports",
     "continent": "North America",
     "country": "United States",
@@ -238,6 +298,16 @@
     "summary": "Conflicting reports have emerged regarding which logistics provider transported defense-related components that ultimately ended up in China. Media sources disagree on whether the shipment was handled by UPS or Ceva Logistics. Although the manufacturer downplays the sensitivity of the diverted items, the incident has exposed serious vulnerabilities in the tracking and oversight procedures for regulated freight. Authorities are examining how high-security cargo managed to deviate from its authorized transit route.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/ups-or-ceva-who-carried-f-35-parts-to-hong-kong-well-the-chain-of-custody-failed-either-way/"
+  },
+  {
+    "headline": "Ocean Spray Appoints New Chief Supply Chain Officer",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-23",
+    "summary": "Brad Hartzell has taken over the position of chief supply chain officer at Ocean Spray, bringing a quarter-century of industry expertise to the role. In his new capacity, he will direct all operational activities for the prominent agricultural cooperative known for its dried cranberry and juice products. His extensive background in supply chain functions is expected to guide the company's manufacturing, sourcing, and distribution networks moving forward.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ocean-spray-names-chief-supply-chain-officer/830937/"
   },
   {
     "headline": "Samsara Launches Tool to Capture $2B in Fleet Fuel Waste",
