@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Lufthansa Cargo Suspends Mumbai Freighter Flights",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Lufthansa Cargo has temporarily suspended all dedicated freighter flights to Mumbai airport as a direct result of severe operational congestion at the facility. The temporary halt aims to mitigate delays and schedule disruptions caused by the bottleneck. The carrier intends to resume regular all-cargo operations once conditions at the Indian airport stabilize. This logistical disruption affects air freight capacity on the trade route, highlighting ongoing infrastructure challenges at major regional aviation hubs.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/lufthansa-cargo-pauses-all-cargo-flights-to-mumbai-over-congestion"
+  },
+  {
+    "headline": "Crude Oil Trader Buys Tankers as Charter Rates Hit Record Highs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Escalating charter rates reaching up to one million dollars per day and severely constrained vessel capacity have driven a major crude oil trading company to shift its operational strategy. Instead of continuing to lease maritime transport at unprecedented costs, the enterprise has chosen to acquire its own fleet of tankers. This move highlights the extreme pricing pressures and logistical bottlenecks currently impacting the global maritime freight and energy transportation sectors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/as-charter-rates-soar-to-1m-a-day-crude-oil-trader-pivots-to-buying-ships"
+  },
+  {
+    "headline": "Tesla Opens Dedicated Facility for High-Volume Semi Production",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-25",
+    "summary": "Tesla recently marked the official opening of its massive manufacturing facility dedicated to heavy-duty electric trucks in Nevada. Spanning a significant footprint next to an existing factory, the site is designed to scale up output for commercial fleet customers. Although initial assembly line activity began earlier in the year, this dedicated plant represents a major milestone in ramping up production volumes for zero-emission freight vehicles in the North American market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tesla-marked-the-start-of-high-volume-semi-production-and-the-engineering-story-sits-underneath-the-cab"
+  },
+  {
+    "headline": "USPS Bears Burden of Unclaimed E-Commerce Returns",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "An inspector general report reveals that online merchants are leveraging the United States Postal Service to abandon undelivered customer orders. Instead of paying return shipping fees, these retailers allow the postal service to absorb the costs of handling and disposing of the unclaimed parcels. This practice creates significant financial strain for the agency and leaves consumers with little hope of recovering their missing items.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/e-commerce-shippers-exploit-usps-to-dispose-of-undelivered-packages"
+  },
+  {
+    "headline": "Union Pacific Tests Battery-Electric Locomotives in California",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Freight rail operator Union Pacific has initiated operational testing of battery-electric locomotives within a major Southern California rail corridor. The initiative forms part of broader industry efforts to evaluate diesel-alternative propulsion technologies in high-density freight hubs. By exploring zero-emission alternatives, the railway aims to assess the operational feasibility and environmental impact of integrating battery-powered units into its existing mainline and yard operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/union-pacific-begins-battery-electric-locomotive-testing-in-southern-california"
+  },
+  {
     "headline": "Transpacific Container Spot Rates Fall Ahead of Golden Week",
     "continent": "Global",
     "country": "Multiple",
