@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Firms Retain IEEPA Tariff Refunds, Atlanta Fed Reports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-24",
+    "summary": "Recent findings from the Atlanta Federal Reserve indicate that organizations recovering funds from International Emergency Economic Powers Act tariffs are primarily retaining the capital internally. While the vast majority of these returned financial assets remain with corporate balance sheets, a minor fraction of the recovered cash is being allocated to support workforce compensation and provide customer benefits. This dynamic highlights how businesses manage unexpected financial windflows derived from federal trade policy adjustments.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/companies-channel-ieepa-tariff-refunds-into-their-coffers-atlanta-fed-says/831169/"
+  },
+  {
+    "headline": "Amazon invests in driver safety technology and compensation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-24",
+    "summary": "Amazon is implementing advanced safety equipment, including next-generation cameras and smart glasses, to assist delivery drivers during their routes. Additionally, the company is committing billions of dollars toward compensation increases aimed at improving driver recruitment and retention rates across its delivery service partner network. These initiatives are designed to address operational challenges within the final mile of the distribution network by modernizing equipment and stabilizing the logistics workforce.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amazon-rolls-out-safety-tech-pay-bump-for-delivery-providers"
+  },
+  {
     "headline": "US and China Extend Trade War Truce Through January",
     "continent": "Global",
     "country": "Multiple",
@@ -218,6 +238,16 @@
     "summary": "Conflicting reports have emerged regarding which logistics provider transported defense-related components that ultimately ended up in China. Media sources disagree on whether the shipment was handled by UPS or Ceva Logistics. Although the manufacturer downplays the sensitivity of the diverted items, the incident has exposed serious vulnerabilities in the tracking and oversight procedures for regulated freight. Authorities are examining how high-security cargo managed to deviate from its authorized transit route.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/ups-or-ceva-who-carried-f-35-parts-to-hong-kong-well-the-chain-of-custody-failed-either-way/"
+  },
+  {
+    "headline": "Samsara Launches Tool to Capture $2B in Fleet Fuel Waste",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-23",
+    "summary": "Fleet operators in the United States missed out on approximately two billion dollars in potential fuel savings during the first half of 2026. In response to this inefficiency, technology provider Samsara has introduced a specialized software solution designed to help commercial fleets identify and recover these wasted expenses. The product aims to optimize vehicle operations and route management, providing organizations with actionable insights to lower overall fuel consumption and improve bottom-line performance across their transportation networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/samsara-fuel-command-center-launch"
   },
   {
     "headline": "Shippers pool demand to accelerate electric truck adoption",
