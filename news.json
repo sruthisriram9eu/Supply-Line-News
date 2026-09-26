@@ -1,5 +1,65 @@
 [
   {
+    "headline": "USPS Facility Upgrades Trigger Package Delivery Delays",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-25",
+    "summary": "The United States Postal Service has issued alerts regarding temporary shipping delays affecting facilities in Indianapolis and Louisville. These disruptions stem from the ongoing installation of advanced sorting machinery designed to modernize operations. While the infrastructure project is expected to cause short-term slowdowns in package processing and distribution, postal leadership maintains that the enhancements will ultimately improve fulfillment capacity and efficiency ahead of the high-volume holiday peak season.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/usps-warns-of-indianapolis-louisville-delays-due-to-facility-upgrades/831390/"
+  },
+  {
+    "headline": "Lego Invests $400M in Mexico Warehouse and Packing Expansion",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "storage_distribution",
+    "date": "2026-09-25",
+    "summary": "The toy manufacturer is committing four hundred million dollars to expand storage facilities and packaging operations at its production site in Mexico. This strategic capital injection aims to bolster the company's regional fulfillment network and improve product distribution capabilities throughout the Americas. By increasing local storage and preparation capacity, the enterprise seeks to enhance operational resilience and better serve customer demand across the Western Hemisphere.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/lego-to-spend-400m-to-add-warehouse-space-at-mexico-plant/831302/"
+  },
+  {
+    "headline": "Shippers Pivot to Inland Transit to De-Risk Supply Chains",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Supply chain operators are increasingly utilizing inland routing strategies to mitigate vulnerabilities tied to congested coastal gateways. Industry leaders note that alternative interior transit corridors provide greater reliability and operational stability as businesses look to diversify their distribution networks away from heavily congested maritime hubs. This shift highlights a growing industry focus on network resilience and proactive risk management in freight movement.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/shippers-are-exploring-port-to-inland-transit-to-de-risk-supply-chains/831261/"
+  },
+  {
+    "headline": "Samsara Integrates Fleet Data with Leading AI Models",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Samsara has introduced a new Model Context Protocol that enables trucking operators to integrate live fleet information directly into external artificial intelligence platforms. This solution eliminates the necessity for carriers to develop bespoke custom integrations to connect their operational datasets with popular AI tools. By streamlining data access, transportation companies can leverage advanced analytics and conversational AI to monitor and optimize their vehicle fleets more efficiently without complex technical overhead.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/samsara-connects-fleet-data-with-chatgpt-claude-and-other-ai-tools"
+  },
+  {
+    "headline": "FBI Warns of Cyber-Enabled Cargo Theft Threats",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "Federal law enforcement authorities have issued warnings regarding sophisticated digital schemes targeting freight transport networks. According to investigators, criminal networks are increasingly utilizing digital methods to identify high-value shipments prior to physical pickup, placing millions of dollars in goods at risk. This evolving trend highlights vulnerabilities in supply chain security and digital logistics operations, prompting agencies to advise heightened vigilance and advanced verification protocols across transportation and shipping sectors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fbis-memphis-cargo-theft-task-force-warns-cyber-schemes-put-millions-in-freight-at-risk"
+  },
+  {
+    "headline": "Coretura Integrates Vector-QNX Platform for Commercial Vehicles",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-09-25",
+    "summary": "Coretura has chosen the Alloy Kore platform, created jointly by Vector and QNX, to serve as the core software infrastructure for its high-performance computing architecture in commercial vehicles. This integration aims to streamline digital systems and enhance operational capabilities within commercial transport platforms, supporting advanced computational requirements for modern fleet operations and vehicle manufacturing frameworks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/coretura-selects-vector-qnx-software-for-commercial-vehicle-platform"
+  },
+  {
     "headline": "Lufthansa Cargo Suspends Mumbai Freighter Flights",
     "continent": "Asia",
     "country": "India",
