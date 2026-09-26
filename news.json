@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Lawsuit accuses freight brokers C.H. Robinson and TQL of RICO violations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-26",
+    "summary": "A recently filed legal complaint targets prominent freight brokerages C.H. Robinson and TQL, alleging violations under the Racketeer Influenced and Corrupt Organizations Act. The litigation introduces a novel legal strategy for addressing disputes within the freight transportation sector. The outcome of this case could establish significant legal precedents regarding the operational and business practices of major third-party logistics providers across the domestic shipping industry.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-lawsuit-approach-accusing-c-h-robinson-tql-of-rico-violations"
+  },
+  {
+    "headline": "Lawsuit highlights carrier vetting flaws in New Mexico crash",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-25",
+    "summary": "A legal dispute in New Mexico reveals systemic gaps in carrier qualification processes after a serious collision involving a commercial truck pulling an Amazon trailer. The motor carrier had previously lost its operating authority, managed to resume operations, and accumulated several safety infractions prior to the incident that left three individuals injured. The ongoing litigation focuses heavily on the adequacy of written oversight protocols and compliance enforcement when evaluating third-party logistics and trucking partners before dispatching loads.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/interrupted-authority-and-written-vetting-rules-at-center-of-new-mexico-crash-lawsuit"
+  },
+  {
+    "headline": "Hapag-Lloyd adjusts Zim acquisition terms amid regulatory hurdles",
+    "continent": "Asia",
+    "country": "Israel",
+    "category": "international_relations",
+    "date": "2026-09-25",
+    "summary": "Hapag-Lloyd and its investment partner have updated the conditions of their multi-billion dollar buyout proposal for Zim. This adjustment comes as regulatory bodies in Israel continue to evaluate the transaction, raising questions about whether the necessary government approvals will be granted for the maritime transport merger to proceed.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyd-revises-zim-offer-as-israeli-approval-concerns-persist"
+  },
+  {
     "headline": "USPS Facility Upgrades Trigger Package Delivery Delays",
     "continent": "North America",
     "country": "United States",
