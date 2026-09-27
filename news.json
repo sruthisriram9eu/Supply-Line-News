@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Mexico Customs Proposal Sparks Border Delay Fears",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-09-27",
+    "summary": "A newly introduced customs proposal in Mexico is generating significant anxiety among supply chain operators and logistics professionals regarding potential trade bottlenecks. Industry stakeholders warn that the regulatory changes could trigger severe border congestion, hinder the efficient movement of freight, and lead to an increase in cargo seizures. This development threatens to disrupt cross-border supply chains and elevate operating costs for businesses relying on timely international shipments between the region and the United States.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-customs-proposal-raises-concerns-over-border-delays-cargo-seizures"
+  },
+  {
+    "headline": "Maritime Freight Rates Diverge on Trans-Pacific and Med Routes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-27",
+    "summary": "Ocean shipping costs are displaying a disconnect from underlying market demand, evidenced by sharply rising rates across trans-Pacific trade lanes while routes in the Mediterranean experience significant declines. This divergence highlights a shifting operational environment for maritime carriers and shippers alike, as traditional economic indicators fail to track current price movements. Industry analysts are closely monitoring these contrasting regional trends to understand how vessel deployment and network adjustments are influencing global maritime pricing structures.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trans-pacific-rates-soar-mediterranean-sinks-and-demand-doesnt-explain-either"
+  },
+  {
     "headline": "Clarios Expands Battery Subscription Service to European Fleets",
     "continent": "Europe",
     "country": "Multiple",
