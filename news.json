@@ -1,5 +1,145 @@
 [
   {
+    "headline": "AI Revolutionizes Freight Brokerage and Truck Booking",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Artificial intelligence tools are transforming freight negotiations by streamlining communication between carriers and brokers. Industry experts highlight how automated systems can drastically reduce the time spent booking truckloads, enabling carriers to interact with multiple brokers simultaneously via phone and email. This technological shift is increasingly accessible, impacting both large fleets and smaller operators by optimizing scheduling efficiency and accelerating daily logistics workflows across the freight transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/5-hours-to-book-a-truck-ai-is-coming-for-that"
+  },
+  {
+    "headline": "Puma partners with Maersk to open U.S. facilities to third parties",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-28",
+    "summary": "Athletic brand Puma has teamed up with shipping conglomerate Maersk to manage its highly automated distribution hubs located in the United States. Under the arrangement, the logistics partner will operate the facilities while also offering any excess warehousing capacity to outside companies. This initiative allows the brand to optimize its supply chain infrastructure footprint and leverage advanced fulfillment capabilities, creating shared logistical efficiencies within the domestic market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/puma-opens-u-s-distribution-centers-to-third-parties"
+  },
+  {
+    "headline": "Airlink Founder Steve Smith Takes Helm at Airforwarders Association",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "The Airforwarders Association has selected Steve Smith as its new executive director, positioning the veteran leader in Washington to guide the organization. Smith brings extensive experience in emergency response logistics, having previously founded Airlink, a humanitarian organization that coordinates disaster relief transport. In his new role, he will oversee the association's efforts to represent and support freight forwarding professionals across the air cargo sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/airlink-founder-steve-smith-named-to-lead-airforwarders-association"
+  },
+  {
+    "headline": "US-China Maritime Port Fees Face Potential Delays",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-28",
+    "summary": "Recent discussions regarding trade truce extensions suggest that proposed port-entry fees for vessels linked to or constructed in China might be postponed. While the ongoing trade agreements continue to evolve, the omission of specific maritime vessel taxes in the latest updates indicates that implementation timelines for these levies remain uncertain as diplomatic talks between the two nations progress.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/no-mention-of-u-s-china-ship-taxes-in-trade-truce"
+  },
+  {
+    "headline": "Lowe's tests drone delivery for rapid fulfillment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-28",
+    "summary": "Home improvement retailer Lowe's has initiated trials utilizing unmanned aerial vehicles to accelerate same-day fulfillment capabilities. The pilot program aims to evaluate the operational efficiency and speed of aerial delivery methods for customer orders. By exploring autonomous delivery technology, the company seeks to enhance its last-mile distribution network and meet growing consumer demand for rapid service.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/lowes-test-drives-drone-delivery"
+  },
+  {
+    "headline": "Family Farmers Oppose Proposed Rail Merger",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Agricultural advocacy organizations have voiced strong opposition to a pending rail merger, pointing to historical precedent where consolidation led to increased shipping rates and degraded service reliability. Independent agricultural producers rely heavily on freight rail to transport grain and other commodities to domestic and international markets. Critics of the proposed transaction argue that reduced competition among rail carriers will harm rural economies and exacerbate logistical bottlenecks for agricultural supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/higher-rates-less-reliable-service-family-farmers-oppose-rail-merger"
+  },
+  {
+    "headline": "Airforwarders Association appoints Steve Smith as new CEO",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "The Airforwarders Association has selected Steve Smith to take over as its chief executive, succeeding Brandon Fried after a twenty-one-year tenure. Smith previously led the humanitarian logistics organization Airlink for over a decade, forging strategic alliances across the airline and logistics sectors, and also held commercial leadership positions within the aerospace industry. Fried will remain involved during the handover period to ensure a seamless transition of leadership for the freight forwarding association.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/steve-smith-takes-helm-at-airforwarders-association-as-brandon-fried-steps-down/"
+  },
+  {
+    "headline": "Bangladesh Seeks Private Investor for Pangaon Inland Container Terminal",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "category": "storage_distribution",
+    "date": "2026-09-28",
+    "summary": "The Chittagong Port Authority is initiating a tender for a private investor to construct and operate a secondary inland container terminal across a twenty-two-acre site adjacent to the existing Pangaon facility near Dhaka. The infrastructure project aims to expand barge transport capacity for containerized freight traveling between the capital and Chittagong Port, providing shippers with an alternative route to bypass severe traffic congestion on the primary highway connecting the two major economic hubs.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/port-seeks-private-investor-for-dhaka-river-box-terminal-expansion/"
+  },
+  {
+    "headline": "Gemini Partners Reroute Second Asia-Med Service Through Suez Canal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Major ocean carriers Maersk and Hapag-Lloyd plan to send their shared Asia-Mediterranean shipping service back through the Suez Canal and Red Sea next month. This operational change represents the fourth mainline trade route that the Gemini alliance has shifted away from the longer African cape detour. The transition comes as competing carrier CMA attempts to stabilize declining market freight rates. The ongoing return of container vessels to the Egyptian waterway signals a gradual shift in carrier routing strategies amid shifting maritime security assessments and competitive rate pressures.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/geminis-second-asia-med-service-for-suez-as-cma-tries-to-prop-up-rates/"
+  },
+  {
+    "headline": "Trucking firms file racketeering lawsuit against major freight brokers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Six United States trucking companies have filed a racketeering lawsuit against major logistics brokers CH Robinson and Total Quality Logistics. The plaintiffs allege that these brokers secured freight contracts by utilizing non-compliant carriers to offer unmatchable pricing. One participating motor carrier reported substantial revenue losses affecting numerous customers as a direct result of these practices. The legal action seeks monetary damages to be established during trial proceedings, including provisions for treble damages under applicable laws.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ch-robinson-in-hot-water-again-as-truckers-bring-racketeering-suit/"
+  },
+  {
+    "headline": "China-India Container Freight Rates Double Amid High Demand",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Container shipping prices on routes from China to India have experienced significant upward pressure due to robust import demand, severely straining available vessel capacity. Average spot rates for shipments originating in Shanghai have risen substantially since late August, leading to sharp month-on-month increases across multiple destination ports on the intra-Asia tradelane. Market indicators show that spot prices for standard twenty-foot and forty-foot equipment have surged as carriers navigate sustained high volumes of bookings.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/china-india-box-rates-double-as-import-demand-strains-vessel-space/"
+  },
+  {
+    "headline": "US and China Extend Port Fee Truce to January",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-09-28",
+    "summary": "Washington and Beijing have extended their trade truce to January 2027, maintaining the suspension of retaliatory port fees between the two nations. This two-month extension provides temporary relief for ocean shippers and global supply chains ahead of the upcoming Chinese New Year period. However, it creates a new critical deadline for maritime transport operations and international trade negotiations as stakeholders await a more permanent resolution.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/two-more-months-of-truce-shippers-get-a-december-not-a-deal/"
+  },
+  {
+    "headline": "Cosco Uses Container Ships to Bypass Car-Carrier Shortages",
+    "continent": "South America",
+    "country": "Brazil",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Cosco Shipping Specialized Carriers has initiated a novel transport method to deliver electric vehicles from China to South America. Facing a severe deficit in traditional car-carrying vessels alongside surging regional demand, the carrier is utilizing standard frame containers loaded at a Chinese port to transport automobiles. The inaugural shipment successfully moved over fourteen hundred vehicles, bypassing maritime logistics bottlenecks to maintain export volume into Brazil, which has emerged as a leading destination for Chinese automotive manufacturers.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cosco-finds-a-way-round-car-carrier-shortage-to-get-byds-to-brazil/"
+  },
+  {
+    "headline": "Asian Port Disruptions and Typhoons Tie Up 3 Million TEU of Box Capacity",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Severe weather events and operational bottlenecks at Asian ports have removed roughly eight and a half percent of the worldwide container ship fleet from active service. This disruption amounts to three million TEU of tied-up capacity, which is comparable to the size of a top-tier global shipping carrier. Consequently, global schedule reliability dropped under fifty percent following consecutive monthly declines, severely impacting maritime logistics and vessel availability across international trade routes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/delays-mount-as-port-disruption-in-asia-ties-up-3m-teu-of-box-capacity/"
+  },
+  {
     "headline": "Aurora Targets 30,000 Autonomous Trucks by 2030",
     "continent": "North America",
     "country": "United States",
