@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Hapag-Lloyd Raises 2026 Profit Outlook Amid Strong Cargo Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Container shipping enterprise Hapag-Lloyd has significantly increased its 2026 profit projections, driven by an extended and robust peak shipping season. The updated financial guidance reflects higher expected earnings before interest, taxes, depreciation, and amortization, alongside an upgraded operating income forecast. Industry analysts attribute these upward revisions to persistent high market demand across maritime trade lanes. Furthermore, the carrier has submitted an updated acquisition proposal for rival firm Zim, indicating ongoing consolidation efforts within the global container shipping sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hapag-lloyd-ups-2026-profit-forecast-and-submits-revised-zim-bid/"
+  },
+  {
+    "headline": "AI Emerges as Key Tool to Connect Fragmented Air Cargo Data",
+    "continent": "Europe",
+    "country": "Greece",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Industry experts at a recent conference in Athens emphasized that the next major digital frontier for air cargo involves unifying disconnected supply chain information rather than merely digitizing operations. Leaders from consulting firms highlighted that shifting trade routes, expanding capacity demands, and evolving artificial intelligence capabilities are driving an urgent requirement for stakeholders to share and reconcile data effectively. This need is further underscored by significant fluctuations in cross-border e-commerce volumes observed over the past year.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/bridging-the-gaps-in-air-cargo-data-an-ideal-challenge-for-ai/"
+  },
+  {
+    "headline": "US-China Tariff Cuts Fail to Halt Declining Transpacific Freight Rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-09-29",
+    "summary": "A mutual agreement between the United States and China to reduce tariffs on a combined 1,696 product lines is unlikely to reverse downward pressure on transpacific freight rates. While the planned reductions cover significant containerized cargo, soft demand and market conditions mean spot rates will continue to fall. Both nations must finalize domestic legal requirements before the tariff reductions officially take effect simultaneously. Industry analysts note the policy shift arrives too late to provide any meaningful seasonal boost to ocean shipping markets along this critical trade route.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/china-us-trade-truce-too-late-to-boost-weakening-transpac-rates/"
+  },
+  {
+    "headline": "Mumbai Airports Face Cargo Congestion Amid Hub Transition",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Air cargo operations in Mumbai are facing severe disruptions due to simultaneous capacity constraints at the city's older airport and operational challenges at the newly opened Navi Mumbai International Airport. The facility operator has suspended dedicated freighter slots at the legacy location through June, prompting a mandatory shift in cargo traffic that has triggered widespread logistical bottlenecks. Supply chain stakeholders are currently struggling to navigate the transition amid infrastructure upgrades and ongoing teething issues at the new aviation hub.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/mumbai-airports-hit-by-congestion-as-freighter-services-switch-hubs/"
+  },
+  {
+    "headline": "Ocean carriers concentrate capacity at San Pedro Bay ports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Ocean carriers are increasingly focusing their capacity on the Southern California port complex of Los Angeles and Long Beach, driving record throughput volumes over the summer months. Conversely, other West Coast gateways, including the port of Oakland and the Northwest Seaport Alliance facilities in Seattle and Tacoma, are experiencing notable cargo slumps. This strategic concentration by carriers has significantly reduced routing alternatives for cargo owners seeking to bypass operational bottlenecks and mitigate supply chain disruptions across the West Coast import network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/carrier-focus-on-san-pedro-bay-ports-restricts-shipper-options/"
+  },
+  {
+    "headline": "US-China trade truce extension lacks official documentation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-29",
+    "summary": "A recent television announcement by a US Treasury official stated that a trade truce between the United States and China had been extended by two months, moving the expiration date. However, industry observers attempting to verify the change found that formal administrative paperwork, such as official trade representative notices regarding port fee suspensions, had not been updated to reflect the new timeline. This discrepancy has left stakeholders seeking confirmation on whether the policy shift is officially binding.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/the-truce-was-extended-on-television-on-paper-it-still-ends-november-9/"
+  },
+  {
     "headline": "Trimble Integrates AI Agents Across Four Transport Management Systems",
     "continent": "North America",
     "country": "United States",
