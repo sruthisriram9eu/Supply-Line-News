@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Electrolux Names Daniele Rossi New Chief Procurement Officer",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-09-29",
+    "summary": "The major home appliance manufacturer has appointed Daniele Rossi to direct its global sourcing operations. In this role, he will oversee supply chain relationships with direct-material suppliers, emphasizing collaborative efforts to innovate and develop sustainable product lines. The strategic move aims to strengthen the company's procurement framework and advance its environmental targets through closer partnerships within its upstream supply network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/electrolux-appoints-chief-procurement-officer/831536/"
+  },
+  {
+    "headline": "Nordstrom Expands Delivery Speeds and Weekend Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-29",
+    "summary": "Department store chain Nordstrom is enhancing its fulfillment capabilities by targeting seven-day-a-week delivery services. As part of this broader supply chain strategy to accelerate customer shipping times, the company recently evaluated a same-day delivery trial in the Los Angeles market. Company leadership highlighted these operational advancements during a recent industry conference, reflecting a growing industry emphasis on faster, more flexible distribution options for retail consumers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/nordstrom-eyes-weekend-delivery-faster-shipping/831511/"
+  },
+  {
+    "headline": "Kodiak and IKEA launch autonomous freight route in Texas",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Autonomous trucking firm Kodiak is partnering with retail giant IKEA to initiate driverless long-haul freight operations later this year. The service will transport commercial goods between Houston and Dallas along the I-45 corridor. This milestone follows extensive testing that accumulated 750,000 autonomous miles utilizing safety drivers. The deployment marks a significant advancement in the commercialization of self-driving technology for supply chain and logistics applications.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/kodiak-ikea-driverless-freight-i-45"
+  },
+  {
+    "headline": "Airbus A350 freighter completes maiden test flight",
+    "continent": "Europe",
+    "country": "France",
+    "category": "manufacturing",
+    "date": "2026-09-29",
+    "summary": "Airbus has advanced its entry into the cargo aircraft market by successfully conducting the initial test flight of the A350 freighter. This development represents a significant step for the manufacturer as it prepares to compete directly with established cargo planes from Boeing. The new aircraft aims to capture market share in the global air freight sector by offering airlines an alternative option for long-range cargo operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/airbus-a350-freighter-aircraft-completes-initial-test-flight"
+  },
+  {
+    "headline": "California Enacts Regulations for Cold-Storage Facilities",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-29",
+    "summary": "Following a major fire incident at a Lineage facility, California's governor has signed legislation designed to increase oversight and accountability for cold-storage warehouses. The new regulatory measures aim to improve safety standards within temperature-controlled storage operations across the state, addressing concerns raised by the significant industrial accident.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/after-lineage-fire-new-california-laws-target-cold-storage-warehouses"
+  },
+  {
+    "headline": "Panama Canal Increases Daily Transit Slots for Large Vessels",
+    "continent": "North America",
+    "country": "Panama",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Authorities at the Panama Canal have expanded operational capacity by increasing the number of daily transit slots available to the largest container ships. This adjustment follows previous restrictions driven by water levels and operational constraints. The change aims to ease maritime bottlenecks and improve schedule reliability for global ocean carriers navigating this vital trade corridor. Stakeholders anticipate smoother cargo flows and reduced wait times as the waterway accommodates higher traffic volumes for heavy freight vessels.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-limits-more-ships-can-transit-this-key-cargo-chokepoint"
+  },
+  {
+    "headline": "Germany Plans to Block Cosco's Acquisition of Logistics Firm Zippel",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "international_relations",
+    "date": "2026-09-29",
+    "summary": "German federal authorities are preparing to prevent the Chinese state-backed shipping giant Cosco from purchasing Hamburg-based logistics provider Konrad Zippel. National security agencies raised objections, warning that the transaction represents part of an ongoing strategy by Beijing to establish control over critical regional maritime infrastructure and supply chain nodes. Government officials are responding to these strategic vulnerabilities by moving to halt the investment.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/german-security-agencies-baulk-at-cosco-bid-for-zippel/"
+  },
+  {
     "headline": "Hapag-Lloyd Raises 2026 Profit Outlook Amid Strong Cargo Demand",
     "continent": "Global",
     "country": "Multiple",
@@ -58,6 +128,26 @@
     "summary": "A recent television announcement by a US Treasury official stated that a trade truce between the United States and China had been extended by two months, moving the expiration date. However, industry observers attempting to verify the change found that formal administrative paperwork, such as official trade representative notices regarding port fee suspensions, had not been updated to reflect the new timeline. This discrepancy has left stakeholders seeking confirmation on whether the policy shift is officially binding.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/the-truce-was-extended-on-television-on-paper-it-still-ends-november-9/"
+  },
+  {
+    "headline": "LTL carriers report mixed freight volume results in August",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Mid-quarter updates from less-than-truckload operators indicate varying shipment trends across the freight sector during August. While specific shipping enterprises such as Saia and XPO registered positive growth in cargo volumes, several industry peers experienced downward adjustments in operational activity. These diverging figures highlight the fragmented demand environment currently facing North American freight transporters as organizations navigate mid-quarter shipping dynamics.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/shipment-fluctuations-vary-across-ltl-carriers-in-mid-q3-updates/831309/"
+  },
+  {
+    "headline": "US trade board weighs tariff relief for billions in imports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-28",
+    "summary": "A government advisory panel has recommended reducing import duties on sixty billion dollars worth of consumer products, including toys and household items destined for the American market. While the trade board advanced the pathway for these exemptions, the administration has not yet disclosed specific tariff reduction percentages or established a timeline for when the changes might take effect.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831479/"
   },
   {
     "headline": "Trimble Integrates AI Agents Across Four Transport Management Systems",
