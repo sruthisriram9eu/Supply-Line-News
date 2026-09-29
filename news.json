@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Trade Groups Urge USTR to Extend China-Linked Ship Fee Pause",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-28",
+    "summary": "Major retail and trade associations are calling on the United States Trade Representative to prolong the suspension of port fees tied to Chinese maritime operations. Industry advocates argue that maintaining this freeze is essential for stabilizing market volatility and alleviating ongoing financial pressures associated with high freight rates. Supply chain stakeholders face persistent transportation cost burdens, and extending the pause would provide critical financial relief and operational predictability across the import sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/trade-groups-urge-ustr-to-extend-pause-on-china-linked-ship-fees/831387/"
+  },
+  {
+    "headline": "Leveraging Quantum Optimization for Supply Chain Resiliency",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-09-28",
+    "summary": "Organizations facing increasingly complex operating environments and frequent disruptions are turning to quantum optimization to manage intricate networks of variables and operational constraints. This advanced computational approach aims to enhance decision-making capabilities within supply chain networks, providing a method to navigate constant change and improve overall systemic adaptability. By processing vast amounts of data more efficiently, companies can potentially address widespread logistical challenges and strengthen their long-term operational resilience against unforeseen market disruptions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/spons/how-supply-chains-can-achieve-resiliency-with-quantum-optimization/831267/"
+  },
+  {
+    "headline": "Trimble Weighs Transportation Unit Sale Amid AI Rollout",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Technology provider Trimble is actively evaluating strategic alternatives for its freight transportation and logistics division, including a potential sale. Simultaneously, the company is maintaining capital investment in artificial intelligence capabilities tailored for commercial fleet operators, aiming to enhance operational efficiency and automated decision-making processes for its transportation customer base as it reviews its overall portfolio strategy.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trimble-keeps-freight-business-sale-on-the-table-while-unveiling-new-ai-tools"
+  },
+  {
+    "headline": "Freight Distress Report: Logistics and Manufacturing Cuts Threaten Jobs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "A recent industry report indicates that an upcoming wave of facility closures and workforce reductions will impact nearly 1,850 positions. The cuts span multiple operational sectors, including delivery networks, third-party logistics, food manufacturing, and packaging facilities. This downturn highlights ongoing economic pressures within the industrial and freight sectors, forcing companies to scale back their operational footprints and reduce headcounts to maintain stability amid tightening market conditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-distress-report-logistics-manufacturing-cuts-put-1850-jobs-on-chopping-block"
+  },
+  {
+    "headline": "Suez Canal Routing Cuts India-Savannah Transit Times by Two Weeks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-28",
+    "summary": "Major ocean carriers are rerouting their shipping services between India and the Port of Savannah back through the Suez Canal. This operational shift avoids longer alternative pathways and successfully accelerates transit durations by ten to fourteen days. The adjustment improves shipping efficiency for transcontinental cargo movement on this key trade lane.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/suez-return-speeds-up-savannah-india-service-by-10-14-days"
+  },
+  {
     "headline": "AI Revolutionizes Freight Brokerage and Truck Booking",
     "continent": "North America",
     "country": "United States",
