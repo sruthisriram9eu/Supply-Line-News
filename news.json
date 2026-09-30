@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Nationwide Cargo Theft Operation Recovers $635K in Goods",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-30",
+    "summary": "A coordinated nationwide law enforcement initiative focused on cargo theft rings successfully dismantled multiple criminal networks and recovered stolen freight valued at $635,000. Among the recovered items were thirty electrical transformers with an estimated value of $600,000. The operation resulted in multiple arrests as authorities cracked down on supply chain theft and illicit shipping activities across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/national-cargo-theft-blitz-leads-to-arrests-635k-in-recovered-freight"
+  },
+  {
+    "headline": "Strait of Hormuz closure threatens UAE container ports",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "An ongoing closure of the Strait of Hormuz lasting nearly eight months threatens permanent damage to transhipment volumes at major container terminals in Dubai and Abu Dhabi. Before the regional conflict involving the United States, Israel, and Iran, these facilities served as critical hubs for transferring cargo between Asia-Europe routes and north-south shipping lanes. Escalating security risks and skyrocketing maritime insurance costs have forced carriers to bypass the region, causing a lasting decline in vital relay operations at these key Gulf waypoints.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/"
+  },
+  {
+    "headline": "Regulators Halt Review of Hapag-Lloyd's Proposed Zim Acquisition",
+    "continent": "Middle East",
+    "country": "Israel",
+    "category": "international_relations",
+    "date": "2026-09-30",
+    "summary": "Regulatory authorities in Israel have officially terminated the current review process for Hapag-Lloyd's proposed buyout of ocean carrier Zim. Officials deemed the existing transaction framework invalid, meaning any future attempts to move forward will require submitting a completely new proposal and restarting the regulatory evaluation from the beginning. This development significantly stalls potential consolidation efforts within the container shipping sector and introduces major uncertainty regarding the future ownership structure of the ocean freight operator.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hapag-lloyds-zim-takeover-hopes-dealt-fresh-blow-as-review-halted/"
+  },
+  {
+    "headline": "CH Robinson Denies Racketeering Claims and Drops Super Ego Carriers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "CH Robinson has formally answered a racketeering lawsuit filed by multiple American trucking companies, firmly denying all allegations of wrongdoing. The logistics provider explained that the legal complaint misrepresents its standard carrier relationships and distorts prior testimony from a former staff member. Furthermore, the firm confirmed that all motor carriers operating under the Super Ego holding structure have been completely removed from its freight network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ch-robinson-rejects-racketeering-claims-and-confirms-super-ego-carriers-exit/"
+  },
+  {
+    "headline": "US Customs Implements Immediate IOR Invalidation for Inaccurate Filings",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-09-30",
+    "summary": "United States Customs and Border Protection has updated its enforcement protocol, granting authority to instantly deactivate an importer of record number upon discovering incorrect or borrowed information on Form 5106. Affected businesses receive notification after the cancellation takes effect. Freight forwarders and customs brokers associated with these filings bear the immediate responsibility of managing inquiries and compliance issues resulting from the strict enforcement measure, which aims to increase accountability across international trade channels.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/us-cbp-tightens-import-rules-get-the-details-right-or-else/"
+  },
+  {
+    "headline": "Nairobi emerges as a two-way cargo hub amid surging inbound ecommerce",
+    "continent": "Africa",
+    "country": "Kenya",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Nairobi is transitioning from its conventional function as an export center primarily for flowers into a bidirectional logistics hub for East Africa. International freight carriers report rising volumes of inbound time-sensitive shipments, including pharmaceuticals, perishables, and ecommerce goods. Increased freighter operations highlight the region's expanding role in global supply chains, moving past traditional single-direction export flows to accommodate diverse commercial demands.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/nairobi-moves-beyond-flowers-as-inbound-ecommerce-surges/"
+  },
+  {
+    "headline": "Data-Centre Boom Fuels Air Cargo Growth and Imbalances",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Surging investments in data centres are shifting global trade dynamics and straining capacity within the air freight sector. High-tech equipment has emerged as the primary catalyst for air cargo expansion, surpassing Chinese e-commerce volumes during the first seven months of the year. While the broader international air freight market experienced single-digit year-on-year growth, high-tech shipment volumes surged significantly, exacerbating existing operational imbalances across worldwide transport networks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/data-centre-boom-drives-air-cargo-growth-and-widens-imbalances/"
+  },
+  {
     "headline": "Ross Invests $500M in New California Distribution Center",
     "continent": "North America",
     "country": "United States",
