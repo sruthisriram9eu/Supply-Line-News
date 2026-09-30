@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Mars Misses 2025 Goal for 100% Responsibly Sourced Cocoa",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-09-30",
+    "summary": "Confectionery and pet care manufacturer Mars increased its volume of responsibly sourced cocoa to ninety-eight percent heading into 2025. Despite this significant progress within its agricultural supply chain, the enterprise ultimately missed its original target to achieve full one hundred percent compliance by the deadline. The initiative relies on dedicated supplier programs designed to improve sustainability and traceability across raw material origins, though full completion of the initiative remains ongoing.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/mars-hikes-sustainably-sourced-cocoa-but-falls-short-of-2025-100-goal/831689/"
+  },
+  {
+    "headline": "USPS and Amazon launch same-day delivery pilot",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "The United States Postal Service and Amazon are collaborating on a new pilot program focused on same-day shipping. Under this arrangement, customer orders submitted during the later hours of the day will qualify for expedited delivery handled directly by the postal network. The initiative aims to expand fast-fulfillment capabilities by leveraging existing public postal infrastructure for late-day private e-commerce orders.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/usps-amazon-partner-on-same-day-delivery-pilot/831647/"
+  },
+  {
+    "headline": "DoorDash Expands Into Retail Returns and Drone Delivery",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Food delivery giant DoorDash is expanding its service offerings by introducing a retail returns feature that allows consumers to send items back to local merchants through its delivery network. In addition to challenging established courier services in the reverse logistics sector, the company is establishing its own proprietary drone delivery airline to handle last-mile transport. This strategic move marks a significant evolution in urban freight operations and automated fulfillment capabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/doordash-launches-retail-returns-service-self-designed-drones"
+  },
+  {
+    "headline": "Daimler Truck pursues integrated autonomous system strategy",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-30",
+    "summary": "Daimler Truck is advancing a fully integrated approach to autonomous vehicle technology, leveraging its dominant position in the heavy-duty commercial sector. Leadership emphasizes that controlling the complete system differentiates its portfolio from competitors. The manufacturer currently commands a significant share of the heavy-duty truck market in North America through its established vehicle brands. This strategy reflects a broader industry push toward proprietary automation solutions rather than relying exclusively on third-party technology providers for commercial fleets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/daimler-truck-torc-autonomous-system"
+  },
+  {
+    "headline": "Port Houston August TEUs rise slightly amid soaring steel imports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Port Houston experienced a modest one percent year-over-year increase in overall container volume during August, reaching a total of 373,756 TEUs. This growth was significantly bolstered by a dramatic surge in incoming steel shipments, which jumped by 54 percent compared to the same period in the previous year. The data highlights shifting import demands and highlights the port's ongoing role as a key entry point for heavy industrial materials entering the regional market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/port-houston-container-volumes-edge-higher-as-steel-imports-surge-54"
+  },
+  {
+    "headline": "Organized Cargo Rings Laundering Stolen Goods into Global Commerce",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Sophisticated criminal rings are successfully injecting stolen cargo into legitimate commercial networks, according to industry expert Scott Cornell. These advanced theft syndicates exploit vulnerabilities in the supply chain to move illicit goods rapidly, with stolen items often crossing international borders to reach overseas markets in a matter of days. This growing trend presents severe challenges for security and asset protection across global freight operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cargo-thieves-are-laundering-freight-through-the-supply-chain-cornell-warns"
+  },
+  {
+    "headline": "St. Louis Regional Carriers Flanagan-White and Zipp Express Merge",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Two St. Louis-based expedited delivery providers, Flanagan-White and Zipp Express, have combined their operations and assets. The merger is designed to strengthen regional coverage and expand service capabilities for local clients. Both companies specialize in time-sensitive shipping and regional transport logistics, leveraging this integration to streamline operations and improve delivery efficiency throughout the service area.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/st-louis-delivery-companies-flanagan-white-zipp-express-merge-operations"
+  },
+  {
+    "headline": "Thieves Steal Branded Trailers Only to Find Sand Inside",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-30",
+    "summary": "Criminals targeted a warehouse in Fremont, California, cutting locks to steal trailers featuring prominent technology branding. Local law enforcement located the missing equipment later that same day in a nearby municipality. Upon inspection, authorities discovered the cargo compartments held heavy bags of sand rather than valuable electronic components. Investigators continue to search for the individuals responsible for the overnight theft, while the intended contents and true target of the operation remain unclear.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/thieves-steal-plusai-trailers-with-nvidia-branding-get-40000-pounds-of-sand-instead"
+  },
+  {
+    "headline": "New US Bill Proposes Stricter Trucker Rules and Cabotage Fines",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "A Texas lawmaker has introduced federal legislation aimed at tightening regulations within the trucking industry. The proposed measure establishes mandatory English language proficiency testing for commercial driver's license applicants and significantly increases penalties for illegal cabotage violations, aiming to reach up to one hundred thousand dollars. Additionally, the legislation seeks to enhance enforcement mechanisms targeting deceptive carrier practices, commonly known as chameleon carriers, to improve overall safety and compliance standards across the sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-bill-proposes-100k-cabotage-fines-mandatory-english-tests-for-truckers"
+  },
+  {
+    "headline": "ONE Restructures Regional Decision-Making in Ocean Sector",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Ocean Network Express has reorganized its regional management structure in response to expanding market activities. The adjustment is designed to optimize operational oversight and decision-making processes across key maritime trade corridors as demand patterns evolve. By decentralizing certain responsibilities to growth regions, the container shipping enterprise aims to improve agility and service delivery for international shippers navigating complex maritime supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/one-restructures-in-key-ocean-region"
+  },
+  {
+    "headline": "SF Holding faces high fuel costs and an unexplained stock valuation discount",
+    "continent": "Asia",
+    "country": "China",
+    "category": "strategy",
+    "date": "2026-09-30",
+    "summary": "Elevated fuel expenses significantly impacted the second-quarter financial performance of major transport provider SF Holding. Despite these increased operational costs, analysts note that the company's current stock valuation remains disproportionately low compared to industry peers like FedEx and UPS when evaluated on projected earnings and enterprise value metrics. Furthermore, the market value of its majority stake in subsidiary KLN fails to account for the wider valuation gap, leaving the underlying cause of the discount unclear.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/analysis-sf-holding-has-a-fuel-problem-but-valuation-discount-unexplained/"
+  },
+  {
     "headline": "Nationwide Cargo Theft Operation Recovers $635K in Goods",
     "continent": "North America",
     "country": "United States",
