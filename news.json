@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Ross Invests $500M in New California Distribution Center",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-09-29",
+    "summary": "Off-price retailer Ross has announced plans to construct a massive distribution facility spanning 1.75 million square feet in California. Representing an investment of $500 million, the upcoming site is scheduled to begin construction in 2027 and will function as the company's tenth major distribution hub. This expansion is designed to support the retailer's growing fulfillment network and improve supply chain capacity for its store operations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ross-plans-175m-square-foot-distribution-center-in-california/831523/"
+  },
+  {
+    "headline": "CPGs Address Rising Costs and Supply Chain Strategies",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-09-29",
+    "summary": "Executives from major consumer packaged goods companies recently addressed operational challenges during an industry conference. Representatives from Colgate-Palmolive and Kimberly-Clark highlighted ongoing financial pressures stemming from escalating materials and freight expenses. Meanwhile, Procter and Gamble outlined its next-generation supply chain modernization framework, detailing how technological upgrades and structural adjustments aim to enhance resilience and navigate current economic headwinds affecting global distribution and procurement networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/3-cpgs-discuss-automation-sourcing-and-logistics-risks/831400/"
+  },
+  {
+    "headline": "Major manufacturers announce U.S. facility investments and closures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-29",
+    "summary": "Several major companies are restructuring their physical footprints across the United States through new investments and facility closures. Key developments include Eli Lilly breaking ground on a new site in Houston, alongside expansion projects announced by auto parts suppliers Hansae and Toyotetsu. Concurrently, organizations such as Amazon, U.S. Steel, and Pirelli are dedicating capital to upgrade their operational facilities. In contrast, Amy's Kitchen and other unnamed businesses are moving in the opposite direction by shuttering existing locations, highlighting ongoing adjustments to manufacturing and distribution footprints within the American industrial sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-us-steel-pirelli-and-others-make-facility-investments/831499/"
+  },
+  {
+    "headline": "Descartes Introduces AI Tool for Global Trade Data Analysis",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-09-29",
+    "summary": "Descartes Systems Group has integrated a conversational artificial intelligence agent into its Datamyne trade intelligence platform. This new feature enables supply chain professionals to query and evaluate international shipment metrics through standard conversational prompts, streamlining access to complex shipping records and trade intelligence. The capability is designed to simplify data retrieval and enhance market research efficiency for global logistics and trade operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/descartes-launches-ai-agent-for-global-trade-data-research"
+  },
+  {
+    "headline": "Flexport Introduces MCP Server Enabling AI Freight Booking",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "Digital freight network Flexport has rolled out a Model Context Protocol server that allows external artificial intelligence agents to book shipments directly. This new capability works alongside the company's proprietary internal autonomous agents, which reportedly manage millions of operational tasks annually. Additionally, the release incorporates upgraded customs processing capabilities and enhancements to the Atlas platform, marking a significant step toward automated supply chain transactions and agent-to-agent enterprise communication.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/flexport-mcp-server-ai-agents-freight-booking"
+  },
+  {
+    "headline": "Trump Visits Texas Peterbilt Plant to Promote Tariffs and U.S. Manufacturing",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-09-29",
+    "summary": "Former President Donald Trump is scheduled to tour a commercial vehicle manufacturing facility in Texas to highlight policy initiatives centered on tariffs and domestic production growth. The visit focuses on bolstering the industrial sector within the United States through trade restrictions and related economic strategies designed to support local factories.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trump-to-visit-texas-plant-to-tout-manufacturing-agenda"
+  },
+  {
+    "headline": "Arkansas Highway Police Seize $5.1M in Illicit Cargo During Truck Stops",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-29",
+    "summary": "During routine commercial vehicle inspections along Interstate 40 in Arkansas, state highway enforcement officers intercepted over 250 kilograms of cocaine, alongside methamphetamine and a stolen utility vehicle. The total estimated street value of the confiscated contraband reached approximately 5.1 million dollars. These enforcement actions highlight ongoing security and contraband screening challenges within regional freight transportation corridors, prompting increased vigilance among law enforcement agencies monitoring commercial motor carrier operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/arkansas-i-40-truck-inspections-uncover-5-1m-in-cocaine-plus-meth-and-stolen-utv"
+  },
+  {
     "headline": "Electrolux Names Daniele Rossi New Chief Procurement Officer",
     "continent": "Global",
     "country": "Multiple",
@@ -348,6 +418,16 @@
     "summary": "Severe weather events and operational bottlenecks at Asian ports have removed roughly eight and a half percent of the worldwide container ship fleet from active service. This disruption amounts to three million TEU of tied-up capacity, which is comparable to the size of a top-tier global shipping carrier. Consequently, global schedule reliability dropped under fifty percent following consecutive monthly declines, severely impacting maritime logistics and vessel availability across international trade routes.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/delays-mount-as-port-disruption-in-asia-ties-up-3m-teu-of-box-capacity/"
+  },
+  {
+    "headline": "IRS Announces Updated Per Diem Rates for Freight Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-27",
+    "summary": "The Internal Revenue Service has announced upcoming adjustments to its per diem reimbursement rates, introducing stability for certain calculation methods while increasing rates for others. These rates impact transportation and logistics companies that compensate traveling personnel for lodging, meals, and incidental expenses. Fleet operators and supply chain businesses monitor these annual adjustments closely to manage operating expenses and maintain accurate tax compliance for driver and courier per diems.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/per-diem-one-approach-is-stable-other-is-higher"
   },
   {
     "headline": "Aurora Targets 30,000 Autonomous Trucks by 2030",
