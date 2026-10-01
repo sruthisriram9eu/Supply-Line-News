@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Maersk Expands Domestic US Logistics and Freight Network",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Ocean carrier Maersk has expanded its operational footprint within the United States by developing an extensive ground freight system. The company's e-commerce division now coordinates directly with its contract logistics and air cargo operations. This integration allows the transport provider to offer comprehensive domestic supply chain solutions alongside its traditional maritime shipping services, enhancing its capability to handle end-to-end freight movements across the country.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/not-just-ocean-how-maersk-grew-its-us-logistics-capabilities/829105/"
+  },
+  {
+    "headline": "Amazon Introduces Delivery Updates for Bulky Shipments",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Amazon has introduced new features designed to assist merchants handling oversized shipments. Revealed at a recent company event, the enhancements feature regionally based delivery pricing alongside pre-negotiated less-than-truckload freight rates. These tools aim to streamline the transportation process for large and bulky goods, providing businesses with improved cost predictability and operational efficiency within their distribution networks. The updates reflect ongoing efforts by the e-commerce giant to expand its logistics infrastructure and better support enterprise shipping requirements.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/"
+  },
+  {
+    "headline": "Ethiopian Airlines Orders Ten Boeing Freighters",
+    "continent": "Africa",
+    "country": "Ethiopia",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Ethiopian Airlines has finalized an agreement with Boeing to acquire ten 777 freighter aircraft. This purchase is designed to grow the carrier's cargo capacity in the immediate future. Additionally, the deal includes an agreement for eight 777-8 freighter models scheduled for delivery in the following decade, pending the commencement of production for that specific aircraft variant. The investment supports the airline's long-term strategy to expand its global freight operations and maintain a modern cargo fleet.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ethiopian-airlines-to-buy-10-777-freighters-from-boeing"
+  },
+  {
+    "headline": "US-Mexico Cross-Border Trucking Capacity Strains Nearshoring Growth",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Accelerating nearshoring initiatives across North America are creating significant friction as commercial transport capacity tightens along the United States and Mexico border. While cross-border investments continue to reshape regional trade routes and operational networks, the surge in freight volume is outpacing available trucking resources. Industry participants must navigate these escalating corridor bottlenecks and equipment shortages, which threaten to disrupt manufacturing schedules and distribution timelines throughout the binational trade ecosystem.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/nearshoring-growth-collides-with-tightening-us-mexico-trucking-capacity"
+  },
+  {
+    "headline": "Los Angeles Jury Convicts Two in $2M Cargo Theft Ring",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "A federal jury in Los Angeles convicted two individuals involved in a multimillion-dollar cargo theft operation spanning across the United States. The perpetrators utilized acquired trucking businesses to intercept and steal high-value freight, including a shipment of televisions originally dispatched from California and destined for Florida. Investigators uncovered the extensive logistics fraud scheme after tracking the missing transport, revealing how the network systematically exploited legitimate transport companies to perpetrate widespread cargo losses.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/la-jury-convicts-2-in-2m-nationwide-cargo-theft-ring-using-purchased-trucking-companies"
+  },
+  {
+    "headline": "Harbinger Secures Large FedEx Order for 2,000 Electric Trucks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Vehicle manufacturer Harbinger has secured a major binding contract with FedEx to supply 2,000 medium- and heavy-duty electric trucks. Valued at over $300 million, the fleet deployment is scheduled for completion by the end of 2027. This procurement represents one of the most substantial commercial orders for heavy electric vehicles to date, supporting corporate fleet electrification goals and sustainable logistics operations within the distribution network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/harbinger-fedex-2000-electric-truck-order"
+  },
+  {
+    "headline": "Trans-Pacific ocean freight rates hit yearly high",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Trans-Pacific maritime shipping rates have climbed to their highest levels in a year, driven by a temporary trade truce between the United States and China. This recent diplomatic development has briefly reduced operational uncertainty for both ocean carriers and cargo importers operating across the Pacific trade lanes. Despite the temporary easing of geopolitical tensions, ocean freight pricing reflects continued volatility in the major international shipping corridor as market participants navigate changing trade dynamics.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ocean-rates-highest-in-a-year-amid-us-china-trade-truce"
+  },
+  {
+    "headline": "US Rail Freight Continues Strong Growth Trajectory",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Recent weekly performance data indicates sustained growth for United States freight rail networks. Both industrial commodity tonnage and intermodal shipping volumes posted solid gains, driving continued momentum across domestic rail operations. This upward trend highlights robust demand for freight transportation services, reflecting steady movement in manufacturing and consumer goods sectors nationwide.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/another-strong-week-for-industrial-rail-freight"
+  },
+  {
     "headline": "Mars Misses 2025 Goal for 100% Responsibly Sourced Cocoa",
     "continent": "Global",
     "country": "Multiple",
@@ -2918,35 +2998,5 @@
     "summary": "With Middle East shipping disruptions and elevated US tariffs squeezing European trade, the EU is leaning harder into new free-trade agreements, including deals with India and the Mercosur bloc in South America, to open alternative markets and sourcing options. The strategy reflects a broader European effort to diversify away from reliance on any single trading partner, giving multinationals operating in Europe more room to rethink where they source and sell.",
     "sourceName": "Oxford Economics",
     "sourceUrl": "https://www.oxfordeconomics.com/trade/"
-  },
-  {
-    "headline": "\"Volatility is the new normal,\" 2026 logistics report finds",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-06-15",
-    "summary": "The 2026 State of Logistics Report concludes that supply chain volatility has become a permanent operating condition rather than a temporary disruption, with U.S. logistics costs now running at $2.4 trillion, or 7.8% of GDP. The report argues that resilience needs to move from a reactive stance into core strategy, pushing companies to build flexibility into sourcing, inventory and transportation decisions rather than optimizing purely for cost, since the next shock is treated as a matter of when, not if.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
-  },
-  {
-    "headline": "China's factory activity cools to the flatline",
-    "continent": "Asia",
-    "country": "China",
-    "category": "manufacturing",
-    "date": "2026-06-02",
-    "summary": "China's official manufacturing purchasing managers' index slipped to 50.0 in May, the line between expansion and contraction, signaling that factory output is barely growing. The reading adds to a run of soft data out of Chinese manufacturing this year and is being watched closely by planners elsewhere in Asia, since a slowdown in China's factory base tends to ripple into component and raw-material orders across the wider region. Analysts see manufacturers leaning harder into lean scheduling to protect margins rather than chase volume.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
-  },
-  {
-    "headline": "Morgan Stanley commits $200 billion to sustainability investment",
-    "continent": "North America",
-    "country": "United States",
-    "category": "sustainability",
-    "date": "2026-05-20",
-    "summary": "Morgan Stanley says it will invest $200 billion in sustainability-focused companies and projects while pulling back some financing tied to fossil fuels, a move that follows internal criticism over the bank's climate record. The shift matters for supply chain teams because banks increasingly influence which capital projects, including greener freight, packaging and manufacturing investments, get funded, and a major lender leaning further into sustainability financing can make climate-linked upgrades cheaper for suppliers to justify.",
-    "sourceName": "Supply Chain Digest",
-    "sourceUrl": "https://www.scdigest.com/"
   }
 ]
