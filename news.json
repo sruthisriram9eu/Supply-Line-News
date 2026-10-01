@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Warehouse AI Uses Existing Cameras to Optimize Dock Operations",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-01",
+    "summary": "Artificial intelligence software leverages standard security and operational cameras already installed in distribution centers to monitor facility bottlenecks without requiring new hardware investments. The technology identifies inefficiencies such as blocked pathways, vehicle congestion, and underutilized loading bays as they occur. By detecting these routine disruptions in real time, warehouse managers can resolve operational delays more quickly and improve overall facility throughput and productivity.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/warehouse-ai-using-existing-cameras-to-cut-idle-dock-time"
+  },
+  {
+    "headline": "Domestic Intermodal Freight Volume Reaches Record High",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Domestic intermodal container volumes have surged to a new annual high, surpassing 21,000 units. This growth is primarily fueled by substantial cost savings, prompting increased freight conversion from traditional over-the-road trucking to rail networks. Industry analysts are evaluating which specific shipping lanes deliver the greatest financial efficiencies as supply chain operators prepare for fourth-quarter demand and capacity adjustments.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/intermodal-hits-annual-high-21k-containers"
+  },
+  {
     "headline": "Maersk Expands Domestic US Logistics and Freight Network",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "The US administration is preparing tariffs targeting generic medicines, a corner of the pharmaceutical industry with an unusually complex, cost-sensitive global supply chain built on thin margins. Because generics rely heavily on active ingredients sourced from a handful of manufacturing hubs, procurement teams warn that added tariffs could squeeze supply and push up prices for widely used medicines faster than for branded drugs, which have more room to absorb the cost.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
-  },
-  {
-    "headline": "USPS shifts more mail onto air cargo as costs climb",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-08-13",
-    "summary": "The US Postal Service moved a larger share of its volume onto air cargo, much of it handled by UPS, pushing its transportation costs higher year over year in the most recent quarter. The agency's inspector general says USPS still sees room to compete on dynamic routing against dedicated parcel carriers, even as it works through a broader reorganization intended to speed decisions across its middle-mile transportation network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/topic/logistics/"
-  },
-  {
-    "headline": "EU push for new free-trade deals counters rising US tariffs",
-    "continent": "Europe",
-    "country": "European Union",
-    "category": "international_relations",
-    "date": "2026-08-10",
-    "summary": "With Middle East shipping disruptions and elevated US tariffs squeezing European trade, the EU is leaning harder into new free-trade agreements, including deals with India and the Mercosur bloc in South America, to open alternative markets and sourcing options. The strategy reflects a broader European effort to diversify away from reliance on any single trading partner, giving multinationals operating in Europe more room to rethink where they source and sell.",
-    "sourceName": "Oxford Economics",
-    "sourceUrl": "https://www.oxfordeconomics.com/trade/"
   }
 ]
