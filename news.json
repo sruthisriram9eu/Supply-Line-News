@@ -1,5 +1,35 @@
 [
   {
+    "headline": "CMA CGM Completes $1.4B Acquisition of FedEx Supply Chain",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-01",
+    "summary": "The French shipping and logistics enterprise CMA CGM Group has successfully concluded its purchase of the logistics subsidiary from FedEx for $1.4 billion. This strategic transaction allows the parcel delivery and freight transportation corporation to divest its third-party contract logistics operations and refocus entirely on its core transport and delivery services.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cma-cgm-finalizes-1-4b-acquisition-of-fedex-supply-chain"
+  },
+  {
+    "headline": "CMA CGM Finalizes $1.4B Acquisition of FedEx Supply Chain",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-01",
+    "summary": "Maritime transport operator CMA CGM has finalized its acquisition of the contract logistics division of FedEx for $1.4 billion. The acquired business will be integrated into Ceva Logistics, significantly expanding its operational footprint across North America. This consolidation adds millions of square feet of warehouse capacity and thousands of employees to the regional network, strengthening Ceva's position in the third-party logistics market.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cma-cgm-completes-1-4bn-fedex-supply-chain-takeover/"
+  },
+  {
+    "headline": "Thai Airways reverses cargo embargo following government intervention",
+    "continent": "Asia",
+    "country": "Thailand",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "The national carrier has reversed its prior decision to halt all cargo bookings for six days. Government officials intervened to address severe labor and equipment shortages caused by recent severe flooding, which initially forced the airline to suspend freight operations. Authorities deployed military assistance to resolve the operational bottlenecks and mitigate potential disruptions to the regional export sector, allowing the airline to resume normal cargo acceptance schedules.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/military-aid-prompts-thai-airways-u-turn-on-cargo-booking-embargo/"
+  },
+  {
     "headline": "WiseTech Expands Air Cargo Booking Direct Capabilities",
     "continent": "Global",
     "country": "Multiple",
@@ -2968,35 +2998,5 @@
     "summary": "China has opened a new $10 billion canal that shortens shipping distances between its southern provinces and Southeast Asia, giving Beijing a fresh lever in shaping regional trade flows. The project strengthens China's position along routes tied to its Belt and Road ambitions and is expected to pull some volume away from existing ports, prompting ASEAN economies to reassess their own logistics investments and hub strategies in response.",
     "sourceName": "Value Chain Asia",
     "sourceUrl": "https://valuechainasia.com/articles/all"
-  },
-  {
-    "headline": "Thailand pulls in $30 billion as manufacturers pick their ASEAN base",
-    "continent": "Asia",
-    "country": "Thailand",
-    "category": "procurement",
-    "date": "2026-09-04",
-    "summary": "Thailand attracted roughly $30 billion in investment over a single quarter as manufacturers look to diversify sourcing away from China and settle on an ASEAN production base. The inflow reflects a broader \"China plus one\" sourcing pattern that has been building for several years, with procurement teams weighing labor costs, port access and tariff exposure as they decide where to anchor supply chains for the next decade.",
-    "sourceName": "Value Chain Asia",
-    "sourceUrl": "https://valuechainasia.com/articles/all"
-  },
-  {
-    "headline": "Typhoons back up four Chinese port hubs at once",
-    "continent": "Asia",
-    "country": "China",
-    "category": "storage_distribution",
-    "date": "2026-09-02",
-    "summary": "A run of typhoons swept through Shanghai, Ningbo, Yantian and Hong Kong within days of each other, leaving an estimated 400,000 containers stuck waiting for clearance. Shekou and Yantian remain under gate-in restrictions while terminals work through the backlog, and forwarders expect the congestion to stretch into September. The disruption lands during peak pre-Golden Week shipping season, straining already-tight vessel space toward Europe and North America and pushing carriers to layer on extra surcharges.",
-    "sourceName": "Dimerco Asia Pac Freight Report",
-    "sourceUrl": "https://dimerco.com/news-press/asia-pac-freight-report-september-2026/"
-  },
-  {
-    "headline": "DHL folds its global business under a new parent, DHL AG",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-09-01",
-    "summary": "DHL Group has completed a corporate restructuring that places its worldwide operations under a new parent entity, DHL AG. The reorganization is designed to streamline how the group governs its logistics, freight forwarding and express divisions globally, and comes as the company keeps expanding its footprint across express delivery and contract logistics in fast-growing markets.",
-    "sourceName": "Asia Cargo News",
-    "sourceUrl": "https://www.asiacargonews.com/en/News/Main/?cat_id=10"
   }
 ]
