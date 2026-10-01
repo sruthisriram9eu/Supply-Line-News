@@ -1,5 +1,45 @@
 [
   {
+    "headline": "WiseTech Expands Air Cargo Booking Direct Capabilities",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "WiseTech Global is intensifying competition for independent air freight booking platforms by expanding direct booking capabilities within its CargoWise software. The system now allows freight forwarders to search, compare, and reserve cargo space directly from represented carriers following a partnership with ATC Aviation Services. This integration enables general sales and service agents to connect to the platform, potentially shifting how the logistics industry manages air freight procurement and operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/wisetech-air-cargo-push-challenges-independent-booking-platforms/"
+  },
+  {
+    "headline": "China Enhances River Port Infrastructure to Expand Ocean Shipping",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Infrastructure enhancements across China's river port network are bridging the gap between inland manufacturing hubs and global maritime routes. Wenzhou has initiated a direct container shipping service connecting to West Africa, leveraging its position on the Oujiang river. This development provides regional producers in southern Zhejiang and northern Fujian with direct access to international trade networks, illustrating a broader operational shift where inland waterways increasingly function as direct gateways for ocean-going freight.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/investment-in-chinas-river-ports-brings-ocean-services-closer-to-shippers/"
+  },
+  {
+    "headline": "US Holiday Online Sales to Rise Without Major Delivery Bottlenecks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Online consumer spending in the United States is projected to grow by 6.7 percent during the upcoming holiday season compared to the previous year, driven by shifts in purchased goods and the integration of artificial intelligence technologies. Despite this anticipated surge in retail expenditures, industry analysts predict that overall parcel volumes will not experience dramatic growth, and serious supply chain bottlenecks or delivery disruptions are not expected to occur, even amidst ongoing inflationary pressures.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/holiday-shopping-sprees-set-to-increase-but-without-delivery-headaches/"
+  },
+  {
+    "headline": "Air Cargo Gains Prominence Amid Regulatory and Planning Shifts",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Airfreight is evolving from a fallback measure into a core component of supply chain planning following pandemic-era disruptions. While shippers increasingly rely on this transport mode for resilience as holiday periods approach, industry experts warn that upcoming regulatory changes regarding direct air waybills may introduce operational complexity. Navigating these new documentation rules will be critical for businesses as they integrate air cargo more permanently into their logistics strategies.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/air-cargo-gains-ground-with-shippers-but-concerns-remain-on-waybill-changes/"
+  },
+  {
     "headline": "Warehouse AI Uses Existing Cameras to Optimize Dock Operations",
     "continent": "North America",
     "country": "Multiple",
@@ -18,6 +58,16 @@
     "summary": "Domestic intermodal container volumes have surged to a new annual high, surpassing 21,000 units. This growth is primarily fueled by substantial cost savings, prompting increased freight conversion from traditional over-the-road trucking to rail networks. Industry analysts are evaluating which specific shipping lanes deliver the greatest financial efficiencies as supply chain operators prepare for fourth-quarter demand and capacity adjustments.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/intermodal-hits-annual-high-21k-containers"
+  },
+  {
+    "headline": "US Diesel Surcharges Drop Following Increased Gulf Oil Output",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-09-30",
+    "summary": "Benchmark diesel prices, widely utilized for calculating freight fuel surcharges, experienced a decline after three consecutive weeks of increases. This downward price movement comes as a direct result of higher oil production coming out of the Gulf region, providing some financial relief to transportation and shipping operations after a period of escalating fuel expenses.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/more-oil-out-of-the-gulf-translating-to-lower-prices"
   },
   {
     "headline": "Maersk Expands Domestic US Logistics and Freight Network",
@@ -2948,55 +2998,5 @@
     "summary": "DHL Group has completed a corporate restructuring that places its worldwide operations under a new parent entity, DHL AG. The reorganization is designed to streamline how the group governs its logistics, freight forwarding and express divisions globally, and comes as the company keeps expanding its footprint across express delivery and contract logistics in fast-growing markets.",
     "sourceName": "Asia Cargo News",
     "sourceUrl": "https://www.asiacargonews.com/en/News/Main/?cat_id=10"
-  },
-  {
-    "headline": "Generic drug imports from the EU lose their tariff shield",
-    "continent": "Europe",
-    "country": "European Union",
-    "category": "international_relations",
-    "date": "2026-09-01",
-    "summary": "From 1 September, generic medicines, their active ingredients and chemical precursors shipped from the EU to the US move off the negotiated 15% tariff ceiling and onto standard most-favored-nation rates, ending a protection that still applies to branded pharma. The change is one of two phased steps written into the EU-US trade framework, and comes as Washington separately threatens tariffs as high as 100% on branded drug imports from firms that haven't committed to US manufacturing.",
-    "sourceName": "Tariffs Tool",
-    "sourceUrl": "https://www.tariffstool.com/guides/eu-us-trade-deal-15-percent-tariff-live"
-  },
-  {
-    "headline": "A third of the world's busiest ports face high disruption risk",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-08-28",
-    "summary": "A new risk assessment from Verisk Maplecroft finds that roughly one in three of the world's busiest ports and airports face elevated risk of disruption from armed conflict, extreme weather or political instability. The report is a reminder that physical distribution networks stay concentrated around a small number of chokepoints, and that resilience planning increasingly has to weigh climate and geopolitical risk together rather than as separate categories.",
-    "sourceName": "Supply Chain 24/7",
-    "sourceUrl": "https://www.supplychain247.com/topic/category/news"
-  },
-  {
-    "headline": "AI is moving from back-office reports to live supplier and customer calls",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "crm",
-    "date": "2026-08-22",
-    "summary": "Manufacturers are increasingly using AI-driven orchestration tools to manage live decisions about tariffs, nearshoring and which supplier or customer order gets priority when capacity is tight. Kinaxis says the shift marks a move away from AI as a static reporting layer toward something closer to a real-time control tower, helping account teams answer customer questions about delivery dates with more confidence during a volatile trade environment.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
-  },
-  {
-    "headline": "Amazon opens a Shanghai warehouse to speed Chinese sellers into the US",
-    "continent": "Asia",
-    "country": "China",
-    "category": "storage_distribution",
-    "date": "2026-08-20",
-    "summary": "Amazon has opened a new warehouse near Shanghai designed to help Chinese third-party sellers consolidate and move inventory into its US fulfillment network more quickly and cheaply. The facility shortens the first leg of a journey that typically ends in an American fulfillment center, part of a broader push by Amazon to tighten the pipeline between Chinese manufacturing and US shelves as sellers navigate shifting tariff rules.",
-    "sourceName": "Supply Chain 24/7",
-    "sourceUrl": "https://www.supplychain247.com/topic/category/news"
-  },
-  {
-    "headline": "Washington's tariff push takes aim at generic drug supply chains",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-08-15",
-    "summary": "The US administration is preparing tariffs targeting generic medicines, a corner of the pharmaceutical industry with an unusually complex, cost-sensitive global supply chain built on thin margins. Because generics rely heavily on active ingredients sourced from a handful of manufacturing hubs, procurement teams warn that added tariffs could squeeze supply and push up prices for widely used medicines faster than for branded drugs, which have more room to absorb the cost.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/category/news/business/supply-chains"
   }
 ]
