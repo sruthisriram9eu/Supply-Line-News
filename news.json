@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Puma Partners with Maersk for US Distribution Network",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-02",
+    "summary": "Footwear and apparel brand Puma has signed an agreement with shipping giant Maersk to oversee its distribution network across the United States. As part of this arrangement, capacity within three of Puma's American distribution facilities will be shared with other clients utilizing Maersk's logistics services. This partnership aims to optimize storage and distribution operations while improving space utilization across the supply chain network in the region.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/puma-taps-maersk-to-manage-north-america-distribution-network/831623/"
+  },
+  {
+    "headline": "AutoZone Expands Domestic Mega Hub Network",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-02",
+    "summary": "AutoZone continues to scale its domestic distribution footprint by opening multiple mega hubs over the recent quarter and fiscal year. This expansion supports the retailer's ongoing inventory replenishment strategy, aimed at improving product availability and speeding up delivery times across its domestic supply chain network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/autozone-hones-in-on-domestic-distribution-network/831931/"
+  },
+  {
+    "headline": "FedEx introduces QR code verification for high-value deliveries",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-02",
+    "summary": "FedEx has launched a new security service requiring recipients to scan a specific QR code upon package arrival. This verification method aims to improve the safe transport and final-mile handoff of valuable cargo, such as consumer electronics, by reducing potential theft or misplacement during the last stage of the distribution journey. The optional feature provides shippers with greater control and confirmation when moving sensitive goods directly to consumers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fedex-rolls-out-added-security-option-for-select-deliveries/831596/"
+  },
+  {
+    "headline": "Geotab Introduces Telematics-Powered Fleet Card for Fuel",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Geotab has introduced a new fleet card that integrates vehicle telematics to oversee fuel spending and authorize purchases. The launch comes as trucking operators face significant cost pressures from high diesel prices, which can fluctuate substantially between nearby fuel stations in the same geographic area. The technology aims to provide better financial oversight and prevent unauthorized transactions, helping fleet managers navigate volatile operating costs.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/geotab-launches-fleet-card-as-diesel-prices-pressure-trucking"
+  },
+  {
+    "headline": "FedEx and UPS Introduce New Parcel Security and Risk Tools",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Major logistics providers FedEx and UPS are actively promoting enhanced shipping security solutions and risk intelligence platforms. These newly updated offerings aim to help business customers minimize package losses while simultaneously simplifying and accelerating the operational claims process. By emphasizing these advanced technological tools, the major couriers are working to set their services apart from basic delivery alternatives in a competitive market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-and-ups-highlight-parcel-security-risk-management-tools"
+  },
+  {
+    "headline": "Cross-Border Trucking Blitz Sidelines Hundreds of Vehicles",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Recent commercial vehicle safety inspections conducted across North America resulted in numerous trucks and operators being removed from service. Law enforcement agencies in the United States and Canada targeted various infractions, including improper licensing, mechanical equipment defects, and distracted driving behaviors. These coordinated enforcement actions are designed to improve overall highway safety by identifying and penalizing non-compliant transport operators and commercial motor vehicles.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/us-canada-truck-enforcement-blitzes-sideline-350-drivers-vehicles"
+  },
+  {
+    "headline": "US Trucking Employment Exceeds Year-Ago Levels for First Time",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Employment figures within the trucking sector for September surpassed totals recorded twelve months prior, marking a significant milestone for the freight industry. This growth concludes a prolonged period of stagnant or declining workforce numbers that has persisted for several years, signaling a potential shift in labor market conditions and sector demand. Observers note this positive trajectory reflects gradual adjustments in freight volumes and operational capacities across the transportation network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/took-awhile-to-happen-but-trucking-jobs-are-now-more-than-year-ago"
+  },
+  {
+    "headline": "Daimler Truck Outlines Infrastructure Needs for Zero-Emission Fleets",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Daimler Truck executive Karin Rådström emphasizes that expanding the adoption of zero-emission commercial vehicles relies heavily on the rapid development of supporting infrastructure. Although more than sixty electric truck models are currently available, industry growth is constrained by a lack of widespread charging stations and hydrogen refueling networks. Furthermore, the company highlights that policy measures such as carbon-based road tolls are necessary to accelerate the transition toward sustainable freight transport and ensure that refueling infrastructure catches up with vehicle manufacturing capabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/daimler-truck-scale-electric-trucks-europe"
+  },
+  {
+    "headline": "Vancouver Dockworkers Protest Port Automation and AI",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Port workers in Canada recently staged demonstrations at the Port of Vancouver to voice opposition to the implementation of artificial intelligence and automated technology. International labor unions coordinated the protests to demand that technological advancements in maritime facilities do not compromise waterfront employment opportunities, undermine established collective bargaining agreements, or lead to wage reductions for personnel.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dockworkers-protest-at-port-of-vancouver-over-automation-ai"
+  },
+  {
     "headline": "CBP Seizes $6M in Cocaine Concealed in Empty Trailer",
     "continent": "North America",
     "country": "United States",
@@ -2908,95 +2998,5 @@
     "summary": "Carrier CMA CGM has invoked General Average for the vessel CMA CGM Petra following a container fire that broke out in late August during a voyage from Singapore to Colombo. The ship's crew successfully managed the initial blaze without casualties before professional salvors intervened near Penang. The vessel was later towed to a secure location for further assessment and repairs, triggering complex financial and legal responsibilities for all cargo owners involved in the voyage.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/general-average-declared-on-cma-cgm-petra-as-maersk-wins-13m-fire-case/"
-  },
-  {
-    "headline": "Maersk Becomes Top Intra-Asia Carrier by Capacity",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Maersk has surpassed Cosco to secure the leading position in deployed container shipping capacity within the intra-Asia market. Market data indicates that regional trade capacity experienced a 6.2 percent year-over-year increase, reaching nearly 2.6 million TEUs. This growth rate outpaces the broader global container fleet expansion of over five percent during the same timeframe, highlighting heightened competition and continued expansion across the regional trade corridor.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/maersk-overtakes-cosco-to-top-intra-asia-capacity-rankings/"
-  },
-  {
-    "headline": "South Korea Arctic shipping plan falters over costs and volume",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "South Korea faces setbacks in its initiative to establish regular container shipping services along the Northern Sea Route by the end of the decade. Despite financial incentives offered by the Ministry of Oceans and Fisheries to support the construction of ice-class vessels in domestic shipyards, local maritime companies remain hesitant. Persistent economic hurdles, including prohibitive operating expenses and insufficient cargo volumes, have stalled progress toward creating a faster maritime trade corridor linking the nation to European markets.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/south-koreas-arctic-shipping-ambitions-on-ice-due-to-high-costs-and-low-volumes/"
-  },
-  {
-    "headline": "US Diesel Benchmark and Futures Hit Record Highs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "The national average diesel price utilized for calculating standard fuel surcharges has reached an unprecedented peak. Simultaneously, corresponding futures contracts have climbed to record levels, driving up operational expenses for fleet operators and freight carriers across the transportation sector. This significant fuel cost escalation directly impacts logistics expenses throughout the distribution network, placing additional financial pressure on carriers that rely heavily on fuel surcharge adjustments to manage volatile energy markets.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/doe-eia-price-at-record-as-diesel-surge-shows-no-sign-of-retreat"
-  },
-  {
-    "headline": "US Container Imports Rise 3.8% to Reach 2.6 Million TEUs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Containerized import volumes into the United States expanded by 3.8 percent from the preceding month, reaching 2.60 million TEUs. This total marks the third-highest monthly volume recorded. Growth was distributed across marine terminals on the East, Gulf, and West coasts. The upward trend was supported by widespread volume increases across primary sourcing regions. Concurrently, maritime gateways experienced extended transit delays as cargo processing volumes increased.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/u-s-container-imports-climb-3-8-to-2-6-million-teus-3rd-highest-monthly-level"
-  },
-  {
-    "headline": "Amazon Suspends Cargo Contract With 21 Air Following Crash",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Amazon has temporarily halted its air freight operations with provider 21 Air. The decision follows a fatal accident involving one of the carrier's aircraft. The e-commerce giant stated that the operational pause is a precautionary measure while officials investigate the underlying causes of the incident. This temporary suspension impacts Amazon's domestic air logistics network as the company reviews its safety standards and carrier partnerships in the wake of the tragedy.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/amazon-calls-timeout-on-21-air-cargo-contract"
-  },
-  {
-    "headline": "Radiant Logistics Reports Strong FQ4 Growth",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Radiant Logistics surpassed fiscal fourth-quarter expectations, driven by robust performance within its international operations and a tightening domestic surface transportation market. Leadership anticipates that these favorable freight conditions will continue to positively impact financial results in upcoming periods. Company shares experienced a sixteen percent increase following the earnings announcement.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/radiant-logistics-sees-double-digit-growth-in-fq4-shares-up-16"
-  },
-  {
-    "headline": "Red Sea Returns Expose Carriers to Heightened Houthi Risks",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Ocean carriers are bringing back Red Sea shipping routes, which has driven ocean freight rates down. However, this shift increases vulnerability to potential security incidents and operational interruptions. While routing through the canal offers faster transit times compared to the longer journey around Africa, ongoing regional instability means ocean carriers face heightened exposure to militant activity. Industry observers note that despite cost benefits, the decision to resume transits introduces significant risk management challenges for global maritime supply chains.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/houthi-gains-deepen-risk-as-carriers-restore-red-sea-services"
-  },
-  {
-    "headline": "FMCSA Issues Warning Over Fake Motus Registration Web Domains",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Motor carriers face potential fraud threats as fraudulent operators establish unauthorized web addresses mimicking federal vehicle registration systems. These deceptive portals falsely claim that carrier profiles require urgent updates, directing unsuspecting transportation businesses away from official government networks. Federal regulators have intervened to clarify that only a specific official domain serves as the authorized destination for these administrative procedures, urging trucking operators to remain vigilant against phishing attempts and unauthorized data collection tactics.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-warns-trucking-companies-about-4-fake-motus-registration-sites"
-  },
-  {
-    "headline": "Burlington Expands Solar Power Across Warehouse Network",
-    "continent": "North America",
-    "country": "United States",
-    "category": "sustainability",
-    "date": "2026-09-15",
-    "summary": "Discount retailer Burlington is integrating on-site solar power installations into its supply chain infrastructure. The green energy initiative includes upcoming distribution facilities located in Arizona and California, alongside an operational warehouse in Georgia. This move reflects the company's broader effort to incorporate sustainable energy practices within its physical logistics and warehousing network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/829942/"
   }
 ]
