@@ -1,5 +1,85 @@
 [
   {
+    "headline": "CBP Seizes $6M in Cocaine Concealed in Empty Trailer",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Customs and Border Protection agents at the New York Lewiston Bridge discovered millions of dollars in narcotics concealed beneath the floorboards of an empty commercial semi-trailer. The vehicle, operated by a young driver, was outbound and headed toward Canada when authorities intercepted the illicit shipment. Officials uncovered nearly 180 vacuum-sealed packages during the inspection of the transportation equipment, highlighting ongoing border security and drug interdiction efforts within international freight corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cbp-finds-6m-in-cocaine-hidden-under-floor-of-empty-semi-trailer-bound-for-canada"
+  },
+  {
+    "headline": "Savannah Port Infrastructure Expansion Reaches 60% Completion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-02",
+    "summary": "The Port of Savannah has achieved a major milestone in its ongoing infrastructure development, surpassing the halfway mark for a multi-billion-dollar capacity enhancement project. Managed by the Georgia Ports authority, this large-scale investment aims to accommodate rising future trade volumes and strengthen regional maritime logistics capabilities by expanding handling capacity and improving operational efficiency at the key southeastern hub.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/savannah-port-project-passes-60-complete-mark"
+  },
+  {
+    "headline": "Colombo Port Congestion Raises Costs on India-US Trade Lane",
+    "continent": "Asia",
+    "country": "Sri Lanka",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "The growing status of Colombo as a major transhipment hub has triggered severe port congestion, creating financial burdens for logistics providers and shippers operating along the India-US trade route. Operational bottlenecks at this vital Sri Lankan gateway are increasing the probability of rolled cargo as mainline vessel operators bypass the port to maintain schedule integrity. This maritime disruption compounds existing port congestion challenges already affecting key Indian terminals such as Mundra and Nhava Sheva, heightening overall supply chain vulnerabilities in the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/pressure-on-india-us-trades-as-colombo-becomes-transhipment-hot-spot/"
+  },
+  {
+    "headline": "Ocean Carriers Reshuffle Asia to South America Services",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Major container shipping lines are restructuring their vessel-sharing arrangements and dissolving joint operations on the trade route connecting Asia and the East Coast of South America. Recent departures and partnership dissolutions among leading carriers are fundamentally altering service networks outside of formal alliance structures. Shippers utilizing these maritime corridors are being advised to carefully audit their current freight routings and transit arrangements to avoid unexpected supply chain disruptions stemming from the altered schedules and service terminations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shippers-urged-to-check-routings-as-alliances-redraw-asia-s-america-trade/"
+  },
+  {
+    "headline": "Transpacific Spot Rates Plateau as China Enters Golden Week",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Transpacific ocean freight spot rates have leveled off following a sustained pricing surge throughout September. According to industry analysts, this stabilization coincides with the start of China's Golden Week holiday period. Market indicators suggest that the peak pricing associated with the route has likely reached its ceiling for the current cycle. While rates saw a minor upward tick at the beginning of October, the rapid escalation observed in previous weeks has effectively paused as factory output and shipping volumes moderate for the holiday.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/transpac-spot-rate-climb-takes-a-holiday-as-golden-week-arrives/"
+  },
+  {
+    "headline": "Flydubai Cargo Launches Dedicated Freighter Service",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Flydubai Cargo has introduced three Boeing 737-800 freighters, marking the airline's first dedicated scheduled cargo capacity. Each aircraft provides a 23-tonne payload capability. The new freighter network aims to capture rising regional demand for ecommerce and specialized shipments, addressing market gaps where traditional narrowbody belly capacity falls short.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/"
+  },
+  {
+    "headline": "APEC Considers Funding Digital Infrastructure to Boost Trade",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Finance ministers from twenty-one APEC economies are scheduled to discuss a new digital infrastructure financing initiative developed alongside the Asian Infrastructure Investment Bank. The proposal focuses on addressing funding gaps in cloud computing, broadband, and data centers. While framed as development policy, logistics providers and port operators view the initiative as trade policy, recognizing that modern supply chains increasingly rely on robust digital infrastructure to function efficiently across international markets.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/data-centers-are-the-new-ports-and-apec-finance-ministers-want-to-fund-them/"
+  },
+  {
+    "headline": "Maersk and Hapag-Lloyd anticipate surging profits amid ocean alliance",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Ocean carrier Hapag-Lloyd has upgraded its profit forecast for 2026, setting optimistic expectations for its Gemini alliance partner, Maersk. Market analysts project Maersk will report substantial third-quarter earnings growth, with expected EBITDA figures showing significant increases compared to the previous quarter and the same period last year. These financial gains reflect ongoing profitability within the container shipping sector driven by strong market conditions and alliance operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/counting-the-billions-with-maersk-and-hapag/"
+  },
+  {
     "headline": "Manufacturing Growth Continues Amid Economic Uncertainty",
     "continent": "North America",
     "country": "United States",
@@ -2918,85 +2998,5 @@
     "summary": "Discount retailer Burlington is integrating on-site solar power installations into its supply chain infrastructure. The green energy initiative includes upcoming distribution facilities located in Arizona and California, alongside an operational warehouse in Georgia. This move reflects the company's broader effort to incorporate sustainable energy practices within its physical logistics and warehousing network.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/829942/"
-  },
-  {
-    "headline": "DHL Express launches new heavy air cargo service",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Logistics provider DHL Express has introduced a dedicated freight offering designed for heavy shipments weighing up to 6,000 pounds. The new capability is tailored for commercial clients operating in various industries, including the pharmaceutical sector and automotive manufacturing. By expanding its high-capacity transport options, the company aims to better accommodate oversized industrial freight requirements across its international shipping network, supporting time-sensitive and complex distribution needs for enterprise customers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/dhl-express-rolls-out-heavyweight-air-cargo-service/830311/"
-  },
-  {
-    "headline": "OnTrac Trials Capacity Tool to Reduce Delivery Costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Regional delivery carrier OnTrac is currently pilot testing a new savings mechanism designed to utilize open network capacity and offer reduced shipping rates to customers. Led by CEO Mike Brown, the initiative represents a strategic shift toward a more customer-focused operational model, aiming to optimize asset utilization and improve value for shippers facing rising logistics expenses.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ontrac-aims-to-turn-available-capacity-into-lower-delivery-prices/830393/"
-  },
-  {
-    "headline": "Tesla Plans New Texas Distribution Center by 2028",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-15",
-    "summary": "The automotive manufacturer is preparing to develop a large distribution facility in Texas, according to recent state filings. The expansive property will cover over five hundred thousand square feet and represent an investment of more than one million dollars. Project timelines indicate the facility is scheduled to begin full operational activities by the conclusion of 2028, bolstering the company's regional fulfillment network and distribution capabilities in the American market.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/tesla-preps-14m-texas-distribution-center/830082/"
-  },
-  {
-    "headline": "McCain Foods Appoints New Chief Manufacturing Officer",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-09-15",
-    "summary": "Frozen food manufacturer McCain Foods has appointed a former PepsiCo supply chain executive to lead its global operations. Victoriano Perez Mies steps into the role of chief manufacturing and operations officer, taking charge of overseeing the company's end-to-end supply chain network. The leadership transition aims to optimize production efficiency and strengthen operational execution across the enterprise as the food producer navigates ongoing industry demands and capacity management challenges.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/mccain-foods-taps-pepsico-supply-chain-exec-to-head-operations/829776/"
-  },
-  {
-    "headline": "FMCSA Shuts Down CDL Schools Nationwide",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Federal regulators have executed an emergency shutdown targeting commercial driver's license training facilities across twenty states. The enforcement sweep, spearheaded by authorities in states including Texas, Pennsylvania, California, Florida, and Utah, aims to address compliance and safety issues within the commercial vehicle training sector. This nationwide action directly impacts the pipeline of new truck drivers entering the transportation workforce, potentially tightening driver availability for freight carriers and logistics operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-names-cdl-schools-swept-into-nationwide-emergency-shutdown"
-  },
-  {
-    "headline": "Shipium Launches AI Freight Audit Tool to Catch Billing Errors Early",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Shipium has introduced an automated freight auditing tool that replaces traditional retrospective invoice reviews with real-time shipment monitoring. Utilizing artificial intelligence agents and a digital twin framework, the system identifies misapplied rates, unexpected surcharges, and billing discrepancies before invoices are finalized. According to company leadership, early adopters are already leveraging this capability to prevent financial errors and streamline logistics cost management proactively.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/shipium-rethinks-freight-audit-as-forensics-not-archaeology"
-  },
-  {
-    "headline": "Hapag-Lloyd CEO Highlights Strong Demand Amid Regional Disruptions",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Container shipping demand has demonstrated unexpected resilience in the face of ongoing geopolitical tensions and tariff pressures. However, industry leaders warn that persistent uncertainty surrounding Middle East transit routes and elevated operational expenses continue to present significant challenges for the global maritime logistics sector. Extended voyages and altered pathways through the Red Sea region are driving up costs and straining capacity, creating a complex operating environment for carriers navigating these international trade lanes.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyd-ceo-cites-resilient-demand-but-sees-shipping-market-exposed-to-middle-east-disruption"
-  },
-  {
-    "headline": "New Spot Cargo Insurance Targets Freight Fraud and Theft",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Verified Carrier and MiKargo247 are collaborating to introduce spot cargo insurance tailored to combat sophisticated freight theft schemes. The new offering protects logistics brokers against rising threats such as fictitious pickups, fraudulent double brokering, and carrier identity theft. This partnership aims to mitigate financial risks within the freight transportation network by addressing vulnerabilities exploited by bad actors during the cargo movement process.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mikargo247-verified-carrier-launch-coverage-for-strategic-cargo-theft"
   }
 ]
