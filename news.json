@@ -1,5 +1,145 @@
 [
   {
+    "headline": "Manufacturing Growth Continues Amid Economic Uncertainty",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-01",
+    "summary": "Industrial production increased during September, sustaining growth within the manufacturing sector. However, industry leaders expressed caution regarding future operational conditions. Representatives from the Institute for Supply Management noted that unpredictability surrounding economic policy is creating anxiety among producers, potentially impacting upcoming investment and expansion strategies as businesses struggle to plan effectively for the future amidst fluctuating market signals.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-expands-in-september-but-uncertainty-weighs-on-sentiment/831925/"
+  },
+  {
+    "headline": "Walmart Invests $300M in Ohio Oversized Fulfillment Center",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-01",
+    "summary": "Walmart is investing $300 million to construct a new fulfillment facility close to Cincinnati, Ohio. The upcoming warehouse will focus on processing large, non-sortable merchandise such as household furniture and television sets. This infrastructure expansion aims to enhance the retailer's storage and distribution capabilities for bulky consumer products, strengthening regional supply chain operations and delivery efficiency for large-scale items.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/walmart-to-build-ohio-fulfillment-center-for-oversized-goods/831792/"
+  },
+  {
+    "headline": "Oxea Taps Uber Freight for Global Logistics Management",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Global chemical producer Oxea has selected Uber Freight to oversee its international transportation operations. The partnership consolidates freight management for the company into a unified digital network covering the United States, Canada, Mexico, and European markets. This agreement aims to streamline supply chain execution across multiple regions by leveraging automated logistics platforms to optimize routing, visibility, and overall transportation efficiency.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/chemical-manufacturer-selects-uber-freight-to-manage-global-logistics/831786/"
+  },
+  {
+    "headline": "Relaxed Fuel Economy Standards Fail to Revive Truck Freight Volumes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Recent rollbacks to vehicle efficiency requirements provide relief for automotive manufacturers producing heavy truck fleets. However, prevailing logistics metrics indicate that transportation demand remains sluggish. Carrier capacity utilization continues to lag as tender rejections surge, pointing to a persistent disconnect between relaxed regulatory burdens on vehicle manufacturing and actual freight market activity across the sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cafe-standards-reset-can-looser-fuel-economy-rules-restart-auto-freight"
+  },
+  {
+    "headline": "China Expands Lead in Global Liner-Shipping Connectivity",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Recent United Nations figures indicate that China has strengthened its dominant position in international liner-shipping connectivity during the third quarter. Meanwhile, the report highlights a growing disparity in maritime performance across other nations, with individual countries experiencing increasingly uneven gains and losses. This data underscores shifting dynamics in maritime trade networks and infrastructure capabilities worldwide, pointing to a widening gap between leading maritime nations and smaller participants in global trade routes.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-un-data-china-widens-lead-in-liner-shipping-connectivity"
+  },
+  {
+    "headline": "IKEA Partners with Kodiak for Autonomous Long-Haul Freight",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Furniture retailer IKEA has selected autonomous technology firm Kodiak to serve as its launch partner for driverless freight operations. The companies are preparing to initiate long-haul autonomous truck routes by the end of the year. Scaling this technology requires extensive preparation, including safety validation, vehicle inspections, coordination with roadside enforcement, and adherence to varying state regulations. This deployment marks a significant step forward in integrating self-driving trucks into major corporate supply chain and logistics networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ikea-picks-kodiak-for-driverless-freight-rollout"
+  },
+  {
+    "headline": "Michigan Freight Firm Faces Class-Action Lawsuit Over Revenue",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "A class-action lawsuit filed against a Michigan-based logistics provider claims the company intentionally minimized load values to reduce compensation payouts to owner-operators. The legal action asserts that the carrier engaged in a systemic practice of concealing true freight revenues, impacting the earnings calculations for drivers. This dispute highlights ongoing tensions regarding transparency and financial fairness in carrier-operator contracts within the freight transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/transportation-provider-accused-of-hiding-freight-revenue-from-owner-operators"
+  },
+  {
+    "headline": "Manufacturing Sector Expands in September Amid Rising Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-01",
+    "summary": "Industrial production maintained growth for the ninth straight month in September, registering a purchasing managers index of 54.5. However, supply chain professionals expressed growing anxiety regarding escalating operational expenses. While the sector continues to show overall resilience and expansionary momentum, inflationary pressures on inputs are emerging as a significant challenge for industry leaders navigating procurement and production budgets heading into the final quarter of the year.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/septembers-54-5-manufacturing-pmi-comes-with-inflation-concerns"
+  },
+  {
+    "headline": "Alaska Air Targets Hawaii Inter-Island Cargo Expansion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Alaska Airlines has outlined ambitious plans to expand its cargo operations, aiming to capture half of the intra-island freight market in Hawaii. As part of a broader strategy to grow total cargo revenues to $750 million by the end of the decade, the carrier is introducing dedicated freighter services within the islands alongside an expansion into international markets. This operational push highlights the airline's increasing focus on regional freight transport and diversified revenue streams within its logistics network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/alaska-air-eyes-50-share-of-intra-island-hawaii-cargo-market"
+  },
+  {
+    "headline": "New California Law Creates Obstacles for Oakland Coal Terminal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-01",
+    "summary": "Recent environmental legislation in California introduces additional regulatory hurdles for a controversial coal export facility in Oakland. The federally supported terminal project faces renewed uncertainty as state requirements complicate its development timeline and operational prospects. This legal challenge underscores the ongoing friction between state environmental policies and federally backed infrastructure initiatives.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-california-law-clouds-trump-backed-oakland-coal-export-terminal-project"
+  },
+  {
+    "headline": "Thieves Hijack 41,000-Pound Glycerin Shipment in Illinois",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Criminals successfully manipulated transport data to pose as legitimate operators, deceiving a driver into diverting a valuable chemical cargo. The stolen load, consisting of forty-one thousand pounds of glycerin valued at approximately sixty thousand dollars, vanished due to compromised digital logistics networks. Authorities are investigating how the fraudulent rerouting occurred without alerting the unsuspecting transporter, highlighting ongoing vulnerabilities in freight security and digital shipping documentation across domestic transit corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/thieves-clone-60k-shipment-redirect-41000-pounds-of-glycerin-in-illinois"
+  },
+  {
+    "headline": "Port of Oakland Reports Lower August Container Volumes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Container throughput at the Port of Oakland declined on a year-over-year basis for the month of August, continuing a broader downward trend in total container volumes recorded year-to-date. However, outbound export shipments demonstrated a modest recovery, showing slight sequential growth compared to the figures recorded in July. This contrast highlights ongoing shifts in maritime shipping demand and trade flows at the major West Coast gateway.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/port-of-oakland-august-volumes-fall-year-over-year-as-exports-edge-up-from-july"
+  },
+  {
+    "headline": "XPO Expands Network with New Terminals in Phoenix and Kansas City",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-01",
+    "summary": "Less-than-truckload carrier XPO has expanded its operational footprint by opening new service centers in the Arizona and Missouri markets. This latest infrastructure growth brings the company's total number of North American terminals to 300, enhancing its regional freight handling capacity and distribution network reach across the United States.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/xpo-opens-new-terminals-to-serve-phoenix-kansas-city-markets"
+  },
+  {
+    "headline": "Premier Alliance plans Asia-Europe vessel return via Suez Canal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-01",
+    "summary": "Global container shipping lines are gradually resuming Red Sea and Suez Canal transits for Asia-Europe routes. Following schedule updates, the Premier Alliance plans to route a vessel through the Egyptian waterway in October. This marks a tentative return to traditional routing for ocean carriers that previously diverted vessels around Africa due to regional security concerns in the Middle East.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/premier-alliance-prepares-for-asia-n-europe-services-return-to-suez/"
+  },
+  {
     "headline": "CMA CGM Completes $1.4B Acquisition of FedEx Supply Chain",
     "continent": "North America",
     "country": "United States",
@@ -2858,145 +2998,5 @@
     "summary": "Verified Carrier and MiKargo247 are collaborating to introduce spot cargo insurance tailored to combat sophisticated freight theft schemes. The new offering protects logistics brokers against rising threats such as fictitious pickups, fraudulent double brokering, and carrier identity theft. This partnership aims to mitigate financial risks within the freight transportation network by addressing vulnerabilities exploited by bad actors during the cargo movement process.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/mikargo247-verified-carrier-launch-coverage-for-strategic-cargo-theft"
-  },
-  {
-    "headline": "OXEA Partners with Uber Freight for Transatlantic Logistics",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-15",
-    "summary": "Chemical producer OXEA has chosen Uber Freight to oversee its entire transportation network spanning the United States, Canada, Mexico, and Europe. This agreement involves utilizing digital freight management capabilities to streamline logistics operations and improve oversight across multiple international markets. By outsourcing transport management to a third-party platform, the chemical manufacturer aims to optimize its supply chain performance and freight execution in key regions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/oxea-taps-uber-freight-to-manage-north-american-european-logistics"
-  },
-  {
-    "headline": "Texas Couple Sentenced for Cross-Border Drug Smuggling",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-14",
-    "summary": "A Texas-based couple received prison sentences for running an illicit e-commerce enterprise that distributed unregistered veterinary medications and pesticides illegally brought across the border from Mexico. The unauthorized distribution network generated substantial revenue by evading standard regulatory compliance and importation controls for agricultural and animal health products entering the domestic market from abroad. Federal authorities dismantled the operation following an investigation into the cross-border trafficking of restricted merchandise.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/texas-couple-sentenced-in-2-4m-mexico-to-us-smuggling-operation"
-  },
-  {
-    "headline": "LX Pantos Expands U.S. Footprint and Global Logistics Reach",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-14",
-    "summary": "Korean logistics provider LX Pantos is executing an international expansion plan centered on strengthening its United States presence, enhancing digital freight platforms, and growing its specialized installation services. Leadership outlines the company's contract logistics approach, targets key international markets for expansion, and shares updates regarding corporate sustainability goals as part of a long-term strategy to establish market leadership in the worldwide transportation and supply chain sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/lx-pantos-sets-its-sights-on-global-logistics-leadership"
-  },
-  {
-    "headline": "FedEx Freight Combines Technology and Commercial Roles",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-14",
-    "summary": "Less-than-truckload provider FedEx Freight has appointed Mike Rodgers as chief commercial and technology officer, merging the two operational domains under a single executive. This organizational update comes in the wake of a recent departure in the commercial leadership ranks. The newly expanded position aims to align technology initiatives more closely with commercial strategy as the carrier navigates ongoing operational adjustments within its freight network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fedex-freight-expands-ctos-role-to-cover-commercial-strategy-following-cco-ouster"
-  },
-  {
-    "headline": "August Cass Index Shows Truckload Rates Up and Freight Volumes Rebounding",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-14",
-    "summary": "Data from Cass reveals a significant double-digit percentage increase in truckload linehaul rates during August compared to the same period last year. Concurrently, freight shipment volumes experienced positive growth, marking the end of a prolonged forty-two month contraction phase. This shift indicates a potential turning point in market conditions for road freight transportation carriers and shippers alike, reflecting changing capacity dynamics across the domestic shipping network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cass-tl-rates-jump-11-in-august-freight-shipments-turn-positive"
-  },
-  {
-    "headline": "Port of Long Beach nears one million TEUs in historic volume month",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-14",
-    "summary": "The Port of Long Beach reported robust cargo volumes, achieving nearly one million TEUs in a single month. This milestone represents one of the busiest periods in the port's history, driven by strong growth across both inbound and outbound container movements. The surge highlights ongoing high demand at major North American maritime gateways, reflecting shifts in international trade flows and domestic retail inventory preparations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/almost-1-million-teus-in-new-record-for-this-u-s-container-gateway"
-  },
-  {
-    "headline": "Hub Group faces Nasdaq delisting warning after reporting delay",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-14",
-    "summary": "Transportation provider Hub Group anticipates receiving a delisting notification from the Nasdaq stock exchange following a missed filing deadline caused by an internal accounting mistake. The company also reported an operating loss for the first half of the year. Management intends to appeal the decision by requesting a formal hearing in an effort to keep its shares traded on the exchange. The financial reporting delay has created temporary regulatory hurdles for the logistics firm as it works to resolve the underlying accounting discrepancies.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hub-group-warns-of-nasdaq-delisting-notice-flags-h1-operating-loss"
-  },
-  {
-    "headline": "Kenco Expands Warehouse Automation Testing Space",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-14",
-    "summary": "Kenco has established a large new testing facility in Chattanooga, significantly expanding its previous footprint for evaluating warehouse automation technology. The expanded center allows the third-party logistics provider to scale its testing operations as adoption of advanced fulfillment systems continues to grow across the industry.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/kenco-warehouse-automation-testing-lab"
-  },
-  {
-    "headline": "EU tightens the customs paperwork on imported steel",
-    "continent": "Europe",
-    "country": "European Union",
-    "category": "procurement",
-    "date": "2026-09-09",
-    "summary": "Starting 1 October, companies importing steel into the EU must supply traceable proof of exactly where the metal was melted and poured, a new documentation rule aimed at closing loopholes used to dodge quotas and duties. Maersk is advising customers to line up the paperwork with suppliers well ahead of the deadline, warning that missing records could mean customs delays, quota breaches or extra duties at the border, on top of an already busy compliance calendar.",
-    "sourceName": "Maersk Europe Market Update",
-    "sourceUrl": "https://www.maersk.com/news/articles/2026/09/09/europe-market-update-september"
-  },
-  {
-    "headline": "Panama Canal squeeze pushes carriers toward Suez and the Cape",
-    "continent": "North America",
-    "country": "Panama",
-    "category": "logistics",
-    "date": "2026-09-08",
-    "summary": "Congestion at the Panama Canal is tightening again, with daily transits cut from 36 to 32 by mid-September and auction prices for priority passage hitting a record above $5 million. Ocean carriers are responding by rerouting some Asia-to-U.S. strings around the Cape of Good Hope or back through the Suez Canal, bypassing congested Chinese gateways and pushing more volume toward the U.S. West Coast. The shift adds transit time and cost just as global schedule reliability has fallen to its lowest level since early 2021.",
-    "sourceName": "IA Insights",
-    "sourceUrl": "https://www.intelligentaudit.com/blog/ia-insights-september-8-2026"
-  },
-  {
-    "headline": "Hapag-Lloyd edges closer to buying Israel's Zim",
-    "continent": "Middle East",
-    "country": "Israel",
-    "category": "international_relations",
-    "date": "2026-09-08",
-    "summary": "German carrier Hapag-Lloyd looks set to complete its long-pursued acquisition of Zim, the Israeli shipping line, after the Israeli government signaled it would allow the deal to proceed. A successful purchase would be one of the more significant consolidation moves in container shipping this year, folding an established Middle East carrier into one of Europe's largest lines and reshaping capacity on trades that connect the region to Asia and North America.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/"
-  },
-  {
-    "headline": "Mundra Port standoff hits landside logistics",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-09-07",
-    "summary": "A dispute between Adani Ports and the trucking and warehousing firms that move containers out of India's Mundra Port has escalated, disrupting cargo flow off the terminal. Mundra is India's largest private port and a key gateway for inland-bound containers, so any slowdown ripples through the country's import and export chains, adding to congestion pressure already building from monsoon weather and knock-on delays from typhoons elsewhere in Asia.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/"
-  },
-  {
-    "headline": "Africa-to-Asia trade lane shows its first real signs of growth",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-09-07",
-    "summary": "Container volumes on the Africa-Far East trade lane are finally showing consistent growth, according to new data that lines up shipping statistics with improving market sentiment. The lane has long lagged busier east-west routes, but rising demand is giving carriers more confidence to add capacity between African ports and major Asian manufacturing hubs, a shift that could open up more direct sourcing options for African importers.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/"
-  },
-  {
-    "headline": "China opens a $10 billion canal that redraws ASEAN trade routes",
-    "continent": "Asia",
-    "country": "China",
-    "category": "international_relations",
-    "date": "2026-09-05",
-    "summary": "China has opened a new $10 billion canal that shortens shipping distances between its southern provinces and Southeast Asia, giving Beijing a fresh lever in shaping regional trade flows. The project strengthens China's position along routes tied to its Belt and Road ambitions and is expected to pull some volume away from existing ports, prompting ASEAN economies to reassess their own logistics investments and hub strategies in response.",
-    "sourceName": "Value Chain Asia",
-    "sourceUrl": "https://valuechainasia.com/articles/all"
   }
 ]
