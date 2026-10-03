@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Daimler Truck Supplies Commercial Vehicles to Military Fleets",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-10-03",
+    "summary": "Daimler Truck Defence is leveraging its commercial manufacturing capacity to supply heavy-duty vehicles to armed forces facing acute equipment shortages. The company secured major agreements to deliver thousands of Zetros trucks to military customers in France and Canada, highlighting a growing reliance on commercial supply chains to rapidly fulfill defense sector procurement needs.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/daimler-truck-defence-military-trucks-scale"
+  },
+  {
+    "headline": "U.S. Dry Van Contract Rates Exceed Spot Rates",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-03",
+    "summary": "Recent data from the U.S. Bank Freight Payment Index indicates that contract dry van freight rates have climbed steadily since April, reaching $2.39 per mile. In contrast, spot market rates experienced a decline down to $2.17 per mile. This shift creates a twenty-two-cent difference between the two pricing structures, fully reversing a brief rate inversion that occurred earlier in June. The trend reflects changing pricing dynamics within the domestic trucking and freight transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/us-bank-dat-contract-spot-rate-gap"
+  },
+  {
     "headline": "Ikea to launch autonomous long-haul freight service in Texas",
     "continent": "North America",
     "country": "United States",
@@ -218,6 +238,16 @@
     "summary": "Ocean carrier Hapag-Lloyd has upgraded its profit forecast for 2026, setting optimistic expectations for its Gemini alliance partner, Maersk. Market analysts project Maersk will report substantial third-quarter earnings growth, with expected EBITDA figures showing significant increases compared to the previous quarter and the same period last year. These financial gains reflect ongoing profitability within the container shipping sector driven by strong market conditions and alliance operations.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/counting-the-billions-with-maersk-and-hapag/"
+  },
+  {
+    "headline": "SMB Supply Chains Face Multi-Pronged Disruptions in 2024",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-01",
+    "summary": "Small and medium-sized businesses are experiencing severe inventory planning challenges this year due to a convergence of multiple economic pressures extending far beyond standard tariff concerns. Shifting variables in the operating environment have created unpredictable conditions for inventory management, forcing organizations to navigate constant disruptions and adapt their operational strategies to maintain continuity across their procurement and distribution networks amid heightened volatility.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/beyond-tariffs-a-storm-of-pressures-is-hampering-smb-supply-chains/831880/"
   },
   {
     "headline": "Manufacturing Growth Continues Amid Economic Uncertainty",
@@ -2968,35 +2998,5 @@
     "summary": "Baby product manufacturer Munchkin has appointed Kunal Thakkar as its inaugural chief supply chain officer. In this newly created role, the former Walmart and Thrasio executive will oversee global operations, sourcing, and related supply chain functions. The leadership addition aims to strengthen the company's international operational capabilities and navigate current logistical challenges within the consumer goods sector.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/munchkin-taps-20-year-industry-veteran-as-first-chief-supply-chain-officer/830446/"
-  },
-  {
-    "headline": "Macy's Scales AI Tool for Inventory Replenishment",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-16",
-    "summary": "Macy's is expanding the implementation of an artificial intelligence forecasting solution across its operations. Following an initial trial phase, the department store chain aims to enhance inventory availability and boost overall supply chain efficiency by utilizing predictive analytics to manage stock levels more effectively.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/macys-rolls-out-ai-inventory-replenishment-tool/830441/"
-  },
-  {
-    "headline": "New York Fed Survey Shows U.S. Manufacturing Slowdown Amid Price Hikes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-16",
-    "summary": "Recent data from the Federal Reserve Bank of New York indicates that regional factory activity has pulled back from a four-year peak as production costs increase. Although current demand for factory goods remains relatively stable, economic analysts caution that ongoing price pressures could destabilize output volumes in the near future. Businesses are navigating a shifting economic landscape where rising expenses threaten to dampen consumer and commercial purchasing momentum.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-slows-from-four-year-high-as-prices-rise-ny-fed-survey/830511/"
-  },
-  {
-    "headline": "Private Fleets Pivot to Driver Development Amid Shortages",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Persistent labor shortages are forcing private fleets to alter their safety management strategies. Instead of replacing struggling drivers, logistics operators are increasingly turning to advanced technology and targeted coaching programs to improve performance and retention. This operational shift emphasizes internal talent development and risk mitigation, addressing the ongoing driver deficit while maintaining fleet safety standards without relying heavily on external recruitment.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/driver-shortage-changes-the-playbook-for-private-fleet-safety"
   }
 ]
