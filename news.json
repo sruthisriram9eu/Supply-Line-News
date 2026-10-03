@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Ikea to launch autonomous long-haul freight service in Texas",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-02",
+    "summary": "Ikea plans to implement unsupervised autonomous long-haul freight transport across a Texas corridor connecting Dallas-Fort Worth and Houston. The delivery operations utilizing Kodiak self-driving trucks are scheduled to begin by the end of 2026. This initiative aims to integrate autonomous vehicle technology into regular commercial shipping routes, marking a step forward in the adoption of driverless solutions for corporate supply chain networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ikea-freight-to-be-hauled-by-driverless-kodiak-trucks/831764/"
+  },
+  {
+    "headline": "Yard Management System Helps Retailer Locate Missing Freight",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-02",
+    "summary": "A major grocery retailer utilized an advanced yard-management platform powered by computer vision to successfully track down and investigate short shipments valued at tens of thousands of dollars. By monitoring commercial vehicles and trailers within distribution yards, the digital tool enabled operations teams to pinpoint the specific transport vehicles and drivers connected to the missing inventory. This technology enhances facility visibility, reduces shrinkage, and provides reliable tracking capabilities for supply chain security.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ymx-yard-technology-helps-retailer-trace-60000-in-missing-freight"
+  },
+  {
+    "headline": "New Jersey Enforces Strict Independent Contractor Rules",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-02",
+    "summary": "New Jersey has officially implemented a stringent independent contractor regulation utilizing the ABC test. This statutory framework significantly alters how businesses operating within the state classify their workers, impacting labor structures and operational costs across various sectors, including the trucking and freight industries. Companies must now navigate these rigorous evaluation criteria to ensure compliance with state labor standards and avoid potential misclassification penalties.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-jersey-independent-contractor-regulation-with-abc-test-is-in-effectd"
+  },
+  {
+    "headline": "Trump promotes truck manufacturing tariffs in Texas",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-02",
+    "summary": "During a visit to a heavy-truck assembly facility in Texas, the U.S. President stated that trade tariffs and reduced regulatory burdens are successfully encouraging manufacturers to bring truck production back into the United States. He emphasized that these policy measures aim to reverse a multi-year trend of domestic manufacturing operations relocating to foreign countries. The remarks were delivered to factory employees as part of an administration push to highlight industrial policy and domestic production incentives.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trump-touts-truck-tariffs-at-peterbilt-plant-in-texas"
+  },
+  {
+    "headline": "Hub Group Reorganizes Board to Address Nasdaq Compliance",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-02",
+    "summary": "Logistics provider Hub Group has implemented changes to its board of directors in an effort to restore compliance with Nasdaq listing regulations. This corporate restructuring follows recent financial reporting challenges that prompted regulatory scrutiny. The leadership adjustments are designed to stabilize governance oversight and address the internal financial reporting issues impacting the company's public market standing.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hub-group-reshuffles-board-amid-accounting-turmoil"
+  },
+  {
     "headline": "Puma Partners with Maersk for US Distribution Network",
     "continent": "North America",
     "country": "United States",
@@ -2948,55 +2998,5 @@
     "summary": "Persistent labor shortages are forcing private fleets to alter their safety management strategies. Instead of replacing struggling drivers, logistics operators are increasingly turning to advanced technology and targeted coaching programs to improve performance and retention. This operational shift emphasizes internal talent development and risk mitigation, addressing the ongoing driver deficit while maintaining fleet safety standards without relying heavily on external recruitment.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/driver-shortage-changes-the-playbook-for-private-fleet-safety"
-  },
-  {
-    "headline": "Ocean Freight Fuel Costs Stay High Despite Better Supply",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Marine fuel expenses for cargo carriers have doubled throughout the current year. While availability constraints for bunker fuel have begun to alleviate, pricing levels across major maritime routes continue to remain high. This persistent cost pressure affects operational expenditures for container shipping lines worldwide, even as the physical availability of marine fuel improves across key global bunkering ports.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/container-shipping-fuel-prices-remain-elevated-as-supply-fears-ease"
-  },
-  {
-    "headline": "American Eagle Praises Amazon Shipping as Top Last-Mile Courier",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-16",
-    "summary": "Apparel retailer American Eagle Outfitters has integrated Amazon Shipping into its distribution network, establishing the service as a primary last-mile delivery partner. The partnership has proven successful due to specific operational features and high reliability standards provided by the carrier, enhancing the retailer's outbound logistics capabilities within the domestic market.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/amazon-shippings-parcel-delivery-delights-american-eagle-outfitters"
-  },
-  {
-    "headline": "Commercial Vehicle Inspections Sideline Trucks in Canada and Missouri",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Recent targeted regulatory enforcement operations conducted by law enforcement authorities in Canada and Missouri resulted in more than one hundred commercial trucks being taken out of service. Additionally, four commercial vehicle drivers were sidelined during these coordinated safety inspections. These actions highlight ongoing regional efforts to enforce compliance with transport regulations, commercial vehicle safety standards, and operational guidelines across North American freight corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/more-than-100-trucks-four-drivers-sidelined-in-recent-enforcement-actions"
-  },
-  {
-    "headline": "Maersk Prepares Massive 40-Ship Fleet Expansion Order",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Industry reports indicate that Danish shipping giant Maersk is preparing a substantial vessel procurement initiative that could potentially double its current orderbook pipeline. Market analysts observe that the carrier has shown significant activity within the charter market recently. This aggressive pursuit of additional maritime capacity is driven by the urgent need to maintain service coverage, specifically to compensate for chartered vessels reaching their scheduled redelivery dates as the company navigates ongoing fleet management demands.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/maersk-on-cusp-of-doubling-orderbook-with-40-ship-mega-newbuild-spree/"
-  },
-  {
-    "headline": "CMA CGM Declares General Average After Container Ship Fire",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Carrier CMA CGM has invoked General Average for the vessel CMA CGM Petra following a container fire that broke out in late August during a voyage from Singapore to Colombo. The ship's crew successfully managed the initial blaze without casualties before professional salvors intervened near Penang. The vessel was later towed to a secure location for further assessment and repairs, triggering complex financial and legal responsibilities for all cargo owners involved in the voyage.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/general-average-declared-on-cma-cgm-petra-as-maersk-wins-13m-fire-case/"
   }
 ]
