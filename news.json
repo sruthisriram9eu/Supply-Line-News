@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Trucking spot rates rise despite falling demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-04",
+    "summary": "Spot rates within the truckload sector are climbing even as freight demand declines. While capacity constraints typically drive rate increases, current market dynamics indicate that other underlying factors are influencing pricing trends across the industry. Observers note a disconnect between traditional supply and demand metrics, pointing to a more complex operational environment for carriers and shippers alike as they navigate shifting economic conditions and fluctuating equipment availability.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/truckloads-mixed-signals"
+  },
+  {
     "headline": "Daimler Truck Supplies Commercial Vehicles to Military Fleets",
     "continent": "Global",
     "country": "Multiple",
@@ -2988,15 +2998,5 @@
     "summary": "A federal watchdog report indicates that recent operational changes within the postal network have negatively affected shipping performance for remote communities. The restructuring initiative aimed to decrease transportation trips between distant post offices and central processing hubs, but the resulting adjustments have disproportionately slowed down package transit times and on-time delivery rates for residents living outside major metropolitan areas.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/usps-network-revamp-challenges-on-time-delivery-from-rural-areas/830507/"
-  },
-  {
-    "headline": "Munchkin Appoints First Chief Supply Chain Officer",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-16",
-    "summary": "Baby product manufacturer Munchkin has appointed Kunal Thakkar as its inaugural chief supply chain officer. In this newly created role, the former Walmart and Thrasio executive will oversee global operations, sourcing, and related supply chain functions. The leadership addition aims to strengthen the company's international operational capabilities and navigate current logistical challenges within the consumer goods sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/munchkin-taps-20-year-industry-veteran-as-first-chief-supply-chain-officer/830446/"
   }
 ]
