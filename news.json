@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Identity Thieves Target Mexico Cross-Border Freight Customs Payments",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-10-04",
+    "summary": "Fraudsters have shifted their focus to customs payment systems within cross-border freight operations along the Mexican border. Criminals are utilizing stolen identities to intercept and divert funds meant for regulatory and shipping fees. This emerging security threat introduces new vulnerabilities for logistics providers operating in the region, complicating financial transactions and cargo clearance processes. Authorities and supply chain stakeholders are working to secure payment channels against these fraudulent activities to protect international shipments from costly disruptions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-identity-thieves-target-customs-payments-in-cross-border-freight"
+  },
+  {
     "headline": "Trucking spot rates rise despite falling demand",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "After experiencing rapid growth following European Union accession two decades ago, Poland's road freight industry now confronts severe financial strain. Local transport operators have captured a significant share of the European market, yet contemporary conditions have severely compressed profit margins to near zero. Industry leaders report immense economic pressure and uncertainty threatening the future viability of many commercial trucking enterprises across the country as they struggle to maintain operations.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/polish-road-haulage-success-story-hits-the-buffers/"
-  },
-  {
-    "headline": "USPS Network Overhaul Delays Rural Deliveries",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "A federal watchdog report indicates that recent operational changes within the postal network have negatively affected shipping performance for remote communities. The restructuring initiative aimed to decrease transportation trips between distant post offices and central processing hubs, but the resulting adjustments have disproportionately slowed down package transit times and on-time delivery rates for residents living outside major metropolitan areas.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/usps-network-revamp-challenges-on-time-delivery-from-rural-areas/830507/"
   }
 ]
