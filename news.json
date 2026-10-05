@@ -1,5 +1,135 @@
 [
   {
+    "headline": "C.H. Robinson Plans $5.8B Acquisition of RXO",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Freight forwarding and logistics giant C.H. Robinson has reached an agreement to acquire competitor RXO in a transaction valued at $5.8 billion. The proposed combination aims to significantly expand network density and operational scale by integrating RXO's specialized brokerage capabilities, expedited transport options, and last-mile delivery services into the existing portfolio. Regulatory approval is required before the transaction can be finalized, which would unite two major third-party logistics operators and reshape market dynamics within the freight sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ch-robinson-to-buy-rxo-for-58b-combining-3pl-heavyweights/832124/"
+  },
+  {
+    "headline": "USPS Extends Delivery Timelines for Non-Contiguous Regions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "The United States Postal Service has officially extended shipping timeframes for Ground Advantage and Priority Mail services traveling to and from Alaska, Hawaii, and several other outlying areas. According to the agency, the adjustments reflect more accurate delivery expectations necessitated by geographic distance and transit realities. These changes aim to provide customers with greater predictability regarding shipment arrivals in non-contiguous domestic territories, aligning service standards with actual operational performance capabilities.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/usps-lengthens-some-delivery-expectations-outside-contiguous-us/831958/"
+  },
+  {
+    "headline": "Restaurants Tackle Surging Fuel Expenses Through Logistics",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Food service operations are combating escalating transportation expenses by refining their distribution strategies. Industry professionals recommend assessing delivery schedules, implementing advanced route optimization software, and utilizing robust scenario planning. These measures help hospitality businesses offset rising operational costs tied to vehicle fleets and freight movement, maintaining stability amidst fluctuating energy markets without relying on ad-hoc reactions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/how-restaurants-can-mitigate-rising-fuel-costs/832023/"
+  },
+  {
+    "headline": "DP World Plans US Return with Corpus Christi Terminal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-05",
+    "summary": "DP World has secured a lease option agreement with the Port of Corpus Christi to develop a new container terminal. This project marks a strategic reentry into the United States port market for the global terminal operator. Once fully operational, the facility is projected to handle approximately one million twenty-foot equivalent units annually, significantly expanding regional shipping capacity and infrastructure along the Gulf Coast.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dp-world-plots-us-port-comeback-with-corpus-christi-container-terminal"
+  },
+  {
+    "headline": "UK Courier Evri Enters US Market via Acquisition",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "British parcel delivery firm Evri has expanded its international footprint by acquiring Florida-based Cross Border Connect. This strategic purchase enables the carrier to establish operations in the American delivery market, focusing specifically on cross-border e-commerce fulfillment and shipping lanes. The deal marks a major step in the company's broader growth initiatives outside of the United Kingdom, allowing it to compete more directly in the North American logistics sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/uk-parcel-carrier-evri-to-enter-us-delivery-market-with-acquisition"
+  },
+  {
+    "headline": "C.H. Robinson Acquires RXO to Drive Industry Consolidation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Logistics leader C.H. Robinson has announced the acquisition of competitor RXO, a transaction that is expected to accelerate consolidation within the freight and third-party logistics sector. Market speculation surrounding the multi-day deal emerged prior to the official announcement, driven by notable upward momentum in the acquired company's stock price late in the week. This major business combination involves the nation's largest third-party logistics provider absorbing a prominent industry peer, potentially reshaping competitive dynamics across the broader transportation and freight forwarding landscape.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/breaking-c-h-robinson-acquiring-rxo"
+  },
+  {
+    "headline": "ISEE and Holman Partner on Autonomous Yard Truck Services",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Autonomous yard vehicle developer ISEE has formed a strategic alliance with investor Holman to deliver comprehensive fleet solutions. The collaboration combines vehicle leasing, aftermarket retrofitting, and ongoing support services to expand the adoption of driverless yard trucks for supply chain and logistics operations. By integrating vehicle technology with established fleet management resources, the partnership aims to streamline the deployment of automated transport equipment within distribution facilities and freight yards.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/isee-holman-partnership-autonomous-yard-trucks"
+  },
+  {
+    "headline": "FMCSA Extends Emergency Trucker HOS Relief to 30 Days",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "The Federal Motor Carrier Safety Administration has updated its regulations to reinstate a thirty-day automatic exemption period regarding hours of service rules. This regulatory adjustment applies specifically to commercial motor vehicle operators engaged in delivering direct assistance during regional emergency situations. By extending the relief timeframe, the agency aims to streamline logistical responses and ensure that essential relief supplies can reach affected areas more efficiently without standard driving time restrictions hindering urgent transport operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-restores-30-day-hos-relief-for-truckers-during-emergencies"
+  },
+  {
+    "headline": "Hapag-Lloyd's Zim Acquisition Delayed by Israeli Review",
+    "continent": "Asia",
+    "country": "Israel",
+    "category": "strategy",
+    "date": "2026-10-05",
+    "summary": "The multi-billion dollar acquisition of Zim by Hapag-Lloyd has stalled following a government mandate in Israel requiring a revised proposal. Regulators are demanding enhanced security guarantees to protect national maritime interests before allowing the transaction to proceed. This regulatory intervention forces a strategic reset for the major shipping companies involved as they work to address the state's security conditions and secure official clearance for the deal.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyds-zim-takeover-heads-for-reset-as-israel-requires-new-review"
+  },
+  {
+    "headline": "Optimus Technology Acquires SmartHop Platform",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Optimus Technology has completed the acquisition of SmartHop and its integrated load and fleet management software. The acquiring company intends to distribute the platform at no cost through a network of financial, insurance, and logistics partners, ultimately reaching a vast community of commercial carriers. This strategic move aims to expand technology access for fleet operators and streamline operations across the transportation sector by removing software subscription barriers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/optimus-acquires-smarthop-freight-platform"
+  },
+  {
+    "headline": "C.H. Robinson Acquires RXO in $5.8B Logistics Merger",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "C.H. Robinson has reached an agreement to acquire RXO in a multi-billion dollar transaction valued at approximately $5.8 billion, providing shareholders with a 29 percent premium. The strategic consolidation merges C.H. Robinson's international forwarding capabilities and multimodal transport network with RXO's extensive North American truck brokerage, expedited shipping, and last-mile delivery operations. Leadership anticipates the transaction will yield $300 million in annual cost synergies by integrating the complementary transportation services and streamlining the combined enterprise's overall freight network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ch-robinson-to-purchase-rxo-in-multi-billion-dollar-deal/"
+  },
+  {
+    "headline": "Asia-US and Asia-Europe Container Spot Rates Diverge",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Container spot shipping rates between Asian origins and destinations in North America versus Europe have diverged to unprecedented levels. Recent industry analysis indicates that while transpacific pricing to North America is experiencing upward momentum, routes connecting Asia to Europe are seeing declining costs. This unusual dynamic has generated a substantial cost premium for importers bringing goods into North American markets compared to their European counterparts. Industry analysts project that this wide pricing gap will likely remain in place for the next several months, impacting ocean freight budgeting.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/divide-between-asia-us-and-asia-europe-rates-at-historic-levels/"
+  },
+  {
+    "headline": "Manila truckers strike over port container backlog",
+    "continent": "Asia",
+    "country": "Philippines",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Logistics operations at the port of Manila face significant disruptions as customs brokers and hauliers plan a major work stoppage. This action comes in response to a prolonged stalemate regarding empty containers left uncollected by shipping lines. The resulting congestion has severely impacted freight movement, prompting carriers like Hapag-Lloyd to suspend bookings. Industry leaders warn the protest could extend for up to a week, further aggravating regional supply chain delays and vessel turnaround times.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/empty-boxes-chaos-at-port-of-manila-sparks-truckers-strike/"
+  },
+  {
     "headline": "China rail bottlenecks drive South Korea-Russia shipping surge",
     "continent": "Asia",
     "country": "South Korea",
@@ -2868,135 +2998,5 @@
     "summary": "Ports in the San Pedro area are introducing a financial incentive initiative designed to accelerate the adoption of zero-emission freight vehicles. Under the proposed plan, eligible truck operators serving the port complex could receive annual payments of up to $36,000. This effort aims to encourage fleet modernization and reduce environmental impact within the regional logistics network by supporting the transition to cleaner transportation technologies for drayage operations.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/san-pedro-ports-seek-zero-emission-truck-usage-boost-via-new-incentive-prog/830536/"
-  },
-  {
-    "headline": "CMT Debuts Carrier Safety Data Platform for Freight Brokers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Cambridge Mobile Telematics has introduced a specialized software tool designed to provide freight brokers with direct access to carrier driving behavior metrics. This release comes amid rising industry emphasis on rigorous carrier vetting practices and operational safety standards. By utilizing recent telematics data, brokers can better evaluate motor carriers during the selection process to mitigate risk and improve compliance throughout their freight networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cmt-launches-safety-platform-for-freight-brokers"
-  },
-  {
-    "headline": "Mexico ends empty truck border restriction",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Mexican customs officials have reversed a newly implemented restriction on empty commercial trucks entering the country through Piedras Negras. The policy change had previously disrupted cross-border freight operations, stranding approximately 700 tractor units in Eagle Pass, Texas. Following the reversal, normal traffic flow is expected to resume, alleviating the severe congestion and delays experienced by carriers operating along this key North American trade corridor.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mexico-lifts-empty-truck-restriction-after-700-tractors-stranded-at-border"
-  },
-  {
-    "headline": "Trucking capacity exits accelerate amid regulatory crackdowns",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Industry leaders indicate that heightened regulatory enforcement targeting noncompliant commercial drivers is still in its initial phases, pointing to a widening contraction in available freight capacity. This trend suggests that established trucking enterprises are well-positioned to command substantial freight rate increases, even if overall market demand remains relatively subdued. The ongoing departure of noncompliant operators is steadily tightening market conditions across the sector, shifting pricing power toward larger carriers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/carriers-tl-capacity-exodus-growing-not-slowing"
-  },
-  {
-    "headline": "Norfolk Southern Aims to Streamline Intermodal Rail Operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Norfolk Southern outlines a strategy to drive growth in its intermodal sector by eliminating inefficiencies within the rail network. The freight carrier emphasizes improving terminal reliability, enhancing predictability, and matching the accountability of the trucking industry. To achieve a seamless, coast-to-coast operational framework, the company highlights the importance of strengthened service performance and unified network capabilities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/norfolk-southern-new-intermodal-era-about-removing-rail-friction"
-  },
-  {
-    "headline": "Ocean Freight Booking Risks Persist Across Major Trade Lanes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Maritime transport risks are projected to stay high on prominent trade routes connecting Asia with North America and Europe throughout the upcoming month. A primary challenge driving this uncertainty is the declining consistency of vessel schedules, which threatens supply chain predictability for cargo owners. Industry analysts note that shippers utilizing these vital corridors must navigate persistent volatility regarding vessel availability and operational timing.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ocean-freight-booking-risk-remains-elevated-wisetech-warns/"
-  },
-  {
-    "headline": "Norfolk Southern Merger Faces Scrutiny Amid Safety Debates",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Norfolk Southern is promoting a significant drop in reportable train accidents as part of its transcontinental rail merger application. However, recent developments complicate this narrative, including a previously unshared contamination report surfaced by class-action attorneys, multiple derailments within a single Pennsylvania county, and evolving legal standards regarding intermediary liability. These factors are drawing increased attention from shippers and regulators evaluating the carriers operational reliability and safety claims during the ongoing merger process.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/us-rail-merger-what-norfolk-southerns-buried-test-results-mean-for-shippers/"
-  },
-  {
-    "headline": "Fuel price shocks drive volatile global logistics surcharges",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Escalating oil prices, driven by ongoing geopolitical conflict in the Middle East, are forcing widespread increases in freight transportation costs globally. Shippers face severe financial uncertainty as carriers implement rapid emergency fuel surcharges that fluctuate weekly across all transport modes, compounding overall supply chain expenses.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/continued-fuel-price-shocks-leave-emergency-surcharges-stuck-in-overdrive/"
-  },
-  {
-    "headline": "German Port Workers Reject Pay Offer, Raising Strike Risks",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Labor negotiations at German sea ports have stalled after union members voted down the latest compensation proposal from terminal operators during their fourth round of talks. A strong majority of participating union members rejected the management's terms, increasing the likelihood of widespread and indefinite labor disruptions across the country's major maritime gateways. This potential industrial action threatens to severely impact terminal operations, vessel turnaround times, and the broader freight forwarding network connecting German ports to international supply chains.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/german-port-workers-move-closer-to-indefinite-strike-after-ver-di-rejected-pay-offer/"
-  },
-  {
-    "headline": "Maersk suspends transpacific extra loader service for fourth quarter",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Ocean carrier Maersk is halting its standalone TPX extra loader route across the transpacific trade lane ahead of China's upcoming Golden Week holiday. The final voyage for this season will depart from Vietnam in late September utilizing the Maersk Boston vessel. According to the company's advisory notice, the route will stay inactive throughout the remainder of the fourth quarter in response to anticipated seasonal demand shifts and market conditions.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/maersk-cuts-transpacific-capacity-as-golden-week-slowdown-looms/"
-  },
-  {
-    "headline": "HMM Expands Intra-Asia Shipping Operations Amid Shift in Regional Cargo Flows",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "South Korean carrier HMM is increasing its presence in the intra-Asia container shipping market, challenging smaller local feeder operators. This expansion is driven by rising manufacturing and logistics activity in Southeast Asia, fueled largely by increased Chinese investment. Demand for maritime transport connecting China, Thailand, South Korea, Vietnam, and neighboring economies is growing as regional supply chains evolve, prompting major carriers to capture a larger share of intra-regional trade routes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hmm-muscles-in-on-intra-asia-trade-as-regional-cargo-flows-shift/"
-  },
-  {
-    "headline": "Turkish Carriers Expand India-Mediterranean Capacity",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Turkish shipping companies Turkon Line and Arkas Line have upgraded their joint vessel-sharing service connecting West India and the Mediterranean through the Red Sea corridor. The carriers introduced a larger, LNG-fueled container ship with a capacity of 4,000 TEUs to the weekly loop to handle growing cargo volumes. This capacity enhancement follows a partnership with Concor, strengthening operational capabilities and service reliability as both carriers expand their presence in the emerging trade corridor between South Asia and the Mediterranean region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/turkon-and-arkas-increase-india-mediterranean-offering-with-concor-collaboration/"
-  },
-  {
-    "headline": "US Manufacturing Growth Cools as Inflation Pressures Mount",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-16",
-    "summary": "Industrial production growth in the United States retreated from a four-year peak following accelerated price increases. Analysts note that consumer demand for manufactured products remains stable for the moment, but rising costs are expected to create future volatility in output levels and broader supply chain momentum.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-slows-from-4-year-high-as-prices-rise/830511/"
-  },
-  {
-    "headline": "Good Culture Appoints New COO to Optimize Supply Chain",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-16",
-    "summary": "Cottage cheese brand Good Culture has appointed Kirk Jensen as its chief operating officer to oversee manufacturing operations and supply chain infrastructure. The leadership change aims to enhance product availability and accelerate delivery times for retail partners.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/good-culture-names-coo-to-scale-supply-chain/830360/"
   }
 ]
