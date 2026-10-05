@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Hidden costs eroding freight forwarder profit margins",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-04",
+    "summary": "Freight forwarders frequently experience lower than expected profit margins despite seemingly successful monthly financial closes. The primary driver of these losses stems from unrecovered operational expenses and unforeseen fees that are absorbed by the business rather than billed to clients. Common examples include unrecovered demurrage charges, premature haulage dispatches for containers that have not yet cleared customs, and uncollected administrative amendment fees. These unbilled expenditures steadily accumulate, quietly draining profitability across daily logistics operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/where-freight-forwarders-actually-lose-money/"
+  },
+  {
     "headline": "Identity Thieves Target Mexico Cross-Border Freight Customs Payments",
     "continent": "North America",
     "country": "Mexico",
@@ -2988,15 +2998,5 @@
     "summary": "Federal authorities have arrested three individuals in separate enforcement actions at travel stops and weigh stations. The operations coincided with investigations into fraudulent commercial driver's license training facilities. These enforcement measures highlight increased scrutiny on commercial motor vehicle operators and compliance within the freight transport sector, potentially impacting driver availability and operational oversight across the logistics industry.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/ice-targets-truck-drivers-at-travel-stops-and-inspection-checkpoints"
-  },
-  {
-    "headline": "Polish road haulage sector faces severe operational crisis",
-    "continent": "Europe",
-    "country": "Poland",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "After experiencing rapid growth following European Union accession two decades ago, Poland's road freight industry now confronts severe financial strain. Local transport operators have captured a significant share of the European market, yet contemporary conditions have severely compressed profit margins to near zero. Industry leaders report immense economic pressure and uncertainty threatening the future viability of many commercial trucking enterprises across the country as they struggle to maintain operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/polish-road-haulage-success-story-hits-the-buffers/"
   }
 ]
