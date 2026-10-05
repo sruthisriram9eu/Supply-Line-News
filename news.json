@@ -1,5 +1,55 @@
 [
   {
+    "headline": "China rail bottlenecks drive South Korea-Russia shipping surge",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Severe congestion along overland rail corridors connecting China and Russia has redirected container traffic toward maritime routes. This shift has driven up maritime shipping volumes between South Korea and Russia, particularly along the Busan to Vladivostok corridor. In August, monthly container throughput at the South Korean port exceeded 33,000 TEUs bound for the Russian Far East. The sustained high volume of shipments has prompted ocean carriers to evaluate the deployment of larger vessels on this maritime trade lane to accommodate the growing demand.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/south-korea-russia-ocean-volumes-boosted-by-rail-congestion-in-china/"
+  },
+  {
+    "headline": "C.H. Robinson Acquires RXO in $5.8B Logistics Merger",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Logistics provider C.H. Robinson has agreed to purchase rival third-party logistics firm RXO in a multi-billion dollar transaction aimed at expanding its North American footprint. The combined network is expected to achieve substantial operational savings within two years by integrating advanced automation tools to streamline productivity and improve service density across various industry sectors. This corporate combination positions the unified enterprise to capture greater market share and improve freight efficiency throughout the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ch-robinson-to-acquire-rxo-in-5-8bn-deal/"
+  },
+  {
+    "headline": "Outdated truck insurance limits spark debate on rail crossing liabilities",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Recent train derailments caused by collisions with commercial trucks at grade crossings have reignited discussions regarding financial responsibility. Because federal insurance minimums for trucks have remained unchanged since 1985, rail operators face significant hurdles when seeking full compensation for damages resulting from accidents involving highway vehicles. This funding gap has drawn renewed attention from industry stakeholders who argue that current insurance requirements fail to reflect modern economic realities and repair costs.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/when-a-truck-derails-a-train-who-pays/"
+  },
+  {
+    "headline": "South Africa separates port and rail operations for reform",
+    "continent": "Africa",
+    "country": "South Africa",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "The South African government has officially approved the structural separation of the Transnet National Port Authority from the nation's rail operations. This administrative division marks a significant milestone for local supply chain stakeholders, including shippers and freight forwarders. Industry participants hope this structural reorganization will serve as a foundational step toward resolving longstanding operational bottlenecks within the country's broader logistics and maritime transport network, potentially improving efficiency for international trade.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/south-africas-port-reform-takes-an-important-step-forward/"
+  },
+  {
+    "headline": "Colombia Air Cargo Capacity Squeezed by E-commerce Boom",
+    "continent": "South America",
+    "country": "Colombia",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "A significant surge in online retail imports is straining inbound air freight capacity across Colombia, according to industry operators. Weekly import volumes are estimated between 3,000 and 4,000 tonnes as consumer demand drives rapid commercial expansion. This heavy influx of shipments is restricting available cargo space, creating logistical bottlenecks for carriers and supply chain operators servicing the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/colombia-absolutely-booming-as-ecommerce-squeezes-air-cargo-capacity/"
+  },
+  {
     "headline": "Hidden costs eroding freight forwarder profit margins",
     "continent": "Global",
     "country": "Multiple",
@@ -2948,55 +2998,5 @@
     "summary": "Cottage cheese brand Good Culture has appointed Kirk Jensen as its chief operating officer to oversee manufacturing operations and supply chain infrastructure. The leadership change aims to enhance product availability and accelerate delivery times for retail partners.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/good-culture-names-coo-to-scale-supply-chain/830360/"
-  },
-  {
-    "headline": "Nebraska Troopers Recover Stolen Cargo Worth Quarter-Million",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "State troopers in Nebraska discovered a quarter-million dollars worth of stolen commercial speakers and other illicit merchandise inside a commercial semi-trailer during a traffic stop. The driver escaped the scene before apprehension. Law enforcement officials also uncovered fraudulent delivery documentation during the inspection. Subsequent investigations linked the recovered freight to cargo thefts originating in Illinois and New York. The incident highlights ongoing security vulnerabilities within interstate freight transportation and logistics networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trucker-flees-after-nebraska-troopers-find-250k-in-stolen-speakers"
-  },
-  {
-    "headline": "Intermodal Rail Delays Mount at Major U.S. Ports",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Intermodal shipping containers bound for rail transport are experiencing worsening turnaround times at the busiest maritime gateways in the United States. This trend highlights ongoing strain within domestic freight networks and intermodal capacity constraints. Industry observers note that mounting congestion at these critical transfer points can ripple across broader domestic supply chains, impacting transit velocity and equipment availability for cargo owners moving goods inland from coastal terminals.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/container-delays-by-rail-increase-at-busiest-u-s-ports"
-  },
-  {
-    "headline": "Savannah Port Hits 1 Million TEU Milestone at Fiscal Year Start",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "The Port of Savannah in Georgia achieved strong cargo volume growth at the beginning of its fiscal year, crossing the one million TEU mark. This performance was maintained despite operational headwinds from severe weather events and ongoing navigational constraints in the Panama Canal region.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/savannah-port-moves-1-million-teus-to-start-fiscal-year"
-  },
-  {
-    "headline": "J.B. Hunt Warns of Q3 Earnings Drop Due to Rising Costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Transportation provider J.B. Hunt Transport Services announced that its third-quarter earnings are projected to decline between 5% and 10% compared to the previous period. The downward revision is driven by escalating expenses related to fuel and driver operations. Following the financial outlook disclosure, the company's stock experienced a significant twelve percent drop in market value.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/j-b-hunt-flags-q3-cost-pressures-shares-sink-12"
-  },
-  {
-    "headline": "ICE Operations Target Truck Drivers at Inspection Stations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-16",
-    "summary": "Federal authorities have arrested three individuals in separate enforcement actions at travel stops and weigh stations. The operations coincided with investigations into fraudulent commercial driver's license training facilities. These enforcement measures highlight increased scrutiny on commercial motor vehicle operators and compliance within the freight transport sector, potentially impacting driver availability and operational oversight across the logistics industry.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ice-targets-truck-drivers-at-travel-stops-and-inspection-checkpoints"
   }
 ]
