@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Costco CFO defends tariff strategy and pricing approach",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-05",
+    "summary": "Costco executives outlined the company's financial approach regarding tariff refunds during a recent update. Leadership confirmed that the retailer has primarily utilized funds recovered from initial international trade levies to reduce consumer prices rather than retain them as profit margins. This pricing strategy reflects the warehouse club's ongoing effort to maintain value for its membership base amid fluctuating trade policies and regulatory environments.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/costco-cfo-doubles-down-on-tariff-strategy-winks-at-churro-comeback/832022/"
+  },
+  {
+    "headline": "Class 8 Truck Orders Climb 18 Percent in September",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "North American commercial vehicle demand increased in September, with Class 8 truck orders reaching 21,300 units, representing an 18 percent sequential increase and a 3 percent rise compared to the same period last year. Industry data indicates this upward movement is driven by freight carriers beginning to transition their equipment acquisition strategies toward upcoming 2027 compliant model configurations, signaling a shift in fleet investment patterns within the regional transportation market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/class-8-truck-orders-rise-18-in-september-as-fleets-turn-to-2027-models"
+  },
+  {
+    "headline": "C.H. Robinson Acquires RXO in Record $5.8B Deal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "C.H. Robinson has completed a massive $5.8 billion acquisition of competitor RXO, establishing the largest truck brokerage transaction in industry history. The monumental merger is expected to yield hundreds of millions in operational synergies, fundamentally reshaping the competitive landscape for third-party logistics providers. Industry analysts are evaluating the long-term implications of this consolidation on the future of freight brokerage services and pricing dynamics across the logistics sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/c-h-robinson-buys-rxo-historys-largest-brokerage-deal"
+  },
+  {
+    "headline": "Evri Expands US Operations with Cross Border Connect Acquisition",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "UK-based logistics provider Evri Group has acquired Cross Border Connect to bolster its presence along the high-growth UK-US ecommerce route. This strategic purchase integrates Evri's operational scale with Cross Border Connect's domestic delivery expertise and proprietary technology. The transaction aims to enhance shipping capabilities for commercial shippers, online marketplaces, and freight partners operating internationally. Co-founder Chris Lentjes will remain at the helm as chief executive officer of the acquired entity, ensuring continuity in leadership as the enterprise pursues further global expansion.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/evri-acquires-us-based-cross-border-connect/"
+  },
+  {
     "headline": "C.H. Robinson Plans $5.8B Acquisition of RXO",
     "continent": "North America",
     "country": "United States",
@@ -2958,45 +2998,5 @@
     "summary": "Estes Express Lines has committed nearly $56 million to upgrade its terminal infrastructure, equipment, and network capacity. This capital expenditure is directed at strengthening freight operations across Canada, Mexico, Alaska, Hawaii, and Puerto Rico, aiming to enhance service reliability and expand the carrier's footprint in key non-contiguous and international shipping corridors.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/estes-bets-56m-on-cross-border-offshore-freight-expansion"
-  },
-  {
-    "headline": "US Rail Freight Experiences Rare Weekly Volume Decline",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "United States freight railroad operators recorded a temporary dip in shipping volumes during an off-week. Despite this minor setback, cumulative traffic remains comfortably ahead of the pace set in previous periods, positioning the sector well as operations head toward upcoming annual figures. Industry analysts monitor these weekly fluctuations closely to gauge broader economic momentum and movement trends across domestic distribution networks, though current performance metrics still reflect a resilient and active freight market overall.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/rail-freight-slides-in-rare-off-week"
-  },
-  {
-    "headline": "USMCA Deadlock and Canada Tariffs Disrupt Cross-Border Trucking",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "international_relations",
-    "date": "2026-09-17",
-    "summary": "Escalating trade tensions between the United States and Canada are significantly impacting cross-border logistics. Canada has implemented extensive tariffs on numerous American goods, alongside total bans on select imports, while broader USMCA negotiations remain stalled. These trade barriers are forcing adjustments in freight routing and supply chain planning across key industrial sectors, including automotive, steel, and aluminum manufacturing. Industry analysts note that these policy shifts are already altering traditional transportation networks and forcing shippers to reevaluate regional distribution strategies.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/usmca-deadlock-canada-bans-what-it-means-for-trucking"
-  },
-  {
-    "headline": "SC Ports and Norfolk Southern Expand Southeast Rail Service",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "South Carolina Ports and Norfolk Southern have launched a daily intermodal rail service connecting the Port of Charleston to Huntsville, Alabama. This new transportation link broadens regional market access, providing enhanced connectivity for freight movers into Middle Tennessee. By leveraging rail infrastructure, the expansion aims to streamline cargo movement across the Southeast, offering shippers a reliable alternative for distributing goods throughout the region and supporting growing industrial supply chain demands.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/sc-ports-norfolk-southerns-intermodal-service-grows-southeast-reach/830582/"
-  },
-  {
-    "headline": "San Pedro Ports Propose Zero-Emission Truck Incentives",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-17",
-    "summary": "Ports in the San Pedro area are introducing a financial incentive initiative designed to accelerate the adoption of zero-emission freight vehicles. Under the proposed plan, eligible truck operators serving the port complex could receive annual payments of up to $36,000. This effort aims to encourage fleet modernization and reduce environmental impact within the regional logistics network by supporting the transition to cleaner transportation technologies for drayage operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/san-pedro-ports-seek-zero-emission-truck-usage-boost-via-new-incentive-prog/830536/"
   }
 ]
