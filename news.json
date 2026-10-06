@@ -1,5 +1,105 @@
 [
   {
+    "headline": "Etsy Advances Freight Decarbonization via Electric Trucks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-10-06",
+    "summary": "Online handmade marketplace Etsy is joining forces with fellow shippers to utilize zero-emission trucking certificates. This initiative is designed to offset the higher operational costs associated with adopting electric vehicles for freight transportation. By participating in this program, the company aims to support sustainable logistics practices and reduce the environmental impact of its supply chain operations without relying on traditional fossil-fuel-powered transport fleets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/how-etsy-is-pushing-freight-decarbonization/832159/"
+  },
+  {
+    "headline": "Cal-Maine Reports U.S. Egg Supply and Demand Rebalancing",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-06",
+    "summary": "Cal-Maine Foods reports that inventory levels are normalizing following a reduction in the domestic laying flock and a decrease in hatched chicks from breeder eggs. Leadership indicates these adjustments are successfully addressing previous market oversupply conditions, stabilizing availability across the domestic market after a period of elevated production volumes.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/cal-maine-points-to-egg-supply-demand-rebalance/832069/"
+  },
+  {
+    "headline": "Levi's and M&S Launch Renewable Energy Initiative for Suppliers",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-10-06",
+    "summary": "Major apparel brands Levi Strauss and Marks & Spencer have partnered with Schneider Electric to introduce the Fashion Renewable Collective. This initiative aims to assist apparel manufacturing vendors in transitioning toward large-scale renewable electricity adoption across their operations, addressing environmental impacts within upstream production networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/levis-marks-spencer-launch-renewable-energy-initiative-for-fashion-supp/832004/"
+  },
+  {
+    "headline": "Einride and EASE Launch Daily Autonomous Freight Runs in Ohio",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Electric autonomous trucking firm Einride has initiated daily cabless freight operations in Ohio in partnership with logistics provider EASE. This deployment serves as a live trial to determine if autonomous vehicle technology can effectively handle unexpected short-haul transportation demands. The initiative highlights the growing integration of autonomous electric vehicles into regional freight networks to improve efficiency and address capacity challenges in short-distance logistics.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/einride-ease-daily-driverless-trucks-ohio"
+  },
+  {
+    "headline": "US-Bound Container Rates Peak But Set to Stay High",
+    "continent": "Global",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Spot shipping rates for containers moving from Asia to the United States have likely reached their maximum following recent geopolitical disruptions in the Hormuz region. Analysts indicate that while the upward momentum has stalled, a dramatic drop in freight prices is not anticipated in the near term. Instead, transportation costs are projected to remain at elevated levels for an extended period, sustaining higher pricing pressures for importers and logistics operations through the year 2026.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/xeneta-us-bound-container-rates-peak-but-sharp-collapse-unlikely"
+  },
+  {
+    "headline": "Diesel Prices Fall Amid Potential Federal Red Dye Rule Shifts",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Benchmark diesel rates have dropped recently, raising questions across the logistics sector regarding a pending adjustment to federal regulations concerning diesel coloration. Industry observers are evaluating how modifications to the mandate requiring red dye in specific fuel categories might influence retail pricing structures and downstream operational costs for commercial fleets and freight operators. While the price decrease offers temporary relief for transportation providers, the regulatory transition introduces a new variable into fuel cost forecasting.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/benchmark-diesel-slides-what-will-be-impact-of-red-dye-change"
+  },
+  {
+    "headline": "Transportation Costs Jump as Capacity Tightens in September",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Recent data from the Logistics Managers Index indicates a notable reduction in available transportation capacity during September, accompanied by sharp increases in shipping prices. This trend highlights ongoing tightness across the freight sector, reflecting shifting balance between supply and demand within the broader distribution network. Industry metrics point to escalating cost pressures for shippers as carrier availability continues to diminish.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/transportation-prices-surge-as-capacity-tightens-further-in-september"
+  },
+  {
+    "headline": "Waabi Expands Autonomous Trucking into Regional LTL Lanes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Autonomous vehicle developer Waabi is expanding its technology testing beyond traditional long-haul truckload routes into regional less-than-truckload operations. The company is partnering with freight provider Warp to evaluate self-driving trucks on a Dallas-to-Houston corridor. According to corporate leadership, the application aims to leverage hours-of-service flexibilities to drive operational efficiencies across shorter regional distribution lanes, signaling a strategic shift for autonomous freight deployment models.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/waabi-volvo-warp-autonomous-ltl-customer-operations"
+  },
+  {
+    "headline": "Chemical producer supports Union Pacific and Norfolk Southern merger",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "A large chemical manufacturing enterprise has expressed support for the proposed combination of Union Pacific and Norfolk Southern. The industrial shipper anticipates that the resulting transcontinental rail network will improve its connectivity and transportation efficiency to destinations in eastern regions. Advocates for the corporate consolidation argue it will streamline freight operations across the rail corridors, while critics and competing carriers continue to evaluate the potential impacts on service quality and industry competition.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/major-chemical-producer-backs-up-ns-merger"
+  },
+  {
+    "headline": "Ocean Carriers Announce Post-Golden Week Blank Sailings",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "As China observes the Golden Week holiday and factories pause operations, supply chain managers are preparing for potential capacity constraints upon workers' return. Data from Drewry indicates that ocean carriers have scheduled 39 blanked sailings across major deepsea east-west routes, including transpacific, transatlantic, and Asia-Europe lanes, spanning from early October to early November. Shippers are closely monitoring these cancelled sailings to evaluate container availability and adjust their logistics strategies as manufacturing activity resumes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/capacity-conundrum-for-shippers-as-carriers-unveil-post-golden-week-blanks/"
+  },
+  {
     "headline": "ZF Boosts US Sales Outlook While Halting Local Truck Hybrid Project",
     "continent": "North America",
     "country": "United States",
@@ -2898,105 +2998,5 @@
     "summary": "Ocean freight shipping rates moving from Asia to the United States have experienced a dramatic climb, surpassing eleven thousand dollars per container. Data from Xeneta indicates that spot prices have expanded by over three hundred and twenty percent since the end of February, pushing current transportation expenses close to the historic peaks witnessed during the global pandemic. This significant market escalation highlights ongoing cost pressures and capacity constraints within major transpacific trade corridors, impacting cargo owners and logistics operations globally.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/asia-us-container-rates-soar-past-11000-near-pandemic-records"
-  },
-  {
-    "headline": "Fuel Tanker Trucks Granted Hours of Service Waiver",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Motor carriers transporting petroleum fuels have been granted a three-month regulatory exemption by the Federal Motor Carrier Safety Administration. This decision temporarily relieves fuel-hauling drivers from standard hours of service limits to maintain steady transport operations and prevent regional shortages. The temporary measure applies specifically to commercial vehicles engaged in the distribution of motor fuels, ensuring uninterrupted energy supply chains during the covered period.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trucks-hauling-fuel-get-hos-waiver-for-3-months"
-  },
-  {
-    "headline": "Link Logistics Expands Portfolio with Four New Facilities",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-18",
-    "summary": "Link Logistics has recently expanded its operational footprint through the acquisition of a four-property industrial portfolio totaling 700,000 square feet. This strategic purchase includes last-mile warehouse facilities located in the Dallas-Fort Worth and Atlanta metropolitan areas. The investment enhances the company's regional distribution capabilities, supporting faster delivery times and growing e-commerce fulfillment demands in these key metropolitan freight markets.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/link-logistics-buys-4-last-mile-facilities-in-dallas-fort-worth-atlanta"
-  },
-  {
-    "headline": "Cybersecurity risks threaten food supply chain operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Cybersecurity experts warn that digital attacks against food distributors can rapidly evolve into severe supply chain crises. During an industry conference panel, specialists highlighted how security breaches have the potential to cripple warehouse management systems, halt delivery fleets, disrupt customer ordering processes, and stall the physical flow of freight. Officials emphasized the urgent need for heightened digital preparedness across the sector to safeguard operational continuity and prevent widespread distribution bottlenecks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/food-distributors-warn-cyberattacks-can-quickly-become-supply-chain-disruptions"
-  },
-  {
-    "headline": "Union Pacific opposes rivals' trackage rights bids",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Union Pacific leadership has expressed strong opposition to competitor proposals seeking trackage rights over a potential combined rail network involving Union Pacific and Norfolk Southern. During an investor conference, the chief executive criticized the concept of surrendering rail infrastructure without clear business justification. This pushback follows recent moves by competing rail operators attempting to secure access across the unified system, highlighting ongoing competitive tensions and strategic maneuvering within the freight rail sector as major carriers navigate potential network integrations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/union-pacific-blasts-rival-railroads-trackage-rights-requests"
-  },
-  {
-    "headline": "Amazon Air Selects Airbus A330 as Future Freighter",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Amazon Air and its primary airline partner have designated the Airbus A330 as their upcoming cargo aircraft model. Despite this future fleet direction, the Boeing 767-300 continues to serve as the foundational workhorse for current air freight operations. This transition highlights a strategic shift in equipment planning for the retail giant's logistics network, even as legacy aircraft maintain their prominent operational role in the interim.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/amazons-freighter-aircraft-of-the-future-is-the-airbus-a330"
-  },
-  {
-    "headline": "Transpacific container spot rates surge past $10,000",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Container shipping prices on major trade lanes continue to move in opposite directions, with transpacific routes experiencing significant upward pressure while Asia-Europe rates decline. Drewry's World Container Index shows that shipping costs from Shanghai to New York have climbed past the ten-thousand-dollar threshold for a forty-foot container. This milestone marks the highest price point recorded for this specific corridor since mid-2022, driven by persistent market divergence over a seven-week period.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/transpacific-spot-rates-top-10000-as-asia-europe-slide-accelerates/"
-  },
-  {
-    "headline": "Tesla Plans European Semi Deliveries by Late 2027",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Tesla has announced plans to introduce its electric Semi truck to the European market, scheduling regional demonstration events for the initial half of 2027. Following these trials, the manufacturer intends to begin fulfilling customer orders across Europe by the conclusion of that same year. This expansion timeline was outlined by the company's executive responsible for the commercial vehicle program, marking a significant step toward international deployment of the heavy-duty electric fleet.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-europe-delivery-timeline"
-  },
-  {
-    "headline": "Ocean Freight Rates Remain High Amid Strong US Demand",
-    "continent": "Global",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Ocean freight markets continue to experience tight capacity and elevated rates as seasonal shipping demand extends past typical peak periods. Robust American import volumes, combined with unfavorable weather events and strategic carrier capacity reductions, have prevented the anticipated post-peak market softening. Analysts report that September import figures are tracking roughly ten percent higher than the previous year, maintaining sustained pressure on global maritime logistics networks and keeping shipping costs elevated.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/no-post-peak-relief-for-ocean-freight-as-capacity-tightens/"
-  },
-  {
-    "headline": "FAA Grants Boeing 777F Exemption Amid Freighter Shortages",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "United States regulators have granted Boeing an exemption to continue producing the current 777 freighter model for an additional three years following the implementation of stricter fuel-efficiency standards. This regulatory relief comes as the cargo sector faces persistent capacity constraints and delays surrounding the development of newer aircraft models. The decision permits the production and certification of a limited number of these freighters into early the next decade, helping maintain manufacturing continuity and supporting global logistics networks struggling with limited heavy-lift aircraft availability.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/faa-gives-777f-three-year-lifeline-as-freighter-capacity-crunch-bites/"
-  },
-  {
-    "headline": "Hong Kong Unveils Five-Year Maritime Strategy for Port Modernization",
-    "continent": "Asia",
-    "country": "China",
-    "category": "storage_distribution",
-    "date": "2026-09-18",
-    "summary": "Hong Kong authorities have released a comprehensive maritime development roadmap extending to 2030, aimed at modernizing the Kwai Tsing Container Terminals through digital upgrades and eco-friendly initiatives. The strategy also introduces a revised dual ship registration system and expands local offerings in marine insurance and maritime financing. This policy push seeks to reinforce the territory's competitive standing as a premier global shipping hub amid evolving international supply chain demands.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hong-kong-bets-on-green-digital-ports-heres-why-it-needs-more/"
   }
 ]
