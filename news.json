@@ -1,5 +1,65 @@
 [
   {
+    "headline": "TA Services Expands Texas Cross-Border Capacity",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "TA Services has expanded its operational footprint along the United States and Mexico border by purchasing two Texas-based transportation companies: Carmen Pacheco Transportation and Interload Forwarding. This strategic move incorporates a fleet of 133 trucks and more than 550,000 square feet of storage space into the company's network. The integration aims to enhance cross-border freight capabilities and regional storage capacity to better support bilateral trade operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ta-services-acquires-2-texas-cross-border-carriers-adds-133-trucks"
+  },
+  {
+    "headline": "Old Dominion and Daylight Transport Win Top LTL Honors",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Recent industry survey results show Old Dominion maintaining its position as the leading national less-than-truckload carrier for the seventeenth consecutive year. Meanwhile, Daylight Transport secured the top overall ranking for the third year in a row. These findings come from an annual evaluation conducted by Mastio, which gathers feedback directly from shippers regarding carrier performance across the sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ltl-survey-old-dominion-daylight-transport-take-home-top-honors-again"
+  },
+  {
+    "headline": "A $100 Billion Discrepancy Found in US-China Trade Data",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-06",
+    "summary": "A massive valuation gap of one hundred billion dollars separates official export figures reported by China and the corresponding import numbers recorded by the United States. Experts highlight how granular shipping documentation plays a critical role in resolving such discrepancies, facilitating global sourcing strategies, and enforcing international trade sanctions. Analyzing detailed logistics records allows businesses and regulators to improve transparency within cross-border supply chains and better monitor the movement of goods between these two major economic powers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/100b-trade-gap-china-vs-us-data-exposed"
+  },
+  {
+    "headline": "Transfix Adds E3 Fraud Screening to TMS Platform",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Digital freight network Transfix has incorporated E3 Group identity verification tools directly into its transportation management software. This integration enables brokers to authenticate carrier identities prior to issuing pickup credentials, addressing rising security concerns surrounding fraudulent load pickups and unauthorized freight diversion. By embedding these verification safeguards into daily workflows, the company aims to protect shipments from deceptive actors and secure transaction workflows across the network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/transfix-integrates-e3-driver-fraud-screening-into-tms"
+  },
+  {
+    "headline": "Anduril Industries to Build Navy Submarine Plant in Baltimore",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-06",
+    "summary": "Anduril Industries has secured a contract from the United States Navy to construct submarine components at a redeveloped steel mill location. The new manufacturing facility will be situated within a multimodal logistics hub in Baltimore, leveraging the area's transportation infrastructure to support defense production operations and regional industrial supply chain growth.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-submarine-plant-planned-at-baltimore-multimodal-hub"
+  },
+  {
+    "headline": "Autonomous Trucks Rapidly Deploying Across Major Freight Lanes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-06",
+    "summary": "Driverless commercial vehicles are accelerating their deployment across key freight corridors, shifting from a distant future projection into an immediate reality for the transportation sector. While many traditional operators view this technological advancement with apprehension, the rapid integration of autonomous fleets is altering competitive dynamics within the logistics industry. Companies operating along these established routes must adapt to new operational realities as automated transport systems secure a permanent foothold in everyday freight movement.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-autonomous-trucks-are-coming-for-the-lane-not-necessarily-for-your-business"
+  },
+  {
     "headline": "Etsy Advances Freight Decarbonization via Electric Trucks",
     "continent": "Global",
     "country": "Multiple",
@@ -178,6 +238,16 @@
     "summary": "Container shipping demand measured in TEU-miles has experienced its first regression since January. This downturn is driven by holiday-related blanked sailings in China, ongoing additions of newly built vessels to the global fleet, and ships increasingly resuming transit through the Suez Canal on Asia-Europe trade lanes. Shipping consultancies indicate that long-haul services have faced significant cancellations due to softening export volumes. These combined market factors present a substantial challenge for ocean carriers attempting to stabilize sliding spot rates across transpacific routes.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/suez-return-a-major-threat-to-carrier-efforts-to-halt-transpac-spot-rate-slide/"
+  },
+  {
+    "headline": "NMFTA launches threat portal for cyberattack reporting",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-05",
+    "summary": "The National Motor Freight Traffic Association has introduced a dedicated threat portal designed to help organizations report both successful and attempted cyberattacks. By providing a centralized platform for incident sharing, the initiative aims to bolster digital defense measures across the transportation and freight sector. Industry stakeholders can leverage this shared intelligence to identify emerging threats, understand adversarial tactics, and collectively improve the resilience of their supply chain networks against malicious digital activities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cybersecurity-portal-to-fight-bad-guys-open-for-business-nmfta"
   },
   {
     "headline": "Costco CFO defends tariff strategy and pricing approach",
@@ -2928,75 +2998,5 @@
     "summary": "A freight train traveling from Los Angeles to Chicago via BNSF was targeted by thieves while in motion through Riverside, resulting in a container catching fire. Local fire departments from Riverside and Colton responded quickly to put out the flames. Following the extinguishment of the fire, jurisdiction of the investigation was handed over to BNSF Police. This incident highlights ongoing security challenges for rail freight operations and the risks associated with cargo theft along major North American transportation corridors.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/burglary-hits-moving-bnsf-train-as-container-catches-fire-in-riverside"
-  },
-  {
-    "headline": "US investigates diversion of F-35 parts to Hong Kong",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "category": "international_relations",
-    "date": "2026-09-18",
-    "summary": "American legislators and defense officials have launched an investigation into the unauthorized rerouting of sensitive military aircraft components. The parts, originally shipped from Australia toward the United States for maintenance, were intercepted or redirected to Hong Kong instead of reaching their intended destination. Authorities are currently working to locate the missing hardware and determine how the security breach occurred within the international transport and repair pipeline, raising concerns over the vulnerability of defense supply chains.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/federal-probe-into-diversion-of-f-35-parts-to-hong-kong"
-  },
-  {
-    "headline": "FleetCor and CEO Settle for $100 Million Over Fuel Card Fees",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-09-18",
-    "summary": "Payment solutions provider FleetCor, recently rebranded as Corpay, along with its chief executive officer, reached a settlement agreement totaling one hundred million dollars following judicial rulings that upheld Federal Trade Commission allegations regarding concealed fuel card charges. The resolution establishes a financial pool dedicated to compensating commercial clients who experienced monetary losses due to the deceptive fee structures. This concludes a significant regulatory dispute concerning business practices within the fleet management and logistics transaction sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fleetcor-ceo-agree-to-pay-100-million-over-hidden-fuel-card-fees"
-  },
-  {
-    "headline": "Costco Partners with DoorDash and Uber for Same-Day Delivery",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-18",
-    "summary": "Warehouse retail operator Costco is scaling up its same-day delivery capabilities by collaborating with third-party gig economy platforms including DoorDash, Uber, and Instagram. This initiative utilizes independent drivers to fulfill rapid customer orders, marking a strategic shift in the company's approach to last-mile logistics and consumer fulfillment operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/costco-expands-ultra-fast-delivery-through-doordash-uber"
-  },
-  {
-    "headline": "TJX distribution model mitigates supply chain disruptions",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-18",
-    "summary": "During a quarterly earnings call, the chief executive of TJX explained that the company's fulfillment network is structured to buffer against weather-related disruptions. By utilizing a strategy that retains inventory within distribution centers rather than shipping merchandise directly to retail outlets, the off-price retailer maintains greater flexibility. This operational approach allows the company to better navigate external challenges such as El Nino weather patterns, ensuring steady product availability across its store network despite potential transport hurdles.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/tjx-ceo-distribution-model-will-help-weather-el-nino/830665/"
-  },
-  {
-    "headline": "National diesel fuel prices climb past $6.28 per gallon",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Fuel costs for commercial transport across the country have experienced another substantial increase, pushing the national average to unprecedented levels. This escalation places mounting cost pressures on freight operators, logistics providers, and shipping companies, which will likely translate into higher operational expenses for moving goods. The ongoing surge in fuel prices reflects broader energy market volatility, directly impacting bottom lines throughout domestic supply chain and distribution networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/diesel-prices-surge-past-628-per-gallon/830541/"
-  },
-  {
-    "headline": "Target Highlights Supplier Renewable Energy in Scope 3 Strategy",
-    "continent": "North America",
-    "country": "United States",
-    "category": "sustainability",
-    "date": "2026-09-18",
-    "summary": "Retailer Target identifies upstream supplier energy transitions as the primary driver for shrinking its Scope 3 greenhouse gas footprint. Initiatives such as the Forward Renew program, developed alongside Schneider Electric, represent critical steps toward engaging vendor networks in sustainable practices and decarbonizing the broader supply chain ecosystem. These collaborative efforts focus on expanding access to renewable power sources across manufacturing and distribution operations to meet long-term corporate climate targets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/target-supplier-energy-transitions-key-for-scope-3-reductions/830681/"
-  },
-  {
-    "headline": "Asia-US container shipping spot rates surge past $11,000",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Ocean freight shipping rates moving from Asia to the United States have experienced a dramatic climb, surpassing eleven thousand dollars per container. Data from Xeneta indicates that spot prices have expanded by over three hundred and twenty percent since the end of February, pushing current transportation expenses close to the historic peaks witnessed during the global pandemic. This significant market escalation highlights ongoing cost pressures and capacity constraints within major transpacific trade corridors, impacting cargo owners and logistics operations globally.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/asia-us-container-rates-soar-past-11000-near-pandemic-records"
   }
 ]
