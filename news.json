@@ -1,5 +1,125 @@
 [
   {
+    "headline": "High diesel prices squeeze trucking freight contracts and corporate earnings",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Energy executives anticipate that fuel costs will remain elevated for the foreseeable future. Meanwhile, leadership within the trucking sector indicates that freight agreements finalized prior to recent fuel price spikes are negatively impacting financial performance. This dynamic creates significant cost pressures across transportation operations, forcing logistics providers and corporate financial officers to reevaluate budget forecasts and contract structures to better manage ongoing fuel volatility within their distribution networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/diesels-supply-crunch-may-hit-cfos-through-freight-contracts/831981/"
+  },
+  {
+    "headline": "Tractor Supply Opens Automated Idaho Distribution Center",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-07",
+    "summary": "Tractor Supply has launched a new distribution facility in Idaho to supply 123 retail locations across the region. The site features advanced automation technologies and incorporates an in-house artificial intelligence team focused on improving daily operational workflows. This infrastructure expansion aims to streamline inventory movement, enhance fulfillment efficiency, and support the company's broader retail network growth through modern technology integration.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/tractor-supply-opens-idaho-distribution-center-with-automation-dedicated-a/831883/"
+  },
+  {
+    "headline": "USTR Opens Public Comment for Annual USMCA Review",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-07",
+    "summary": "The Office of the United States Trade Representative has begun the next phase of the annual trade pact assessment process. This initiative follows the recent decision by the United States not to extend the agreement during the summer. Stakeholders and interested parties are now invited to submit public comments to inform ongoing evaluations of the trilateral trade framework.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ustr-initiates-next-stage-of-usmca-review/832285/"
+  },
+  {
+    "headline": "Zim raises profit forecast 72% on strong demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Ocean carrier Zim has significantly upgraded its financial outlook for the year, driven by robust market demand and escalating freight rates. The upward revision reflects sustained momentum in the container shipping sector, where tightened capacity and strong shipping volumes continue to bolster profitability for major operators amidst fluctuating global trade conditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/zim-lifts-profit-forecast-72-on-strong-demand"
+  },
+  {
+    "headline": "US Rail Freight Growth Accelerated by Intermodal and Commodities",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "United States freight rail carriers experienced continued weekly traffic growth driven by robust performance across traditional commodity sectors such as metals, petroleum, and forest products. Furthermore, significant improvements within intermodal shipping volumes substantially amplified overall freight gains for the rail industry, reflecting strengthening domestic cargo movement patterns and increased utilization of combined transport networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/climbing-intermodal-rail-volumes-more-than-treble-commodities-traffic-gains"
+  },
+  {
+    "headline": "Logistics Firms Pay $2M to Settle Hiring Discrimination Lawsuits",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-07",
+    "summary": "Two major logistics enterprises have agreed to pay a combined settlement of two million dollars to resolve legal actions regarding alleged unfair hiring practices. The companies faced scrutiny over recruitment methods that reportedly violated employment discrimination regulations. This financial resolution concludes the federal inquiries into their employment procedures, prompting both organizations to review and adjust their internal hiring protocols to ensure future compliance with labor laws.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/logistics-firms-to-pay-2m-to-settle-hiring-discrimination-cases"
+  },
+  {
+    "headline": "Yellow Corp and Teamsters Reach Settlement on WARN Act Claims",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Bankrupt freight carrier Yellow Corporation and the Teamsters union have reached an agreement regarding WARN Act claims filed on behalf of former employees. Under the terms outlined in a union memo, displaced workers are set to receive a reduced percentage of the compensation they originally claimed. This resolution marks another step in the winding down of operations for the once-major logistics provider, following its massive shutdown that affected tens of thousands of jobs across the United States freight network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/yellow-corp-teamsters-settle-on-warn-act-claims"
+  },
+  {
+    "headline": "Trucking Capacity Stagnates as Freight Volumes and Rejections Rise",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Recent logistics data highlights a persistent imbalance in the freight sector, where rising tender rejections and steady volume growth over a three-year period fail to attract new trucking capacity. Industry indicators suggest that structural market pressures are preventing fleet expansions, signaling ongoing operational challenges for carriers and shippers alike as the freight sector looks ahead to future market conditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/is-trucking-capacity-coming-back-why-new-capacity-isnt-entering-the-2026-freight-market"
+  },
+  {
+    "headline": "Stripe Uses FedEx Data to Fund Small Businesses",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-07",
+    "summary": "Financial technology platform Stripe is utilizing analytics from FedEx Dataworks to evaluate small businesses for working capital loans. By incorporating operational metrics and shipping insights into the underwriting process, the collaboration aims to improve funding accessibility for merchants that rely on the logistics provider's shipping network. This initiative bridges financial services with supply chain performance data to streamline credit approvals for smaller enterprises.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stripe-taps-fedex-data-to-expand-small-business-access-to-financing"
+  },
+  {
+    "headline": "New tracking and insurance product protects sensitive air cargo",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Solent Freight Services, Tag-N-Trac, and Otonomi have introduced a combined monitoring and insurance subscription designed for forwarders handling temperature-sensitive goods like pharmaceuticals and perishables. The offering integrates real-time shipment tracking with automated financial payouts for delays and thermal excursions, aiming to streamline risk management for high-value logistics operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/new-cover-protects-forwarders-from-late-temperature-hit-cargo/"
+  },
+  {
+    "headline": "DHL Report: Tech and AI Drive Global Trade Growth",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-10-07",
+    "summary": "Recent findings from the DHL Globalization Tracker indicate that global trade expansion is accelerating, setting new records despite ongoing geopolitical disruptions and tariff barriers. The research, conducted alongside New York University's Stern School of Business, highlights the artificial intelligence boom as a primary catalyst for international commerce. According to the report, the surging demand for advanced technology effectively counterbalances current regulatory and trade headwinds, serving as a robust engine for cross-border supply chains and worldwide economic connectivity.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/dhl-tech-beats-tariffs-the-ai-boom-has-become-a-powerful-driver-of-global-trade/"
+  },
+  {
+    "headline": "German Port Strikes Averted as Union Accepts New Contract Terms",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Industrial action across major German port facilities has been avoided after dockworker union members agreed to a newly proposed labor agreement. While the settlement removes the immediate threat of widespread disruptions at key hubs such as Hamburg and Bremen, pending final approval from employers, supply chain operations continue to face challenges. Specifically, low water levels on the Rhine River are currently restricting barge cargo movements, causing ongoing delays in regional freight transportation and adding pressure to the broader logistics network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/german-port-strikes-averted-but-low-rhine-still-delaying-barge-cargo/"
+  },
+  {
     "headline": "LAPD Seizes $1M in Stolen Rail Cargo from Local Retailer",
     "continent": "North America",
     "country": "United States",
@@ -2878,125 +2998,5 @@
     "summary": "A recent analysis from Samsara reveals that a small fraction of commercial drivers represents nearly half of all fleet collisions. By examining driver risk profiles, fleet operators can pinpoint problematic behaviors and direct targeted coaching programs toward the highest-risk personnel. This data-driven strategy aims to improve road safety and optimize workforce management within transportation operations.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/samsara-report-finds-10-of-risk-ranked-drivers-account-for-47-of-crashes"
-  },
-  {
-    "headline": "Kuehne+Nagel Secures Global Amazon Data Center Logistics Deal",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Global logistics provider Kuehne+Nagel has been awarded a major contract by Amazon to manage supply chain and freight operations supporting its worldwide data center development and operational activities. This agreement involves coordinating complex shipments and supply networks internationally to ensure timely delivery of necessary infrastructure components. The collaboration highlights the growing logistical demands driven by rapid expansion in cloud computing and digital infrastructure investments across multiple markets.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/kuehnenagel-takes-logistics-lead-for-amazon-data-center-expansion"
-  },
-  {
-    "headline": "CBP Crackdown Threatens Cross-Border Freight Shipments",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-21",
-    "summary": "U.S. Customs and Border Protection is actively invalidating importer-of-record numbers that feature incorrect or missing data. This enforcement action places thousands of cross-border freight shipments in jeopardy of delays and disruptions at ports of entry. Importers must urgently review and correct their registration details to maintain compliance and ensure their goods continue to move across the border without regulatory interruptions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cbp-importer-crackdown-puts-thousands-of-cross-border-freight-shipments-at-risk"
-  },
-  {
-    "headline": "Old Dominion advances 4.9% rate increase schedule",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Less-than-truckload carrier Old Dominion Freight Line has advanced its planned 4.9 percent general rate increase to October fifth, moving the effective date up by a month compared to previous schedules. This adjustment marks the second consecutive year the company has accelerated its tariff rate adjustments. The move reflects a broader industry trend where logistics and freight operators are implementing price hikes earlier than traditional timelines to manage rising operational costs and market pressures.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/old-dominion-pulls-forward-4-9-gri-as-ltl-carriers-accelerate-rate-hikes"
-  },
-  {
-    "headline": "Canadian Transport Company Facing Foreign Worker Violations",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "A Canadian trucking firm faces official charges for alleged violations under provincial legislation governing foreign worker recruitment and immigration services. Authorities initiated the legal action following compliance investigations into the carrier's employment practices. This enforcement highlights ongoing regulatory scrutiny within the transportation sector regarding the treatment and recruitment of international labor forces.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/canadian-carrier-charged-over-alleged-foreign-worker-violations"
-  },
-  {
-    "headline": "Kuehne+Nagel and Amazon Form Strategic Partnership",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-09-21",
-    "summary": "Kuehne+Nagel has entered into a long-term strategic agreement with Amazon that includes a call option on shares. While Amazon frequently uses milestone-linked financial structures to strengthen commercial ties, this collaboration is distinct because Kuehne+Nagel functions as both a key service provider and a competitor in developing logistics capabilities. The arrangement raises questions about the future dynamic between the two companies as their operations increasingly overlap within the global freight and supply chain sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/up-in-the-air-kuehne-amazon-tie-up-leaves-questions-unanswered/"
-  },
-  {
-    "headline": "Supreme Court Ruling and Lipe Verdict Expose Freight Brokers to Litigation Risks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-21",
-    "summary": "Recent judicial decisions, highlighted by a massive financial judgment, have intensified legal exposure for freight brokers across the United States. While major industry players possess the scale to navigate shifting regulatory landscapes better than smaller competitors, they remain vulnerable to significant liability claims related to broker selection. Industry analysts warn that these evolving legal standards could drive up operational costs and force large logistics enterprises to reevaluate their risk management strategies.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/lipe-verdict-could-bring-legal-risks-to-chrw-and-rxo/"
-  },
-  {
-    "headline": "Transpacific Container Rates Surge Toward Pandemic Levels",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Container shipping spot rates moving from the Far East to the United States are climbing rapidly, nearing the historic peaks recorded throughout the pandemic era. Ocean carriers are aggressively expanding vessel capacity on eastbound routes to capture higher revenue amid escalating demand. Market analysts report that spot shipping prices for both the US west and east coasts have more than quadrupled since late February, driven by shifting maritime dynamics and regional shipping disruptions.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/transpac-rates-close-in-on-covid-records-as-carriers-pile-in-capacity/"
-  },
-  {
-    "headline": "Long Beach CEO warns capacity limits loom despite record August volumes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "The Port of Long Beach reported a modest two percent year-over-year increase in August throughput, reaching 919,922 TEUs. Despite setting a new monthly record driven by rising import and export figures, port leadership cautioned that the surge stems from broader supply chain disruptions instead of genuine market growth. The executive team emphasized that looming economic headwinds and tightening operational capacity pose significant risks for upcoming freight movements, suggesting that the current high-volume period may introduce severe congestion challenges.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/record-long-beach-volumes-mask-trouble-ahead-as-capacity-tightens-warns-lb-boss/"
-  },
-  {
-    "headline": "Nanjing Port Launches Direct Container Service to North Africa",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Nanjing port is expanding its maritime capabilities beyond river operations by introducing a direct liner route to North Africa, operated by Cosco Shipping Lines. The new connection utilizes a large general cargo vessel, which departed from the Longtan Container terminal partially loaded. This development marks a significant upgrade for the facility, enhancing its international reach and integrating it more deeply into global trade networks by providing direct maritime access between Chinese inland manufacturing hubs and North African markets.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/nanjing-steps-up-deepsea-ambitions-with-direct-north-africa-service/"
-  },
-  {
-    "headline": "Mexico's Aviation Agency Faces Proposed 73% Budget Reduction",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-09-21",
-    "summary": "Mexican aviation companies and industry stakeholders are expressing deep concern over a proposed 73.3 percent funding reduction for the national civil aviation authority, AFAC, slated for the upcoming federal budget. Industry leaders warn that the drastic financial contraction could threaten the country's recently restored Category 1 aviation safety rating. Furthermore, stakeholders fear the funding shortfall will disrupt regulatory oversight and stall growth initiatives for domestic carriers, creating potential bottlenecks for regional air cargo and logistics networks.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/mexican-aviation-alarmed-as-afac-faces-73-budget-cut/"
-  },
-  {
-    "headline": "EU Shippers Face €572M in Carbon Costs Amid Logistics Changes",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "European importers incurred over half a billion euros in extra expenses during the second quarter due to maritime carbon pricing regulations. Research indicates that container shipping routes utilizing specific ports, such as Felixstowe in the United Kingdom, can significantly lower compliance expenses tied to these environmental mandates. The data highlights how strategic port selection and voyage planning impact maritime shipping overhead as regulatory frameworks tighten across European waters.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/eu-shippers-face-e572m-ets-bill-but-felixstowe-calls-slash-exposure/"
-  },
-  {
-    "headline": "Kuehne + Nagel and Amazon Establish Strategic Alliance",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-09-21",
-    "summary": "Logistics provider Kuehne + Nagel has formalized a long-term strategic partnership with e-commerce giant Amazon to expand on their existing commercial relationship. The agreement encompasses a broad scope of operational initiatives intended to drive future growth and enhance service delivery capabilities for Amazon and its subsidiary organizations. Although specific operational details were not disclosed, the collaboration underscores a deepened commitment between the two companies to optimize their ongoing logistics and supply chain engagements.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/kuehne-nagel-discloses-long-term-strategic-collaboration-with-amazon/"
   }
 ]
