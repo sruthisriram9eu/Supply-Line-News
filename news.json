@@ -1,5 +1,75 @@
 [
   {
+    "headline": "LAPD Seizes $1M in Stolen Rail Cargo from Local Retailer",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Law enforcement officials in the Los Angeles area recovered approximately one million dollars worth of illicit merchandise originating from major freight networks operated by BNSF and Union Pacific. The seized inventory included footwear and outdoor gear from prominent brands such as Nike, New Balance, Brooks, and Yeti. Authorities are currently investigating the distribution pathways that allowed the stolen goods to enter the retail market. No details on suspects or arrests have been released as the inquiry continues into supply chain theft impacting regional rail transport.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/lapd-uncovers-1m-in-stolen-bnsf-and-union-pacific-rail-cargo-at-los-angeles-area-shoe-retailer"
+  },
+  {
+    "headline": "FMC Threatens Cosco with Massive Fine for Non-Payment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-07",
+    "summary": "The Federal Maritime Commission has issued a severe warning to Cosco, threatening a multi-million dollar penalty if the carrier fails to settle its outstanding fine. This enforcement action signals that the regulatory agency remains dedicated to maintaining accountability and establishing fair operational standards for United States shippers interacting with international container lines, despite speculation regarding potential shifts in regulatory oversight under the upcoming administration.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/fmc-clamps-down-on-cosco-fine-non-payment-with-threat-of-hefty-penalty/"
+  },
+  {
+    "headline": "Finland Halts Google Data Center Construction",
+    "continent": "Europe",
+    "country": "Finland",
+    "category": "storage_distribution",
+    "date": "2026-10-07",
+    "summary": "Finnish authorities have temporarily stopped construction on two planned Google data center sites due to environmental concerns regarding the clearing of over 300 hectares of forest. These locations are part of a massive multi-billion-euro regional infrastructure investment recently announced by the technology giant. The regulatory agency intervened following issues with site preparation activities, impacting the early stages of this large-scale European development project.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/bbc-finland-orders-halt-to-work-on-two-google-data-centres/"
+  },
+  {
+    "headline": "Adverse Weather Disrupts Shipping Trade Routes Across the Americas",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Severe weather conditions continue to create operational challenges for maritime trade between North and South America, despite recent increases in transit capacity through the Panama Canal. The imbalance between regional imports and exports persists amid these environmental hurdles. To help address shifting market demands, carriers are adjusting vessel routes, including the introduction of a new shipping service connecting South America's West Coast directly to the United States East Coast port of Gloucester City in New Jersey.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/bad-weather-creates-headwinds-for-trade-between-the-americas/"
+  },
+  {
+    "headline": "Japan Airfreight Exports Surge on Semiconductor and AI Demand",
+    "continent": "Asia",
+    "country": "Japan",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Japanese airfreight exports are projected to experience significant growth, supported by a heavy volume of semiconductor shipments tied to the global expansion of artificial intelligence infrastructure and data centers. Research indicates that outward air cargo from the country will achieve its third straight year of volume gains, reaching a multi-year high. Total air cargo activity, encompassing both inbound and outbound shipments, is likewise expected to expand steadily as high-tech manufacturing supply chains respond to surging technological investments.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ai-and-data-centre-boom-still-driving-increased-global-airfreight-traffic/"
+  },
+  {
+    "headline": "Ceva Logistics Unveils Another Major Overhaul",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Global third-party logistics provider Ceva Logistics has announced another comprehensive restructuring initiative, aiming to streamline operations and service delivery. The company, currently operating as a division of container shipping giant CMA CGM, has a history of corporate reinventions dating back to its origins under private equity ownership. Industry observers are closely watching whether this latest strategic pivot will successfully overcome past restructuring challenges and deliver sustainable improvements across its vast operational network and workforce.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/another-ceva-reboot-another-10000-staff-can-it-deliver/"
+  },
+  {
+    "headline": "Adani Airports Halt Russia-Bound Cargo, Stranding Indian Exports",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Air cargo operations across eight Indian airports managed by the Adani Group have temporarily halted the processing of shipments destined for Russia. This sudden suspension has left approximately 150 tonnes of exports, predominantly pharmaceuticals, industrial machinery, and equipment spare parts, stranded over the past week. The restrictions introduce significant bottlenecks to trade between India and Russia, which had previously remained active despite broader international sanctions. Affected businesses are facing operational delays as logistics providers seek alternative pathways for their goods.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/exports-stranded-as-adani-russia-embargo-creates-indian-air-cargo-chaos/"
+  },
+  {
     "headline": "Moralve adopts Amazon replenishment service for global distribution",
     "continent": "Global",
     "country": "Multiple",
@@ -2928,75 +2998,5 @@
     "summary": "Logistics provider Kuehne + Nagel has formalized a long-term strategic partnership with e-commerce giant Amazon to expand on their existing commercial relationship. The agreement encompasses a broad scope of operational initiatives intended to drive future growth and enhance service delivery capabilities for Amazon and its subsidiary organizations. Although specific operational details were not disclosed, the collaboration underscores a deepened commitment between the two companies to optimize their ongoing logistics and supply chain engagements.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/kuehne-nagel-discloses-long-term-strategic-collaboration-with-amazon/"
-  },
-  {
-    "headline": "Tesla Plans Large Texas Distribution Hub and Danfoss Expands in Mexico",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-20",
-    "summary": "Electric vehicle manufacturer Tesla has announced plans to develop a major distribution facility near Austin, Texas, to support its regional supply chain network. Simultaneously, Danfoss has established a new manufacturing line within Mexico to supply components directly to the North American market. These regional expansions highlight ongoing shifts in cross-border manufacturing and localized logistics strategies as companies work to shorten lead times and improve fulfillment efficiency across the North American trade corridor.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-tesla-plans-massive-texas-distribution-center"
-  },
-  {
-    "headline": "Fraudulent Drivers Steal $680K Electronics Shipment in Delaware",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-19",
-    "summary": "Law enforcement in Delaware arrested a California resident on felony charges following the theft of a high-value electronics shipment worth $680,000 from a warehouse located in New Castle. The perpetrators utilized falsified paperwork and deceptive vehicle registration to pose as delivery personnel for a major courier service. Troopers tracked the fraudulent operation to a parked semi-trailer, leading to the recovery of the stolen load and the subsequent apprehension of the suspect involved in the cargo theft scheme.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fake-fedex-drivers-steal-680k-electronics-load-from-new-castle-de-warehouse"
-  },
-  {
-    "headline": "YardFlow Secures Major 200-Site Yard Automation Contract",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-09-19",
-    "summary": "YardFlow has secured a major expansion contract to deploy its yard automation technology across more than two hundred locations for its primary client. The platform, which has previously managed close to two million shipments across twenty-six facilities, will now be integrated into every site in the client's network, encompassing even their smallest operations. This agreement highlights the growing demand for digital yard management solutions to optimize terminal workflows, enhance tracking capabilities, and streamline facility logistics at scale.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/yard-flow-200-site-yard-automation-deal"
-  },
-  {
-    "headline": "Truck driver allegedly uses stolen chicken cargo for drug debt",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-19",
-    "summary": "Law enforcement officials investigating a fugitive discovered a stolen cargo shipment of poultry valued at approximately one hundred ten thousand dollars. According to reports, a commercial truck driver allegedly attempted to use the stolen food products to settle an outstanding narcotics debt. The incident highlights cargo theft vulnerabilities within the road freight sector, where high-value consumable goods are occasionally targeted and diverted by individuals involved in illicit activities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/truck-driver-accused-of-trading-110k-chicken-load-to-pay-drug-debt"
-  },
-  {
-    "headline": "Chewy COO Shares Last-Mile Delivery Strategies",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "Chewy COO Scott Anderson outlines key tactics for retailers to compete against major market players in last-mile delivery. The approach emphasizes tailored customer experiences and strong partnerships with delivery carriers to optimize fulfillment operations. By focusing on personalized services and collaborative network relationships, shippers can improve efficiency and navigate challenges within a highly competitive fulfillment landscape dominated by industry giants.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/3-tips-from-chewys-coo-on-gaining-a-last-mile-delivery-edge/830696/"
-  },
-  {
-    "headline": "Hub Group Faces Nasdaq Delisting After Delayed Financial Report",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-18",
-    "summary": "Logistics provider Hub Group has been issued an official delisting notification by Nasdaq due to a failure to meet its financial reporting deadline. The company anticipated this regulatory action and intends to pursue an appeal to maintain its listing status. The situation underscores the critical nature of compliance and timely financial disclosures for publicly traded transportation and supply chain enterprises navigating rigorous stock exchange regulations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hub-group-receives-nasdaq-delisting-notice-plans-to-appeal"
-  },
-  {
-    "headline": "FedEx Implements Surcharges on US Imports for Peak Season",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "FedEx has announced new demand surcharges on international shipments entering the United States from regions including Canada, Europe, and China. These additional fees take effect ahead of the busy holiday shipping period, impacting parcel transport costs for businesses utilizing global supply chains. The carrier adjusts its pricing structure annually to manage network capacity and operational pressures during periods of heightened consumer demand.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fedex-levies-fees-on-us-imports-from-canada-europe-and-others/830797/"
   }
 ]
