@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Moralve adopts Amazon replenishment service for global distribution",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-06",
+    "summary": "Footwear brand Moralve is utilizing Amazon Global Warehousing and Distribution to optimize its product allocation processes in international markets outside the United States. According to the company's chief executive, the fulfillment solution enables more efficient inventory management and replenishment capabilities, supporting the brand's broader global expansion strategy by streamlining how goods are distributed to overseas markets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/why-one-brand-adopted-amazons-growing-inventory-replenishment-service/832260/"
+  },
+  {
     "headline": "TA Services Expands Texas Cross-Border Capacity",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "FedEx has announced new demand surcharges on international shipments entering the United States from regions including Canada, Europe, and China. These additional fees take effect ahead of the busy holiday shipping period, impacting parcel transport costs for businesses utilizing global supply chains. The carrier adjusts its pricing structure annually to manage network capacity and operational pressures during periods of heightened consumer demand.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/fedex-levies-fees-on-us-imports-from-canada-europe-and-others/830797/"
-  },
-  {
-    "headline": "Moving BNSF Train Target of Burglary and Container Fire in California",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-18",
-    "summary": "A freight train traveling from Los Angeles to Chicago via BNSF was targeted by thieves while in motion through Riverside, resulting in a container catching fire. Local fire departments from Riverside and Colton responded quickly to put out the flames. Following the extinguishment of the fire, jurisdiction of the investigation was handed over to BNSF Police. This incident highlights ongoing security challenges for rail freight operations and the risks associated with cargo theft along major North American transportation corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/burglary-hits-moving-bnsf-train-as-container-catches-fire-in-riverside"
   }
 ]
