@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Amazon introduces new air freight services from China to US",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Amazon has rolled out two new air cargo shipping options connecting China and the United States to assist sellers with inventory replenishment and upcoming peak seasonal demand. The newly introduced services, designated as Air SMP and Economy Air, aim to accelerate transit times for goods moving across the Pacific. This development provides businesses utilizing Amazon logistics infrastructure with additional capacity and routing choices to manage supply chain flows and mitigate fulfillment bottlenecks ahead of high-volume retail periods.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-launches-2-new-china-to-us-air-freight-options/832364/"
+  },
+  {
+    "headline": "US factory backlogs rise as material and freight costs grow",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-08",
+    "summary": "Unfilled factory orders reached $1.61 trillion during August, while shipments remained stagnant. At the same time, expenses for essential industrial inputs such as steel, freight transportation, and diesel increased in September. This combination of rising operational costs and mounting backlogs highlights ongoing challenges within the industrial sector as manufacturers struggle to clear pending orders efficiently amidst escalating transportation and raw material expenses.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/factory-backlogs-freight-steel-costs"
+  },
+  {
+    "headline": "AI Infrastructure Boom Shakes Up Trans-Pacific Logistics",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "The rapid expansion of artificial intelligence data centers is generating high-value shipping demand for logistics providers operating across the Asia-Pacific region and the United States. This technological surge is reshaping traditional trans-Pacific trade lanes as operators rush to transport specialized hardware and infrastructure components required to support massive computing facilities, creating both opportunities and capacity challenges within the global supply chain network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ai-gold-rush-transforms-trans-pacific-trade-and-logistics"
+  },
+  {
+    "headline": "Samsung files $186M lawsuit against CMA CGM over freight fees",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Electronics manufacturer Samsung has initiated legal action against ocean carrier CMA CGM to recover $186 million in financial damages. The dispute centers on accusations that the shipping company levied improper container fees and failed to fulfill agreed-upon inland transportation services. This conflict highlights ongoing friction between major shippers and container lines regarding billing practices and service reliability within global logistics networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/samsung-seeks-186m-from-cma-cgm-in-container-charges-dispute"
+  },
+  {
+    "headline": "Savannah Port Achieves Record September Container Volume",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-08",
+    "summary": "The Port of Savannah registered a new historical high for September container throughput, posting a 3.7 percent increase in box traffic compared to the same period in the previous year. This growth highlights ongoing upward momentum in cargo handling at the southeastern maritime facility, reflecting steady shipping activity and operational capacity improvements within the regional freight network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-monthly-mark-for-savannah-container-volume"
+  },
+  {
+    "headline": "SMB Shippers Face Persistent Supply Chain Disruption",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-08",
+    "summary": "Recent data from a Netstock benchmark report indicates that small and mid-sized enterprises are struggling with operational volatility as inventory velocity increases and obsolete stock accumulates. The findings reveal that conventional linear planning models are no longer effective for businesses generating under $250 million in annual revenue, leaving these smaller operators in a constant state of urgency to manage fulfillment and stock levels efficiently.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/the-battle-against-supply-chain-chaos-keeps-smbs-in-overdrive/"
+  },
+  {
+    "headline": "New customs rules increase fourth-quarter compliance burden for shippers",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-10-08",
+    "summary": "Importers face escalating regulatory challenges as newly implemented customs mandates in the United States, Mexico, and Europe intersect with the volatile year-end peak shipping season. According to a recent industry analysis by Maersk, this tightening of rules coincides with post-Golden Week market shifts and ongoing disruptions throughout Asian freight networks. Logistics operators are being advised to improve data accuracy and documentation practices to successfully navigate the increasingly complex operational landscape.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/customs-updates-add-a-compliance-burden-to-potentially-volatile-q4-for-shippers/"
+  },
+  {
     "headline": "Man Sentenced in $3.5M Amazon Freight Fraud Scheme",
     "continent": "North America",
     "country": "United States",
@@ -2928,75 +2998,5 @@
     "summary": "Unidentified perpetrators in Philadelphia targeted a parked commercial transport, cutting the hinges on a trailer to access the interior. The criminals successfully stole roughly half a pallet of Black Angus ribs. The stolen meat cargo was loaded into a Ford F-150 truck, which fled the scene accompanied by an unknown Jeep model acting as an escort. Local law enforcement is currently investigating the cargo theft incident.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/masked-thieves-cut-trailer-hinges-steal-black-angus-beef-in-philadelphia"
-  },
-  {
-    "headline": "DHL Delivery Drivers in Dallas Unionize with Teamsters",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Fifty-five delivery drivers working for two DHL Express subcontractors in the Dallas area have successfully organized and joined the Teamsters union, specifically Local 745. This move is part of a broader unionization push aimed at securing better workforce protections and benefits similar to those already held by thousands of other DHL Express union members across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/drivers-at-dhl-express-delivery-vendors-in-dallas-join-teamsters-union"
-  },
-  {
-    "headline": "Benchmark Diesel Reaches Record High",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "The primary benchmark price utilized for calculating fuel surcharges has surged by nearly two dollars per gallon compared to its level at the beginning of July. This significant increase heightens operating expenses for freight carriers and shippers alike. However, upcoming futures market indicators suggest that cost relief may soon materialize for the transportation sector as market conditions shift.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/benchmark-diesel-sets-new-record-futures-signaling-relief"
-  },
-  {
-    "headline": "Over a Dozen US Trucking Firms File for Bankruptcy",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "More than fifteen motor carriers operating within the United States have initiated bankruptcy proceedings since late August. This wave of financial distress highlights ongoing economic pressures facing domestic freight operators, including fluctuating demand, capacity imbalances, and rising operational costs that continue to impact the broader surface transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/16-trucking-companies-hit-bankruptcy-court-in-less-than-a-month"
-  },
-  {
-    "headline": "Low Rhine water levels restrict barge traffic in Europe",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Central European supply chains face mounting pressure as historically low water levels on the Rhine River severely disrupt commercial barge operations. The diminished river capacity has forced freight carriers to scale back shipments, transferring a heavier volume of goods onto ground transportation networks. This modal shift has triggered widespread logistical delays and driven up freight transportation expenses throughout Germany and neighboring regions, highlighting vulnerabilities in inland waterway logistics caused by environmental conditions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/record-low-rhine-levels-choke-barge-traffic-stress-ground-transport"
-  },
-  {
-    "headline": "Tavio Expands Integration Platform into Freight Sector",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Following a merger of two human resources technology integration firms, Tavio is branching into the supply chain industry with a new software platform. The company has already secured Uber Freight as an early customer for its integration solutions. This move marks a strategic shift for the organization as it enters the logistics technology market to help companies streamline their freight operations and connect various enterprise systems.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tavio-supply-chain-integration-platform"
-  },
-  {
-    "headline": "Union Pacific and Norfolk Southern Merger Advances",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "The Surface Transportation Board has unanimously denied requests from opponents to dismiss the pending merger between Union Pacific Railroad and Norfolk Southern without a formal review. In addition, the carriers secured a labor agreement with SMART-MD to protect worker positions. These developments advance the carriers' plans to establish the nation's first transcontinental railroad network, intended to streamline freight transportation operations across the United States.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/union-pacific-norfolk-southern-combo-gains-additional-momentum/"
-  },
-  {
-    "headline": "Global Container Fleet Orderbook Reaches 45% Following Massive Orders",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "The global container fleet orderbook-to-fleet ratio has climbed to forty-five percent, driven by significant vessel acquisitions. Major ocean carriers recently confirmed substantial new construction commitments for ultra-large container ships. Maersk finalized firm contracts for twenty-six massive vessels, while French carrier CMA CGM also commissioned an additional series of ultra-large ships. According to industry analysts, this surge marks a new post-2009 peak for outstanding vessel construction orders within the global maritime shipping sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/maersk-mega-order-and-cma-cgm-push-containership-orderbook-ratio-above-45/"
   }
 ]
