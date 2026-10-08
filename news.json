@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Mexico Maintains Position as Top U.S. Trading Partner in August",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-10-07",
+    "summary": "Total commerce between the United States and Mexico reached $94.3 billion during the month of August. Concurrently, Port Laredo processed a record-breaking volume of trade, totaling $38.6 billion. This ongoing commercial activity highlights the robust cross-border supply chain and the heavy reliance on land ports of entry for regional freight movement between the two North American nations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-remains-top-us-trading-partner-as-august-commerce-hits-94-3b"
+  },
+  {
+    "headline": "Union Pacific CEO Confident in Norfolk Southern Merger Approval",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "The leader of Union Pacific expresses strong assurance that regulatory authorities will greenlight an $85 billion consolidation with Norfolk Southern. According to executive leadership, the combined rail network will accelerate freight transit times and enhance competitiveness against the trucking sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/union-pacific-ceo-99-99-confident-rail-merger-will-win-approval"
+  },
+  {
     "headline": "Air Cargo Shippers Shift to Shorter Contracts",
     "continent": "Global",
     "country": "Multiple",
@@ -2978,25 +2998,5 @@
     "summary": "FedEx is preparing to implement a standard 5.9 percent general rate increase for domestic shipping services, set to begin on January 4. Alongside the baseline rate adjustment, the company is introducing various fee modifications. The actual financial impact on individual shipments will fluctuate based on several factors, including the specific service selected by the customer, the total package weight, and the overall shipping distance required for delivery.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/fedex-preps-59-rate-hike-surcharge-increases-for-2027/830903/"
-  },
-  {
-    "headline": "Regulators Reject Shippers' Bid to Dismiss Railway Merger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Trade groups representing chemical and agricultural shippers petitioned to halt a major railway merger, arguing the consolidation would stifle market competition and disadvantage transport users. However, federal regulators dismissed the dismissal requests, allowing the review process to proceed. Shippers remain concerned that reduced rail carrier options will lead to higher shipping rates and diminished service quality across the freight network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/up-ns-merger-stb-denies-shippers-calls-for-dismissal/830906/"
-  },
-  {
-    "headline": "Kodiak and PrePass Integrate Autonomous Trucks with Weigh Stations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Autonomous trucking developer Kodiak is partnering with PrePass to integrate its driverless heavy-duty vehicles with roadside inspection systems. Ahead of scheduled commercial highway runs without safety drivers by the end of the year, the technology aims to allow roadside inspectors to seamlessly clear unmanned cabs at weigh stations. This collaboration addresses regulatory and operational compliance hurdles for autonomous freight transport, ensuring that vehicles without human drivers can navigate mandatory inspection checkpoints without disrupting transit schedules or requiring physical intervention from drivers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/prepass-kodiak-driverless-truck-weigh-station-bypass"
   }
 ]
