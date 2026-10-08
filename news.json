@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Air Cargo Shippers Shift to Shorter Contracts",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Recent data from Xeneta indicates a growing reluctance among air cargo shippers to commit to long-term agreements. During the third quarter, three-month contracts accounted for sixty percent of all new shipper agreements, marking a significant increase from forty-seven percent in the previous quarter. This trend reflects increasing caution and a preference for flexibility within the air freight market as participants navigate ongoing rate volatility and shifting capacity conditions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/air-freight-shippers-weary-of-long-term-fixed-contracts/832286/"
+  },
+  {
+    "headline": "Radiant Logistics Acquires Whitacre's Dallas Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Radiant Logistics has completed the acquisition of Whitacre Logistics Services' brokerage operations located in Dallas. This transaction integrates a specialized intermodal and over-the-road transportation division into the acquiring company's existing road and rail business unit. The strategic move is designed to broaden the scope and capabilities of the company's bi-modal freight brokerage platform, enhancing its service offerings in domestic transportation markets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/radiant-logistics-latest-deal-expands-its-bi-modal-broker-platform"
+  },
+  {
+    "headline": "IMC Logistics Orders 50 Tesla Semis for California Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Intermodal drayage provider IMC Logistics has placed an order for 50 Tesla Semi trucks to expand its California fleet. The acquisition includes Standard Range models designated for port drayage operations, alongside Long Range variants assigned to freight corridors connecting Southern California with inland logistics facilities. This deployment highlights the ongoing integration of battery-electric heavy-duty vehicles into regional drayage networks to support freight movement and sustainability initiatives.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/imc-logistics-tesla-semi-order"
+  },
+  {
+    "headline": "SCOTUS Denies Garten Trucking NLRB Union Dispute Appeal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "The Supreme Court declined to review an ongoing labor dispute between Garten Trucking and a labor union, leaving a previous National Labor Relations Board order intact. The high court's decision brings finality to this phase of the litigation, impacting the motor carrier's operational and labor management strategies as it navigates regulatory compliance and workforce relations within the freight and logistics sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/garten-trucking-appeal-on-nlrb-order-rejected-by-scotus"
+  },
+  {
+    "headline": "Coretura Proposes Shared Operating System to Enhance Commercial Trucks",
+    "continent": "Europe",
+    "country": "Sweden",
+    "category": "manufacturing",
+    "date": "2026-10-07",
+    "summary": "Modern commercial trucks are equipped with numerous embedded computers that begin aging immediately after assembly. To counteract this decline in performance and capability over time, Coretura chief executive Johan Lundén advocates for the implementation of a shared operating system. This software-driven approach aims to enable continuous vehicle improvement and feature updates long after the commercial vehicles depart the manufacturing facility, shifting the paradigm of heavy-duty transport maintenance and lifecycle management.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/coretura-software-defined-truck-operating-system"
+  },
+  {
+    "headline": "Panama Expands Audit in Hutchison Port Dispute",
+    "continent": "North America",
+    "country": "Panama",
+    "category": "international_relations",
+    "date": "2026-10-07",
+    "summary": "The comptroller general of Panama is forwarding additional audit documents regarding former port regulators and executives to prosecutors. This developing criminal investigation into the Panama Ports Company could significantly impact the ongoing dispute with CK Hutchison, potentially outweighing the influence of traditional damages assessments and international arbitration outcomes. The situation highlights the escalating legal risks faced by multinational operators dealing with regulatory changes and government scrutiny in key maritime trade hubs.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/panama-prosecutors-could-do-more-damage-to-hutchison-than-arbitrators/"
+  },
+  {
     "headline": "High diesel prices squeeze trucking freight contracts and corporate earnings",
     "continent": "North America",
     "country": "United States",
@@ -2938,65 +2998,5 @@
     "summary": "Autonomous trucking developer Kodiak is partnering with PrePass to integrate its driverless heavy-duty vehicles with roadside inspection systems. Ahead of scheduled commercial highway runs without safety drivers by the end of the year, the technology aims to allow roadside inspectors to seamlessly clear unmanned cabs at weigh stations. This collaboration addresses regulatory and operational compliance hurdles for autonomous freight transport, ensuring that vehicles without human drivers can navigate mandatory inspection checkpoints without disrupting transit schedules or requiring physical intervention from drivers.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/prepass-kodiak-driverless-truck-weigh-station-bypass"
-  },
-  {
-    "headline": "Global Diesel Supplies Fall 8% Amid Middle East and Russian Unrest",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Worldwide diesel inventories have dropped by eight percent due to geopolitical disruptions impacting Russian refineries and key shipping lanes in the Middle East. Although crude oil pricing remains relatively stable, the reduction in refined diesel output threatens to increase transportation and fuel expenditures for fleet operators and freight carriers globally. Energy analysts emphasize that monitoring these specific inventory metrics is crucial for logistics managers navigating escalating operational costs.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/diesel-supply-down-8-what-trucking-faces-next"
-  },
-  {
-    "headline": "FAA Relaxes Boeing 777 Emissions Rules to Ease Air Cargo Capacity",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "U.S. aviation regulators have reversed specific emissions standards for legacy Boeing 777 freighter aircraft. This regulatory adjustment aims to alleviate severe capacity constraints currently impacting the air freight sector, allowing operators greater flexibility in utilizing existing aircraft models to maintain and expand cargo flow as market demand fluctuates.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/u-s-emissions-rollback-on-boeing-777-freighter-helps-air-logistics"
-  },
-  {
-    "headline": "US Agencies Investigate Suspected Cyberattacks on Vessels",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Federal authorities are investigating potential cyber threats targeting commercial ships approaching domestic ports. This inquiry highlights growing concerns regarding maritime security and the vulnerabilities within critical transport infrastructure. Law enforcement and defense agencies are collaborating to assess the scope of the incidents and secure critical supply chain entry points against future digital disruptions.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fbi-coast-guard-probe-suspected-cyberattacks-on-ships-entering-us-waters/830774/"
-  },
-  {
-    "headline": "Mondelēz Appoints New Chief Procurement Officer Amid Cocoa Stabilization",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-09-21",
-    "summary": "Zakaria Dahkoun has stepped into the role of chief procurement officer at Mondelēz. Formerly serving as senior vice president of cocoa enterprise, Dahkoun assumed the position following improvements in supply security for the essential raw material. The leadership transition coincides with a period of stabilization within the global cocoa market, which has previously experienced severe volatility and sourcing challenges for major food manufacturers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/mondelez-names-new-chief-procurement-officer-as-cocoa-market-stabilizes/830791/"
-  },
-  {
-    "headline": "International Taps Sebastian Leger for Global Procurement",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-09-21",
-    "summary": "Truck and commercial vehicle manufacturer International has appointed automotive sourcing expert Sebastian Leger to direct its worldwide procurement operations. In this role, he will oversee overarching strategy and manage external supplier partnerships to support the company's manufacturing and production requirements.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/international-taps-automotive-sourcing-veteran-to-lead-procurement/830799/"
-  },
-  {
-    "headline": "Samsara Study Links Driver Risk Scores to Crash Rates",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "A recent analysis from Samsara reveals that a small fraction of commercial drivers represents nearly half of all fleet collisions. By examining driver risk profiles, fleet operators can pinpoint problematic behaviors and direct targeted coaching programs toward the highest-risk personnel. This data-driven strategy aims to improve road safety and optimize workforce management within transportation operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/samsara-report-finds-10-of-risk-ranked-drivers-account-for-47-of-crashes"
   }
 ]
