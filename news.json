@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Man Sentenced in $3.5M Amazon Freight Fraud Scheme",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "A federal court sentenced an individual to two years in prison for orchestrating a multimillion-dollar invoice fraud scheme targeting Amazon Logistics. The operation utilized twenty-three separate motor carrier accounts to fraudulently secure and bill for over one thousand delivery assignments before federal authorities dismantled the illicit enterprise. The sentencing highlights ongoing vulnerabilities in digital freight brokering and carrier onboarding processes within major e-commerce supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/man-gets-2-years-for-3-5m-amazon-fraud-using-23-trucking-accounts"
+  },
+  {
+    "headline": "Hapag-Lloyd to Withdraw from Asia-South America Vessel Alliance",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Hapag-Lloyd has announced its impending departure from a shared vessel arrangement connecting Asia with the east coast of South America, which currently operates alongside partners MSC and Ocean Network Express. While Hapag-Lloyd prepares to exit the route next year, the remaining carriers intend to sustain the weekly maritime connection. The ongoing collaboration will continue to offer freight transport and operational links between numerous Asian ports and South American destinations without interruption.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hapag-lloyd-unveils-plan-to-quit-msc-led-asia-saec-service/"
+  },
+  {
+    "headline": "New Maersk Shuttle Boosts India-Middle East Container Trade",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Elevated freight yields are driving the introduction of new maritime container services connecting India and the Middle East, a regional trade corridor that has experienced repeated disruptions from geopolitical tensions involving Iran and the United States. In response to these conditions, major carriers like Maersk are launching dedicated shuttle loops, such as a new route linking India's Nhava Sheva port directly to Khor Fakkan in the United Arab Emirates, aimed at improving schedule reliability for commercial shippers operating across this vital corridor.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/high-yields-spark-new-container-services-on-bumpy-india-middle-east-trade/"
+  },
+  {
+    "headline": "SME Freight Forwarders Face Tech Adoption Pressures",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-08",
+    "summary": "Smaller logistics operators are under pressure from clients to integrate advanced digital tools, such as artificial intelligence and live tracking systems. While these investments are necessary to match the operational speed of larger competitors, industry leaders warn that high implementation costs and the invisible nature of back-end improvements may risk eroding the personalized service advantages that smaller freight forwarders historically offer.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/customer-demands-for-new-tech-a-dilemma-for-sme-forwarders/"
+  },
+  {
+    "headline": "WiseTech to bill separately for CargoWise AI agents",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-08",
+    "summary": "Logistics software provider WiseTech intends to bill separately for its upcoming artificial intelligence agents rather than including them in existing CargoWise Value Packs, according to financial analyst reports. This monetization strategy is anticipated to become a primary catalyst for revenue growth during the latter half of the fiscal year. Meanwhile, company leadership has noted that multiple autonomous agents are currently under development, though uncertainty remains among users regarding how current subscription packages will integrate these emerging technological capabilities.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/wisetech-ai-charge-plan-raises-questions-over-cargowise-value-packs/"
+  },
+  {
+    "headline": "Hong Kong leverages new canal to boost port cargo volumes",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Hong Kong authorities are planning to utilize the newly constructed Pinglu Canal to counter decreasing cargo traffic at the local port. By connecting industrial areas within Guangxi to the Beibu Gulf, the infrastructure project allows the port to expand its geographic reach into inland domestic markets. Officials expect this connection to enhance regional transshipment capabilities and restore the maritime hub's competitive edge amidst ongoing regional volume declines.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hong-kong-eyes-new-pinglu-canal-as-route-to-port-revival/"
+  },
+  {
+    "headline": "McCormick Raises Inflation Forecast Amid Rising Logistics Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Spice and seasoning manufacturer McCormick has adjusted its inflation forecast upward, driven by escalating expenses related to freight and raw materials. To counteract these financial pressures, the company is implementing strategic price adjustments and operational efficiency initiatives. Additionally, McCormick is leveraging the integration of a newly acquired subsidiary located in Mexico to help absorb cost increases and stabilize its operational margin against ongoing supply chain volatility.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/mccormick-cites-higher-freight-input-costs-in-lifting-inflation-forecast/832279/"
+  },
+  {
+    "headline": "Trucking sector shows little interest in new red dye diesel tax break",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-07",
+    "summary": "Carriers and fleet operators are currently demonstrating minimal enthusiasm for a newly available tax incentive tied to the use of red dye diesel. Despite the potential financial relief for motor carriers, market adoption remains remarkably sluggish as transportation providers have been slow to alter their fuel purchasing habits or modify existing operational fueling workflows in response to the policy change.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/red-dye-diesel-break-is-being-greeted-with-a-big-yawn"
+  },
+  {
     "headline": "Mexico Maintains Position as Top U.S. Trading Partner in August",
     "continent": "North America",
     "country": "Mexico",
@@ -518,6 +598,16 @@
     "summary": "Container shipping demand measured in TEU-miles has experienced its first regression since January. This downturn is driven by holiday-related blanked sailings in China, ongoing additions of newly built vessels to the global fleet, and ships increasingly resuming transit through the Suez Canal on Asia-Europe trade lanes. Shipping consultancies indicate that long-haul services have faced significant cancellations due to softening export volumes. These combined market factors present a substantial challenge for ocean carriers attempting to stabilize sliding spot rates across transpacific routes.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/suez-return-a-major-threat-to-carrier-efforts-to-halt-transpac-spot-rate-slide/"
+  },
+  {
+    "headline": "Truckload Spot Rates Rise Despite Decreasing Shipping Demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-05",
+    "summary": "Freight market indicators reveal a curious divergence between rising road transport rates and declining demand. Even though accepted load volumes have dropped and tender rejections have subsided, both spot and contract pricing continue to climb upward. Industry analysis points to persistent factors such as elevated fuel expenses, restricted transportation capacity, and significant barriers preventing new fleet operators from entering the market, which collectively keep pricing elevated despite the softer shipping volume environment.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/truckload-spot-rates-keep-rising-but-demand-isnt-why"
   },
   {
     "headline": "NMFTA launches threat portal for cyberattack reporting",
@@ -2908,95 +2998,5 @@
     "summary": "The global container fleet orderbook-to-fleet ratio has climbed to forty-five percent, driven by significant vessel acquisitions. Major ocean carriers recently confirmed substantial new construction commitments for ultra-large container ships. Maersk finalized firm contracts for twenty-six massive vessels, while French carrier CMA CGM also commissioned an additional series of ultra-large ships. According to industry analysts, this surge marks a new post-2009 peak for outstanding vessel construction orders within the global maritime shipping sector.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/maersk-mega-order-and-cma-cgm-push-containership-orderbook-ratio-above-45/"
-  },
-  {
-    "headline": "China-EU Ecommerce Air Cargo Volumes Decline Following New Fees",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Low-value retail shipments from China to the European Union experienced a sharp year-over-year drop of sixty-five percent in August, following a fifty-four percent decrease in July. This sustained contraction stems from regulatory adjustments, specifically a new per-item fee implemented recently. Meanwhile, outbound shipments to the United Kingdom faced milder declines during the same summer months. Industry analysts note that these regulatory shifts are significantly altering established air cargo distribution routes and freight demand patterns between Asian manufacturing hubs and European consumer markets.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/continued-china-europe-ecommerce-slump-exposes-shifting-air-cargo-flows/"
-  },
-  {
-    "headline": "US Maritime Regulator Removes Time Limit on Carrier Fee Disputes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-22",
-    "summary": "Ocean carriers operating in the United States face extended liability after federal regulators determined that certain cargo fee challenges lack a standard three-year limitation period. This regulatory stance impacts disputes concerning charges assessed since mid-2022, permitting stakeholders to contest financial penalties long after the transaction date. The agency's position creates ongoing uncertainty for ocean transport providers regarding historical billing practices and potential financial restitution claims from affected cargo owners and supply chain partners.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/fmc-leaves-carriers-facing-open-ended-exposure-to-charge-complaints/"
-  },
-  {
-    "headline": "Bangkokmax Charter Rates Jump 18% Amid Vessel Shortage",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Rental costs for Bangkokmax container ships have risen 18% over the past year, reaching nearly $32,000 per day. This increase is driven by expanding regional trade volumes alongside a limited supply of new vessels, as an absence of recent shipbuilding orders has resulted in only three new deliveries in 2026. Consequently, asset values have climbed, and recent fixtures indicate major carriers are paying even higher daily rates to secure mid-sized tonnage for operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/bangkokmax-charter-rates-jump-18-as-vessel-shortage-bites/"
-  },
-  {
-    "headline": "FedEx Announces 5.9% Rate Hike for 2027",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "FedEx has announced an average shipping rate increase of 5.9% set to take effect in early January 2027, marking the fourth consecutive year of matching increases at this percentage. This upcoming adjustment outpaces the current national inflation rate. While the headline figure suggests a moderate rise, industry analysis indicates that online retail shippers will experience significantly steeper cost increases due to restructuring and additional surcharges embedded within the new pricing schedule.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/fedex-5-9-rate-rise-masks-steeper-hikes-for-ecommerce-shippers/"
-  },
-  {
-    "headline": "DHL Expands Global Battery Logistics Infrastructure",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-09-22",
-    "summary": "Logistics provider DHL is scaling its worldwide battery transport network to support the rapidly growing electric vehicle and energy sectors. The upgraded integrated platform currently links over twenty facilities internationally, offering end-to-end transportation, manufacturing support, warehousing, and aftermarket solutions. This expansion aims to assist automakers, battery producers, and energy firms in managing complex supply chains driven by electrification trends across multiple regions.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dhl-ramps-up-battery-logistics-network-worldwide/"
-  },
-  {
-    "headline": "Overcoming Operational Hurdles in Yard Truck Automation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-21",
-    "summary": "Autonomous yard trucks are transitioning into commercial deployment, but widespread implementation faces operational barriers rather than technological limitations. Fleet and facility modernization is currently slowed by integration challenges with existing yard management systems, along with requirements for process consistency, end-to-end visibility, and reliable remote supervision capabilities. Industry experts emphasize that successful adoption depends on organizational readiness and workflow adaptation rather than the maturity of the autonomous driving technology itself.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/yard-automation-is-here-whats-blocking-adoption"
-  },
-  {
-    "headline": "Manufacturers Prioritize Resilience Over Cost in Facility Siting",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-21",
-    "summary": "Industrial site selection is undergoing a fundamental shift, with companies prioritizing supply chain resilience and risk mitigation over pure cost reduction. Industry experts report that manufacturers now evaluate a complex mix of factors when establishing new capacity, including local energy reliability, workforce availability, logistics access, geopolitical tariff exposure, border risks, and potential community pushback. This evolving strategy has given North America a competitive advantage as firms increasingly delay irreversible capital investments to better navigate global uncertainties and operational vulnerabilities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/site-selection-shift-cost-is-out-resilience-is-in"
-  },
-  {
-    "headline": "Florida Troopers Recover Stolen Semi-Trucks and Cargo",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "Law enforcement in Florida successfully recovered two stolen semi-trucks along with their cargo consisting of automotive batteries and tires. Acting on a theft notification originating from Georgia, troopers located the missing vehicles within St. Johns County. During the operation, the operator of one of the transport vehicles managed to escape before being detained. Authorities have subsequently filed multiple grand theft charges in connection with the incident, highlighting ongoing challenges regarding cargo security and freight theft across state lines.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/florida-troopers-recover-2-stolen-semis-hauling-tires-and-batteries-driver-flees"
-  },
-  {
-    "headline": "FedEx Announces Upcoming 5.9% U.S. Shipping Rate Increase",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-21",
-    "summary": "FedEx is preparing to implement a standard 5.9 percent general rate increase for domestic shipping services, set to begin on January 4. Alongside the baseline rate adjustment, the company is introducing various fee modifications. The actual financial impact on individual shipments will fluctuate based on several factors, including the specific service selected by the customer, the total package weight, and the overall shipping distance required for delivery.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fedex-preps-59-rate-hike-surcharge-increases-for-2027/830903/"
   }
 ]
