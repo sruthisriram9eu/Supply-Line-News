@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Molson Coors Appoints New Americas Supply Chain Chief",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-08",
+    "summary": "Molson Coors has named Matthew Hook as its new chief supply chain officer for the Americas region, effective mid-October. In this leadership position, he will oversee ongoing efforts to modernize operational processes and improve overall service performance across the beverage company's supply chain network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832441/"
+  },
+  {
+    "headline": "Mesabi Metallics Plans $15B Steel Mill in Iowa",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-08",
+    "summary": "Mesabi Metallics has announced plans to construct a massive steel mill in Iowa with an investment of $15 billion, which will become the largest facility of its kind in the United States and add ten million tons of production capacity annually. Additionally, the initiative includes a $3 billion investment to finalize an iron ore mining project in Minnesota, significantly expanding domestic industrial capabilities and raw material sourcing for the national manufacturing sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/trump-unveils-plans-to-build-15b-steel-mill-in-iowa/831654/"
+  },
+  {
+    "headline": "Nippon Express launches five-day US long-haul transport service",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Logistics provider Nippon Express has introduced a five-day transport service designed to improve delivery reliability across the United States. The offering connects company warehousing facilities located near the Port of Los Angeles with major metropolitan destinations nationwide. By streamlining long-haul transit routes, the initiative aims to enhance efficiency for cargo moving from major maritime gateways to domestic distribution hubs.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/nippon-express-aims-to-boost-us-transport-reliability-with-5-day-service/832372/"
+  },
+  {
+    "headline": "NJ CDL school sues FMCSA over emergency shutdown and removal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "A commercial driver's license training facility in New Jersey has filed a legal challenge against the Federal Motor Carrier Safety Administration following an emergency administrative removal from the federal training registry. The institution is petitioning for its credentials to be reinstated, disputing the validity and sufficiency of the documentation and evidence used by federal regulators to justify the sudden shutdown of its operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-jersey-cdl-school-lawsuit-questions-evidence-behind-fmcsa-shutdown"
+  },
+  {
     "headline": "CBP begins processing tariff refunds for liquidated entries",
     "continent": "North America",
     "country": "United States",
@@ -2958,45 +2998,5 @@
     "summary": "Forwarding operations are increasingly automating freight quotation processes through artificial intelligence platforms. Most generated quotes are now dispatched without manual review, representing a significant shift from initial implementation phases where staff verified every transaction. Industry experts note that building operational trust in automated systems requires structured processes rather than passive time progression, mirroring standard workflow improvements within the logistics sector.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/how-a-team-learns-to-trust-a-quote-it-did-not-build/"
-  },
-  {
-    "headline": "Coca-Cola Commits $10 Billion to US Production by 2030",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-22",
-    "summary": "The beverage manufacturer and its distribution partners are investing heavily to scale up domestic production and supply chain infrastructure in the United States over the decade. This multi-year initiative aims to strengthen the company's operational capacity within its primary consumer market by expanding manufacturing facilities and improving local distribution networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/coca-cola-to-spend-10b-on-us-manufacturing-by-2030/830535/"
-  },
-  {
-    "headline": "Container Shipping Schedule Reliability Drops in August",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Global container shipping reliability declined significantly in August, with only about one-third of vessels arriving on schedule. Performance has dropped toward levels last seen during the pandemic, driven primarily by ongoing transportation disruptions along the Far East to Europe trade routes. These schedule failures reflect broader instability within maritime logistics networks, impacting international trade flows and supply chain planning for businesses relying on ocean freight.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-report-just-a-third-of-container-shipping-on-time"
-  },
-  {
-    "headline": "US Regulators Advance Union Pacific and Norfolk Southern Merger Review",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Federal transport authorities have declined preliminary requests to dismiss the proposed combination between Union Pacific and Norfolk Southern. Opposing parties sought a rapid rejection of the transaction, but the decision allows the formal regulatory review process to move forward. The evaluation will assess the potential impacts of uniting the two major rail networks on freight transport competition, industry logistics, and regional shipping operations across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/regulators-turn-down-requests-for-summary-denial-of-up-ns-merger"
-  },
-  {
-    "headline": "Delayed $23B CK Hutchison Port Acquisition Stalls",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-09-22",
-    "summary": "An eighteen-month delay continues to block a massive multi-billion-dollar transaction involving the transfer of numerous global marine terminals. The agreement, originally unveiled to shift ownership of forty-three port facilities spanning over twenty nations to an investment consortium, remains unresolved amid complex regulatory hurdles. The transaction had initially drawn cautious optimism from international observers regarding the future operational control of these critical maritime infrastructure assets, but obstacles have prevented its finalization.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hutchwatch-the-23bn-port-deal-that-nobody-can-close/"
   }
 ]
