@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Transpacific Freight Rates Remain High Despite Holiday Slowdown",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Ocean freight rates on the Transpacific trade lane are staying elevated rather than declining during the Golden Week holiday period in China. While seasonal factory closures typically reduce cargo volume and stabilize shipping costs, adverse weather disruptions are counteracting this effect. These environmental challenges are preventing expected relief in maritime shipping fees, keeping pressure on supply chain networks moving goods across the Pacific Ocean.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/golden-week-slowdown-may-not-be-enough-to-ease-transpacific-ocean-rates/832512/"
+  },
+  {
+    "headline": "New Transpacific air cargo route launched for tech sector",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Nippon Express and Japan Airlines have established a dedicated weekly air freight circuit connecting Los Angeles with major Asian hubs. This service is specifically designed to handle the transportation needs of artificial intelligence hardware and semiconductor components. The partnership aims to address growing demand for fast, reliable transpacific connectivity as manufacturers rush to ship critical tech components across global markets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ai-driven-cargo-bump-sparks-transpacific-air-freight-service/832399/"
+  },
+  {
+    "headline": "Court certifies importer class for tariff refunds",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-09",
+    "summary": "The Court of International Trade has certified a class action lawsuit on behalf of importers, paving the way for businesses to pursue reimbursements for levies previously determined to be unlawful. This procedural milestone is designed to streamline the refund process, ensuring that all affected commercial entities can effectively recover the specific payments they made under the contested duties.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/federal-court-clears-way-for-class-action-suit-against-ieepa-tariffs/832600/"
+  },
+  {
+    "headline": "Stord Secures $400M Credit Facility for Facility and Tech Expansion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-09",
+    "summary": "Logistics and warehousing provider Stord has secured a $400 million credit facility led by Citigroup to fund the development of new warehouse spaces and automated robotics technology. The capital injection coincides with the appointment of a new chief financial officer and chief revenue officer to support the company's ongoing expansion. Stord's fulfillment network currently reaches a significant portion of households across the United States annually.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stord-400m-credit-facility-citi"
+  },
+  {
+    "headline": "Kodiak AI and Charger Logistics Partner on Texas Autonomous Route",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Autonomous trucking technology provider Kodiak AI has teamed up with cross-border carrier Charger Logistics to transport consumer packaged goods and food and beverage items on a freight route between Dallas and Laredo, Texas. The initial deployment involves staffed trucks, with plans to transition to fully driverless operations once the necessary safety validations are completed. This collaboration highlights the ongoing integration of autonomous vehicle technology into commercial freight networks within North America.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/kodiak-charger-autonomous-trucks-dallas-laredo"
+  },
+  {
+    "headline": "Extended peak shipping season slows down for US retailers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "The extended peak shipping period for retail freight is drawing to a close as the majority of holiday inventory arrives at domestic destinations. According to the National Retail Federation, inbound container volumes arriving at United States ports are anticipated to moderate as the year concludes. This shift indicates that supply chain networks have largely finished moving seasonal goods ahead of the upcoming consumer shopping rush, signaling a return to more typical freight handling volumes.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/retailers-say-extended-peak-shipping-season-winding-down"
+  },
+  {
+    "headline": "Walmart Launches Automated Fulfillment Center in California",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-09",
+    "summary": "Retail giant Walmart has officially opened a high-tech automated fulfillment hub in California. The facility is part of a broader corporate strategy focused on modernizing the company's fulfillment network through advanced technology. By integrating next-generation automation into its operational footprint, the organization aims to accelerate online order processing speeds, optimize warehouse efficiency, and better manage escalating e-commerce demands across the regional supply chain.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/walmart-activates-automated-e-commerce-logistics-center-in-california"
+  },
+  {
+    "headline": "New Jersey Seafood Shipment Intercepted in Broker Impersonation Scam",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Criminals impersonating a legitimate freight broker successfully manipulated a driver into diverting a high-value seafood cargo shipment valued at $273,000 in New Jersey. Using fraudulent communications via phone and text messages, the perpetrators attempted to execute a sophisticated cargo theft. Law enforcement and investigators are currently examining the incident to understand how the deception occurred, highlighting ongoing vulnerabilities within digital shipment verification processes and the persistent threat of broker impersonation across the freight transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fake-freight-broker-redirects-273k-seafood-shipment-in-new-jersey-cargo-theft-attempt"
+  },
+  {
+    "headline": "Asia to US West Coast Container Freight Rates Decline",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Maritime shipping data from Xeneta reveals that ocean freight spot rates for container transport from Asia to the United States West Coast have begun to decrease. This movement marks the initial downward adjustment for this major trade lane following a continuous upward trend that started in the middle of September. Market analysts attribute the shift to changing demand patterns and seasonal adjustments in transpacific trade volumes, impacting carrier pricing power across key shipping routes.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/us-west-coast-container-rates-edge-lower"
+  },
+  {
+    "headline": "Truckload Rates Rise Despite Flat Freight Demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Truckload freight rates increased through 2026 even though overall cargo volume remained flat. Industry data reveals that rising operational expenses continue to outpace the revenue collected by motor carriers. Because current earnings fall short of covering standard business costs, industry cost studies indicate that pricing pressure will persist, driving further rate increases as transportation providers struggle to achieve sustainable profitability in the current market environment.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/why-trucking-rates-are-rising-without-more-freight"
+  },
+  {
+    "headline": "Transpacific container spot rates drop following Golden Week",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "Ocean shipping spot rates from Asia to the United States experienced declines following the conclusion of China's Golden Week holiday, signaling a cooling of the extended transpacific peak season. Data from Drewry's World Container Index highlights reductions on both major coastal routes, with the Shanghai to Los Angeles and Shanghai to New York lanes both seeing downward pricing adjustments week over week. Meanwhile, ocean carriers are reportedly considering future price increases despite the current softening in immediate market demand.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/post-peak-spot-rates-tumble-as-ocean-carriers-eye-price-increases/"
+  },
+  {
     "headline": "Freightmate Settles AI Trade Secrets Suit with Flexport",
     "continent": "North America",
     "country": "United States",
@@ -2888,115 +2998,5 @@
     "summary": "Recent trade tariff adjustments are generating significant confusion for companies operating within the plastics packaging and logistics sector. Industry experts note that the impact of these regulatory shifts varies widely depending on a firm's market scale and its degree of leverage over upstream and downstream partners. As businesses attempt to navigate these trade barriers, stakeholders are facing complex challenges related to cost management and sourcing continuity, highlighting the broader vulnerabilities inherent in specialized manufacturing networks.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/plastics-get-pulled-into-tariff-turmoil/830768/"
-  },
-  {
-    "headline": "Hurricane Polo Disrupts Mexican Pacific Ports",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Severe weather brought by Hurricane Polo is impacting maritime operations across several ports along the Pacific coast of Mexico, characterized by heavy precipitation and strong wind conditions. Despite the adverse weather events affecting regional transport infrastructure, major cargo ships are maintaining their operations at the Port of Manzanillo without reported closures. Authorities are monitoring the storm's progression to ensure shipping safety and mitigate potential supply chain bottlenecks in the area.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hurricane-polo-disrupts-mexican-pacific-ports-with-high-winds-heavy-rain"
-  },
-  {
-    "headline": "US Container Imports Drop 4.5% Following Tariff Implementation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-23",
-    "summary": "Recent trade data analyzed by Descartes reveals that United States containerized ocean imports experienced a 4.5 percent decline during the twelve-month period following the enactment of Liberation Day tariffs. This downturn highlights the measurable impact of trade policy shifts on international maritime freight volumes entering North American ports, reflecting broader adjustments in commercial sourcing and import demand patterns across the domestic market.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-report-us-imports-fell-4-5-in-year-after-liberation-day-tariffs"
-  },
-  {
-    "headline": "Potential 2028 Labor Strikes Threaten Global Freight Networks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Supply chain operations face mounting uncertainty as major labor negotiations for both parcel carrier UPS and West Coast maritime ports are slated to happen simultaneously in 2028. The concurrent contract talks between unions and employers create a significant risk of synchronized strikes. If negotiations fail, the resulting disruptions could severely impact domestic and international freight movement, forcing businesses to reevaluate contingency plans years in advance to mitigate widespread logistical bottlenecks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dual-labor-shocks-in-2028-ups-west-coast-port-bargaining-to-overlap"
-  },
-  {
-    "headline": "Uber Freight Expands European Footprint With New Polish Hub",
-    "continent": "Europe",
-    "country": "Poland",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Uber Freight is committing significant financial resources to expand its presence in Europe by establishing a new operational facility and control tower in Poland. This multi-year investment aims to strengthen the company's regional logistics network and enhance service delivery across European markets. The new Krakow hub will serve as a central point for managing operations, reflecting growing corporate focus on scaling digital freight brokerage and transportation management capabilities internationally.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/uber-freight-makes-significant-multi-year-bet-on-europe-with-krakow-hub"
-  },
-  {
-    "headline": "Alvys Acquires LoadOps Customer Base from Optym",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Transportation management system provider Alvys has taken over the customer base for LoadOps following an agreement with Optym, which evaluated several software alternatives before selecting Alvys for the transition. Migration processes for the transferred users have already commenced. Meanwhile, Optym retained ownership of its LoadAi product. Financial terms of the transaction were not publicly disclosed. This consolidation impacts freight operators utilizing these specialized logistics platforms to manage their daily routing and operational workflows.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/alvys-acquires-optym-loadops-customers"
-  },
-  {
-    "headline": "Loblaw Deploys Automated Gate Technology at Flagship Facility",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "storage_distribution",
-    "date": "2026-09-23",
-    "summary": "Canadian retail giant Loblaw Companies is utilizing automated gate technology developed by EAIGLE at its premier distribution center. The facility was specifically constructed to integrate advanced operational innovations designed to streamline transportation workflows. By implementing this system at its primary logistics hub, the company aims to enhance efficiency across its extensive national supply chain network. The project represents a significant step in modernizing warehousing and transport infrastructure for one of the country's largest food distributors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/a-look-at-how-loblaw-and-eaigle-are-bringing-automated-gates-to-a-national-distribution-network"
-  },
-  {
-    "headline": "Federal Charges Filed in $600K Interstate Cargo Theft Ring",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Federal authorities have indicted three individuals in connection with two separate interstate cargo theft schemes totaling nearly $600,000. The investigations, which spanned multiple states throughout 2024, specifically targeted commercial freight operations as well as four rail shipments transported by CSX. The criminal cases highlight ongoing security vulnerabilities within domestic freight transportation networks, prompting increased federal scrutiny and enforcement efforts to combat organized cargo theft operations affecting major logistics hubs and rail corridors across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/federal-indictments-target-nearly-600k-in-interstate-cargo-theft-tied-to-memphis"
-  },
-  {
-    "headline": "Greenbrier Secures $600 Million in Railcar Orders",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-23",
-    "summary": "Manufacturer Greenbrier has registered thousands of additional railcar purchase commitments throughout the fourth fiscal quarter. The incoming orders bolster the company's manufacturing pipeline and reflect steady industrial demand for freight transport equipment. This influx of business highlights ongoing equipment investments by rail shippers and carriers aiming to expand or modernize their rolling stock fleets amid evolving supply chain requirements.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/greenbrier-racks-up-600-million-in-new-railcar-orders"
-  },
-  {
-    "headline": "Canada Shifts Freight and Sourcing to Europe Amid US Tariffs",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "international_relations",
-    "date": "2026-09-23",
-    "summary": "Escalating trade tensions and steep import duties imposed by the United States on Canadian goods are prompting Canadian importers to alter their supply chains. In response to these prohibitive tariffs and subsequent retaliatory measures, local businesses are actively establishing alternative trade routes and seeking new suppliers across the United Kingdom and the European Union to substitute goods previously sourced from the American market.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/canada-looks-to-eu-and-uk-to-replace-tariff-hit-us-shipments/"
-  },
-  {
-    "headline": "Forwarders Urge Early Bookings on Europe-Latin America Trade",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Supply chain intermediaries are advising cargo owners to secure transport bookings well in advance for shipping lanes connecting Europe and Latin America. Persistent equipment availability constraints and significant terminal congestion at ports on both ends of the route are driving the advisory. Despite these operational friction points and rising cargo volumes moving from Europe toward Latin America, maritime freight rates have not yet experienced upward pressure. Industry participants are closely monitoring these persistent logistical bottlenecks as trade volumes continue their steady upward trajectory.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/book-earlier-on-latam-europe-trades-as-disruptions-continue/"
-  },
-  {
-    "headline": "Uber Freight Expands European 4PL Operations and Hub",
-    "continent": "Europe",
-    "country": "Poland",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Uber Freight is scaling its fourth-party logistics capabilities across Europe by investing in technology, personnel, and a new control tower scheduled to open in Krakow next year. This strategic expansion comes as the traditional boundaries between third-party and fourth-party logistics providers continue to fade from the perspective of shippers. To support this growth, the company has also named a new leadership appointment to drive its regional logistics services forward.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/uber-freight-bets-on-european-4pl-services-as-distinction-with-3pl-blurs/"
   }
 ]
