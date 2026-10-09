@@ -1,5 +1,65 @@
 [
   {
+    "headline": "CBP begins processing tariff refunds for liquidated entries",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-08",
+    "summary": "US Customs and Border Protection has initiated the disbursement of tariff refunds associated with liquidated entries. Importers are eligible for these reimbursements provided they successfully submitted a valid importer of record number prior to the established July deadline. The agency is currently restricted to processing payments exclusively for these compliant accounts, leaving other applicants awaiting further administrative action as the financial adjustments proceed across affected trade channels.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/cbp-starts-paying-out-ieepa-tariff-refunds-for-finally-liquidated-entries/832411/"
+  },
+  {
+    "headline": "FMCSA Advances Split Sleeper Berth Pilot Program",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "The Federal Motor Carrier Safety Administration is initiating a new public comment period as it progresses toward launching a pilot program focused on truck driver sleeper berth hours. This upcoming initiative aims to evaluate alternative rest schedules for commercial motor vehicle operators, potentially reshaping current hours-of-service regulations within the freight and logistics sector. Industry stakeholders will have the opportunity to provide feedback before the trial officially begins.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-split-sleeper-berth-pilot-program-moves-closer-to-launch"
+  },
+  {
+    "headline": "FMCSA Grants AV Truck Fleets Five-Year Warning Beacon Exemption",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Autonomous vehicle trucking operators have secured a five-year regulatory exemption from traditional warning triangle requirements, addressing a key compliance question previously raised by investors and industry partners. The Federal Motor Carrier Safety Administration ruling remains in effect through October 2031, providing long-term operational clarity for autonomous freight transport companies navigating federal safety standards.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-aurora-warning-beacon-exemption-five-year"
+  },
+  {
+    "headline": "Global Container Volumes Reach Record 17.46 Million TEUs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "Worldwide container shipping volumes reached an all-time high of 17.46 million TEUs during the month of August, according to Container Trades Statistics data. Concurrently, ocean freight pricing climbed to its highest level in two years, reflecting intensified demand across major maritime trade routes. This milestone highlights continued robust activity within the international logistics sector, driven by heightened shipping volumes and rising transportation costs for global supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/global-container-volumes-hit-record-17-46-million-teus"
+  },
+  {
+    "headline": "SONAR Adds Intermodal Rates and Cost Conversion Features",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-08",
+    "summary": "FreightWaves has updated its SONAR Rate Intelligence platform to incorporate intermodal contract and spot pricing alongside rail ramp data. The new functionality features a conversion savings tool designed to help supply chain professionals directly evaluate and compare the financial differences between traditional truckload shipping and intermodal transportation options. This addition aims to assist organizations in optimizing freight modal selection and improving overall transportation cost management.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/sonar-rate-intelligence-adds-intermodal-rates-and-truckload-to-intermodal-conversion-savings"
+  },
+  {
+    "headline": "January Disruption Pressures European Ecommerce Logistics",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-08",
+    "summary": "European ecommerce networks face intense fulfillment pressures during January despite the traditional post-holiday lull. A combination of post-Christmas product returns, high consumer demand for health and fitness items at the start of the year, and multiple weekday public holidays severely restricts delivery windows across several European Union markets. Consequently, logistics operators must manage heavy operational strain during a period that typically offers relief after the peak holiday shipping season.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/europe-january-ecommerce-peak-delivery-days/"
+  },
+  {
     "headline": "Amazon introduces new air freight services from China to US",
     "continent": "Global",
     "country": "Multiple",
@@ -2938,65 +2998,5 @@
     "summary": "An eighteen-month delay continues to block a massive multi-billion-dollar transaction involving the transfer of numerous global marine terminals. The agreement, originally unveiled to shift ownership of forty-three port facilities spanning over twenty nations to an investment consortium, remains unresolved amid complex regulatory hurdles. The transaction had initially drawn cautious optimism from international observers regarding the future operational control of these critical maritime infrastructure assets, but obstacles have prevented its finalization.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/hutchwatch-the-23bn-port-deal-that-nobody-can-close/"
-  },
-  {
-    "headline": "P.F. Chang's Extends Tech Partnership for Supply Chain",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-09-22",
-    "summary": "Restaurant operator P.F. Chang's has prolonged its technology agreement with ArrowStream to enhance inventory management and purchasing operations. The collaboration focuses on improving supply contract administration, tracking inventory levels, and gaining better visibility over procurement expenditures across its restaurant network. By maintaining this digital infrastructure, the company aims to optimize its restaurant-level supply chain performance and cost controls.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/pf-changs-renews-tech-partnership-to-sharpen-inventory-management-purch/830929/"
-  },
-  {
-    "headline": "Wegmans Invests $110M in Upstate New York Facility",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-22",
-    "summary": "Regional supermarket chain Wegmans is committing $110 million toward a new operational facility located in upstate New York. This infrastructure investment aims to centralize regional activities and decrease the company's reliance on external third-party service providers. By expanding its proprietary footprint, the grocer seeks to gain greater control over its internal distribution channels, improve inventory efficiency, and streamline overall operational workflows across its network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/wegmans-invests-110m-in-its-supply-chain/830887/"
-  },
-  {
-    "headline": "Tabi Connect and Kleinschmidt Partner for Automated Freight Quoting",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Tabi Connect and Kleinschmidt have established a partnership to integrate automated freight pricing tools with predictive capacity insights. This collaboration aims to assist logistics brokers by providing additional data points when determining rates and evaluating shipment quote requests, streamlining the overall pricing workflow within the transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tabi-connect-kleinschmidt-partner-to-automate-freight-quoting"
-  },
-  {
-    "headline": "Piston secures $15M for fuel payment network expansion",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-09-22",
-    "summary": "Financial technology startup Piston has secured $15 million in Series A funding to scale its cardless fuel payment network across the United States. The capital will also support the integration of artificial intelligence capabilities designed to enhance fraud prevention measures and provide deeper analysis of operational spending for commercial fleets and logistics providers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/piston-raises-15m-to-expand-cardless-fuel-payments-network"
-  },
-  {
-    "headline": "New Alabama Inland Rail Terminal Boosts Freight Capacity",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-22",
-    "summary": "A new one hundred million dollar inland container terminal in Alabama will connect regional shippers directly to the Port of Mobile through CSX rail infrastructure. Designed to process sixty thousand twenty-foot equivalent units annually, this facility aims to streamline freight movement and enhance connectivity for central Alabama logistics operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-100m-inland-rail-terminal-will-handle-60000-teus-a-year"
-  },
-  {
-    "headline": "Thieves Steal Beef Cargo from Trailer in Philadelphia",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-22",
-    "summary": "Unidentified perpetrators in Philadelphia targeted a parked commercial transport, cutting the hinges on a trailer to access the interior. The criminals successfully stole roughly half a pallet of Black Angus ribs. The stolen meat cargo was loaded into a Ford F-150 truck, which fled the scene accompanied by an unknown Jeep model acting as an escort. Local law enforcement is currently investigating the cargo theft incident.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/masked-thieves-cut-trailer-hinges-steal-black-angus-beef-in-philadelphia"
   }
 ]
