@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Texas Trucking Company Faces Age Discrimination Lawsuit",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "A cross-border motor carrier located in Texas is being taken to court over alleged age discrimination practices. The legal action centers on the company enforcing a strict age limit policy that bars drivers aged 65 and older from employment. This case highlights ongoing regulatory and legal scrutiny regarding labor practices and hiring standards within the freight and logistics sector, specifically concerning commercial vehicle operator demographics and cross-border transportation operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/texas-trucking-firm-sued-over-age-limits-on-drivers"
+  },
+  {
     "headline": "Transpacific Freight Rates Remain High Despite Holiday Slowdown",
     "continent": "Asia",
     "country": "China",
@@ -2988,15 +2998,5 @@
     "summary": "Amazon has rolled out a new direct rail shipping option designed to move inventory across the country from Los Angeles to the East Coast more rapidly than existing alternatives. The service, known as Standard Ocean Express, aims to accelerate domestic freight transit times for the company's supply chain network by streamlining long-distance cargo movement between major coastal hubs.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/amazon-debuts-direct-rail-service-for-los-angeles-to-east-coast-shipments/830836/"
-  },
-  {
-    "headline": "Tariff Policy Shifts Create Uncertainty Across Plastics Supply Chain",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-09-23",
-    "summary": "Recent trade tariff adjustments are generating significant confusion for companies operating within the plastics packaging and logistics sector. Industry experts note that the impact of these regulatory shifts varies widely depending on a firm's market scale and its degree of leverage over upstream and downstream partners. As businesses attempt to navigate these trade barriers, stakeholders are facing complex challenges related to cost management and sourcing continuity, highlighting the broader vulnerabilities inherent in specialized manufacturing networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/plastics-get-pulled-into-tariff-turmoil/830768/"
   }
 ]
