@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Regional freight markets show diverging capacity trends",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-11",
+    "summary": "Northwestern agricultural harvests are currently generating a temporary surge in freight capacity demand, creating localized tightening. Meanwhile, the Midwest is experiencing sustained capacity tightness that indicates a more durable and structural shift in regional logistics markets. These contrasting conditions highlight the varied pressures currently influencing the broader freight transportation sector across different geographic areas.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-two-tightest-regions-tell-two-very-different-stories-about-the-freight-market"
+  },
+  {
     "headline": "Texas Trucking Company Faces Age Discrimination Lawsuit",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Less-than-truckload carrier Old Dominion has introduced a 4.9% rate hike affecting specific shipping services, set to take effect on October 5. This adjustment reflects ongoing cost pressures within the domestic freight and transportation sector, impacting shippers utilizing the carrier's network. Such general rate increases are commonly employed by logistics providers to offset rising operational expenses, including labor, equipment maintenance, and fuel costs, while maintaining service reliability across their distribution footprint.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/old-dominion-announces-49-general-rate-increase/830901/"
-  },
-  {
-    "headline": "Amazon Launches Direct Rail Service from LA to East Coast",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Amazon has rolled out a new direct rail shipping option designed to move inventory across the country from Los Angeles to the East Coast more rapidly than existing alternatives. The service, known as Standard Ocean Express, aims to accelerate domestic freight transit times for the company's supply chain network by streamlining long-distance cargo movement between major coastal hubs.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazon-debuts-direct-rail-service-for-los-angeles-to-east-coast-shipments/830836/"
   }
 ]
