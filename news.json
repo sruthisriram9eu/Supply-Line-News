@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Florida Trucking Owner Admits Guilt in USPS Freight Fraud Scheme",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-11",
+    "summary": "An Orlando-based trucking company owner has entered a guilty plea in a federal court regarding a fraudulent scheme targeting the United States Postal Service. Court documents reveal that fabricated delivery records were submitted to secure over $1 million in improper payouts for freight transportation services that were never actually performed. This case highlights vulnerabilities in government logistics contracting and oversight, leading to criminal charges and financial accountability for the perpetrator involved in the scheme.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/orlando-trucking-owner-pleads-guilty-in-1m-usps-freight-auction-fraud"
+  },
+  {
     "headline": "Regional freight markets show diverging capacity trends",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "The freight market in Houston experienced a swift contraction, moving from loose conditions to become the second fastest-tightening market in a brief two-week span. This shift featured elevated tender rejection levels exceeding fourteen percent, rising spot rates, and high diesel fuel costs. Additionally, intermodal transport volumes showed resilience, while analysts began monitoring potential tropical storm threats that could introduce further disruptions to regional logistics and distribution networks in the near term.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/houston-freight-tightened-fast-no-2-in-2-weeks"
-  },
-  {
-    "headline": "Old Dominion Implements 4.9% General Rate Increase",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Less-than-truckload carrier Old Dominion has introduced a 4.9% rate hike affecting specific shipping services, set to take effect on October 5. This adjustment reflects ongoing cost pressures within the domestic freight and transportation sector, impacting shippers utilizing the carrier's network. Such general rate increases are commonly employed by logistics providers to offset rising operational expenses, including labor, equipment maintenance, and fuel costs, while maintaining service reliability across their distribution footprint.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/old-dominion-announces-49-general-rate-increase/830901/"
   }
 ]
