@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Suardiaz Group expands fleet with LNG-powered car carrier",
+    "continent": "Europe",
+    "country": "Spain",
+    "category": "logistics",
+    "date": "2026-10-11",
+    "summary": "Spanish logistics provider Suardiaz Group has acquired the RS Atlantico, a dual-fuel liquefied natural gas vessel with a capacity for 5,500 vehicles. This delivery marks a milestone as the firm becomes the first in Spain to operate an LNG-powered ship within the car carrier sector. The addition forms a core component of a broader corporate investment strategy aimed at expanding global transport operations and upgrading fleet capabilities with environmentally focused propulsion technologies.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/suardiaz-lng-powered-car-carrier-rs-atlantico/"
+  },
+  {
     "headline": "Mexico Vehicle Exports Drop in September Amid Major US Share",
     "continent": "North America",
     "country": "Mexico",
@@ -2988,15 +2998,5 @@
     "summary": "Trade tensions between North American neighbors intensified as the United States implemented an absolute prohibition on specific Canadian goods, including alcoholic beverages, dairy products, and heavy motorcycles. This regulatory action represents a significant escalation beyond traditional trade tariffs, creating immediate disruptions for cross-border shipping networks and supply chain partners moving specialized goods between the two nations.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/specialty-wine-and-car-parts"
-  },
-  {
-    "headline": "Parallel Systems launches expanded autonomous railcar tests",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Parallel Systems has advanced its battery-electric, autonomous container railcar technology into a second phase of commercial service testing. This initiative aims to evaluate the operational capabilities of self-steering rail vehicles designed to modernize freight movement and improve efficiency across rail networks. The extended trials mark a significant step toward commercial adoption, offering potential alternatives for intermodal freight transportation and terminal operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/next-phase-for-autonomous-railcar-technology-in-commercial-service-testing"
   }
 ]
