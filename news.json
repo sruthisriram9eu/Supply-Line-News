@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Walmart Launches Advanced California Fulfillment Center",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-12",
+    "summary": "Walmart has inaugurated a massive 900,000-square-foot fulfillment facility in California designed to enhance operational efficiency on the West Coast. The site incorporates an automated storage and retrieval system to significantly expand order handling capacity and accelerate delivery speeds for regional customers. This investment reflects the company's ongoing strategy to modernize its distribution network and improve inventory management across critical consumer markets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/walmart-opens-next-gen-california-facility-to-boost-west-coast-fulfillmen/832631/"
+  },
+  {
+    "headline": "BD Agrees to Boost US Medical Production to Avoid Tariffs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-12",
+    "summary": "Medical technology manufacturer BD has reached an agreement with the federal administration to expand domestic manufacturing capacity for critical healthcare consumables. Under the terms of the arrangement, the company will scale up its operations within the United States in return for exemptions from upcoming import duties on its goods. This move aims to secure the domestic medical supply chain against potential trade disruptions and reduce reliance on foreign manufacturing for essential health sector products.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/bd-strikes-supply-chain-pact-with-trump-administration/832653/"
+  },
+  {
+    "headline": "Port of Los Angeles Sets All-Time Record with 1M Containers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "During September, the Port of Los Angeles processed over one million container units, establishing a new operational milestone for the facility. This unprecedented monthly volume reflects strong throughput levels at the major maritime gateway. The surge highlights ongoing high activity within the regional shipping sector, driven by sustained import demand and efficient terminal operations. This performance sets a historical benchmark for the facility's extensive operational timeline.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/1-million-boxes-set-new-los-angeles-port-record"
+  },
+  {
+    "headline": "Freight Fraud Awareness Day Spotlights Cargo Theft Risks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Industry advocates are launching Freight Fraud Awareness Day to encourage victims to share their experiences regarding sophisticated cargo theft schemes. These complex criminal tactics continue to expose vulnerabilities throughout the transportation network, prompting calls for greater vigilance, improved information sharing, and stronger security measures across the trucking sector to protect valuable shipments and secure supply chain operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-fraud-awareness-day-returns-as-strategic-cargo-theft-reshapes-trucking"
+  },
+  {
+    "headline": "Treating Fleet Compliance as a Strategic Resource",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Corporate leadership must view regulatory compliance for transport fleets as a critical resource allocation matter rather than a routine administrative duty. As transport networks expand across various regulatory zones, ensuring vehicles maintain legal operating status directly impacts asset availability and overall operational continuity. Industry experts emphasize that managing compliance capacity effectively prevents unexpected downtime and protects scaling businesses from severe logistical disruptions, shifting the focus from mere paperwork completion to comprehensive operational readiness.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-hidden-business-risk-inside-fleet-compliance"
+  },
+  {
+    "headline": "OOCL Reports 45.1% Revenue Surge Driven by Trans-Pacific Volume Growth",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Container shipping firm OOCL experienced a significant financial boost, posting a 45.1 percent increase in total revenue. This upward trend was fueled by rising freight rates per container and expanding cargo volumes across all four major operating trade corridors. The trans-Pacific route played a particularly vital role in the financial surge, reflecting robust demand and elevated activity within ocean freight networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/oocl-revenue-up-45-1-on-trans-pacific-surge"
+  },
+  {
+    "headline": "DP World and Operators Expand African Port Infrastructure",
+    "continent": "Africa",
+    "country": "Angola",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Major terminal operators are scaling up capacity across the African continent to accommodate rising cargo volumes, with the western maritime corridor experiencing particularly high demand. DP World has committed ninety million dollars toward upgrading operations at the Port of Luanda in Angola, highlighting strong industry confidence in the region's trade gateways. This investment reflects a broader trend of international logistics companies strengthening their operational footprint to support growing commercial activity and improve efficiency within key African freight corridors.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/dp-world-joins-in-as-africas-logistics-hot-spots-attract-the-big-players/"
+  },
+  {
+    "headline": "Carriers Resuming Red Sea and Suez Canal Routes Amid Rising Risks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Container shipping lines are gradually returning to traditional pathways through the Red Sea and the Suez Canal, even as security concerns persist due to escalating regional conflicts. Despite recent vessel attacks near active combat zones, transport providers continue utilizing these vital maritime shortcuts between Asia and Europe while conditions permit, keeping supply chains focused on transit efficiency despite elevated operational dangers.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shippers-stressing-over-risks-from-suez-canal-and-red-sea-transits/"
+  },
+  {
+    "headline": "Samsung SDS Expands Airfreight Capabilities Through Woojung Air Acquisition",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Samsung SDS is growing its air cargo operations by acquiring Woojung Air, a South Korean freight consolidator. This strategic move enhances the company's ability to procure airline capacity and integrates a wholesale network of over twelve hundred freight forwarders. The transaction bolsters Samsung's presence in the third-party logistics market, complementing its existing digital forwarding platform by scaling its operational reach and customer base within the air freight sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/samsung-steps-up-airfreight-ambitions-with-woojung-air-takeover/"
+  },
+  {
     "headline": "Chinese automakers and shipowners invest $2.5B in vehicle carriers",
     "continent": "Asia",
     "country": "China",
@@ -2908,95 +2998,5 @@
     "summary": "Autonomous electric transport provider Einride is collaborating with Nvidia to advance its heavy-duty automated vehicle technology. The initiative supports the company's growth targets, which project a fleet size of up to 2,000 vehicles by 2028. Leadership estimates that the vast majority of this projected operational footprint is well-suited for autonomous deployment in the medium term, signaling a significant push toward integrating advanced artificial intelligence and automation into heavy-duty freight operations and long-term commercial logistics networks.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking"
-  },
-  {
-    "headline": "Yangtze River Ports Launch Direct Ocean Shipping Routes",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Chinese ports along the Yangtze River are expanding their international maritime capabilities by introducing direct container services to overseas destinations. Cosco Shipping Specialised Carriers initiated a route connecting Jiangyin to Mexico and another linking Nanjing to North Africa. These operations utilize multi-purpose vessels to transport machinery and manufactured goods, marking a strategic shift for regional terminals as they extend their geographic reach into global long-haul shipping networks.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/yangtze-ports-test-the-water-with-longer-container-shipping-routes/"
-  },
-  {
-    "headline": "Container Shortages Disrupt Exports at India's JNPA",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Exporters utilizing India's Nhava Sheva Port are facing severe difficulties securing empty shipping containers due to ongoing vessel schedule disruptions. Container depots report an inability to fulfill pickup requests, impacting major carriers including CMA CGM. The equipment imbalance is slowing down outbound supply chain operations and lengthening cargo turnaround times for local businesses relying on the facility.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/indias-exporters-struggling-with-shortage-of-empty-boxes-at-jnpa/"
-  },
-  {
-    "headline": "IATA's New Direct Air Waybill Rules Spark Liability Disputes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Months after the introduction of updated Direct Air Waybill regulations by the International Air Transport Association, ongoing confusion persists between freight forwarders and airlines regarding liability protocols. Many industry operators remain uncertain about the operational adjustments and legal ramifications when shipping issues arise. Several logistics companies are unaware of the shifts, while major carriers are still evaluating whether to implement the updated contractual amendments, leaving accountability ambiguous across the air cargo sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/liability-the-battleground-as-forwarders-and-airlines-question-new-dawb-rules/"
-  },
-  {
-    "headline": "Hapag-Lloyd cuts guaranteed container capacity for forwarders",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Container shipping line Hapag-Lloyd has reduced contracted capacity allocations within its guaranteed service offering by up to 40 percent. This move has sparked frustration among freight forwarders who rely on the contractual program to secure container space amid ongoing regional transportation disruptions originating in Asia. The adjustments highlight growing operational tensions between carriers and logistics intermediaries regarding schedule reliability and guaranteed volume commitments under volatile market conditions.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/forwarder-anger-as-hapag-lloyd-cuts-guaranteed-capacity-allocations/"
-  },
-  {
-    "headline": "Produce Shippers Draft Logistics Best Practices Charter",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "The Global Coalition of Fresh Produce is developing a transport best practice charter aimed at improving transparency and resilience within perishables logistics. Driven by severe reliability challenges that threaten industry survival, the upcoming framework intends to establish a common operational baseline for all supply chain stakeholders. By formalizing these shared guidelines, agricultural shippers seek to secure more dependable transport pathways and enhance coordination across the perishable goods network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/produce-shippers-prepare-best-practice-charter-for-transport/"
-  },
-  {
-    "headline": "Hapag-Lloyd CEO Travels to Israel for Zim Acquisition Talks",
-    "continent": "Asia",
-    "country": "Israel",
-    "category": "strategy",
-    "date": "2026-09-24",
-    "summary": "The chief executive of German ocean carrier Hapag-Lloyd has traveled to Israel to negotiate a revised acquisition offer for container shipping line Zim. The high-level discussions focus on securing government approval for the takeover, with maintaining critical maritime trade connectivity between Asia and Israel serving as a primary condition for the potential transaction. Both companies are navigating regulatory requirements and strategic concessions to advance the maritime logistics merger.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hapag-tries-to-close-zim-deal-asia-connectivity-the-crux/"
-  },
-  {
-    "headline": "F-35 Component Chain of Custody Fails Amid Carrier Confusion",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Conflicting reports have emerged regarding which logistics provider transported defense-related components that ultimately ended up in China. Media sources disagree on whether the shipment was handled by UPS or Ceva Logistics. Although the manufacturer downplays the sensitivity of the diverted items, the incident has exposed serious vulnerabilities in the tracking and oversight procedures for regulated freight. Authorities are examining how high-security cargo managed to deviate from its authorized transit route.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ups-or-ceva-who-carried-f-35-parts-to-hong-kong-well-the-chain-of-custody-failed-either-way/"
-  },
-  {
-    "headline": "Ocean Spray Appoints New Chief Supply Chain Officer",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-23",
-    "summary": "Brad Hartzell has taken over the position of chief supply chain officer at Ocean Spray, bringing a quarter-century of industry expertise to the role. In his new capacity, he will direct all operational activities for the prominent agricultural cooperative known for its dried cranberry and juice products. His extensive background in supply chain functions is expected to guide the company's manufacturing, sourcing, and distribution networks moving forward.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ocean-spray-names-chief-supply-chain-officer/830937/"
-  },
-  {
-    "headline": "Samsara Launches Tool to Capture $2B in Fleet Fuel Waste",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Fleet operators in the United States missed out on approximately two billion dollars in potential fuel savings during the first half of 2026. In response to this inefficiency, technology provider Samsara has introduced a specialized software solution designed to help commercial fleets identify and recover these wasted expenses. The product aims to optimize vehicle operations and route management, providing organizations with actionable insights to lower overall fuel consumption and improve bottom-line performance across their transportation networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/samsara-fuel-command-center-launch"
   }
 ]
