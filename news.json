@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Chinese automakers and shipowners invest $2.5B in vehicle carriers",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Major Chinese automotive and logistics firms are committing approximately $2.5 billion to construct twenty-one large car-carrying vessels. Companies including Cosco Shipping, BYD, and SAIC Anji Logistics have partnered with domestic shipbuilders to expand their maritime transport fleets. This fleet expansion strategy aims to accommodate the rapid growth in vehicle exports from the country, addressing ongoing capacity constraints in international roll-on/roll-off shipping lanes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/china-wants-more-and-bigger-car-carriers-to-meet-export-demand/"
+  },
+  {
+    "headline": "US Trucking Sector Faces Structural Crisis Amid Shifting Capacity",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "The United States road freight sector continues to struggle with persistent market challenges that are projected to persist well into the following year. While freight rates have experienced upward movement, this shift stems from shrinking industry capacity rather than robust economic demand. Elevated tender rejection rates indicate deep operational strains, fueling concerns that current industry frameworks are fundamentally flawed. Although some financial metrics suggest partial recovery, industry observers warn of ongoing structural instability affecting domestic transport operators.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/no-end-in-sight-of-the-misery-for-us-trucking-its-a-broken-model/"
+  },
+  {
+    "headline": "Container Spot Rates Diverge From Broader Shipping Market",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Maritime analysts report that container spot shipping rates have experienced increased volatility relative to overall market conditions following the pandemic. A recent study examining Asia-to-Europe and transpacific trade lanes revealed a growing disconnect between spot price movements and broader market developments. Industry data comparing monthly average freight benchmarks with comprehensive trade statistics indicates that spot market signals no longer reliably reflect the wider container shipping sector, prompting warnings for shippers relying on these metrics for long-term planning.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shippers-warned-spot-rates-no-pointer-to-wider-box-shipping-market/"
+  },
+  {
     "headline": "Suardiaz Group expands fleet with LNG-powered car carrier",
     "continent": "Europe",
     "country": "Spain",
@@ -38,6 +68,16 @@
     "summary": "Northwestern agricultural harvests are currently generating a temporary surge in freight capacity demand, creating localized tightening. Meanwhile, the Midwest is experiencing sustained capacity tightness that indicates a more durable and structural shift in regional logistics markets. These contrasting conditions highlight the varied pressures currently influencing the broader freight transportation sector across different geographic areas.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/the-two-tightest-regions-tell-two-very-different-stories-about-the-freight-market"
+  },
+  {
+    "headline": "Port of Mobile Halts Operations Due to Hurricane Isaias",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-09",
+    "summary": "The Alabama Port Authority has temporarily suspended all vessel movements and terminal activities at public berths in response to approaching severe weather conditions from Hurricane Isaias. This shutdown aims to protect port infrastructure, maritime personnel, and incoming cargo vessels from potential storm damage. Consequently, regional maritime logistics and freight flows through the port facility are experiencing delays as supply chain stakeholders monitor the storm's trajectory and await clearance to resume normal operations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/port-of-mobile-shutters-operations-ahead-of-hurricane-isaias/832621/"
   },
   {
     "headline": "Texas Trucking Company Faces Age Discrimination Lawsuit",
@@ -2958,45 +2998,5 @@
     "summary": "Fleet operators in the United States missed out on approximately two billion dollars in potential fuel savings during the first half of 2026. In response to this inefficiency, technology provider Samsara has introduced a specialized software solution designed to help commercial fleets identify and recover these wasted expenses. The product aims to optimize vehicle operations and route management, providing organizations with actionable insights to lower overall fuel consumption and improve bottom-line performance across their transportation networks.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/samsara-fuel-command-center-launch"
-  },
-  {
-    "headline": "Shippers pool demand to accelerate electric truck adoption",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "A coalition of major corporations, including Microsoft and PepsiCo, is leveraging aggregated purchasing power to secure sustainable freight transport at a lower cost, recently committing to an order of 2,500 heavy-duty electric vehicles. This collaborative procurement strategy aims to overcome cost barriers associated with fleet electrification, driving the transition toward lower-emission logistics operations and expanding the deployment of zero-emission commercial transport across supply chains.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/shippers-coalition-advances-class-8-electric-battery-truck-adoption/831160/"
-  },
-  {
-    "headline": "Regulator Criticizes Railroad Merger Proposal as Insufficient",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Rail freight volumes experienced a positive rebound across North America during the thirty-seventh week of the year, driven by increases in both carload and intermodal transport. Concurrently, regulatory oversight of a prominent railway consolidation proposal intensified. A newly appointed member of the Surface Transportation Board expressed unexpected reservations regarding the submission, characterizing the merger documentation as superficial and deficient in necessary detail. This scrutiny adds complexity to the ongoing regulatory evaluation process for the proposed industry combination.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/stb-board-member-calls-major-railroad-merger-plan-shallow"
-  },
-  {
-    "headline": "Tesla Leads Record-Breaking Electric Class 8 Truck Order",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-23",
-    "summary": "Tesla has secured the primary role in an unprecedented agreement for 2,500 electric Class 8 trucks, marking the largest commercial deployment of zero-emission heavy-duty vehicles in the United States so far. The heavy transport assets will be rolled out across ten major freight centers situated between Los Angeles and Newark. This initiative is expected to significantly accelerate the adoption of sustainable transportation and reduce carbon emissions within critical domestic freight corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-zet-scale-2500-truck-order"
-  },
-  {
-    "headline": "US Imposes Total Import Ban on Canadian Dairy, Alcohol, and Motorcycles",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "international_relations",
-    "date": "2026-09-23",
-    "summary": "Trade tensions between North American neighbors intensified as the United States implemented an absolute prohibition on specific Canadian goods, including alcoholic beverages, dairy products, and heavy motorcycles. This regulatory action represents a significant escalation beyond traditional trade tariffs, creating immediate disruptions for cross-border shipping networks and supply chain partners moving specialized goods between the two nations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/specialty-wine-and-car-parts"
   }
 ]
