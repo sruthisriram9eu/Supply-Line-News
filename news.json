@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Cross-Border Trucking Capacity Constrained by Driver Shortages",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Cross-border logistics between North American neighbors face tight capacity due to ongoing driver shortages and visa limitations. Rising operating expenses are further compounding carrier availability issues for freight moving across regional boundaries. These operational bottlenecks threaten to disrupt international supply chains and increase transportation delays for goods moving through border entry points.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-trucker-shortages-visa-restrictions-squeeze-cross-border-capacity"
+  },
+  {
+    "headline": "Louisiana State Loan Funds New Rail Link for Local Port",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "The state of Louisiana is stepping in to resolve a financial shortfall by issuing a one million dollar loan dedicated to constructing a brand new rail connection for a regional port. This public financial support aims to bridge the funding gap and advance the rail infrastructure project, which is designed to enhance freight movement and strengthen intermodal transportation capabilities within the local supply chain network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/state-loan-to-aid-louisiana-ports-new-rail-connection"
+  },
+  {
     "headline": "Walmart Launches Advanced California Fulfillment Center",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "Energy markets responded to potential policy shifts from the administration regarding fuel movement across borders. Fuel futures experienced notable volatility following reports that federal officials are evaluating an export ban on diesel, which triggered a decline in diesel values while simultaneously driving up gasoline prices as traders repositioned themselves amid changing regulatory expectations.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/export-ban-talk-sinks-diesel-boosts-gasoline-as-white-house-eyes-options"
-  },
-  {
-    "headline": "Europe and Sub-Saharan Africa Trade Volumes Rise",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Recent data from Container Trades Statistics indicates consistent volume growth on maritime routes connecting Europe and Sub-Saharan Africa. Figures show four consecutive months of year-on-year increases for southbound shipments, while northbound traffic maintains a similar upward trajectory. Despite the positive metrics reported for the corridor, certain freight forwarders remain skeptical regarding the long-term sustainability of these trade gains, reflecting cautious sentiment within the logistics industry.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/steady-gains-in-europe-ssa-trade-but-some-forwarders-have-doubts/"
-  },
-  {
-    "headline": "Einride and Nvidia Partner for Autonomous Trucking Expansion",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Autonomous electric transport provider Einride is collaborating with Nvidia to advance its heavy-duty automated vehicle technology. The initiative supports the company's growth targets, which project a fleet size of up to 2,000 vehicles by 2028. Leadership estimates that the vast majority of this projected operational footprint is well-suited for autonomous deployment in the medium term, signaling a significant push toward integrating advanced artificial intelligence and automation into heavy-duty freight operations and long-term commercial logistics networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking"
   }
 ]
