@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Beyond uses AI to unify inventory forecasting",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-13",
+    "summary": "The parent company of retail brands including The Container Store and Kirkland’s has partnered with Relex Solutions to implement artificial intelligence technology. The rollout aims to streamline demand forecasting and inventory replenishment processes. By adopting this unified software platform, the retail group seeks to reduce operational complexity across its supply chain network and improve overall inventory management efficiency for its portfolio of home goods brands.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/bed-bath-beyond-parent-company-taps-ai-to-unify-forecasting-replenishmen/832759/"
+  },
+  {
+    "headline": "Mexico heavy-duty truck exports surge on US demand",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Heavy-duty vehicle shipments from Mexico experienced a dramatic 145 percent increase during September. This substantial growth was primarily fueled by rising commercial demand within the United States market. Buyers accelerated their purchasing activity to secure vehicles ahead of upcoming environmental regulations and stricter emissions standards taking effect. The surge highlights the close economic ties and transportation dependencies between the two North American trading partners as automotive manufacturers adjust production timelines to meet regulatory shifts.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-truck-exports-soar-145-as-us-demand-accelerates"
+  },
+  {
+    "headline": "CSX COO Cory to Retire from Rail Operations Leadership",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Class I railroad CSX has announced that its executive vice president and chief operating officer is stepping down. The departing executive has directed the carrier's daily operational strategy and network execution since taking the role in 2023. The transition comes as the freight rail sector continues to navigate shifting demand, labor dynamics, and service reliability pressures. Leadership changes at major transportation providers often prompt strategic reassessments regarding network efficiency, resource allocation, and customer service standards across North American freight corridors. The company has not yet named a permanent successor to oversee its extensive rail network operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/csx-operations-chief-to-retire"
+  },
+  {
+    "headline": "Bot Auto integrates Lenovo and Nvidia tech into autonomous trucks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Bot Auto has announced plans to integrate Lenovo computing hardware and Nvidia components into its fleet of autonomous Class 8 commercial trucks. Implementation is scheduled to begin in the first quarter of 2027, with the autonomy hardware package priced at fifty thousand dollars. This deployment supports the company's long-term operational objective to achieve one billion driverless miles by the year 2031, marking a significant milestone in the development of autonomous freight transport technology.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/bot-auto-lenovo-ad1-nvidia-driverless-trucks"
+  },
+  {
+    "headline": "West African Port Congestion Highlights Infrastructure Shortfalls",
+    "continent": "Africa",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Severe vessel backups at West African ports reveal significant infrastructural shortcomings outside terminal gates, struggling to cope with a rapidly growing container market. Regional container throughput surged notably over the past year, driven by the deployment of larger ships on routes connecting Asia and Latin America. Observers note that current investment levels and planned enhancements fail to match the pace of maritime volume growth, threatening regional trade efficiency and pointing to a pressing need for broader logistical upgrades across the transport network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/west-african-port-congestion-exposes-gaps-beyond-terminal-gates/"
+  },
+  {
     "headline": "Netradyne Introduces New AI Agents for Fleet Safety",
     "continent": "Global",
     "country": "Multiple",
@@ -28,6 +78,16 @@
     "summary": "Bangladesh has secured a significant funding package from China to upgrade and modernize infrastructure at Mongla port, involving the construction of new container jetties, yards, and cargo handling equipment. Meanwhile, labor unrest has emerged at the nation's primary container gateway in Chittagong, where workers are threatening indefinite hunger strikes in opposition to an agreement that awards terminal operations to DP World. These concurrent developments highlight ongoing foreign investment initiatives and domestic labor challenges within the nation's maritime trade network.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/bangladesh-backs-mongla-expansion-as-workers-protest-dp-world-deal/"
+  },
+  {
+    "headline": "Levi's directs tariff refund toward supply chain upgrades",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-12",
+    "summary": "Apparel manufacturer Levi's has announced plans to allocate a significant portion of an eighty million dollar tariff refund toward modernizing its logistics and distribution networks. Three quarters of the recovered duties will be invested into strengthening supply chain operations alongside marketing initiatives. This financial recovery provides the company with capital to enhance fulfillment efficiency and improve operational resilience across its global distribution channels following previous trade cost burdens.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/levis-to-use-part-of-80m-tariff-refund-for-supply-chain/832562/"
   },
   {
     "headline": "Cross-Border Trucking Capacity Constrained by Driver Shortages",
@@ -2938,65 +2998,5 @@
     "summary": "Recent data indicates that smaller enterprises are actively broadening their procurement networks to mitigate rising delivery delays associated with Chinese suppliers. Companies are seeking alternative geographic partners to stabilize their supply chains and reduce vulnerability to ongoing lead-time volatility. This strategic shift reflects a broader trend toward supplier diversification as organizations adapt to persistent operational uncertainties in international trade.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/china-lead-time-concerns-surge-as-shippers-widen-global-sourcing-networks"
-  },
-  {
-    "headline": "US Intermodal Rail Volume Climbs Seven Percent",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Recent weekly data published by the Association of American Railroads indicates that domestic rail freight volumes maintained a strong performance compared to the same period in the previous year. Specifically, intermodal rail traffic experienced a notable seven percent increase, highlighting steady growth and resilience in national freight movement and rail-based supply chain operations across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/intermodal-rail-powers-up-with-7-gain-for-latest-week"
-  },
-  {
-    "headline": "Copeland Enhances Cold Chain via Dickson Acquisition",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-24",
-    "summary": "Copeland has strengthened its cold chain operations through the acquisition of Dickson, incorporating sophisticated compliance and monitoring technologies tailored to the healthcare and life sciences industries. This strategic move allows Copeland to expand its service offerings within temperature-sensitive supply chains, ensuring enhanced regulatory adherence and product integrity during transit and storage for critical medical and biological goods.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/copeland-expands-cold-chain-capabilities-with-dickson-acquisition"
-  },
-  {
-    "headline": "Trans-Pacific container shipping rates hold near peak levels",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Ocean freight shipping costs from Asia to the United States remain elevated, hovering around $9,600 per container. Strong import demand from American buyers combined with ongoing port congestion at major Asian maritime hubs continues to strain capacity across the Trans-Pacific trade lane. While these spot rates stay high due to these persistent logistical bottlenecks, they have not reached the unprecedented peaks seen during the global health crisis.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/but-no-pandemic-high-asia-us-container-rate-at-9600"
-  },
-  {
-    "headline": "Cargo Theft Costs Exceed One Million Dollars For Many U.S. Firms",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "A recent survey of loss prevention and retail crime experts reveals escalating concerns over cargo theft in the United States. Nearly half of the respondents indicate that their organizations suffer annual financial damages exceeding one million dollars. The data highlights a growing trend of organized theft and the adoption of more advanced methods by criminals targeting freight networks. These findings emphasize the mounting challenges faced by logistics and supply chain operators in securing goods during transit.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/40-of-loss-prevention-professionals-report-annual-cargo-theft-losses-topping-1m"
-  },
-  {
-    "headline": "Airlines Finalize Operations for Joint Cargo Venture",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Three major airline cargo divisions, including operations from Qatar Airways, IAG, and Malaysia Airlines, are nearing the completion of their systems and operational integration. This final phase paves the way for the official launch of their collaborative freight business, which aims to combine resources and streamline international air cargo services across their respective networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/airline-trio-take-final-steps-towards-launch-of-joint-cargo-business"
-  },
-  {
-    "headline": "Mexican Truck Drivers File Lawsuit Over US Forced-Labor Allegations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "A federal lawsuit filed in the United States accuses an employment recruiter and several transport companies of orchestrating a forced-labor scheme involving dozens of Mexican commercial truck operators. According to the legal complaint, workers were lured across the border with false assurances of legal employment authorization. Once engaged in hauling freight, the drivers allegedly faced severe exploitation, including excessive debt-inducing fees, the confiscation of vital personal documents, and coercion involving threats regarding their immigration status.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/45-mexican-truck-drivers-accuse-us-recruiter-carriers-of-forced-labor-scheme"
   }
 ]
