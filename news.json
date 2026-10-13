@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Netradyne Introduces New AI Agents for Fleet Safety",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Technology provider Netradyne has grown its ecosystem of artificial intelligence tools designed for fleet safety operations. The update incorporates pre-built agents alongside a development tool that allows organizations to create custom agents. Additionally, the system now features a conversational interface capable of retrieving real-time data insights directly from active commercial vehicle fleets to support logistics and transportation management teams.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/netradyne-expands-ai-agents-fleet-safety"
+  },
+  {
+    "headline": "Gemini Cooperation Relaunches Asia-Middle East Service",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Maersk and Hapag-Lloyd are reinstating their maritime trade route connecting the Far East and the Middle East to restore capacity for regional importers following prolonged conflict disruptions. The updated shipping loop introduces a notable alteration by omitting stops at Jebel Ali and rerouting vessels to Khor Fakkan, a facility situated outside the Strait of Hormuz. This network adjustment aims to optimize operations and improve reliability for cargo owners navigating the challenging Middle Eastern trade corridor.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gemini-to-relaunch-asia-middle-east-loop-but-drops-jebel-ali-call/"
+  },
+  {
+    "headline": "Bangladesh Secures Chinese Loan for Mongla Port Expansion Amid Terminal Unrest",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Bangladesh has secured a significant funding package from China to upgrade and modernize infrastructure at Mongla port, involving the construction of new container jetties, yards, and cargo handling equipment. Meanwhile, labor unrest has emerged at the nation's primary container gateway in Chittagong, where workers are threatening indefinite hunger strikes in opposition to an agreement that awards terminal operations to DP World. These concurrent developments highlight ongoing foreign investment initiatives and domestic labor challenges within the nation's maritime trade network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/bangladesh-backs-mongla-expansion-as-workers-protest-dp-world-deal/"
+  },
+  {
     "headline": "Cross-Border Trucking Capacity Constrained by Driver Shortages",
     "continent": "North America",
     "country": "Multiple",
@@ -2968,35 +2998,5 @@
     "summary": "A federal lawsuit filed in the United States accuses an employment recruiter and several transport companies of orchestrating a forced-labor scheme involving dozens of Mexican commercial truck operators. According to the legal complaint, workers were lured across the border with false assurances of legal employment authorization. Once engaged in hauling freight, the drivers allegedly faced severe exploitation, including excessive debt-inducing fees, the confiscation of vital personal documents, and coercion involving threats regarding their immigration status.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/45-mexican-truck-drivers-accuse-us-recruiter-carriers-of-forced-labor-scheme"
-  },
-  {
-    "headline": "Suez Canal Shipping Transits Surge 27% in August",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-24",
-    "summary": "Recent shipping data indicates that maritime traffic through the Suez Canal increased by twenty-seven percent compared to the same period in the previous year. This growth is driven by ocean carriers choosing to selectively reintroduce voyages through the Red Sea and Suez Canal corridor, suggesting a gradual shift in carrier routing strategies following prolonged disruptions in the region. The uptick highlights evolving tactical decisions within international maritime logistics as operators reassess security conditions and transit times.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-data-shows-suez-route-transits-rose-27-in-august"
-  },
-  {
-    "headline": "Tractor Supply Opens $200M Idaho Distribution Center",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-24",
-    "summary": "Tractor Supply has established a new $200 million distribution facility in Idaho to streamline fulfillment operations. The site is slated to commence outbound shipments to 123 retail locations across the region, enhancing the company's regional logistics network and inventory management capabilities to support store growth.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tractor-supply-inaugurates-200m-distribution-facility-in-idaho"
-  },
-  {
-    "headline": "White House export ban discussions impact diesel and gasoline futures",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-24",
-    "summary": "Energy markets responded to potential policy shifts from the administration regarding fuel movement across borders. Fuel futures experienced notable volatility following reports that federal officials are evaluating an export ban on diesel, which triggered a decline in diesel values while simultaneously driving up gasoline prices as traders repositioned themselves amid changing regulatory expectations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/export-ban-talk-sinks-diesel-boosts-gasoline-as-white-house-eyes-options"
   }
 ]
