@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Pilot and Tesla Launch First Heavy-Duty EV Megacharger",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Pilot Travel Centers and Tesla have launched their initial heavy-duty electric vehicle charging station at a travel center in Georgia. This inaugural location features six dedicated stalls designed to support commercial freight trucks. Additional charging locations are currently under construction across the country, with multiple sites nearing completion in California and other regions. This infrastructure development aims to expand zero-emission transportation corridors for long-haul freight operations and support the growing adoption of heavy-duty electric trucks in the commercial logistics sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/pilot-tesla-megacharger-site-opens"
+  },
+  {
+    "headline": "Gulf Conflict Forces Major Feeder Operators to Reshape Networks",
+    "continent": "Middle East",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Geopolitical tensions and the closure of the Hormuz Straits have severely disrupted operational routes and fleet deployments for the top common feeder shipping lines. Major carriers have been forced to scale back operations in response to the ongoing Middle East conflict, altering the competitive landscape as regional players narrow the gap on established market leaders. Analysts highlight that these disruptions are driving significant shifts in how maritime transport networks are structured across the affected region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gulf-conflict-upsets-networks-and-fleet-size-of-biggest-feeder-operators/"
+  },
+  {
+    "headline": "Late-Booking AI Shippers Threaten Airfreight Capacity",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Hyperscale technology companies that have delayed securing peak-season transport capacity for servers, processors, and data center hardware risk triggering significant airfreight rate spikes. While traditional e-commerce operators and major brands successfully locked in their required space ahead of the surge, the impending entry of late-booking artificial intelligence shippers adds substantial strain to an already tight global transport market, potentially overwhelming available aircraft payload despite recent holiday demand lulls.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ai-shippers-still-looking-for-capacity-risk-sharp-airfreight-peak-squeeze/"
+  },
+  {
+    "headline": "South Korea Pushes for Arctic Shipping Route by 2030 Despite Carrier Hesitation",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "South Korean leadership reaffirms its commitment to launching regular container shipping services between Busan and Europe via the Northern Sea Route by the end of the decade. This ambition follows a recent test voyage completed by a regional ferry operator, which successfully navigated a round-trip between domestic ports and European destinations in forty days. Despite these operational milestones proving the technical feasibility of Arctic maritime transport, domestic shipping lines remain cautious about the long-term commercial viability and profitability of utilizing these polar trade lanes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/nsr-box-shipping-test-a-success-but-s-korean-carriers-are-sceptical/"
+  },
+  {
+    "headline": "Direwolf Ransomware Targets Automotive Logistics and Port Operations",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "The cybercriminal group Direwolf recently claimed responsibility for attacks against two key transport nodes within a short timeframe. Michigan-based finished-vehicle logistics provider Precision Vehicle Logistics and Malaysia's Port of Tanjung Pelepas were both added to the threat group's list of victims. These incidents highlight growing digital vulnerabilities across international freight networks and marine terminals, prompting increased vigilance among cargo shippers and supply chain operators regarding potential disruptions to vehicle distribution and port handling capabilities.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/direwolf-cyber-threat-under-the-radar/"
+  },
+  {
     "headline": "US-Mexico Border Visa Revocations Spark Freight Capacity Crisis",
     "continent": "North America",
     "country": "Multiple",
@@ -2948,55 +2998,5 @@
     "summary": "Samsara has introduced a new Model Context Protocol that enables trucking operators to integrate live fleet information directly into external artificial intelligence platforms. This solution eliminates the necessity for carriers to develop bespoke custom integrations to connect their operational datasets with popular AI tools. By streamlining data access, transportation companies can leverage advanced analytics and conversational AI to monitor and optimize their vehicle fleets more efficiently without complex technical overhead.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/samsara-connects-fleet-data-with-chatgpt-claude-and-other-ai-tools"
-  },
-  {
-    "headline": "FBI Warns of Cyber-Enabled Cargo Theft Threats",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "Federal law enforcement authorities have issued warnings regarding sophisticated digital schemes targeting freight transport networks. According to investigators, criminal networks are increasingly utilizing digital methods to identify high-value shipments prior to physical pickup, placing millions of dollars in goods at risk. This evolving trend highlights vulnerabilities in supply chain security and digital logistics operations, prompting agencies to advise heightened vigilance and advanced verification protocols across transportation and shipping sectors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fbis-memphis-cargo-theft-task-force-warns-cyber-schemes-put-millions-in-freight-at-risk"
-  },
-  {
-    "headline": "Coretura Integrates Vector-QNX Platform for Commercial Vehicles",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "manufacturing",
-    "date": "2026-09-25",
-    "summary": "Coretura has chosen the Alloy Kore platform, created jointly by Vector and QNX, to serve as the core software infrastructure for its high-performance computing architecture in commercial vehicles. This integration aims to streamline digital systems and enhance operational capabilities within commercial transport platforms, supporting advanced computational requirements for modern fleet operations and vehicle manufacturing frameworks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/coretura-selects-vector-qnx-software-for-commercial-vehicle-platform"
-  },
-  {
-    "headline": "Lufthansa Cargo Suspends Mumbai Freighter Flights",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "Lufthansa Cargo has temporarily suspended all dedicated freighter flights to Mumbai airport as a direct result of severe operational congestion at the facility. The temporary halt aims to mitigate delays and schedule disruptions caused by the bottleneck. The carrier intends to resume regular all-cargo operations once conditions at the Indian airport stabilize. This logistical disruption affects air freight capacity on the trade route, highlighting ongoing infrastructure challenges at major regional aviation hubs.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/lufthansa-cargo-pauses-all-cargo-flights-to-mumbai-over-congestion"
-  },
-  {
-    "headline": "Crude Oil Trader Buys Tankers as Charter Rates Hit Record Highs",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "Escalating charter rates reaching up to one million dollars per day and severely constrained vessel capacity have driven a major crude oil trading company to shift its operational strategy. Instead of continuing to lease maritime transport at unprecedented costs, the enterprise has chosen to acquire its own fleet of tankers. This move highlights the extreme pricing pressures and logistical bottlenecks currently impacting the global maritime freight and energy transportation sectors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/as-charter-rates-soar-to-1m-a-day-crude-oil-trader-pivots-to-buying-ships"
-  },
-  {
-    "headline": "Tesla Opens Dedicated Facility for High-Volume Semi Production",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-25",
-    "summary": "Tesla recently marked the official opening of its massive manufacturing facility dedicated to heavy-duty electric trucks in Nevada. Spanning a significant footprint next to an existing factory, the site is designed to scale up output for commercial fleet customers. Although initial assembly line activity began earlier in the year, this dedicated plant represents a major milestone in ramping up production volumes for zero-emission freight vehicles in the North American market.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tesla-marked-the-start-of-high-volume-semi-production-and-the-engineering-story-sits-underneath-the-cab"
   }
 ]
