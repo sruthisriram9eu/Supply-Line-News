@@ -1,5 +1,15 @@
 [
   {
+    "headline": "US-Mexico Border Visa Revocations Spark Freight Capacity Crisis",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-13",
+    "summary": "Cross-border logistics operations are experiencing severe disruptions as authorities revoke thousands of visas for Mexican commercial truck drivers. This sudden reduction in available drivers has driven up freight rates and increased load rejections across both southern and northern North American border crossings. Industry analysts warn that these structural capacity constraints will likely persist for several years, creating ongoing challenges for regional supply chain networks and international freight management.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/25000-drivers-lost-us-mexico-border-crisis-explained"
+  },
+  {
     "headline": "Panama Canal Disruptions Redirect Cargo to Port of LA",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Tesla recently marked the official opening of its massive manufacturing facility dedicated to heavy-duty electric trucks in Nevada. Spanning a significant footprint next to an existing factory, the site is designed to scale up output for commercial fleet customers. Although initial assembly line activity began earlier in the year, this dedicated plant represents a major milestone in ramping up production volumes for zero-emission freight vehicles in the North American market.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/tesla-marked-the-start-of-high-volume-semi-production-and-the-engineering-story-sits-underneath-the-cab"
-  },
-  {
-    "headline": "USPS Bears Burden of Unclaimed E-Commerce Returns",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "An inspector general report reveals that online merchants are leveraging the United States Postal Service to abandon undelivered customer orders. Instead of paying return shipping fees, these retailers allow the postal service to absorb the costs of handling and disposing of the unclaimed parcels. This practice creates significant financial strain for the agency and leaves consumers with little hope of recovering their missing items.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/e-commerce-shippers-exploit-usps-to-dispose-of-undelivered-packages"
   }
 ]
