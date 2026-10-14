@@ -1,5 +1,165 @@
 [
   {
+    "headline": "Best Buy Tests Electric Yard Switchers at California Facilities",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-14",
+    "summary": "Electronics retailer Best Buy has introduced battery-powered yard switchers at its distribution facilities in California. This trial aims to evaluate the performance and potential of electric heavy-duty vehicles in reducing carbon emissions. The company will assess the operational effectiveness of these units to determine if fleet electrification should be expanded to other distribution centers and supply chain facilities across its network in the future.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/best-buy-pilots-battery-powered-vehicles-at-california-distribution-sites/832802/"
+  },
+  {
+    "headline": "CBP Considers Earlier Filing Deadlines for Low-Cost Imports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-14",
+    "summary": "U.S. customs authorities are reviewing proposed rule changes to require earlier data submissions for low-value shipments and postal cargo. While the agency expects these adjustments to enhance overall trade compliance, industry observers warn that the shift could create operational challenges, including potential mail network capacity constraints and elevated freight expenses for e-commerce operators.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/"
+  },
+  {
+    "headline": "Yum! Brands strengthens supplier ties to build resilience",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-14",
+    "summary": "Yum! Brands is enhancing its supplier network to better withstand operational disruptions. According to the company's chief supply chain officer, this approach focuses on cultivating flexible partnerships capable of rapidly adapting to unforeseen market challenges. By fostering closer collaboration with vendors, the restaurant operator aims to maintain business continuity and secure steady inventory flows across its global restaurant brands despite ongoing supply chain volatility.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/why-yum-brands-is-deepening-supplier-relationships/832944/"
+  },
+  {
+    "headline": "Comparing US Manufacturing Incentives Across Administrations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-14",
+    "summary": "Recent Department of Commerce findings highlight shifting strategies regarding domestic manufacturing incentives between the Trump and Biden administrations. While both rely on trade tariffs, current approaches show a distinct divergence toward sector-specific industrial support compared to previous broad funding mechanisms. These evolving federal policy tools continue to shape long-term industrial planning, domestic sourcing strategies, and the broader competitive landscape for North American supply chains.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/has-washingtons-approach-to-manufacturing-incentives-really-changed/832121/"
+  },
+  {
+    "headline": "Houthi Attacks Threaten Red Sea Shipping Amid Softening Rates",
+    "continent": "Middle East",
+    "country": "Saudi Arabia",
+    "category": "international_relations",
+    "date": "2026-10-14",
+    "summary": "Recent attacks targeting infrastructure have introduced fresh geopolitical hazards for maritime freight operators navigating the Red Sea corridor. This volatility emerges just as ocean container shipping rates begin to soften, creating uncertainty for carriers and shippers alike. Industry stakeholders are assessing potential disruptions to crucial trade routes, which could complicate upcoming long-term ocean freight contract negotiations leading up to 2027.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/houthi-attacks-add-new-geopolitical-risk-to-softening-container-rates"
+  },
+  {
+    "headline": "Volvo launches 540-hp VNX heavy-duty truck model",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-14",
+    "summary": "Volvo has expanded its commercial vehicle lineup by introducing the VNX vocational truck, equipped with a 540-horsepower D13 engine compliant with upcoming emissions regulations. The new vehicle utilizes the same structural platform as the VNL and VNR series, which stems from a multi-billion dollar engineering investment program. The truck is designed to handle demanding heavy-haul applications while meeting updated environmental standards for upcoming model years.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/volvo-vnx-vocational-truck-launch"
+  },
+  {
+    "headline": "Freight Broker Sues Rival Over Alleged Customer Theft and Kickbacks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Edge Logistics has filed a lawsuit against Freight Tec Management Group and four former workers. The legal action accuses the defendants of orchestrating a deliberate plan to misappropriate confidential data, steer clients away, and provide kickbacks financed through artificially inflated transportation rates.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-broker-alleges-customer-theft-kickbacks-in-lawsuit-against-rival"
+  },
+  {
+    "headline": "UPS Shifts Strategy Toward Premium Services Amid Strike Risks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "United Parcel Service is shifting its operational strategy to prioritize premium service levels rather than focusing primarily on high parcel volume. This strategic adjustment comes as the company navigates potential labor disruptions, specifically preparing for a possible strike by the Teamsters union. Analysts and industry observers are closely monitoring whether this pivot will successfully protect profit margins during labor negotiations or introduce unforeseen operational vulnerabilities for the major freight and logistics carrier.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/is-ups-parcel-pivot-a-strategic-winner-or-a-trojan-horse"
+  },
+  {
+    "headline": "Nebraska Sheriff Deputies Recover Stolen $250K Copper Shipment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Local law enforcement in Nebraska successfully intercepted and recovered a stolen shipment of copper valued at a quarter of a million dollars. The truck was halted near Lincoln after traveling approximately fifty miles beyond its intended delivery point in Iowa. Authorities discovered missing security protocols, mismatched carrier documentation, and dual identification cards during the vehicle stop, highlighting ongoing vulnerabilities in cargo security and freight transit safety.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/nebraska-deputies-recover-250k-stolen-copper-load-50-miles-past-iowa-destination"
+  },
+  {
+    "headline": "Less-Than-Truckload Rates Reach Record Highs in Q3",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Recent data from AFS Logistics and TD Cowen indicates that less-than-truckload freight shipping rates reached record levels during the third quarter. Market analysts project that these pricing pressures will continue to intensify, driving rates even higher as the fourth quarter concludes. This trend reflects ongoing cost adjustments within the domestic freight and transportation sector, impacting shippers and carriers alike as they navigate shifting market dynamics and capacity constraints heading into the end of the year.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ltl-rates-hit-new-high-in-q3-moving-higher-in-q4"
+  },
+  {
+    "headline": "Parcel delivery costs near record levels due to mounting fees",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Major parcel carriers like FedEx and UPS are increasingly utilizing additional fees as a primary revenue driver rather than a temporary solution for unexpected operational expenses. This shift has pushed shipping costs for businesses and consumers close to historical peaks. The continuous accumulation of supplementary charges is transforming how parcel delivery pricing is structured across the industry, impacting overall logistics expenditures for shippers relying on major carrier networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/parcel-shipping-costs-approach-record-high-as-extra-charges-stack-up"
+  },
+  {
+    "headline": "DP World Appoints New CEO for Americas Logistics Operations",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Port and logistics operator DP World has named Morten Johansen to lead its Americas division as chief executive officer. Johansen takes over the regional leadership role from Brian Enright, assuming responsibility for managing the company's maritime terminals, shipping infrastructure, and supply chain network spanning North America, South America, and the Caribbean.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-chief-for-dp-world-americas"
+  },
+  {
+    "headline": "Philadelphia Port Launches $837M Expansion for New Berth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-14",
+    "summary": "PhilaPort is undertaking a massive nearly one billion dollar public-private investment project to construct its first new vessel berth in half a century. This capital expenditure represents the port facility's largest infrastructure enhancement to date, aiming to significantly boost regional shipping capacity and cargo handling capabilities along the mid-Atlantic maritime corridor, supporting long-term regional freight and maritime supply chain growth.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/philadelphia-ports-sets-837-million-expansion-first-new-berth-in-50-years"
+  },
+  {
+    "headline": "Missile attacks in Strait of Hormuz sink one container ship, damage another",
+    "continent": "Middle East",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Two container ships operated by Global Feeder Shipping were targeted by missile strikes in the Strait of Hormuz within a 24-hour window. The vessel GFS Pride suffered severe damage and a fire before sinking, though the entire crew was safely evacuated without injuries. A second ship, the GFS Giselle, also sustained hull damage during the incidents. These attacks threaten vital maritime logistics routes in the region, prompting heightened safety concerns and potential disruptions for container shipping operations passing through the critical waterway.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gfs-ship-sinks-after-missile-attack-second-ship-sustains-damage/"
+  },
+  {
+    "headline": "Cyber Extortion Group Threatens 38 Global Shipping and Port Entities",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "An extortion group named n0n has published the names of 38 international organizations operating within the maritime, logistics, and port sectors on its dark-web site. The targets span 18 countries and include container terminals, shipping operators, and logistics technology providers. A cybersecurity firm identified the simultaneous data leak threat, though none of the affected companies have publicly acknowledged a security breach at this time. The incident highlights ongoing digital vulnerabilities across critical global transport infrastructure.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cyber-crime-group-hits-38-shipping-and-port-groups-with-date-leak-threat/"
+  },
+  {
+    "headline": "Gemini Service Relaunch Threatens Khor Fakkan Port Congestion",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "The upcoming relaunch of the Gemini ocean shipping network by Hapag-Lloyd and Maersk is expected to worsen vessel congestion at the port of Khor Fakkan. The revised trade lane service, connecting the Far East with the Middle East, redirected its port calls away from Jebel Ali to Khor Fakkan. Consequently, the sudden surge in maritime traffic is straining the facility's operational capacity, raising concerns about potential delays and bottlenecks for cargo movement in the region as carriers attempt to restore direct ocean links.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gemini-relaunch-likely-to-add-to-congestion-pressure-at-khor-fakkan/"
+  },
+  {
     "headline": "Pilot and Tesla Launch First Heavy-Duty EV Megacharger",
     "continent": "North America",
     "country": "United States",
@@ -48,6 +208,16 @@
     "summary": "The cybercriminal group Direwolf recently claimed responsibility for attacks against two key transport nodes within a short timeframe. Michigan-based finished-vehicle logistics provider Precision Vehicle Logistics and Malaysia's Port of Tanjung Pelepas were both added to the threat group's list of victims. These incidents highlight growing digital vulnerabilities across international freight networks and marine terminals, prompting increased vigilance among cargo shippers and supply chain operators regarding potential disruptions to vehicle distribution and port handling capabilities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/direwolf-cyber-threat-under-the-radar/"
+  },
+  {
+    "headline": "UPS Strategic Pivot Away From Low-Margin E-Commerce",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-13",
+    "summary": "United Parcel Service is shifting its operational focus away from low-yield business-to-consumer parcel delivery to concentrate on high-value sectors such as healthcare, automotive, and business-to-business distribution. This realignment involves reducing reliance on major e-commerce accounts to navigate intensifying market competition and margin pressures. Industry analysts are debating whether this long-term strategy will successfully improve profitability or leave vulnerable gaps in the carrier's final-mile distribution network against lower-cost rivals.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/freightwaves-is-ups-parcel-pivot-a-strategic-winner-or-a-trojan-horse/"
   },
   {
     "headline": "US-Mexico Border Visa Revocations Spark Freight Capacity Crisis",
@@ -2828,175 +2998,5 @@
     "summary": "Container shipping prices on routes from China to India have experienced significant upward pressure due to robust import demand, severely straining available vessel capacity. Average spot rates for shipments originating in Shanghai have risen substantially since late August, leading to sharp month-on-month increases across multiple destination ports on the intra-Asia tradelane. Market indicators show that spot prices for standard twenty-foot and forty-foot equipment have surged as carriers navigate sustained high volumes of bookings.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/china-india-box-rates-double-as-import-demand-strains-vessel-space/"
-  },
-  {
-    "headline": "US and China Extend Port Fee Truce to January",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-09-28",
-    "summary": "Washington and Beijing have extended their trade truce to January 2027, maintaining the suspension of retaliatory port fees between the two nations. This two-month extension provides temporary relief for ocean shippers and global supply chains ahead of the upcoming Chinese New Year period. However, it creates a new critical deadline for maritime transport operations and international trade negotiations as stakeholders await a more permanent resolution.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/two-more-months-of-truce-shippers-get-a-december-not-a-deal/"
-  },
-  {
-    "headline": "Cosco Uses Container Ships to Bypass Car-Carrier Shortages",
-    "continent": "South America",
-    "country": "Brazil",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Cosco Shipping Specialized Carriers has initiated a novel transport method to deliver electric vehicles from China to South America. Facing a severe deficit in traditional car-carrying vessels alongside surging regional demand, the carrier is utilizing standard frame containers loaded at a Chinese port to transport automobiles. The inaugural shipment successfully moved over fourteen hundred vehicles, bypassing maritime logistics bottlenecks to maintain export volume into Brazil, which has emerged as a leading destination for Chinese automotive manufacturers.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/cosco-finds-a-way-round-car-carrier-shortage-to-get-byds-to-brazil/"
-  },
-  {
-    "headline": "Asian Port Disruptions and Typhoons Tie Up 3 Million TEU of Box Capacity",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Severe weather events and operational bottlenecks at Asian ports have removed roughly eight and a half percent of the worldwide container ship fleet from active service. This disruption amounts to three million TEU of tied-up capacity, which is comparable to the size of a top-tier global shipping carrier. Consequently, global schedule reliability dropped under fifty percent following consecutive monthly declines, severely impacting maritime logistics and vessel availability across international trade routes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/delays-mount-as-port-disruption-in-asia-ties-up-3m-teu-of-box-capacity/"
-  },
-  {
-    "headline": "IRS Announces Updated Per Diem Rates for Freight Operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-27",
-    "summary": "The Internal Revenue Service has announced upcoming adjustments to its per diem reimbursement rates, introducing stability for certain calculation methods while increasing rates for others. These rates impact transportation and logistics companies that compensate traveling personnel for lodging, meals, and incidental expenses. Fleet operators and supply chain businesses monitor these annual adjustments closely to manage operating expenses and maintain accurate tax compliance for driver and courier per diems.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/per-diem-one-approach-is-stable-other-is-higher"
-  },
-  {
-    "headline": "Aurora Targets 30,000 Autonomous Trucks by 2030",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-27",
-    "summary": "Autonomous vehicle developer Aurora aims to scale its fleet significantly, projecting a target of 200 driverless freight trucks by the close of 2026 and expanding to 30,000 vehicles by the end of the decade. Motor carriers like Werner are evaluating the technology, noting that financial viability depends on achieving operational scale to reduce upfront expenses. This deployment represents a major potential shift in long-haul freight transportation and logistics operations as the industry navigates automation economics.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/aurora-30000-driverless-trucks-2030-plan"
-  },
-  {
-    "headline": "Amazon streamlines cross-border sales for international sellers",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-27",
-    "summary": "Amazon is rolling out a new cross-border shipping solution that allows third-party merchants to reach eight separate countries through just a single inbound shipment. The initiative is designed to overcome barriers, as statistics show the vast majority of sellers currently operate in only one country. Along with simplified logistics, the program offers discounted storage rates and streamlined compliance testing to encourage broader international expansion and improve supply chain efficiency for platform vendors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/amazon-global-warehousing-distribution-eight-countries"
-  },
-  {
-    "headline": "Mexico Customs Proposal Sparks Border Delay Fears",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-09-27",
-    "summary": "A newly introduced customs proposal in Mexico is generating significant anxiety among supply chain operators and logistics professionals regarding potential trade bottlenecks. Industry stakeholders warn that the regulatory changes could trigger severe border congestion, hinder the efficient movement of freight, and lead to an increase in cargo seizures. This development threatens to disrupt cross-border supply chains and elevate operating costs for businesses relying on timely international shipments between the region and the United States.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-customs-proposal-raises-concerns-over-border-delays-cargo-seizures"
-  },
-  {
-    "headline": "Maritime Freight Rates Diverge on Trans-Pacific and Med Routes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-27",
-    "summary": "Ocean shipping costs are displaying a disconnect from underlying market demand, evidenced by sharply rising rates across trans-Pacific trade lanes while routes in the Mediterranean experience significant declines. This divergence highlights a shifting operational environment for maritime carriers and shippers alike, as traditional economic indicators fail to track current price movements. Industry analysts are closely monitoring these contrasting regional trends to understand how vessel deployment and network adjustments are influencing global maritime pricing structures.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trans-pacific-rates-soar-mediterranean-sinks-and-demand-doesnt-explain-either"
-  },
-  {
-    "headline": "Clarios Expands Battery Subscription Service to European Fleets",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-09-26",
-    "summary": "Battery manufacturer Clarios is launching its Battery Manager subscription program in the European market following an initial deployment on roughly 1,100 commercial vehicles. The service aims to help fleet operators minimize unexpected vehicle breakdowns and optimize operational expenditures by reducing annual battery-related expenses by an estimated five hundred dollars per truck. This offering introduces predictive monitoring and management tools designed to enhance maintenance planning and extend the working life of heavy-duty vehicle power systems across European transport operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/clarios-battery-manager-europe-fleets"
-  },
-  {
-    "headline": "Lawsuit accuses freight brokers C.H. Robinson and TQL of RICO violations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-26",
-    "summary": "A recently filed legal complaint targets prominent freight brokerages C.H. Robinson and TQL, alleging violations under the Racketeer Influenced and Corrupt Organizations Act. The litigation introduces a novel legal strategy for addressing disputes within the freight transportation sector. The outcome of this case could establish significant legal precedents regarding the operational and business practices of major third-party logistics providers across the domestic shipping industry.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-lawsuit-approach-accusing-c-h-robinson-tql-of-rico-violations"
-  },
-  {
-    "headline": "Major Food Brands Outline Supply Chain Cost and Freight Strategies",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-09-25",
-    "summary": "During a recent financial industry conference, major food production companies detailed their operational adjustments to manage volatile shipping rates, enhance demand predictability, and reduce overall expenses. Industry leaders from prominent consumer goods organizations shared insights on streamlining their operational networks and mitigating macroeconomic pressures affecting inventory management and goods movement. These discussions highlighted how companies are continuously adapting their distribution and sourcing practices to maintain financial resilience in a fluctuating market environment.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/6-food-manufacturers-talk-supply-chain-tactics/831214/"
-  },
-  {
-    "headline": "Lawsuit highlights carrier vetting flaws in New Mexico crash",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "A legal dispute in New Mexico reveals systemic gaps in carrier qualification processes after a serious collision involving a commercial truck pulling an Amazon trailer. The motor carrier had previously lost its operating authority, managed to resume operations, and accumulated several safety infractions prior to the incident that left three individuals injured. The ongoing litigation focuses heavily on the adequacy of written oversight protocols and compliance enforcement when evaluating third-party logistics and trucking partners before dispatching loads.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/interrupted-authority-and-written-vetting-rules-at-center-of-new-mexico-crash-lawsuit"
-  },
-  {
-    "headline": "Hapag-Lloyd adjusts Zim acquisition terms amid regulatory hurdles",
-    "continent": "Asia",
-    "country": "Israel",
-    "category": "international_relations",
-    "date": "2026-09-25",
-    "summary": "Hapag-Lloyd and its investment partner have updated the conditions of their multi-billion dollar buyout proposal for Zim. This adjustment comes as regulatory bodies in Israel continue to evaluate the transaction, raising questions about whether the necessary government approvals will be granted for the maritime transport merger to proceed.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyd-revises-zim-offer-as-israeli-approval-concerns-persist"
-  },
-  {
-    "headline": "USPS Facility Upgrades Trigger Package Delivery Delays",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-25",
-    "summary": "The United States Postal Service has issued alerts regarding temporary shipping delays affecting facilities in Indianapolis and Louisville. These disruptions stem from the ongoing installation of advanced sorting machinery designed to modernize operations. While the infrastructure project is expected to cause short-term slowdowns in package processing and distribution, postal leadership maintains that the enhancements will ultimately improve fulfillment capacity and efficiency ahead of the high-volume holiday peak season.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/usps-warns-of-indianapolis-louisville-delays-due-to-facility-upgrades/831390/"
-  },
-  {
-    "headline": "Lego Invests $400M in Mexico Warehouse and Packing Expansion",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "storage_distribution",
-    "date": "2026-09-25",
-    "summary": "The toy manufacturer is committing four hundred million dollars to expand storage facilities and packaging operations at its production site in Mexico. This strategic capital injection aims to bolster the company's regional fulfillment network and improve product distribution capabilities throughout the Americas. By increasing local storage and preparation capacity, the enterprise seeks to enhance operational resilience and better serve customer demand across the Western Hemisphere.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/lego-to-spend-400m-to-add-warehouse-space-at-mexico-plant/831302/"
-  },
-  {
-    "headline": "Shippers Pivot to Inland Transit to De-Risk Supply Chains",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "Supply chain operators are increasingly utilizing inland routing strategies to mitigate vulnerabilities tied to congested coastal gateways. Industry leaders note that alternative interior transit corridors provide greater reliability and operational stability as businesses look to diversify their distribution networks away from heavily congested maritime hubs. This shift highlights a growing industry focus on network resilience and proactive risk management in freight movement.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/shippers-are-exploring-port-to-inland-transit-to-de-risk-supply-chains/831261/"
-  },
-  {
-    "headline": "Samsara Integrates Fleet Data with Leading AI Models",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-25",
-    "summary": "Samsara has introduced a new Model Context Protocol that enables trucking operators to integrate live fleet information directly into external artificial intelligence platforms. This solution eliminates the necessity for carriers to develop bespoke custom integrations to connect their operational datasets with popular AI tools. By streamlining data access, transportation companies can leverage advanced analytics and conversational AI to monitor and optimize their vehicle fleets more efficiently without complex technical overhead.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/samsara-connects-fleet-data-with-chatgpt-claude-and-other-ai-tools"
   }
 ]
