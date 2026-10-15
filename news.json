@@ -1,5 +1,85 @@
 [
   {
+    "headline": "UNFI tackles fuel cost surges with AI routing and hedging",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Wholesale food distributor United Natural Foods is mitigating the financial impact of rising diesel prices through strategic fuel hedging and the implementation of an artificial intelligence platform designed to optimize delivery routes. By leveraging advanced routing software, the enterprise reduces transportation mileage and fuel consumption, helping to stabilize operational costs within its distribution network amidst volatile energy markets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/"
+  },
+  {
+    "headline": "California Truckers Face Prolonged High Diesel Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Commercial vehicle operators in California continue to grapple with fuel expenses exceeding eight dollars per gallon. Industry experts warn that these elevated operational costs are likely to persist well into the upcoming year, placing sustained financial pressure on freight carriers and supply chain networks operating within the region. In response to the ongoing burden, transport operators are actively seeking government and industry relief measures to mitigate the severe economic impact on their day-to-day operations and freight distribution capabilities.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/"
+  },
+  {
+    "headline": "GlobalFoundries Expands NY Semiconductor Production",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-15",
+    "summary": "GlobalFoundries is investing 21 billion dollars to construct new semiconductor fabrication facilities in New York. This multibillion-dollar initiative stems from a collaborative trade agreement between the United States and Japan aimed at bolstering domestic microchip production. The project is designed to fortify critical industrial supply chains and address the rising component demands of the automotive and industrial sectors.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/"
+  },
+  {
+    "headline": "Descartes Unveils Multi-Source Freight Tracking Feature",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Descartes has introduced a new capability to its MacroPoint platform that combines electronic logging device data, trailer GPS tracking, and driver mobile applications into a single monitoring process. This multi-source approach aims to eliminate blind spots in transit tracking, improve operational communication with drivers, and detect potential security or fraudulent risks by verifying shipment locations across multiple data streams simultaneously, enhancing overall supply chain oversight.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-visibility-gets-a-second-set-of-eyes"
+  },
+  {
+    "headline": "Fleetworthy Expands Expedited Electronic Inspection Tool to Five States",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Compliance software provider Fleetworthy has rolled out its Expedited Inspection feature to four additional states, bringing its total footprint to five. The system streamlines roadside enforcement by digitally transmitting a commercial driver's electronic record of duty status file directly to law enforcement officials when a vehicle is pulled over. According to law enforcement feedback, this automated data transfer significantly reduces the time required to complete standard roadside inspections, saving approximately fifteen minutes per stop and improving overall efficiency for both drivers and inspectors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fleetworthy-expedited-inspection-five-states"
+  },
+  {
+    "headline": "Prologis Beats Q3 Expectations and Raises Development Outlook",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-15",
+    "summary": "Logistics real estate leader Prologis surpassed financial expectations for the third quarter, prompting the company to significantly elevate its future projections for new development starts. The positive performance reflects steady demand within the industrial warehouse sector, encouraging the operator to expand its construction pipeline further out into coming years as market conditions remain favorable for modern distribution facilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/prologis-tops-q3-estimates-raises-development-starts-forecast-again"
+  },
+  {
+    "headline": "FedEx Launches Digital Booking for European Pharma Cold Chain",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "FedEx has introduced a new digital platform designed to streamline the reservation process for temperature-controlled pharmaceutical cargo across Europe. The technology aims to improve efficiency and simplify logistics management for healthcare clients moving sensitive medical products throughout the region, addressing specific operational requirements for cold-chain transport networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-digitizes-booking-process-for-european-cold-chain-pharma-shipments"
+  },
+  {
+    "headline": "AP Møller Capital to Acquire Portek International from Mitsui",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-15",
+    "summary": "Investment firm AP Møller Capital has reached an agreement to purchase Portek International, a Singapore-based port operator, from Mitsui & Co. Portek currently manages seven terminal locations spanning multiple regions, including Southeast Asia, Europe, and Africa, while also providing specialized port engineering services. The transaction involves acquiring the entirety of the company and its workforce of approximately 1,400 employees, further expanding the buyer's global maritime infrastructure portfolio across key international shipping and logistics hubs.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ap-moller-capital-acquires-portek-international-from-mitsui/"
+  },
+  {
     "headline": "Volvo Targets Vocational Truck Market to Drive Growth",
     "continent": "North America",
     "country": "United States",
@@ -2918,85 +2998,5 @@
     "summary": "A recent television announcement by a US Treasury official stated that a trade truce between the United States and China had been extended by two months, moving the expiration date. However, industry observers attempting to verify the change found that formal administrative paperwork, such as official trade representative notices regarding port fee suspensions, had not been updated to reflect the new timeline. This discrepancy has left stakeholders seeking confirmation on whether the policy shift is officially binding.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/the-truce-was-extended-on-television-on-paper-it-still-ends-november-9/"
-  },
-  {
-    "headline": "LTL carriers report mixed freight volume results in August",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Mid-quarter updates from less-than-truckload operators indicate varying shipment trends across the freight sector during August. While specific shipping enterprises such as Saia and XPO registered positive growth in cargo volumes, several industry peers experienced downward adjustments in operational activity. These diverging figures highlight the fragmented demand environment currently facing North American freight transporters as organizations navigate mid-quarter shipping dynamics.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/shipment-fluctuations-vary-across-ltl-carriers-in-mid-q3-updates/831309/"
-  },
-  {
-    "headline": "US trade board weighs tariff relief for billions in imports",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-28",
-    "summary": "A government advisory panel has recommended reducing import duties on sixty billion dollars worth of consumer products, including toys and household items destined for the American market. While the trade board advanced the pathway for these exemptions, the administration has not yet disclosed specific tariff reduction percentages or established a timeline for when the changes might take effect.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831479/"
-  },
-  {
-    "headline": "Trimble Integrates AI Agents Across Four Transport Management Systems",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Technology provider Trimble has introduced artificial intelligence capabilities across four of its carrier transport management systems. By embedding these AI agents directly into existing platforms, the company aims to help carriers modernize their operational software and workflows without requiring complex and disruptive system migrations. This upgrade allows transport operators to adopt advanced automation while avoiding the traditional hurdles associated with migrating historical data and rebuilding software integrations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trimble-carrier-tms-modernization-ai-agents"
-  },
-  {
-    "headline": "Trade Groups Urge USTR to Extend China-Linked Ship Fee Pause",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-28",
-    "summary": "Major retail and trade associations are calling on the United States Trade Representative to prolong the suspension of port fees tied to Chinese maritime operations. Industry advocates argue that maintaining this freeze is essential for stabilizing market volatility and alleviating ongoing financial pressures associated with high freight rates. Supply chain stakeholders face persistent transportation cost burdens, and extending the pause would provide critical financial relief and operational predictability across the import sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/trade-groups-urge-ustr-to-extend-pause-on-china-linked-ship-fees/831387/"
-  },
-  {
-    "headline": "Leveraging Quantum Optimization for Supply Chain Resiliency",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-09-28",
-    "summary": "Organizations facing increasingly complex operating environments and frequent disruptions are turning to quantum optimization to manage intricate networks of variables and operational constraints. This advanced computational approach aims to enhance decision-making capabilities within supply chain networks, providing a method to navigate constant change and improve overall systemic adaptability. By processing vast amounts of data more efficiently, companies can potentially address widespread logistical challenges and strengthen their long-term operational resilience against unforeseen market disruptions.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/spons/how-supply-chains-can-achieve-resiliency-with-quantum-optimization/831267/"
-  },
-  {
-    "headline": "Trimble Weighs Transportation Unit Sale Amid AI Rollout",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Technology provider Trimble is actively evaluating strategic alternatives for its freight transportation and logistics division, including a potential sale. Simultaneously, the company is maintaining capital investment in artificial intelligence capabilities tailored for commercial fleet operators, aiming to enhance operational efficiency and automated decision-making processes for its transportation customer base as it reviews its overall portfolio strategy.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trimble-keeps-freight-business-sale-on-the-table-while-unveiling-new-ai-tools"
-  },
-  {
-    "headline": "Freight Distress Report: Logistics and Manufacturing Cuts Threaten Jobs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "A recent industry report indicates that an upcoming wave of facility closures and workforce reductions will impact nearly 1,850 positions. The cuts span multiple operational sectors, including delivery networks, third-party logistics, food manufacturing, and packaging facilities. This downturn highlights ongoing economic pressures within the industrial and freight sectors, forcing companies to scale back their operational footprints and reduce headcounts to maintain stability amid tightening market conditions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freight-distress-report-logistics-manufacturing-cuts-put-1850-jobs-on-chopping-block"
-  },
-  {
-    "headline": "Suez Canal Routing Cuts India-Savannah Transit Times by Two Weeks",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Major ocean carriers are rerouting their shipping services between India and the Port of Savannah back through the Suez Canal. This operational shift avoids longer alternative pathways and successfully accelerates transit durations by ten to fourteen days. The adjustment improves shipping efficiency for transcontinental cargo movement on this key trade lane.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/suez-return-speeds-up-savannah-india-service-by-10-14-days"
   }
 ]
