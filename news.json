@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Volvo Targets Vocational Truck Market to Drive Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-15",
+    "summary": "Volvo aims to capture a fifteen percent market share by expanding its presence in the vocational truck sector. Driven by increased infrastructure spending and a surge in data center construction, the manufacturer is targeting heavy-duty segments it previously missed. The strategy focuses on capturing strong domestic demand for specialized commercial vehicles used in heavy construction and industrial applications.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/volvo-vocational-market-share-voorhoeve"
+  },
+  {
+    "headline": "Westport Fuel Systems rebrands to Aetherion Technologies",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-15",
+    "summary": "Westport Fuel Systems has officially changed its name to Aetherion Technologies following a strategic shift. According to the chief executive, the rebranding reflects a focused operational approach centered on HPDI technology and the Cespira joint venture with Volvo. The company is positioning itself to support compressed natural gas applications within the United States long-haul transportation market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/westport-aetherion-name-change-cng-hpdi"
+  },
+  {
+    "headline": "UK Ports Deny Volume Growth Is Driven by EU ETS Avoidance",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "international_relations",
+    "date": "2026-10-15",
+    "summary": "Representatives from the British Ports Association have dismissed claims that increased cargo volumes at major UK gateways are the result of shipping lines rerouting vessels to bypass European Union emissions trading scheme fees. The response comes amid concerns raised by continental European bodies regarding potential carbon leakage and cargo diversion toward nearby non-EU transhipment facilities. Industry stakeholders argue that the traffic shifts stem from standard commercial and operational factors rather than regulatory arbitrage.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/uk-port-volume-growth-not-due-to-eu-shippers-avoiding-ets-says-bpa/"
+  },
+  {
+    "headline": "Low Rhine River levels strain European freight networks",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Unseasonably shallow water levels along the Rhine River are severely restricting container barge capacities around Duisburg and upstream areas, forcing shippers to divert freight toward already overburdened road and rail networks. This modal shift is creating mounting operational pressure at major European container terminals in Antwerp and Rotterdam. Industry stakeholders report that some upstream vessel services have been suspended entirely as navigational drafts drop below critical thresholds, compounding existing congestion and capacity constraints across alternative regional transportation corridors.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/low-rhine-water-level-driving-barge-cargo-to-capacity-strained-road-and-rail/"
+  },
+  {
+    "headline": "Ascent COO Criticizes Major Freight Forwarders on Service Quality",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Ascent Global Logistics has appointed Gal Dayan, a former executive from Apple and UPS, as its new chief operating officer. Following his appointment, Dayan criticized large freight forwarders for failing to meet the customer service standards promoted in their marketing materials. He contends that specialized logistics providers are better positioned to focus on and invest in strong relationships with shippers compared to heavily consolidated legacy forwarders.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/big-forwarders-are-failing-shippers-on-service-says-ascents-new-coo/"
+  },
+  {
+    "headline": "LATAM Cargo Reports Major Surge in Brazil Pharmaceutical Air Freight",
+    "continent": "South America",
+    "country": "Brazil",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "LATAM Cargo experienced a significant expansion in pharmaceutical air freight volumes connecting Europe and Brazil during the opening seven months of the year. This dramatic growth was primarily propelled by escalating requirements for GLP-1 therapeutic drugs. Despite this regional surge in healthcare shipments, the broader international air freight sector remained relatively stagnant overall during the same comparative timeframe.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/pharma-traffic-on-the-rise-for-latam-cargo-but-global-market-stays-flat/"
+  },
+  {
+    "headline": "US Container Ports Face Persistent Congestion and Drayage Constraints",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "American container gateways are experiencing sustained high import volumes without the usual post-peak slowdown. This surge has severely strained drayage capacity, creating critical bottlenecks at major ports such as Houston and hindering inland rail ramp operations. Logistics and trucking providers identify constrained drayage networks as the primary limitation to regional cargo growth. As freight volumes continue their upward trajectory, terminal operators and transport providers face ongoing operational challenges in moving containers efficiently through domestic supply chain corridors.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/"
+  },
+  {
     "headline": "UPS Happy Returns Integrates with TikTok Shop",
     "continent": "North America",
     "country": "United States",
@@ -2928,75 +2998,5 @@
     "summary": "Major ocean carriers are rerouting their shipping services between India and the Port of Savannah back through the Suez Canal. This operational shift avoids longer alternative pathways and successfully accelerates transit durations by ten to fourteen days. The adjustment improves shipping efficiency for transcontinental cargo movement on this key trade lane.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/suez-return-speeds-up-savannah-india-service-by-10-14-days"
-  },
-  {
-    "headline": "AI Revolutionizes Freight Brokerage and Truck Booking",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Artificial intelligence tools are transforming freight negotiations by streamlining communication between carriers and brokers. Industry experts highlight how automated systems can drastically reduce the time spent booking truckloads, enabling carriers to interact with multiple brokers simultaneously via phone and email. This technological shift is increasingly accessible, impacting both large fleets and smaller operators by optimizing scheduling efficiency and accelerating daily logistics workflows across the freight transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/5-hours-to-book-a-truck-ai-is-coming-for-that"
-  },
-  {
-    "headline": "Puma partners with Maersk to open U.S. facilities to third parties",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-28",
-    "summary": "Athletic brand Puma has teamed up with shipping conglomerate Maersk to manage its highly automated distribution hubs located in the United States. Under the arrangement, the logistics partner will operate the facilities while also offering any excess warehousing capacity to outside companies. This initiative allows the brand to optimize its supply chain infrastructure footprint and leverage advanced fulfillment capabilities, creating shared logistical efficiencies within the domestic market.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/puma-opens-u-s-distribution-centers-to-third-parties"
-  },
-  {
-    "headline": "Airlink Founder Steve Smith Takes Helm at Airforwarders Association",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "The Airforwarders Association has selected Steve Smith as its new executive director, positioning the veteran leader in Washington to guide the organization. Smith brings extensive experience in emergency response logistics, having previously founded Airlink, a humanitarian organization that coordinates disaster relief transport. In his new role, he will oversee the association's efforts to represent and support freight forwarding professionals across the air cargo sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/airlink-founder-steve-smith-named-to-lead-airforwarders-association"
-  },
-  {
-    "headline": "US-China Maritime Port Fees Face Potential Delays",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-28",
-    "summary": "Recent discussions regarding trade truce extensions suggest that proposed port-entry fees for vessels linked to or constructed in China might be postponed. While the ongoing trade agreements continue to evolve, the omission of specific maritime vessel taxes in the latest updates indicates that implementation timelines for these levies remain uncertain as diplomatic talks between the two nations progress.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/no-mention-of-u-s-china-ship-taxes-in-trade-truce"
-  },
-  {
-    "headline": "Lowe's tests drone delivery for rapid fulfillment",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-28",
-    "summary": "Home improvement retailer Lowe's has initiated trials utilizing unmanned aerial vehicles to accelerate same-day fulfillment capabilities. The pilot program aims to evaluate the operational efficiency and speed of aerial delivery methods for customer orders. By exploring autonomous delivery technology, the company seeks to enhance its last-mile distribution network and meet growing consumer demand for rapid service.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/lowes-test-drives-drone-delivery"
-  },
-  {
-    "headline": "Family Farmers Oppose Proposed Rail Merger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Agricultural advocacy organizations have voiced strong opposition to a pending rail merger, pointing to historical precedent where consolidation led to increased shipping rates and degraded service reliability. Independent agricultural producers rely heavily on freight rail to transport grain and other commodities to domestic and international markets. Critics of the proposed transaction argue that reduced competition among rail carriers will harm rural economies and exacerbate logistical bottlenecks for agricultural supply chains.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/higher-rates-less-reliable-service-family-farmers-oppose-rail-merger"
-  },
-  {
-    "headline": "Airforwarders Association appoints Steve Smith as new CEO",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "The Airforwarders Association has selected Steve Smith to take over as its chief executive, succeeding Brandon Fried after a twenty-one-year tenure. Smith previously led the humanitarian logistics organization Airlink for over a decade, forging strategic alliances across the airline and logistics sectors, and also held commercial leadership positions within the aerospace industry. Fried will remain involved during the handover period to ensure a seamless transition of leadership for the freight forwarding association.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/steve-smith-takes-helm-at-airforwarders-association-as-brandon-fried-steps-down/"
   }
 ]
