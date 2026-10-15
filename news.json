@@ -1,5 +1,45 @@
 [
   {
+    "headline": "UPS Happy Returns Integrates with TikTok Shop",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-14",
+    "summary": "UPS has integrated its Happy Returns service into TikTok Shop, allowing retailers such as Pacsun and Everlane to streamline the returns process for customers. This rollout aims to help brands manage the high volume of merchandise sent back following the busy holiday shopping season. By incorporating this reverse logistics solution directly into the social commerce platform, merchants can offer a more efficient and convenient drop-off experience, ultimately reducing friction in post-purchase operations and improving overall consumer satisfaction.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ups-happy-returns-comes-to-tiktok-shop/832990/"
+  },
+  {
+    "headline": "Waabi Partners with Warrior Logistics for Texas Freight",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "Autonomous trucking developer Waabi has added Warrior Logistics to run routine customer shipments along its Dallas and Houston freight corridor. This partnership supports a significant surge in commercial load volumes on the route, which has increased by over 80 percent throughout the current year. The integration of Warrior Logistics highlights the expanding adoption of automated driving technology in commercial freight operations within the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/waabi-warrior-logistics-autonomous-freight-dallas-houston"
+  },
+  {
+    "headline": "US Rail Traffic Surges Due to Tight Trucking Capacity and High Fuel Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "United States railway operations are experiencing a significant volume increase across both intermodal and carload sectors, reflecting widespread growth throughout industrial markets. This upward trend is primarily propelled by constraints in the trucking industry alongside elevated diesel pricing, forcing shippers to shift freight modes. Industry observers are monitoring whether these elevated shipment volumes will persist as a long-term structural shift or remain a temporary market adjustment driven by current economic and transportation pressures.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/why-rail-is-booming-intermodal-carload-growth-explained"
+  },
+  {
+    "headline": "US Freight Tender Rejections Surge to 14% in October",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-14",
+    "summary": "The truckload rejection index climbed unexpectedly to 14 percent during October, deviating from typical seasonal patterns. Rather than being fueled by an increase in freight demand, this sudden spike stems from ongoing imbalances and tight capacity across the nation. Major logistics hubs, including Atlanta, Harrisburg, and Los Angeles, are experiencing notable operational disruptions. Industry analysts point to constrained carrier availability as the primary driver behind these elevated rejection rates, signaling tightening conditions within the domestic freight market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-market-alert-why-octobers-tender-rejections-hit-14-unexpectedly"
+  },
+  {
     "headline": "Best Buy Tests Electric Yard Switchers at California Facilities",
     "continent": "North America",
     "country": "United States",
@@ -2958,45 +2998,5 @@
     "summary": "The Airforwarders Association has selected Steve Smith to take over as its chief executive, succeeding Brandon Fried after a twenty-one-year tenure. Smith previously led the humanitarian logistics organization Airlink for over a decade, forging strategic alliances across the airline and logistics sectors, and also held commercial leadership positions within the aerospace industry. Fried will remain involved during the handover period to ensure a seamless transition of leadership for the freight forwarding association.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/steve-smith-takes-helm-at-airforwarders-association-as-brandon-fried-steps-down/"
-  },
-  {
-    "headline": "Bangladesh Seeks Private Investor for Pangaon Inland Container Terminal",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "category": "storage_distribution",
-    "date": "2026-09-28",
-    "summary": "The Chittagong Port Authority is initiating a tender for a private investor to construct and operate a secondary inland container terminal across a twenty-two-acre site adjacent to the existing Pangaon facility near Dhaka. The infrastructure project aims to expand barge transport capacity for containerized freight traveling between the capital and Chittagong Port, providing shippers with an alternative route to bypass severe traffic congestion on the primary highway connecting the two major economic hubs.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/port-seeks-private-investor-for-dhaka-river-box-terminal-expansion/"
-  },
-  {
-    "headline": "Gemini Partners Reroute Second Asia-Med Service Through Suez Canal",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Major ocean carriers Maersk and Hapag-Lloyd plan to send their shared Asia-Mediterranean shipping service back through the Suez Canal and Red Sea next month. This operational change represents the fourth mainline trade route that the Gemini alliance has shifted away from the longer African cape detour. The transition comes as competing carrier CMA attempts to stabilize declining market freight rates. The ongoing return of container vessels to the Egyptian waterway signals a gradual shift in carrier routing strategies amid shifting maritime security assessments and competitive rate pressures.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/geminis-second-asia-med-service-for-suez-as-cma-tries-to-prop-up-rates/"
-  },
-  {
-    "headline": "Trucking firms file racketeering lawsuit against major freight brokers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Six United States trucking companies have filed a racketeering lawsuit against major logistics brokers CH Robinson and Total Quality Logistics. The plaintiffs allege that these brokers secured freight contracts by utilizing non-compliant carriers to offer unmatchable pricing. One participating motor carrier reported substantial revenue losses affecting numerous customers as a direct result of these practices. The legal action seeks monetary damages to be established during trial proceedings, including provisions for treble damages under applicable laws.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ch-robinson-in-hot-water-again-as-truckers-bring-racketeering-suit/"
-  },
-  {
-    "headline": "China-India Container Freight Rates Double Amid High Demand",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-28",
-    "summary": "Container shipping prices on routes from China to India have experienced significant upward pressure due to robust import demand, severely straining available vessel capacity. Average spot rates for shipments originating in Shanghai have risen substantially since late August, leading to sharp month-on-month increases across multiple destination ports on the intra-Asia tradelane. Market indicators show that spot prices for standard twenty-foot and forty-foot equipment have surged as carriers navigate sustained high volumes of bookings.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/china-india-box-rates-double-as-import-demand-strains-vessel-space/"
   }
 ]
