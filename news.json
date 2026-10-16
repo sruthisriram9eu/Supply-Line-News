@@ -1,5 +1,95 @@
 [
   {
+    "headline": "FMC Proposes Fines and Import Restrictions on Spanish Ships",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-16",
+    "summary": "The Federal Maritime Commission has initiated a proposal to levy a $200,000 fee on every voyage conducted by Spanish-flagged vessels. Additionally, the regulatory agency intends to implement restrictions targeting specific goods originating from Spain. This regulatory action aims to address maritime trade imbalances or policy disputes involving the two nations, potentially impacting maritime shipping lanes, vessel scheduling, and bilateral trade flows between the United States and Europe.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fmc-proposes-fees-on-spanish-flagged-vessels-import-restrictions/833122/"
+  },
+  {
+    "headline": "Evos Secures $9M to Develop Industrial AI Workflow Automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-16",
+    "summary": "Industrial automation startup Evos has successfully raised $9 million in pre-seed funding to build artificial intelligence operators designed to learn workforce routines and execute digital tasks within legacy enterprise software. The technology is targeted at industrial and logistics operations, with early implementation demonstrating high-volume invoice auditing capabilities for a freight brokerage. The fresh capital will support further product development and expansion into the industrial sector, streamlining administrative back-office procedures through machine learning and automated workflow execution.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses"
+  },
+  {
+    "headline": "Tesla expands hiring at Nevada facility for electric truck production",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-16",
+    "summary": "Tesla is actively recruiting personnel for assembly, quality assurance, and service operations at its Nevada manufacturing complex. This workforce expansion supports rising commercial demand for its Class 8 electric semi-trucks, driven by commitments and procurement orders from major fleet operators and logistics alliances. The hiring push indicates scaling efforts to meet growing market interest in heavy-duty electric commercial vehicles as regional carriers shift toward sustainable transport options.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-nevada-hiring"
+  },
+  {
+    "headline": "New Free Digital Tool Launches for Truck Drivers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-16",
+    "summary": "An experienced commercial vehicle operator from Georgia has introduced a complimentary digital platform designed to assist freight transporters. The service integrates multiple resources onto a single interface, helping drivers locate available parking spaces, compare regional diesel costs, find roadside mechanical assistance, and access general operational support. This initiative aims to address common daily challenges faced by long-haul transportation professionals on the road.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/veteran-trucker-launches-free-parking-fuel-price-platform-for-drivers"
+  },
+  {
+    "headline": "Drug Ring Exploits Freight Carriers for Cocaine Shipment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-16",
+    "summary": "Federal authorities have charged 25 individuals following a major investigation named Operation Icebreaker, which uncovered a criminal enterprise utilizing unaware trucking firms to transport cocaine cross-country from California to Florida. Law enforcement confiscated over 45 kilograms of the illegal substance during the operation. According to investigators, the primary supplier allegedly coordinated shipments reaching up to 60 kilograms biweekly, highlighting significant security vulnerabilities and risks for the long-haul freight and transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/25-charged-after-drug-ring-used-unsuspecting-truckers-to-haul-cocaine-from-california-to-florida"
+  },
+  {
+    "headline": "US Intermodal Rail Volumes Surge by 10 Percent",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-16",
+    "summary": "Recent data from the United States indicates a strong upward trend in rail freight operations, with intermodal volumes expanding by ten percent in the latest reporting period. This growth highlights increased activity and demand within the country's rail transportation sector, reflecting ongoing momentum in domestic freight movement and intermodal shipping efficiency.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/intermodal-rail-better-by-10-in-latest-count"
+  },
+  {
+    "headline": "DHL Invests $450M in Eastern Europe Logistics",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-16",
+    "summary": "DHL Group has announced a substantial investment of $450 million directed toward expanding its logistics infrastructure across Central and Eastern Europe. This strategic funding initiative aims to enhance the company's regional operational capabilities, improve regional connectivity, and accommodate growing freight demands within the target markets. The capital injection highlights ongoing corporate efforts to strengthen regional supply chain networks and support broader economic growth throughout the affected territories.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dhl-earmarks-450m-for-eastern-europe-logistics-expansion"
+  },
+  {
+    "headline": "J.B. Hunt Reports Q3 Cost Pressures and Growth Pains",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-16",
+    "summary": "During the third quarter, transportation provider J.B. Hunt Transport Services encountered rising cost pressures and operational growing pains. Despite these financial hurdles, company leadership remains optimistic, characterizing the challenges as temporary disruptions rather than long-term obstacles on the path toward market recovery. Executives anticipate improved performance as the network adjusts to ongoing market shifts.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/j-b-hunt-experiences-growing-pains-in-q3"
+  },
+  {
+    "headline": "Ocean carriers absorb green transition expenses amidst shipper resistance",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "sustainability",
+    "date": "2026-10-16",
+    "summary": "Maritime transport operators are shouldering the financial responsibility for adopting alternative fuels and lower-emission ships. Industry representatives at a recent Singapore conference highlighted that customers and logistics intermediaries remain unwilling to pay premium rates for environmentally sustainable transportation services. This reluctance is particularly pronounced in price-sensitive regions, creating economic challenges for carriers attempting to modernize fleets and reduce their environmental impact without adequate financial support from supply chain partners.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/were-shouldering-cost-burden-of-green-transition-say-carriers/"
+  },
+  {
     "headline": "FedEx and UPS Peak Season Surcharges Drive Record Q4 Rates",
     "continent": "North America",
     "country": "United States",
@@ -88,6 +178,16 @@
     "summary": "Ocean carriers are reducing various surcharges and cancellation penalties for shipments originating in India as westbound cargo volumes experience a seasonal slowdown. Major operators, including Hapag-Lloyd, have significantly lowered booking cancellation fees in response to cooler market demand. During the preceding peak period, liners had raised these penalty fees to maximize profits amidst surging shipping volumes. This adjustment signals a shift toward a less congested freight market as shipping activity normalizes.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/ex-india-spot-rates-and-surcharges-ease-as-peak-comes-to-an-end/"
+  },
+  {
+    "headline": "R&R Trucking CEO Discloses $12.7M in Assets Amid Collapse",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "Chapter 11 bankruptcy disclosures reveal the personal financial standing of the chief executive officer for the collapsed R&R Family of Companies. The asset valuation document emerges as legal proceedings and litigation continue following the sudden cessation of operations by the major trucking enterprise. Court filings outline ongoing financial evaluations tied to the corporate failure, shedding light on the executive's holdings while creditors navigate the fallout from the logistics network's shutdown.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/rr-trucking-ceo-reports-12-7m-in-assets-after-company-collapse"
   },
   {
     "headline": "Unilever Focuses on Measurable ROI in Global Digital Twin Expansion",
@@ -2898,105 +2998,5 @@
     "summary": "Nairobi is transitioning from its conventional function as an export center primarily for flowers into a bidirectional logistics hub for East Africa. International freight carriers report rising volumes of inbound time-sensitive shipments, including pharmaceuticals, perishables, and ecommerce goods. Increased freighter operations highlight the region's expanding role in global supply chains, moving past traditional single-direction export flows to accommodate diverse commercial demands.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/nairobi-moves-beyond-flowers-as-inbound-ecommerce-surges/"
-  },
-  {
-    "headline": "Data-Centre Boom Fuels Air Cargo Growth and Imbalances",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Surging investments in data centres are shifting global trade dynamics and straining capacity within the air freight sector. High-tech equipment has emerged as the primary catalyst for air cargo expansion, surpassing Chinese e-commerce volumes during the first seven months of the year. While the broader international air freight market experienced single-digit year-on-year growth, high-tech shipment volumes surged significantly, exacerbating existing operational imbalances across worldwide transport networks.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/data-centre-boom-drives-air-cargo-growth-and-widens-imbalances/"
-  },
-  {
-    "headline": "Ross Invests $500M in New California Distribution Center",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-29",
-    "summary": "Off-price retailer Ross has announced plans to construct a massive distribution facility spanning 1.75 million square feet in California. Representing an investment of $500 million, the upcoming site is scheduled to begin construction in 2027 and will function as the company's tenth major distribution hub. This expansion is designed to support the retailer's growing fulfillment network and improve supply chain capacity for its store operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ross-plans-175m-square-foot-distribution-center-in-california/831523/"
-  },
-  {
-    "headline": "CPGs Address Rising Costs and Supply Chain Strategies",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-09-29",
-    "summary": "Executives from major consumer packaged goods companies recently addressed operational challenges during an industry conference. Representatives from Colgate-Palmolive and Kimberly-Clark highlighted ongoing financial pressures stemming from escalating materials and freight expenses. Meanwhile, Procter and Gamble outlined its next-generation supply chain modernization framework, detailing how technological upgrades and structural adjustments aim to enhance resilience and navigate current economic headwinds affecting global distribution and procurement networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/3-cpgs-discuss-automation-sourcing-and-logistics-risks/831400/"
-  },
-  {
-    "headline": "Major manufacturers announce U.S. facility investments and closures",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-29",
-    "summary": "Several major companies are restructuring their physical footprints across the United States through new investments and facility closures. Key developments include Eli Lilly breaking ground on a new site in Houston, alongside expansion projects announced by auto parts suppliers Hansae and Toyotetsu. Concurrently, organizations such as Amazon, U.S. Steel, and Pirelli are dedicating capital to upgrade their operational facilities. In contrast, Amy's Kitchen and other unnamed businesses are moving in the opposite direction by shuttering existing locations, highlighting ongoing adjustments to manufacturing and distribution footprints within the American industrial sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazon-us-steel-pirelli-and-others-make-facility-investments/831499/"
-  },
-  {
-    "headline": "Descartes Introduces AI Tool for Global Trade Data Analysis",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-09-29",
-    "summary": "Descartes Systems Group has integrated a conversational artificial intelligence agent into its Datamyne trade intelligence platform. This new feature enables supply chain professionals to query and evaluate international shipment metrics through standard conversational prompts, streamlining access to complex shipping records and trade intelligence. The capability is designed to simplify data retrieval and enhance market research efficiency for global logistics and trade operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/descartes-launches-ai-agent-for-global-trade-data-research"
-  },
-  {
-    "headline": "Flexport Introduces MCP Server Enabling AI Freight Booking",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-29",
-    "summary": "Digital freight network Flexport has rolled out a Model Context Protocol server that allows external artificial intelligence agents to book shipments directly. This new capability works alongside the company's proprietary internal autonomous agents, which reportedly manage millions of operational tasks annually. Additionally, the release incorporates upgraded customs processing capabilities and enhancements to the Atlas platform, marking a significant step toward automated supply chain transactions and agent-to-agent enterprise communication.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/flexport-mcp-server-ai-agents-freight-booking"
-  },
-  {
-    "headline": "Trump Visits Texas Peterbilt Plant to Promote Tariffs and U.S. Manufacturing",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-09-29",
-    "summary": "Former President Donald Trump is scheduled to tour a commercial vehicle manufacturing facility in Texas to highlight policy initiatives centered on tariffs and domestic production growth. The visit focuses on bolstering the industrial sector within the United States through trade restrictions and related economic strategies designed to support local factories.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trump-to-visit-texas-plant-to-tout-manufacturing-agenda"
-  },
-  {
-    "headline": "Arkansas Highway Police Seize $5.1M in Illicit Cargo During Truck Stops",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-29",
-    "summary": "During routine commercial vehicle inspections along Interstate 40 in Arkansas, state highway enforcement officers intercepted over 250 kilograms of cocaine, alongside methamphetamine and a stolen utility vehicle. The total estimated street value of the confiscated contraband reached approximately 5.1 million dollars. These enforcement actions highlight ongoing security and contraband screening challenges within regional freight transportation corridors, prompting increased vigilance among law enforcement agencies monitoring commercial motor carrier operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/arkansas-i-40-truck-inspections-uncover-5-1m-in-cocaine-plus-meth-and-stolen-utv"
-  },
-  {
-    "headline": "Electrolux Names Daniele Rossi New Chief Procurement Officer",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-09-29",
-    "summary": "The major home appliance manufacturer has appointed Daniele Rossi to direct its global sourcing operations. In this role, he will oversee supply chain relationships with direct-material suppliers, emphasizing collaborative efforts to innovate and develop sustainable product lines. The strategic move aims to strengthen the company's procurement framework and advance its environmental targets through closer partnerships within its upstream supply network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/electrolux-appoints-chief-procurement-officer/831536/"
-  },
-  {
-    "headline": "Nordstrom Expands Delivery Speeds and Weekend Operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-29",
-    "summary": "Department store chain Nordstrom is enhancing its fulfillment capabilities by targeting seven-day-a-week delivery services. As part of this broader supply chain strategy to accelerate customer shipping times, the company recently evaluated a same-day delivery trial in the Los Angeles market. Company leadership highlighted these operational advancements during a recent industry conference, reflecting a growing industry emphasis on faster, more flexible distribution options for retail consumers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/nordstrom-eyes-weekend-delivery-faster-shipping/831511/"
   }
 ]
