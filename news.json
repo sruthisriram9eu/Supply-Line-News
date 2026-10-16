@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Unilever Focuses on Measurable ROI in Global Digital Twin Expansion",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-10-15",
+    "summary": "Consumer products giant Unilever is scaling its digital twin technology across forty manufacturing facilities globally. The expansion emphasizes tangible performance improvements, standardized and repeatable operational procedures, and comprehensive training for the workforce. Rather than pursuing unproven technologies, the company is anchoring its digital transformation strategy on direct business value and operational efficiency at each production site.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/unilever-puts-business-results-first-in-factory-digital-twin-rollout/833011/"
+  },
+  {
+    "headline": "Federal Grants to Fund Over 2,400 New Truck Parking Spaces",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-15",
+    "summary": "The U.S. Department of Transportation is allocating financial support to construct over 2,400 new commercial vehicle parking spots across multiple states. This initiative aims to address the critical shortage of secure and accessible resting areas for long-haul drivers, which directly impacts highway safety, driver well-being, and freight movement efficiency throughout the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/federal-dot-grants-will-fund-more-than-2400-parking-spots"
+  },
+  {
     "headline": "UNFI tackles fuel cost surges with AI routing and hedging",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "Air cargo operations in Mumbai are facing severe disruptions due to simultaneous capacity constraints at the city's older airport and operational challenges at the newly opened Navi Mumbai International Airport. The facility operator has suspended dedicated freighter slots at the legacy location through June, prompting a mandatory shift in cargo traffic that has triggered widespread logistical bottlenecks. Supply chain stakeholders are currently struggling to navigate the transition amid infrastructure upgrades and ongoing teething issues at the new aviation hub.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/mumbai-airports-hit-by-congestion-as-freighter-services-switch-hubs/"
-  },
-  {
-    "headline": "Ocean carriers concentrate capacity at San Pedro Bay ports",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-29",
-    "summary": "Ocean carriers are increasingly focusing their capacity on the Southern California port complex of Los Angeles and Long Beach, driving record throughput volumes over the summer months. Conversely, other West Coast gateways, including the port of Oakland and the Northwest Seaport Alliance facilities in Seattle and Tacoma, are experiencing notable cargo slumps. This strategic concentration by carriers has significantly reduced routing alternatives for cargo owners seeking to bypass operational bottlenecks and mitigate supply chain disruptions across the West Coast import network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/carrier-focus-on-san-pedro-bay-ports-restricts-shipper-options/"
-  },
-  {
-    "headline": "US-China trade truce extension lacks official documentation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-29",
-    "summary": "A recent television announcement by a US Treasury official stated that a trade truce between the United States and China had been extended by two months, moving the expiration date. However, industry observers attempting to verify the change found that formal administrative paperwork, such as official trade representative notices regarding port fee suspensions, had not been updated to reflect the new timeline. This discrepancy has left stakeholders seeking confirmation on whether the policy shift is officially binding.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/the-truce-was-extended-on-television-on-paper-it-still-ends-november-9/"
   }
 ]
