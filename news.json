@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Texas Court Affirms Major Verdict Against C.H. Robinson",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-17",
+    "summary": "A Texas judge has officially upheld a significant legal judgment issued against third-party logistics provider C.H. Robinson. While details regarding the specific underlying incident and financial penalty were not immediately detailed in the affirmation, the court's decision maintains the substantial ruling. This development underscores ongoing legal liabilities and risk management challenges within the freight brokerage and transportation sector, where severe judicial outcomes continue to impact major industry operators.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson"
+  },
+  {
+    "headline": "Carrier Logistics and LSP44 Partner for LTL Tracking",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-16",
+    "summary": "Carrier Logistics has teamed up with LSP44 to introduce an automated application programming interface designed to streamline freight management. The new tool matches shipment descriptions, delivery points, and timeframes to identify less-than-truckload shipments when proper tracking numbers are absent or inaccurate. This technological integration aims to reduce manual tracking errors and improve operational visibility for logistics service providers dealing with incomplete freight documentation.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/carrier-logistics-lsp44-announce-partnership-to-automate-ltl-shipment-identification"
+  },
+  {
     "headline": "FMC Proposes Fines and Import Restrictions on Spanish Ships",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "CH Robinson has formally answered a racketeering lawsuit filed by multiple American trucking companies, firmly denying all allegations of wrongdoing. The logistics provider explained that the legal complaint misrepresents its standard carrier relationships and distorts prior testimony from a former staff member. Furthermore, the firm confirmed that all motor carriers operating under the Super Ego holding structure have been completely removed from its freight network.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/ch-robinson-rejects-racketeering-claims-and-confirms-super-ego-carriers-exit/"
-  },
-  {
-    "headline": "US Customs Implements Immediate IOR Invalidation for Inaccurate Filings",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-09-30",
-    "summary": "United States Customs and Border Protection has updated its enforcement protocol, granting authority to instantly deactivate an importer of record number upon discovering incorrect or borrowed information on Form 5106. Affected businesses receive notification after the cancellation takes effect. Freight forwarders and customs brokers associated with these filings bear the immediate responsibility of managing inquiries and compliance issues resulting from the strict enforcement measure, which aims to increase accountability across international trade channels.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/us-cbp-tightens-import-rules-get-the-details-right-or-else/"
-  },
-  {
-    "headline": "Nairobi emerges as a two-way cargo hub amid surging inbound ecommerce",
-    "continent": "Africa",
-    "country": "Kenya",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Nairobi is transitioning from its conventional function as an export center primarily for flowers into a bidirectional logistics hub for East Africa. International freight carriers report rising volumes of inbound time-sensitive shipments, including pharmaceuticals, perishables, and ecommerce goods. Increased freighter operations highlight the region's expanding role in global supply chains, moving past traditional single-direction export flows to accommodate diverse commercial demands.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/nairobi-moves-beyond-flowers-as-inbound-ecommerce-surges/"
   }
 ]
