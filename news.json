@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Truckload Capacity Fails to Recover Amid Market Trends",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-18",
+    "summary": "Current data indicates that the truckload market is not experiencing the anticipated recovery following an extended period of rate inflation. Contrary to expectations of stabilization, industry metrics point to persistent tightness in available capacity. This ongoing challenge continues to impact freight operations and pricing dynamics across the sector, defying earlier projections of a market rebound.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/no-signs-of-truckload-capacity-recovering"
+  },
+  {
     "headline": "Texas Court Affirms Major Verdict Against C.H. Robinson",
     "continent": "North America",
     "country": "United States",
@@ -8,6 +18,16 @@
     "summary": "A Texas judge has officially upheld a significant legal judgment issued against third-party logistics provider C.H. Robinson. While details regarding the specific underlying incident and financial penalty were not immediately detailed in the affirmation, the court's decision maintains the substantial ruling. This development underscores ongoing legal liabilities and risk management challenges within the freight brokerage and transportation sector, where severe judicial outcomes continue to impact major industry operators.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson"
+  },
+  {
+    "headline": "DHL Group Upgrades 2026 Earnings Forecast on Express Growth",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-10-16",
+    "summary": "Logistics provider DHL Group has revised its profit expectations upward for the 2026 fiscal year, projecting consolidated earnings before interest and taxes to surpass seven billion euros. Leadership attributed this positive financial outlook to sustained earnings momentum within the company's express shipping sector, alongside projections for a strong seasonal demand peak.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/dhl-group-raises-full-year-2026-earnings-guidance/"
   },
   {
     "headline": "Carrier Logistics and LSP44 Partner for LTL Tracking",
@@ -2978,25 +2998,5 @@
     "summary": "An ongoing closure of the Strait of Hormuz lasting nearly eight months threatens permanent damage to transhipment volumes at major container terminals in Dubai and Abu Dhabi. Before the regional conflict involving the United States, Israel, and Iran, these facilities served as critical hubs for transferring cargo between Asia-Europe routes and north-south shipping lanes. Escalating security risks and skyrocketing maritime insurance costs have forced carriers to bypass the region, causing a lasting decline in vital relay operations at these key Gulf waypoints.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/"
-  },
-  {
-    "headline": "Regulators Halt Review of Hapag-Lloyd's Proposed Zim Acquisition",
-    "continent": "Middle East",
-    "country": "Israel",
-    "category": "international_relations",
-    "date": "2026-09-30",
-    "summary": "Regulatory authorities in Israel have officially terminated the current review process for Hapag-Lloyd's proposed buyout of ocean carrier Zim. Officials deemed the existing transaction framework invalid, meaning any future attempts to move forward will require submitting a completely new proposal and restarting the regulatory evaluation from the beginning. This development significantly stalls potential consolidation efforts within the container shipping sector and introduces major uncertainty regarding the future ownership structure of the ocean freight operator.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hapag-lloyds-zim-takeover-hopes-dealt-fresh-blow-as-review-halted/"
-  },
-  {
-    "headline": "CH Robinson Denies Racketeering Claims and Drops Super Ego Carriers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "CH Robinson has formally answered a racketeering lawsuit filed by multiple American trucking companies, firmly denying all allegations of wrongdoing. The logistics provider explained that the legal complaint misrepresents its standard carrier relationships and distorts prior testimony from a former staff member. Furthermore, the firm confirmed that all motor carriers operating under the Super Ego holding structure have been completely removed from its freight network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ch-robinson-rejects-racketeering-claims-and-confirms-super-ego-carriers-exit/"
   }
 ]
