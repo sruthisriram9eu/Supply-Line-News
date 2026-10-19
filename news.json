@@ -1,5 +1,25 @@
 [
   {
+    "headline": "California Trucking Operator Admits Guilt in Fraud Case",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-18",
+    "summary": "The owner of a California-based trucking company has entered a guilty plea for orchestrating a financial identity theft scheme totaling over two million dollars. The illicit operation compromised the personal details of approximately one hundred individuals. Federal law enforcement officials tracked the stolen funds through cross-border financial transactions. The suspect was eventually apprehended after spending a year and a half abroad in Turkey, bringing a significant freight-related financial crime investigation toward its conclusion.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/california-trucking-owner-pleads-guilty-in-2-1m-identity-theft-scheme"
+  },
+  {
+    "headline": "US Trucking Crackdown at Mexico Border Sparks Logistics Fears",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-18",
+    "summary": "Recent enforcement actions targeting commercial vehicles along the United States and Mexico border have triggered anxieties regarding potential freight movement bottlenecks and supply chain delays. Industry stakeholders are monitoring the situation closely as heightened inspections threaten to slow cross-border trade flows. Additionally, regional developments in Texas include the establishment of a new logistics provider in Houston and the opening of a distribution facility by an apparel brand, highlighting ongoing infrastructure adjustments within the southern shipping corridor.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions"
+  },
+  {
     "headline": "Truckload Capacity Fails to Recover Amid Market Trends",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "Elevated fuel expenses significantly impacted the second-quarter financial performance of major transport provider SF Holding. Despite these increased operational costs, analysts note that the company's current stock valuation remains disproportionately low compared to industry peers like FedEx and UPS when evaluated on projected earnings and enterprise value metrics. Furthermore, the market value of its majority stake in subsidiary KLN fails to account for the wider valuation gap, leaving the underlying cause of the discount unclear.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/analysis-sf-holding-has-a-fuel-problem-but-valuation-discount-unexplained/"
-  },
-  {
-    "headline": "Nationwide Cargo Theft Operation Recovers $635K in Goods",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-09-30",
-    "summary": "A coordinated nationwide law enforcement initiative focused on cargo theft rings successfully dismantled multiple criminal networks and recovered stolen freight valued at $635,000. Among the recovered items were thirty electrical transformers with an estimated value of $600,000. The operation resulted in multiple arrests as authorities cracked down on supply chain theft and illicit shipping activities across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/national-cargo-theft-blitz-leads-to-arrests-635k-in-recovered-freight"
-  },
-  {
-    "headline": "Strait of Hormuz closure threatens UAE container ports",
-    "continent": "Middle East",
-    "country": "United Arab Emirates",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "An ongoing closure of the Strait of Hormuz lasting nearly eight months threatens permanent damage to transhipment volumes at major container terminals in Dubai and Abu Dhabi. Before the regional conflict involving the United States, Israel, and Iran, these facilities served as critical hubs for transferring cargo between Asia-Europe routes and north-south shipping lanes. Escalating security risks and skyrocketing maritime insurance costs have forced carriers to bypass the region, causing a lasting decline in vital relay operations at these key Gulf waypoints.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/"
   }
 ]
