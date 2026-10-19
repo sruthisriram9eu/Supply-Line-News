@@ -1,5 +1,155 @@
 [
   {
+    "headline": "Cutter & Buck Opens Automated Texas Distribution Hub",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-19",
+    "summary": "Apparel brand Cutter & Buck has expanded its fulfillment network by opening a new automated distribution center in Grand Prairie, Texas. The facility features over 50,000 storage bins and utilizes advanced technology capable of processing more than 1,200 bins per hour. This strategic addition is designed to enhance the company's order fulfillment speed and overall distribution capacity to better serve its customers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/cutter-buck-eyes-fulfillment-boost-with-second-automated-distribution-cen/833237/"
+  },
+  {
+    "headline": "Most Major Clothing Brands Fail to Disclose Factory Wage Levels",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-10-19",
+    "summary": "A recent analysis evaluating 110 prominent apparel companies reveals that merely four businesses openly share information regarding the compensation provided to factory garment makers. The findings highlight a widespread lack of transparency across the clothing production network, with well-known labels such as Zara, Adidas, and Chanel among the participants evaluated. Advocacy groups emphasize that inadequate visibility into factory payroll practices hinders progress toward ensuring fair compensation for workers throughout the global manufacturing sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/few-major-apparel-brands-pay-garment-workers-a-living-wage-report/833275/"
+  },
+  {
+    "headline": "Walmart Expands Marketplace Delivery Options with Eight New Carriers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Walmart has broadened its marketplace shipping options by greenlighting eight additional delivery providers for merchants handling their own fulfillment operations. Companies utilizing the platform can now partner with alternative carriers, including DoorDash and UniUni, to manage customer shipments. This move increases logistical flexibility for marketplace vendors, enabling them to diversify their last-mile delivery networks and potentially improve delivery times and service reliability for online shoppers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/walmart-approves-8-more-parcel-carriers-for-seller-fulfilled-shipping/833259/"
+  },
+  {
+    "headline": "Savannah Port Expands Capacity with New Terminal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-19",
+    "summary": "The Georgia Ports Authority is planning a major infrastructure expansion at the Port of Savannah by constructing a new container terminal with a capacity of 3.5 million TEUs. This development aims to significantly boost the facility's overall throughput, enabling the port to handle up to 12 million TEUs annually upon completion. The project is designed to accommodate rising container volumes and strengthen the region's position as a critical node in international maritime logistics and regional freight distribution.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/"
+  },
+  {
+    "headline": "Volvo Trucks North America adds powertrain repair to service plan",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-19",
+    "summary": "Volvo Trucks North America has introduced a new maintenance offering during the ATA Management Conference. The program integrates powertrain repair coverage directly into the existing connected Blue maintenance plan, aiming to expand fleet support options and streamline service operations for commercial vehicle operators across the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain"
+  },
+  {
+    "headline": "CBP Intercepts $30.4M in Methamphetamine Hidden in Salt Cargo",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Customs and Border Protection agents intercepted a large illicit drug shipment at the Laredo World Trade Bridge, seizing over thirty million dollars worth of methamphetamine concealed within a commercial salt cargo. Federal officers uncovered seventy-six suspicious packages during a secondary inspection of the commercial transport vehicle. Homeland Security Investigations has launched an inquiry to trace the logistics route, including the origin and intended destination of the shipment, as well as the individuals responsible for the smuggling operation.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cbp-seizes-30-4m-in-meth-hidden-in-commercial-salt-load-at-laredo-world-trade-bridge"
+  },
+  {
+    "headline": "Air Canada Expands Winter Cargo Network",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Air Canada has announced an expansion of its dedicated air freighter network to include new routes serving destinations in Europe and Latin America ahead of the winter season. This capacity enhancement aims to support international cargo flows and meet seasonal shipping demands across these key regional markets. The carrier's expanded flight schedules will provide businesses with increased freight connectivity and improved access to global supply chain corridors during the peak winter shipping period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winter-season"
+  },
+  {
+    "headline": "Fuel Prices Surge to Top Concern in ATRI Trucking Survey",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "A recent industry study reveals that fuel expenses have emerged as the primary worry for the trucking sector, jumping significantly from outside the top ten in previous years. Data collected from commercial drivers and motor carriers indicates that escalating pump prices are placing renewed financial pressure on freight operators. This sharp shift highlights the growing vulnerability of fleet operational budgets to energy market volatility, impacting both individual drivers and large transport companies across the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/pump-price-is-truckings-1-concern-atri-survey"
+  },
+  {
+    "headline": "Maersk Explores Nuclear Container Ships for US-UK Route",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Ocean carrier Maersk is currently evaluating safety standards and regulatory frameworks surrounding the deployment of nuclear-powered container vessels. As part of this preliminary research, the shipping company is considering a potential maritime trade lane connecting the United States to the United Kingdom. This investigation reflects ongoing efforts within the maritime sector to explore alternative, low-carbon propulsion technologies to reduce environmental impact across international freight networks, though significant technical and compliance hurdles must still be addressed before commercial adoption can occur.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/no-2-container-line-studying-us-uk-route-for-nuclear-ships"
+  },
+  {
+    "headline": "Trans-Pacific Ocean Freight Faces Declining Reliability",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Ocean shipping reliability is deteriorating across major trade lanes, driven by tightening capacity along the trans-Pacific route. According to industry analysis, these capacity constraints are creating substantial booking risks and operational challenges for companies moving cargo across the Pacific, threatening to disrupt supply chain timelines and inventory planning for importers relying on maritime transport.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks"
+  },
+  {
+    "headline": "Matson Christens First New Containership in Billion-Dollar Fleet Upgrade",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Ocean carrier Matson recently christened its new containership, named Makua, at a Philadelphia shipyard. This vessel represents the initial delivery out of a three-ship order, forming part of a broader one billion dollar investment aimed at modernizing the company's maritime fleet and expanding operational capacity within its shipping lanes.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/matson-christens-1st-new-vessel-of-1b-us-shipyard-order"
+  },
+  {
+    "headline": "Ceva Logistics Assigns Paack to Manage Last-Mile Delivery",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-10-19",
+    "summary": "Ceva Logistics has designated its newly acquired entity, Paack, to spearhead its last-mile parcel delivery operations. This strategic alignment places Paack alongside Colis Privé, another courier brand previously brought under the Ceva Logistics portfolio. By consolidating its parcel delivery services, the company aims to streamline its final-stage distribution network and strengthen its footprint in the courier market. The integration reflects an ongoing effort to optimize asset management and service delivery across its European operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ceva-logistics-puts-paack-in-charge-of-last-mile-parcel-delivery"
+  },
+  {
+    "headline": "Werner Enterprises Issues Q3 Profit Warning",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Trucking provider Werner Enterprises released a downward third-quarter profit preannouncement, pointing to escalating operating expenses. The company highlighted surging costs related to fuel consumption, driver compensation, and insurance claims as primary drivers behind the negative financial outlook.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning"
+  },
+  {
+    "headline": "Amerijet to Repair Damaged Boeing 767 Freighter",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Cargo carrier Amerijet has confirmed plans to restore an older Boeing 767 freighter aircraft following structural damage sustained during a hard landing. Despite the advanced age of the aircraft, the company has decided against retiring it, opting instead to fix the buckled fuselage skin and return the cargo plane to active service. This maintenance effort ensures the preservation of cargo capacity within their operational fleet.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amerijet-to-repair-aging-767-freighter-aircraft-damaged-in-hard-landing"
+  },
+  {
+    "headline": "Gemini Cooperation Restructures Asia-Med Network Ahead of Expected Suez Return",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Maersk and Hapag-Lloyd are revamping the regional hub-and-spoke model for their Gemini Cooperation network in the Asia-Mediterranean trade lane. Scheduled to roll out in the latter half of November, this network adjustment coincides with carrier leadership projections indicating a complete restoration of Suez Canal shipping routes by the first quarter of the coming year. The operational changes reflect ongoing preparations among major ocean carriers to normalize routing strategies as security conditions permit.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/new-asia-med-service-from-gemini-signals-full-suez-return-by-q1/"
+  },
+  {
     "headline": "New box truck carriers face steep learning curve on operational expenses",
     "continent": "North America",
     "country": "United States",
@@ -2848,155 +2998,5 @@
     "summary": "Infrastructure enhancements across China's river port network are bridging the gap between inland manufacturing hubs and global maritime routes. Wenzhou has initiated a direct container shipping service connecting to West Africa, leveraging its position on the Oujiang river. This development provides regional producers in southern Zhejiang and northern Fujian with direct access to international trade networks, illustrating a broader operational shift where inland waterways increasingly function as direct gateways for ocean-going freight.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/investment-in-chinas-river-ports-brings-ocean-services-closer-to-shippers/"
-  },
-  {
-    "headline": "US Holiday Online Sales to Rise Without Major Delivery Bottlenecks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Online consumer spending in the United States is projected to grow by 6.7 percent during the upcoming holiday season compared to the previous year, driven by shifts in purchased goods and the integration of artificial intelligence technologies. Despite this anticipated surge in retail expenditures, industry analysts predict that overall parcel volumes will not experience dramatic growth, and serious supply chain bottlenecks or delivery disruptions are not expected to occur, even amidst ongoing inflationary pressures.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/holiday-shopping-sprees-set-to-increase-but-without-delivery-headaches/"
-  },
-  {
-    "headline": "Air Cargo Gains Prominence Amid Regulatory and Planning Shifts",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Airfreight is evolving from a fallback measure into a core component of supply chain planning following pandemic-era disruptions. While shippers increasingly rely on this transport mode for resilience as holiday periods approach, industry experts warn that upcoming regulatory changes regarding direct air waybills may introduce operational complexity. Navigating these new documentation rules will be critical for businesses as they integrate air cargo more permanently into their logistics strategies.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/air-cargo-gains-ground-with-shippers-but-concerns-remain-on-waybill-changes/"
-  },
-  {
-    "headline": "Warehouse AI Uses Existing Cameras to Optimize Dock Operations",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-01",
-    "summary": "Artificial intelligence software leverages standard security and operational cameras already installed in distribution centers to monitor facility bottlenecks without requiring new hardware investments. The technology identifies inefficiencies such as blocked pathways, vehicle congestion, and underutilized loading bays as they occur. By detecting these routine disruptions in real time, warehouse managers can resolve operational delays more quickly and improve overall facility throughput and productivity.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/warehouse-ai-using-existing-cameras-to-cut-idle-dock-time"
-  },
-  {
-    "headline": "Domestic Intermodal Freight Volume Reaches Record High",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Domestic intermodal container volumes have surged to a new annual high, surpassing 21,000 units. This growth is primarily fueled by substantial cost savings, prompting increased freight conversion from traditional over-the-road trucking to rail networks. Industry analysts are evaluating which specific shipping lanes deliver the greatest financial efficiencies as supply chain operators prepare for fourth-quarter demand and capacity adjustments.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/intermodal-hits-annual-high-21k-containers"
-  },
-  {
-    "headline": "US Diesel Surcharges Drop Following Increased Gulf Oil Output",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Benchmark diesel prices, widely utilized for calculating freight fuel surcharges, experienced a decline after three consecutive weeks of increases. This downward price movement comes as a direct result of higher oil production coming out of the Gulf region, providing some financial relief to transportation and shipping operations after a period of escalating fuel expenses.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/more-oil-out-of-the-gulf-translating-to-lower-prices"
-  },
-  {
-    "headline": "Maersk Expands Domestic US Logistics and Freight Network",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Ocean carrier Maersk has expanded its operational footprint within the United States by developing an extensive ground freight system. The company's e-commerce division now coordinates directly with its contract logistics and air cargo operations. This integration allows the transport provider to offer comprehensive domestic supply chain solutions alongside its traditional maritime shipping services, enhancing its capability to handle end-to-end freight movements across the country.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/not-just-ocean-how-maersk-grew-its-us-logistics-capabilities/829105/"
-  },
-  {
-    "headline": "Amazon Introduces Delivery Updates for Bulky Shipments",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Amazon has introduced new features designed to assist merchants handling oversized shipments. Revealed at a recent company event, the enhancements feature regionally based delivery pricing alongside pre-negotiated less-than-truckload freight rates. These tools aim to streamline the transportation process for large and bulky goods, providing businesses with improved cost predictability and operational efficiency within their distribution networks. The updates reflect ongoing efforts by the e-commerce giant to expand its logistics infrastructure and better support enterprise shipping requirements.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/"
-  },
-  {
-    "headline": "Ethiopian Airlines Orders Ten Boeing Freighters",
-    "continent": "Africa",
-    "country": "Ethiopia",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Ethiopian Airlines has finalized an agreement with Boeing to acquire ten 777 freighter aircraft. This purchase is designed to grow the carrier's cargo capacity in the immediate future. Additionally, the deal includes an agreement for eight 777-8 freighter models scheduled for delivery in the following decade, pending the commencement of production for that specific aircraft variant. The investment supports the airline's long-term strategy to expand its global freight operations and maintain a modern cargo fleet.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ethiopian-airlines-to-buy-10-777-freighters-from-boeing"
-  },
-  {
-    "headline": "US-Mexico Cross-Border Trucking Capacity Strains Nearshoring Growth",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Accelerating nearshoring initiatives across North America are creating significant friction as commercial transport capacity tightens along the United States and Mexico border. While cross-border investments continue to reshape regional trade routes and operational networks, the surge in freight volume is outpacing available trucking resources. Industry participants must navigate these escalating corridor bottlenecks and equipment shortages, which threaten to disrupt manufacturing schedules and distribution timelines throughout the binational trade ecosystem.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/nearshoring-growth-collides-with-tightening-us-mexico-trucking-capacity"
-  },
-  {
-    "headline": "Los Angeles Jury Convicts Two in $2M Cargo Theft Ring",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "A federal jury in Los Angeles convicted two individuals involved in a multimillion-dollar cargo theft operation spanning across the United States. The perpetrators utilized acquired trucking businesses to intercept and steal high-value freight, including a shipment of televisions originally dispatched from California and destined for Florida. Investigators uncovered the extensive logistics fraud scheme after tracking the missing transport, revealing how the network systematically exploited legitimate transport companies to perpetrate widespread cargo losses.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/la-jury-convicts-2-in-2m-nationwide-cargo-theft-ring-using-purchased-trucking-companies"
-  },
-  {
-    "headline": "Harbinger Secures Large FedEx Order for 2,000 Electric Trucks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Vehicle manufacturer Harbinger has secured a major binding contract with FedEx to supply 2,000 medium- and heavy-duty electric trucks. Valued at over $300 million, the fleet deployment is scheduled for completion by the end of 2027. This procurement represents one of the most substantial commercial orders for heavy electric vehicles to date, supporting corporate fleet electrification goals and sustainable logistics operations within the distribution network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/harbinger-fedex-2000-electric-truck-order"
-  },
-  {
-    "headline": "Trans-Pacific ocean freight rates hit yearly high",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Trans-Pacific maritime shipping rates have climbed to their highest levels in a year, driven by a temporary trade truce between the United States and China. This recent diplomatic development has briefly reduced operational uncertainty for both ocean carriers and cargo importers operating across the Pacific trade lanes. Despite the temporary easing of geopolitical tensions, ocean freight pricing reflects continued volatility in the major international shipping corridor as market participants navigate changing trade dynamics.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ocean-rates-highest-in-a-year-amid-us-china-trade-truce"
-  },
-  {
-    "headline": "US Rail Freight Continues Strong Growth Trajectory",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "Recent weekly performance data indicates sustained growth for United States freight rail networks. Both industrial commodity tonnage and intermodal shipping volumes posted solid gains, driving continued momentum across domestic rail operations. This upward trend highlights robust demand for freight transportation services, reflecting steady movement in manufacturing and consumer goods sectors nationwide.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/another-strong-week-for-industrial-rail-freight"
-  },
-  {
-    "headline": "Mars Misses 2025 Goal for 100% Responsibly Sourced Cocoa",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-09-30",
-    "summary": "Confectionery and pet care manufacturer Mars increased its volume of responsibly sourced cocoa to ninety-eight percent heading into 2025. Despite this significant progress within its agricultural supply chain, the enterprise ultimately missed its original target to achieve full one hundred percent compliance by the deadline. The initiative relies on dedicated supplier programs designed to improve sustainability and traceability across raw material origins, though full completion of the initiative remains ongoing.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/mars-hikes-sustainably-sourced-cocoa-but-falls-short-of-2025-100-goal/831689/"
-  },
-  {
-    "headline": "USPS and Amazon launch same-day delivery pilot",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-09-30",
-    "summary": "The United States Postal Service and Amazon are collaborating on a new pilot program focused on same-day shipping. Under this arrangement, customer orders submitted during the later hours of the day will qualify for expedited delivery handled directly by the postal network. The initiative aims to expand fast-fulfillment capabilities by leveraging existing public postal infrastructure for late-day private e-commerce orders.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/usps-amazon-partner-on-same-day-delivery-pilot/831647/"
   }
 ]
