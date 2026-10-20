@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Cargo theft losses double despite drop in reported freight incidents",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Cargo theft metrics reveal a shifting risk landscape for the freight sector as peak shipping season approaches. Although total reported incidents experienced a significant decline during the second quarter compared to the prior year, financial damages surged past three hundred million dollars. This divergence highlights a trend toward more targeted and financially damaging criminal operations within the transportation network, forcing carriers and logistics providers to reevaluate security measures and risk mitigation strategies ahead of high-volume operational periods.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-fraud-gets-more-strategic-heading-into-peak-season"
+  },
+  {
+    "headline": "Federal charges filed in Massachusetts CDL cheating scheme",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Federal authorities in Massachusetts have charged a local man for orchestrating a fraudulent commercial driver's license examination scheme. Investigators utilized phone records and an undercover operation to uncover the illicit arrangement, which allowed applicants to pay three thousand dollars to bypass standard testing requirements using hidden Bluetooth communication devices. The accused now faces significant prison time as enforcement agencies crack down on integrity violations within commercial vehicle licensing and driver credentialing processes.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/failed-cdl-exams-3000-payments-and-bluetooth-cheating-scheme-lead-to-federal-charges"
+  },
+  {
     "headline": "Cutter & Buck Opens Automated Texas Distribution Hub",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "The national carrier has reversed its prior decision to halt all cargo bookings for six days. Government officials intervened to address severe labor and equipment shortages caused by recent severe flooding, which initially forced the airline to suspend freight operations. Authorities deployed military assistance to resolve the operational bottlenecks and mitigate potential disruptions to the regional export sector, allowing the airline to resume normal cargo acceptance schedules.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/military-aid-prompts-thai-airways-u-turn-on-cargo-booking-embargo/"
-  },
-  {
-    "headline": "WiseTech Expands Air Cargo Booking Direct Capabilities",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "WiseTech Global is intensifying competition for independent air freight booking platforms by expanding direct booking capabilities within its CargoWise software. The system now allows freight forwarders to search, compare, and reserve cargo space directly from represented carriers following a partnership with ATC Aviation Services. This integration enables general sales and service agents to connect to the platform, potentially shifting how the logistics industry manages air freight procurement and operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/wisetech-air-cargo-push-challenges-independent-booking-platforms/"
-  },
-  {
-    "headline": "China Enhances River Port Infrastructure to Expand Ocean Shipping",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Infrastructure enhancements across China's river port network are bridging the gap between inland manufacturing hubs and global maritime routes. Wenzhou has initiated a direct container shipping service connecting to West Africa, leveraging its position on the Oujiang river. This development provides regional producers in southern Zhejiang and northern Fujian with direct access to international trade networks, illustrating a broader operational shift where inland waterways increasingly function as direct gateways for ocean-going freight.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/investment-in-chinas-river-ports-brings-ocean-services-closer-to-shippers/"
   }
 ]
