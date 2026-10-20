@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Napa Auto Parts Enhances Fulfillment with Automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-20",
+    "summary": "Napa Auto Parts has partnered with Hy-Tek Intralogistics and Hai Robotics to upgrade its warehouse operations. The initiative focuses on increasing storage capacity within existing facilities while simultaneously boosting the precision of customer order processing. By deploying advanced automated technology, the automotive retailer seeks to streamline its distribution workflows and handle higher inventory volumes more effectively.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/napa-auto-parts-revs-fulfillment-efficiency-with-automation/833383/"
+  },
+  {
+    "headline": "Semiconductor Industry Association Urges US Chip Supply Chain Security",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-20",
+    "summary": "The Semiconductor Industry Association has emphasized the critical need for closer cooperation between government and industry to protect domestic chip manufacturing from hidden vulnerabilities. In response to potential supply disruptions, the organization recommends targeted government-industry initiatives focused on strengthening domestic production capabilities and establishing strategic material stockpiles to ensure long-term resilience within the technology sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/us-semiconductor-supply-chain-relies-on-vulnerable-hidden-inputs/833485/"
+  },
+  {
+    "headline": "Whataburger Diversifies Supply Base to Mitigate Inflation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-20",
+    "summary": "Fast-food operator Whataburger has broadened its vendor network to navigate inflationary pressures affecting key commodities like beef and transportation expenses such as diesel fuel. The enterprise implemented strategic supplier adjustments to protect profit margins and maintain operational stability across its restaurant footprint. By expanding sourcing channels, the company aims to build resilience against market volatility and price spikes within its procurement and logistics operations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/"
+  },
+  {
+    "headline": "Bluffworks Shifts Fulfillment Providers to Cut Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-20",
+    "summary": "Apparel brand Bluffworks transitioned its fulfillment operations to Cart.com following persistent invoicing issues with its previous third-party logistics partner. The strategic change aims to streamline order processing and significantly reduce overall fulfillment expenses. By resolving billing discrepancies and improving operational efficiency, the travel clothing company expects better cost control across its supply chain network, supporting ongoing financial stability and scalable distribution for its e-commerce business operations moving forward.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/bluffworks-targets-lower-fulfillment-costs-after-provider-switch/833337/"
+  },
+  {
+    "headline": "A. Duie Pyle Expands Regional Freight Network",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-20",
+    "summary": "Regional freight carrier A. Duie Pyle is growing its less-than-truckload distribution capabilities through the opening of two new infrastructure sites. The company has established a dedicated freight service center in the Cincinnati region of Ohio to handle regional shipments. Additionally, the firm launched an integrated storage and distribution facility located in Camp Hill, Pennsylvania. These new locations are designed to enhance the efficiency and reach of the company's transportation network across the northeastern and midwestern regions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/a-duie-pyle-expands-ltl-network-with-new-ohio-pennsylvania-facilities"
+  },
+  {
+    "headline": "US Reefer Truckload Rejections Reach 20 Percent",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-20",
+    "summary": "Refrigerated truckload rejections have climbed to twenty percent nationwide, driven by increasing diesel fuel prices and seasonal harvest demands. This surge in rejected loads is influencing pricing dynamics across both spot and contract markets, creating capacity constraints in specific regions. Shippers and carriers are navigating volatile freight volumes as agricultural yields peak and transportation costs continue to fluctuate across the country, altering operational strategies in the refrigerated shipping sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/reefer-truckload-rejections-soar-1-in-5-loads-rejected-nationally"
+  },
+  {
+    "headline": "South Korea Tests Faster Northern Sea Route for Ocean Freight",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-20",
+    "summary": "South Korea has successfully completed a trial voyage using an Arctic shipping lane to assess potential time savings for maritime deliveries between Asia and Europe. While the passage proved faster than traditional southern routes, industry observers note that significant hurdles remain regarding its long-term commercial viability. The test highlights ongoing efforts by shipping operators to explore alternative pathways that could bypass congested chokepoints and reduce transit durations, though environmental, navigational, and infrastructure challenges continue to cloud the future adoption of polar shipping corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/time-definite-ocean-delivery-container-ship-completes-new-arctic-route-trial"
+  },
+  {
+    "headline": "First Ammonia-Powered Dry Bulk Vessel Finishes Sea Trials",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-10-20",
+    "summary": "The completion of sea trials for the global market's initial ammonia-propelled dry bulk vessel signifies a major advancement toward adopting alternative energy sources within ocean shipping. This milestone highlights progress in reducing carbon emissions across maritime logistics and freight operations, paving the way for wider commercial implementation of sustainable marine fuels in international trade corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/worlds-first-ammonia-powered-dry-bulk-ship-completes-sea-trials"
+  },
+  {
+    "headline": "Freight Broker Fura Acquires Road Dog Logistics",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-20",
+    "summary": "Truckload brokerage firm Fura has completed the acquisition of Road Dog Logistics to expand its operational network. This strategic buyout incorporates an estimated thirty million dollars in supplementary revenue into Fura's growing platform, strengthening its market presence within the competitive freight brokerage sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-broker-furas-latest-deal-adds-30m-in-revenue"
+  },
+  {
+    "headline": "Daimler Integrates Autonomous Readiness Directly into Factory Production",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-20",
+    "summary": "Daimler Truck has updated its manufacturing operations to integrate autonomous driving capabilities directly onto the production line for Freightliner vehicles. Rather than relying on aftermarket modifications, the company is baking autonomous hardware requirements straight into the factory-built trucks. This approach allows fleet operators the flexibility to select their preferred third-party software providers once the vehicle is delivered. By standardizing autonomous integration at the manufacturing level, Daimler aims to streamline the eventual deployment of self-driving commercial fleets and simplify the adoption process for logistics companies.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/daimler-is-building-autonomy-into-the-truck-at-the-factory-and-leaving-the-software-choice-open"
+  },
+  {
+    "headline": "US Customs Proposes Earlier Data Requirements for Small Imports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-20",
+    "summary": "United States customs authorities are seeking earlier electronic data submissions and increased information for low-value import shipments valued under the threshold. While the regulatory changes introduce tighter compliance mandates for mail-in cargo, the implementation timeline has been adjusted, delaying the enforcement deadline by three months. Industry observers note the timing may prevent immediate retail price pressures during the electoral cycle. The new framework distinguishes between postal arrivals and traditional cargo modes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/us-customs-wants-more-data-and-earlier-filing-for-low-value-imports/"
+  },
+  {
     "headline": "Rocky Mountain Chocolate Factory Sells Colorado Facility",
     "continent": "North America",
     "country": "United States",
@@ -118,6 +228,16 @@
     "summary": "Singapore must maintain its competitive edge as a major international container transhipment hub amid rising pressure from rival ports investing heavily in automation and digital technologies. Speaking at a union anniversary event, senior leadership cautioned that complacency within port operations could lead to a loss of maritime business to competing facilities in the region. To secure its future standing within global shipping networks, the port must continue adapting and modernizing its operational capabilities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/port-of-singapore-faces-new-challenges-but-also-new-opportunities/"
+  },
+  {
+    "headline": "DHL Group Upgrades 2026 Outlook Amid Peak Season Expectations",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "DHL Group has revised its future financial projections upward, driven by anticipated high demand during the upcoming peak shipping period. The logistics provider adjusted its forecast based on expected growth in freight volumes and operational performance. This announcement reflects confidence in market conditions and sustained parcel movement despite broader economic uncertainties. Leadership anticipates increased commercial activity to bolster earnings as companies prepare for high-volume seasonal inventory requirements across international shipping networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dhl-group-boosts-guidance-on-expectations-for-strong-peak-season"
   },
   {
     "headline": "Cargo theft losses double despite drop in reported freight incidents",
@@ -2878,125 +2998,5 @@
     "summary": "The Port of Savannah has achieved a major milestone in its ongoing infrastructure development, surpassing the halfway mark for a multi-billion-dollar capacity enhancement project. Managed by the Georgia Ports authority, this large-scale investment aims to accommodate rising future trade volumes and strengthen regional maritime logistics capabilities by expanding handling capacity and improving operational efficiency at the key southeastern hub.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/savannah-port-project-passes-60-complete-mark"
-  },
-  {
-    "headline": "Colombo Port Congestion Raises Costs on India-US Trade Lane",
-    "continent": "Asia",
-    "country": "Sri Lanka",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "The growing status of Colombo as a major transhipment hub has triggered severe port congestion, creating financial burdens for logistics providers and shippers operating along the India-US trade route. Operational bottlenecks at this vital Sri Lankan gateway are increasing the probability of rolled cargo as mainline vessel operators bypass the port to maintain schedule integrity. This maritime disruption compounds existing port congestion challenges already affecting key Indian terminals such as Mundra and Nhava Sheva, heightening overall supply chain vulnerabilities in the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/pressure-on-india-us-trades-as-colombo-becomes-transhipment-hot-spot/"
-  },
-  {
-    "headline": "Ocean Carriers Reshuffle Asia to South America Services",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Major container shipping lines are restructuring their vessel-sharing arrangements and dissolving joint operations on the trade route connecting Asia and the East Coast of South America. Recent departures and partnership dissolutions among leading carriers are fundamentally altering service networks outside of formal alliance structures. Shippers utilizing these maritime corridors are being advised to carefully audit their current freight routings and transit arrangements to avoid unexpected supply chain disruptions stemming from the altered schedules and service terminations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/shippers-urged-to-check-routings-as-alliances-redraw-asia-s-america-trade/"
-  },
-  {
-    "headline": "Transpacific Spot Rates Plateau as China Enters Golden Week",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Transpacific ocean freight spot rates have leveled off following a sustained pricing surge throughout September. According to industry analysts, this stabilization coincides with the start of China's Golden Week holiday period. Market indicators suggest that the peak pricing associated with the route has likely reached its ceiling for the current cycle. While rates saw a minor upward tick at the beginning of October, the rapid escalation observed in previous weeks has effectively paused as factory output and shipping volumes moderate for the holiday.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/transpac-spot-rate-climb-takes-a-holiday-as-golden-week-arrives/"
-  },
-  {
-    "headline": "Flydubai Cargo Launches Dedicated Freighter Service",
-    "continent": "Middle East",
-    "country": "United Arab Emirates",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Flydubai Cargo has introduced three Boeing 737-800 freighters, marking the airline's first dedicated scheduled cargo capacity. Each aircraft provides a 23-tonne payload capability. The new freighter network aims to capture rising regional demand for ecommerce and specialized shipments, addressing market gaps where traditional narrowbody belly capacity falls short.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/"
-  },
-  {
-    "headline": "APEC Considers Funding Digital Infrastructure to Boost Trade",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Finance ministers from twenty-one APEC economies are scheduled to discuss a new digital infrastructure financing initiative developed alongside the Asian Infrastructure Investment Bank. The proposal focuses on addressing funding gaps in cloud computing, broadband, and data centers. While framed as development policy, logistics providers and port operators view the initiative as trade policy, recognizing that modern supply chains increasingly rely on robust digital infrastructure to function efficiently across international markets.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/data-centers-are-the-new-ports-and-apec-finance-ministers-want-to-fund-them/"
-  },
-  {
-    "headline": "Maersk and Hapag-Lloyd anticipate surging profits amid ocean alliance",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Ocean carrier Hapag-Lloyd has upgraded its profit forecast for 2026, setting optimistic expectations for its Gemini alliance partner, Maersk. Market analysts project Maersk will report substantial third-quarter earnings growth, with expected EBITDA figures showing significant increases compared to the previous quarter and the same period last year. These financial gains reflect ongoing profitability within the container shipping sector driven by strong market conditions and alliance operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/counting-the-billions-with-maersk-and-hapag/"
-  },
-  {
-    "headline": "SMB Supply Chains Face Multi-Pronged Disruptions in 2024",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-01",
-    "summary": "Small and medium-sized businesses are experiencing severe inventory planning challenges this year due to a convergence of multiple economic pressures extending far beyond standard tariff concerns. Shifting variables in the operating environment have created unpredictable conditions for inventory management, forcing organizations to navigate constant disruptions and adapt their operational strategies to maintain continuity across their procurement and distribution networks amid heightened volatility.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/beyond-tariffs-a-storm-of-pressures-is-hampering-smb-supply-chains/831880/"
-  },
-  {
-    "headline": "Manufacturing Growth Continues Amid Economic Uncertainty",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-01",
-    "summary": "Industrial production increased during September, sustaining growth within the manufacturing sector. However, industry leaders expressed caution regarding future operational conditions. Representatives from the Institute for Supply Management noted that unpredictability surrounding economic policy is creating anxiety among producers, potentially impacting upcoming investment and expansion strategies as businesses struggle to plan effectively for the future amidst fluctuating market signals.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-expands-in-september-but-uncertainty-weighs-on-sentiment/831925/"
-  },
-  {
-    "headline": "Walmart Invests $300M in Ohio Oversized Fulfillment Center",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-01",
-    "summary": "Walmart is investing $300 million to construct a new fulfillment facility close to Cincinnati, Ohio. The upcoming warehouse will focus on processing large, non-sortable merchandise such as household furniture and television sets. This infrastructure expansion aims to enhance the retailer's storage and distribution capabilities for bulky consumer products, strengthening regional supply chain operations and delivery efficiency for large-scale items.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/walmart-to-build-ohio-fulfillment-center-for-oversized-goods/831792/"
-  },
-  {
-    "headline": "Oxea Taps Uber Freight for Global Logistics Management",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Global chemical producer Oxea has selected Uber Freight to oversee its international transportation operations. The partnership consolidates freight management for the company into a unified digital network covering the United States, Canada, Mexico, and European markets. This agreement aims to streamline supply chain execution across multiple regions by leveraging automated logistics platforms to optimize routing, visibility, and overall transportation efficiency.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/chemical-manufacturer-selects-uber-freight-to-manage-global-logistics/831786/"
-  },
-  {
-    "headline": "Relaxed Fuel Economy Standards Fail to Revive Truck Freight Volumes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Recent rollbacks to vehicle efficiency requirements provide relief for automotive manufacturers producing heavy truck fleets. However, prevailing logistics metrics indicate that transportation demand remains sluggish. Carrier capacity utilization continues to lag as tender rejections surge, pointing to a persistent disconnect between relaxed regulatory burdens on vehicle manufacturing and actual freight market activity across the sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cafe-standards-reset-can-looser-fuel-economy-rules-restart-auto-freight"
-  },
-  {
-    "headline": "China Expands Lead in Global Liner-Shipping Connectivity",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-01",
-    "summary": "Recent United Nations figures indicate that China has strengthened its dominant position in international liner-shipping connectivity during the third quarter. Meanwhile, the report highlights a growing disparity in maritime performance across other nations, with individual countries experiencing increasingly uneven gains and losses. This data underscores shifting dynamics in maritime trade networks and infrastructure capabilities worldwide, pointing to a widening gap between leading maritime nations and smaller participants in global trade routes.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-un-data-china-widens-lead-in-liner-shipping-connectivity"
   }
 ]
