@@ -1,5 +1,125 @@
 [
   {
+    "headline": "Apple Grows Domestic Supplier Network for iPhone Parts",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-21",
+    "summary": "Apple has broadened its American supplier base by incorporating a new titanium provider and scaling up an existing partnership with an advanced film manufacturer. This move aligns with a broader financial commitment toward bolstering domestic manufacturing capabilities and supply chain resilience within the United States, specifically focusing on components and materials utilized in iPhone production.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/apple-expands-us-supplier-network-for-iphone-materials-components/833496/"
+  },
+  {
+    "headline": "Primo Brands Launches New Arkansas Facility",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-21",
+    "summary": "Primo Brands has inaugurated its first new manufacturing facility following its recent merger, selecting Arkansas as the site for the plant. The facility is designed to scale up production capabilities for the Mountain Valley sparkling water brand. This operational expansion comes in response to rising consumer demand for premium beverage options in the marketplace, enabling the company to enhance its manufacturing output and better serve its customer base across the region.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/primo-brands-opens-first-new-factory-post-merger/833375/"
+  },
+  {
+    "headline": "New York Short Line Secures $11.2M Rail Grant",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "The Ontario Midland Railroad has been awarded an $11.2 million federal grant intended for infrastructure enhancements in New York state. Funding will be directed toward upgrading local rail tracks and road crossings to improve network reliability and safety. This financial support helps regional carriers maintain vital rail connections, supporting local freight movement and regional logistics operations without expanding footprint.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-york-short-line-wins-11-2-million-federal-rail-grant"
+  },
+  {
+    "headline": "Phillips Connect Introduces New Trailer Sensor and Diagnostic Tools",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-21",
+    "summary": "Phillips Connect has unveiled two smart trailer technologies designed to streamline yard operations and maintenance workflows. The first system analyzes sensor data to identify and diagnose issues related to tires and lighting systems. The second solution features a visual indicator mounted on the front of the trailer to communicate dispatch readiness, displaying distinct colors depending on whether the equipment is cleared for transport. These offerings aim to improve efficiency and safety across commercial fleet management operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/phillips-connect-insights-trailersignal-launch"
+  },
+  {
+    "headline": "CSX Cuts Over 100 Management Roles in Engineering Restructuring",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-21",
+    "summary": "Railroad operator CSX has eliminated more than 100 management positions as part of a broader corporate restructuring focused on its engineering department. The workforce reduction affects administrative and supervisory personnel within the rail network's infrastructure division. This organizational shift aims to streamline operations and alter internal management structures within the company's engineering sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions"
+  },
+  {
+    "headline": "Missouri Short Line Secures $16M for Autonomous Rail",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "A short-line railway operating in Missouri has been awarded a federal grant totaling sixteen million dollars to fund the implementation of automated railcar systems. This financial backing aims to modernize local rail operations, potentially improving efficiency and safety within regional freight transport corridors. The project represents a significant step forward in adopting advanced transportation technologies to streamline rail logistics and enhance overall supply chain connectivity at the local level.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant"
+  },
+  {
+    "headline": "Stord Expands Fulfillment Operations With AMS Acquisition",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-21",
+    "summary": "Retail logistics and fulfillment provider Stord has expanded its market footprint by acquiring competing e-commerce fulfillment company AMS Fulfillment. This major transaction brings together two prominent operators in the sector, positioning the combined entity to better serve retail clients and scale its distribution and warehousing capabilities. The deal reflects ongoing consolidation within the third-party logistics industry as firms seek to enhance their competitive advantage and network capacity.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stord-acquires-e-commerce-competitor-ams-fulfillment-in-large-deal"
+  },
+  {
+    "headline": "IFM Investors Acquires Controlling Stake in UK Port Operator ABP",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "storage_distribution",
+    "date": "2026-10-21",
+    "summary": "Australian fund manager IFM Investors has reached an agreement to purchase a majority stake in Associated British Ports, the largest port operator in the United Kingdom. Two major institutional shareholders agreed to sell their combined holdings following extensive market speculation regarding interested buyers. The transaction transfers operational control of several vital maritime gateways within the British logistics network to the new investor group.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/australias-ifm-snaps-up-68-stake-in-abp/"
+  },
+  {
+    "headline": "DSV to eliminate low-margin contracts amid third-quarter volume drops",
+    "continent": "Europe",
+    "country": "Denmark",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "Freight forwarding giant DSV experienced a contraction in its air and sea freight volumes during the third quarter, despite achieving a year-on-year revenue increase driven by high ocean freight rates. The enterprise reported strong overall financial growth, with total group revenue and earnings both showing significant increases compared to the previous year. In response to the shifting volume trends, the organization announced plans to phase out low-margin business segments to optimize its forwarding operations moving forward.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/dsv-set-to-root-out-low-margin-business-as-volumes-decline-in-q3/"
+  },
+  {
+    "headline": "Most Far East-Europe shipping capacity returns to Suez Canal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "Recent industry data reveals that nearly two-thirds of ocean shipping capacity connecting the Far East and Europe has resumed transits through the Red Sea and Suez Canal following years of maritime detours. However, carrier network surveys indicate that several major operators are continuing to hedge against potential security risks by keeping a portion of their fleet on the longer Cape of Good Hope route.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/nearly-two-thirds-of-far-east-europe-capacity-now-back-to-suez-canal/"
+  },
+  {
+    "headline": "African Airfreight Surges Amid Ocean Shipping Disruption",
+    "continent": "Africa",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "African airfreight volumes are experiencing significant growth as ongoing disruptions in Middle Eastern maritime shipping force shippers to seek alternative transportation methods. According to logistics executives, air cargo has become the primary viable option to maintain trade flows across the region. However, industry forwarders remain uncertain whether this surge in demand will translate into lasting structural improvements for the local airfreight sector, or if it represents a temporary shift driven entirely by immediate maritime bottlenecks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/airfreight-in-africa-booming-thanks-to-disrupted-ocean-shipping-services/"
+  },
+  {
+    "headline": "UK Transport Sector Urges Relief as Diesel Costs Reach Peak",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "A majority of British freight and storage companies express severe anxiety as diesel costs surge to unprecedented levels. Average fuel prices climbed significantly over a seven-month period, adding hundreds of pounds in extra expenses per vehicle run for commercial haulers. Industry representatives are actively petitioning the national government for urgent financial assistance to keep freight operations viable amidst these compounding financial pressures.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/transport-businesses-call-for-help-as-diesel-price-hits-record-high/"
+  },
+  {
     "headline": "Highway proposes unified data standards to combat freight fraud",
     "continent": "North America",
     "country": "United States",
@@ -48,6 +168,26 @@
     "summary": "A delivery driver in California discovered a broken cargo lock and the disappearance of high-value sports and Pokemon trading cards valued at nearly one million dollars. The cargo vanished outside a professional grading facility, prompting local detectives to launch an investigation. Law enforcement officials are currently verifying the driver's statement and actively reviewing local surveillance footage to trace how the lucrative shipment was intercepted and stolen during transit.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-and-sports-cards-vanish-from-fedex-truck-driver-discovers-missing-lock"
+  },
+  {
+    "headline": "Napa Auto Parts boosts warehouse efficiency through automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-20",
+    "summary": "Napa Auto Parts has partnered with Hy-Tek Intralogistics and Hai Robotics to upgrade its fulfillment operations. The initiative focuses on enhancing storage capacity within distribution facilities while simultaneously improving order fulfillment precision and operational speed. By integrating advanced robotic automation, the retailer seeks to address modern warehousing challenges and streamline inventory management across its distribution network, meeting rising consumer demands more effectively.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/napa-auto-parts-revs-up-fulfillment-efficiency-with-automation/833383/"
+  },
+  {
+    "headline": "Lawsuit Challenges Proposed Tariffs on Canadian Imports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-20",
+    "summary": "A legal challenge filed at the Court of International Trade argues that the administration overstepped its authority by relying on a century-old legislative act to levy heavy import duties on goods from Canada. The litigation contests the legitimacy of utilizing this historical statute for modern trade barriers, which could significantly impact cross-border supply chains and international trade relations if the court rules against the executive action.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/"
   },
   {
     "headline": "Heartland Express Returns to Core Profitability in Q3",
@@ -2858,145 +2998,5 @@
     "summary": "Recent train derailments caused by collisions with commercial trucks at grade crossings have reignited discussions regarding financial responsibility. Because federal insurance minimums for trucks have remained unchanged since 1985, rail operators face significant hurdles when seeking full compensation for damages resulting from accidents involving highway vehicles. This funding gap has drawn renewed attention from industry stakeholders who argue that current insurance requirements fail to reflect modern economic realities and repair costs.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/when-a-truck-derails-a-train-who-pays/"
-  },
-  {
-    "headline": "South Africa separates port and rail operations for reform",
-    "continent": "Africa",
-    "country": "South Africa",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "The South African government has officially approved the structural separation of the Transnet National Port Authority from the nation's rail operations. This administrative division marks a significant milestone for local supply chain stakeholders, including shippers and freight forwarders. Industry participants hope this structural reorganization will serve as a foundational step toward resolving longstanding operational bottlenecks within the country's broader logistics and maritime transport network, potentially improving efficiency for international trade.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/south-africas-port-reform-takes-an-important-step-forward/"
-  },
-  {
-    "headline": "Colombia Air Cargo Capacity Squeezed by E-commerce Boom",
-    "continent": "South America",
-    "country": "Colombia",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "A significant surge in online retail imports is straining inbound air freight capacity across Colombia, according to industry operators. Weekly import volumes are estimated between 3,000 and 4,000 tonnes as consumer demand drives rapid commercial expansion. This heavy influx of shipments is restricting available cargo space, creating logistical bottlenecks for carriers and supply chain operators servicing the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/colombia-absolutely-booming-as-ecommerce-squeezes-air-cargo-capacity/"
-  },
-  {
-    "headline": "Hidden costs eroding freight forwarder profit margins",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-04",
-    "summary": "Freight forwarders frequently experience lower than expected profit margins despite seemingly successful monthly financial closes. The primary driver of these losses stems from unrecovered operational expenses and unforeseen fees that are absorbed by the business rather than billed to clients. Common examples include unrecovered demurrage charges, premature haulage dispatches for containers that have not yet cleared customs, and uncollected administrative amendment fees. These unbilled expenditures steadily accumulate, quietly draining profitability across daily logistics operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/where-freight-forwarders-actually-lose-money/"
-  },
-  {
-    "headline": "Identity Thieves Target Mexico Cross-Border Freight Customs Payments",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-10-04",
-    "summary": "Fraudsters have shifted their focus to customs payment systems within cross-border freight operations along the Mexican border. Criminals are utilizing stolen identities to intercept and divert funds meant for regulatory and shipping fees. This emerging security threat introduces new vulnerabilities for logistics providers operating in the region, complicating financial transactions and cargo clearance processes. Authorities and supply chain stakeholders are working to secure payment channels against these fraudulent activities to protect international shipments from costly disruptions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-identity-thieves-target-customs-payments-in-cross-border-freight"
-  },
-  {
-    "headline": "Trucking spot rates rise despite falling demand",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-04",
-    "summary": "Spot rates within the truckload sector are climbing even as freight demand declines. While capacity constraints typically drive rate increases, current market dynamics indicate that other underlying factors are influencing pricing trends across the industry. Observers note a disconnect between traditional supply and demand metrics, pointing to a more complex operational environment for carriers and shippers alike as they navigate shifting economic conditions and fluctuating equipment availability.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/truckloads-mixed-signals"
-  },
-  {
-    "headline": "Daimler Truck Supplies Commercial Vehicles to Military Fleets",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "manufacturing",
-    "date": "2026-10-03",
-    "summary": "Daimler Truck Defence is leveraging its commercial manufacturing capacity to supply heavy-duty vehicles to armed forces facing acute equipment shortages. The company secured major agreements to deliver thousands of Zetros trucks to military customers in France and Canada, highlighting a growing reliance on commercial supply chains to rapidly fulfill defense sector procurement needs.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/daimler-truck-defence-military-trucks-scale"
-  },
-  {
-    "headline": "U.S. Dry Van Contract Rates Exceed Spot Rates",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-03",
-    "summary": "Recent data from the U.S. Bank Freight Payment Index indicates that contract dry van freight rates have climbed steadily since April, reaching $2.39 per mile. In contrast, spot market rates experienced a decline down to $2.17 per mile. This shift creates a twenty-two-cent difference between the two pricing structures, fully reversing a brief rate inversion that occurred earlier in June. The trend reflects changing pricing dynamics within the domestic trucking and freight transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/us-bank-dat-contract-spot-rate-gap"
-  },
-  {
-    "headline": "Ikea to launch autonomous long-haul freight service in Texas",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Ikea plans to implement unsupervised autonomous long-haul freight transport across a Texas corridor connecting Dallas-Fort Worth and Houston. The delivery operations utilizing Kodiak self-driving trucks are scheduled to begin by the end of 2026. This initiative aims to integrate autonomous vehicle technology into regular commercial shipping routes, marking a step forward in the adoption of driverless solutions for corporate supply chain networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ikea-freight-to-be-hauled-by-driverless-kodiak-trucks/831764/"
-  },
-  {
-    "headline": "Yard Management System Helps Retailer Locate Missing Freight",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-02",
-    "summary": "A major grocery retailer utilized an advanced yard-management platform powered by computer vision to successfully track down and investigate short shipments valued at tens of thousands of dollars. By monitoring commercial vehicles and trailers within distribution yards, the digital tool enabled operations teams to pinpoint the specific transport vehicles and drivers connected to the missing inventory. This technology enhances facility visibility, reduces shrinkage, and provides reliable tracking capabilities for supply chain security.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ymx-yard-technology-helps-retailer-trace-60000-in-missing-freight"
-  },
-  {
-    "headline": "New Jersey Enforces Strict Independent Contractor Rules",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-02",
-    "summary": "New Jersey has officially implemented a stringent independent contractor regulation utilizing the ABC test. This statutory framework significantly alters how businesses operating within the state classify their workers, impacting labor structures and operational costs across various sectors, including the trucking and freight industries. Companies must now navigate these rigorous evaluation criteria to ensure compliance with state labor standards and avoid potential misclassification penalties.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-jersey-independent-contractor-regulation-with-abc-test-is-in-effectd"
-  },
-  {
-    "headline": "Trump promotes truck manufacturing tariffs in Texas",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-02",
-    "summary": "During a visit to a heavy-truck assembly facility in Texas, the U.S. President stated that trade tariffs and reduced regulatory burdens are successfully encouraging manufacturers to bring truck production back into the United States. He emphasized that these policy measures aim to reverse a multi-year trend of domestic manufacturing operations relocating to foreign countries. The remarks were delivered to factory employees as part of an administration push to highlight industrial policy and domestic production incentives.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trump-touts-truck-tariffs-at-peterbilt-plant-in-texas"
-  },
-  {
-    "headline": "Hub Group Reorganizes Board to Address Nasdaq Compliance",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-02",
-    "summary": "Logistics provider Hub Group has implemented changes to its board of directors in an effort to restore compliance with Nasdaq listing regulations. This corporate restructuring follows recent financial reporting challenges that prompted regulatory scrutiny. The leadership adjustments are designed to stabilize governance oversight and address the internal financial reporting issues impacting the company's public market standing.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hub-group-reshuffles-board-amid-accounting-turmoil"
-  },
-  {
-    "headline": "Puma Partners with Maersk for US Distribution Network",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-02",
-    "summary": "Footwear and apparel brand Puma has signed an agreement with shipping giant Maersk to oversee its distribution network across the United States. As part of this arrangement, capacity within three of Puma's American distribution facilities will be shared with other clients utilizing Maersk's logistics services. This partnership aims to optimize storage and distribution operations while improving space utilization across the supply chain network in the region.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/puma-taps-maersk-to-manage-north-america-distribution-network/831623/"
-  },
-  {
-    "headline": "AutoZone Expands Domestic Mega Hub Network",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-02",
-    "summary": "AutoZone continues to scale its domestic distribution footprint by opening multiple mega hubs over the recent quarter and fiscal year. This expansion supports the retailer's ongoing inventory replenishment strategy, aimed at improving product availability and speeding up delivery times across its domestic supply chain network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/autozone-hones-in-on-domestic-distribution-network/831931/"
   }
 ]
