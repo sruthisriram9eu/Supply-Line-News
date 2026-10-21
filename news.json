@@ -1,5 +1,35 @@
 [
   {
+    "headline": "TQL Files Defense in Carrier RICO Lawsuit",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "Total Quality Logistics has submitted its initial legal defense in a federal racketeering lawsuit brought by motor carriers against major third-party logistics providers. The company filed three separate motions in a federal district court to contest the allegations. In its court filings, the logistics enterprise criticized the plaintiffs for inadequate business practices while seeking dismissals or adjustments regarding the ongoing litigation concerning freight brokerage operations and carrier relations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tqls-rico-response-rips-carriers-poor-business-practices"
+  },
+  {
+    "headline": "Freightos Founder Forces Shareholder Vote in Board Dispute",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-21",
+    "summary": "The board of Freightos has agreed to let shareholders vote on proposals from company founder Zvi Schreiber during the upcoming annual meeting in December. This decision escalates an ongoing governance conflict regarding the company's strategic direction. Schreiber, who stepped down from his board position earlier in the year, contends that management's current emphasis on software development is misguided, arguing that artificial intelligence developments pose a significant threat to traditional software offerings. Instead, he advocates for a stronger focus on the platform's core booking capabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freightos-founder-takes-board-fight-to-shareholder-vote"
+  },
+  {
+    "headline": "Trucking Bankruptcies Rise Amid Growing Debt Pressures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "Recent data reveals a wave of bankruptcies impacting multiple commercial carriers across the country. These financial closures highlight severe industry pressures, driven by accumulating debt and shrinking operational fleets. As smaller and mid-sized transport companies struggle to remain solvent in a challenging economic environment, capacity across regional freight networks faces further contraction. This trend underscores ongoing financial distress within the domestic surface transportation sector, impacting overall freight availability.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-trucking-bankruptcies-expose-mounting-debt-and-shrinking-fleets"
+  },
+  {
     "headline": "Apple Grows Domestic Supplier Network for iPhone Parts",
     "continent": "North America",
     "country": "United States",
@@ -458,6 +488,16 @@
     "summary": "Singapore must maintain its competitive edge as a major international container transhipment hub amid rising pressure from rival ports investing heavily in automation and digital technologies. Speaking at a union anniversary event, senior leadership cautioned that complacency within port operations could lead to a loss of maritime business to competing facilities in the region. To secure its future standing within global shipping networks, the port must continue adapting and modernizing its operational capabilities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/port-of-singapore-faces-new-challenges-but-also-new-opportunities/"
+  },
+  {
+    "headline": "Evos Launches AI to Preserve Retiring Dispatcher Expertise",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "Smaller freight companies face operational vulnerabilities as experienced dispatchers and operations managers retire, leaving behind outdated technology systems that lack advanced automation. To address this loss of critical institutional expertise, an upcoming autonomous platform named Evos aims to preserve this internal knowledge and apply it to daily freight workflows. By digitizing veteran insights before experienced workers exit the industry, the solution seeks to help mid-sized operators bridge the technological gap with larger enterprise carriers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/what-happens-to-tribal-knowledge-when-dispatchers-retire"
   },
   {
     "headline": "DHL Group Upgrades 2026 Outlook Amid Peak Season Expectations",
@@ -2958,45 +2998,5 @@
     "summary": "Container spot shipping rates between Asian origins and destinations in North America versus Europe have diverged to unprecedented levels. Recent industry analysis indicates that while transpacific pricing to North America is experiencing upward momentum, routes connecting Asia to Europe are seeing declining costs. This unusual dynamic has generated a substantial cost premium for importers bringing goods into North American markets compared to their European counterparts. Industry analysts project that this wide pricing gap will likely remain in place for the next several months, impacting ocean freight budgeting.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/divide-between-asia-us-and-asia-europe-rates-at-historic-levels/"
-  },
-  {
-    "headline": "Manila truckers strike over port container backlog",
-    "continent": "Asia",
-    "country": "Philippines",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Logistics operations at the port of Manila face significant disruptions as customs brokers and hauliers plan a major work stoppage. This action comes in response to a prolonged stalemate regarding empty containers left uncollected by shipping lines. The resulting congestion has severely impacted freight movement, prompting carriers like Hapag-Lloyd to suspend bookings. Industry leaders warn the protest could extend for up to a week, further aggravating regional supply chain delays and vessel turnaround times.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/empty-boxes-chaos-at-port-of-manila-sparks-truckers-strike/"
-  },
-  {
-    "headline": "China rail bottlenecks drive South Korea-Russia shipping surge",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Severe congestion along overland rail corridors connecting China and Russia has redirected container traffic toward maritime routes. This shift has driven up maritime shipping volumes between South Korea and Russia, particularly along the Busan to Vladivostok corridor. In August, monthly container throughput at the South Korean port exceeded 33,000 TEUs bound for the Russian Far East. The sustained high volume of shipments has prompted ocean carriers to evaluate the deployment of larger vessels on this maritime trade lane to accommodate the growing demand.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/south-korea-russia-ocean-volumes-boosted-by-rail-congestion-in-china/"
-  },
-  {
-    "headline": "C.H. Robinson Acquires RXO in $5.8B Logistics Merger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Logistics provider C.H. Robinson has agreed to purchase rival third-party logistics firm RXO in a multi-billion dollar transaction aimed at expanding its North American footprint. The combined network is expected to achieve substantial operational savings within two years by integrating advanced automation tools to streamline productivity and improve service density across various industry sectors. This corporate combination positions the unified enterprise to capture greater market share and improve freight efficiency throughout the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ch-robinson-to-acquire-rxo-in-5-8bn-deal/"
-  },
-  {
-    "headline": "Outdated truck insurance limits spark debate on rail crossing liabilities",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Recent train derailments caused by collisions with commercial trucks at grade crossings have reignited discussions regarding financial responsibility. Because federal insurance minimums for trucks have remained unchanged since 1985, rail operators face significant hurdles when seeking full compensation for damages resulting from accidents involving highway vehicles. This funding gap has drawn renewed attention from industry stakeholders who argue that current insurance requirements fail to reflect modern economic realities and repair costs.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/when-a-truck-derails-a-train-who-pays/"
   }
 ]
