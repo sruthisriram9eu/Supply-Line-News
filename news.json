@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Nearly $1M in trading cards stolen from FedEx truck in California",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "A delivery driver in California discovered a broken cargo lock and the disappearance of high-value sports and Pokemon trading cards valued at nearly one million dollars. The cargo vanished outside a professional grading facility, prompting local detectives to launch an investigation. Law enforcement officials are currently verifying the driver's statement and actively reviewing local surveillance footage to trace how the lucrative shipment was intercepted and stolen during transit.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-and-sports-cards-vanish-from-fedex-truck-driver-discovers-missing-lock"
+  },
+  {
+    "headline": "Texas Sues Gerber Over Heavy Metals in Baby Food",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-20",
+    "summary": "The state of Texas has initiated legal action against Gerber, a subsidiary of Nestlé, regarding allegations of heavy metal contamination in its baby food products. In response to the lawsuit, the manufacturer maintained that it implements rigorous supplier standards, careful ingredient procurement protocols, and comprehensive quality assurance testing to minimize trace heavy metal content throughout its production processes. The case highlights ongoing regulatory and legal scrutiny surrounding food safety and ingredient sourcing practices in the infant nutrition sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/texas-sues-nestles-gerber-over-alleged-heavy-metals-in-baby-food/833374/"
+  },
+  {
+    "headline": "PACCAR Integrates Digital App Platform Into Commercial Fleets",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-20",
+    "summary": "Commercial vehicle manufacturer PACCAR plans to integrate a connected fleet software ecosystem into its Kenworth and Peterbilt truck brands. Launching in early 2027, the technology will connect drivers to an external digital marketplace for operational applications. This development coincides with the preparation for third-quarter financial disclosures, highlighting the company's ongoing investment in digital tools for commercial transport operations and fleet management efficiency.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/paccar-connect-kenworth-peterbilt-launch"
+  },
+  {
     "headline": "Napa Auto Parts Enhances Fulfillment with Automation",
     "continent": "North America",
     "country": "United States",
@@ -2968,35 +2998,5 @@
     "summary": "Daimler Truck executive Karin Rådström emphasizes that expanding the adoption of zero-emission commercial vehicles relies heavily on the rapid development of supporting infrastructure. Although more than sixty electric truck models are currently available, industry growth is constrained by a lack of widespread charging stations and hydrogen refueling networks. Furthermore, the company highlights that policy measures such as carbon-based road tolls are necessary to accelerate the transition toward sustainable freight transport and ensure that refueling infrastructure catches up with vehicle manufacturing capabilities.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/daimler-truck-scale-electric-trucks-europe"
-  },
-  {
-    "headline": "Vancouver Dockworkers Protest Port Automation and AI",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Port workers in Canada recently staged demonstrations at the Port of Vancouver to voice opposition to the implementation of artificial intelligence and automated technology. International labor unions coordinated the protests to demand that technological advancements in maritime facilities do not compromise waterfront employment opportunities, undermine established collective bargaining agreements, or lead to wage reductions for personnel.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dockworkers-protest-at-port-of-vancouver-over-automation-ai"
-  },
-  {
-    "headline": "CBP Seizes $6M in Cocaine Concealed in Empty Trailer",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-02",
-    "summary": "Customs and Border Protection agents at the New York Lewiston Bridge discovered millions of dollars in narcotics concealed beneath the floorboards of an empty commercial semi-trailer. The vehicle, operated by a young driver, was outbound and headed toward Canada when authorities intercepted the illicit shipment. Officials uncovered nearly 180 vacuum-sealed packages during the inspection of the transportation equipment, highlighting ongoing border security and drug interdiction efforts within international freight corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cbp-finds-6m-in-cocaine-hidden-under-floor-of-empty-semi-trailer-bound-for-canada"
-  },
-  {
-    "headline": "Savannah Port Infrastructure Expansion Reaches 60% Completion",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-02",
-    "summary": "The Port of Savannah has achieved a major milestone in its ongoing infrastructure development, surpassing the halfway mark for a multi-billion-dollar capacity enhancement project. Managed by the Georgia Ports authority, this large-scale investment aims to accommodate rising future trade volumes and strengthen regional maritime logistics capabilities by expanding handling capacity and improving operational efficiency at the key southeastern hub.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/savannah-port-project-passes-60-complete-mark"
   }
 ]
