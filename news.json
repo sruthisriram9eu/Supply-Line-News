@@ -1,5 +1,65 @@
 [
   {
+    "headline": "IKEA Faces Criticism Over European Wood Sourcing Practices",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-10-22",
+    "summary": "Environmental advocates have raised concerns regarding the furniture retailer's timber procurement methods across the continent. According to recent findings, the organization falls short of necessary standards to safeguard regional biodiversity. This scrutiny highlights ongoing challenges in responsible sourcing and environmental stewardship within the retail sector, prompting calls for stricter oversight and improved sustainability measures in forest management.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ikea-accused-of-harmful-wood-sourcing-in-europes-forests/833625/"
+  },
+  {
+    "headline": "Helen of Troy allocates tariff refunds to inventory and packaging",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-22",
+    "summary": "Consumer goods manufacturer Helen of Troy intends to utilize a substantial portion of its anticipated tariff refunds to clear excess stock and update product packaging designs. The firm expects to receive $80.5 million, which will help optimize its supply chain operations and refresh the visual presentation of its brand portfolio, supporting better inventory management and market competitiveness.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/hydro-flask-maker-aims-tariff-refunds-at-inventory-packaging/833631/"
+  },
+  {
+    "headline": "Federal Charges Filed in $12M Identity-Based Cargo Theft Scheme",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Federal authorities have arrested a driver connected to a massive cargo theft ring totaling twelve million dollars in stolen goods. The operation utilized stolen carrier credentials and falsified identification documents to infiltrate distribution facilities. Perpetrators intercepted at least twenty-four freight loads before demanding ransoms for the missing inventory. Law enforcement agencies uncovered widespread identity tampering as part of the sophisticated logistics fraud investigation, which targeted vulnerable links in freight transport security.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/feds-charge-driver-in-alleged-12m-cargo-theft-scheme-built-on-hijacked-carrier-identities"
+  },
+  {
+    "headline": "Norfolk Southern Reports Strong Q3 Profit Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Norfolk Southern achieved record financial performance during the third quarter, driven by increased freight volumes and higher shipping rates. The carrier also benefited from substantial fuel surcharges, which contributed to the revenue growth. This positive financial outcome reflects improving operational demand and pricing power within the rail sector during the period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/norfolk-southern-profits-rise-on-higher-volume-and-revenue"
+  },
+  {
+    "headline": "SONAR introduces new routing guide data and carrier monitoring",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Freight software platform SONAR has introduced expanded data tools for logistics operators, including insights into secondary routing guide rates and what shippers pay carriers when initial freight tenders are rejected. Additionally, the platform has upgraded its SearchCarriers feature to include enhanced watchlist and alert capabilities. These additions aim to provide supply chain professionals with deeper visibility into market pricing dynamics and carrier performance tracking across freight networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/sonar-launches-new-routing-guide-and-contract-rate-data-plus-expanded-searchcarriers-monitoring"
+  },
+  {
+    "headline": "US Freight Rail Volumes Rise on Strong Commodity Demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "United States freight rail networks experienced significant volume increases during the most recent reporting period. The upward trend was primarily driven by higher activity in intermodal transport and various commodity sectors. This growth highlights ongoing demand within domestic freight networks, reflecting broader economic shifts in freight movement and rail transportation patterns across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/commodity-markets-whip-up-railfreight-gains"
+  },
+  {
     "headline": "Nestlé to close Ohio manufacturing facility and relocate operations",
     "continent": "North America",
     "country": "United States",
@@ -158,6 +218,16 @@
     "summary": "Automaker Tesla has initiated volume manufacturing for its Class 8 electric Semi truck during the third quarter. This operational milestone arrives in preparation for a broader commercial market expansion slated for 2027. The heavy-duty electric vehicle program aims to transform commercial fleet operations by reducing emissions and reliance on fossil fuels, though scaling production remains a critical challenge for the company's long-term logistics strategy.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches"
+  },
+  {
+    "headline": "San Pedro Bay Ports See Higher Cargo Dwell Times",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "September cargo volume surges at the San Pedro Bay ports have led to increased dwell times for both rail and truck shipments, according to the Pacific Merchant Shipping Association. Unusually heavy volumes characteristic of an extended peak shipping season have slowed movement through the West Coast gateway, resulting in containers and freight remaining idle longer than normal as terminals work to process the influx.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/"
   },
   {
     "headline": "Commercial Fleets Shift to Alternative Risk Captives",
@@ -2928,75 +2998,5 @@
     "summary": "A large chemical manufacturing enterprise has expressed support for the proposed combination of Union Pacific and Norfolk Southern. The industrial shipper anticipates that the resulting transcontinental rail network will improve its connectivity and transportation efficiency to destinations in eastern regions. Advocates for the corporate consolidation argue it will streamline freight operations across the rail corridors, while critics and competing carriers continue to evaluate the potential impacts on service quality and industry competition.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/major-chemical-producer-backs-up-ns-merger"
-  },
-  {
-    "headline": "Ocean Carriers Announce Post-Golden Week Blank Sailings",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "As China observes the Golden Week holiday and factories pause operations, supply chain managers are preparing for potential capacity constraints upon workers' return. Data from Drewry indicates that ocean carriers have scheduled 39 blanked sailings across major deepsea east-west routes, including transpacific, transatlantic, and Asia-Europe lanes, spanning from early October to early November. Shippers are closely monitoring these cancelled sailings to evaluate container availability and adjust their logistics strategies as manufacturing activity resumes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/capacity-conundrum-for-shippers-as-carriers-unveil-post-golden-week-blanks/"
-  },
-  {
-    "headline": "ZF Boosts US Sales Outlook While Halting Local Truck Hybrid Project",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-06",
-    "summary": "ZF Commercial Vehicle Solutions has increased its US revenue projection for the upcoming year by approximately $50 million. Meanwhile, the German automotive supplier has decided to suspend a commercial truck hybridization initiative developed alongside a primary US client. Consequently, the company is shifting its strategic focus for the TraXon Hybrid transmission technology entirely toward the European and Japanese markets, reflecting regional differences in customer demand and regulatory timelines for electrified heavy-duty vehicle adoption.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/zf-raises-us-outlook-pauses-hybrid"
-  },
-  {
-    "headline": "West African Ports Face Severe Congestion Amid Volume Surge",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Rapid trade volume growth along the West African coast has triggered significant port congestion and operational delays. Nations such as Ghana, Guinea, and Sierra Leone are experiencing the heaviest bottlenecks, with cargo handling figures nearing last year's total volumes. This surge in import and export activity has overwhelmed local maritime infrastructure, creating severe logistical hurdles for forwarders and ocean carriers operating within the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/growing-trade-driving-congestion-and-delays-at-west-african-ports/"
-  },
-  {
-    "headline": "India Removes Ship Licensing Rules to Boost Maritime Sector",
-    "continent": "Asia",
-    "country": "India",
-    "category": "international_relations",
-    "date": "2026-10-06",
-    "summary": "India has eliminated licensing mandates for foreign container vessels chartered through domestic entities situated within the Gujarat financial district. This regulatory shift aims to streamline operations for international shipping lines and accelerate maritime sector growth within the country's emerging economy by offering enhanced administrative flexibilities.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/more-liberal-india-ends-licence-requirement-for-box-ship-reflagging/"
-  },
-  {
-    "headline": "Canada Shifts Trade to Europe, Exposing Air Cargo Gaps",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Canadian trade diversification efforts aimed at decreasing dependence on the United States are driving growth in transatlantic air cargo volumes. Facilities like Edmonton International Airport report rising export flows bound for the European Union while shipments to the southern neighbor decline. However, industry forwarders warn that existing capacity limitations and seasonal cutbacks in passenger aircraft schedules threaten to hinder this emerging trade shift, highlighting infrastructure challenges as shipping demands evolve.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/canada-pivot-to-europe-opens-air-cargo-opportunities-exposing-capacity-gaps/"
-  },
-  {
-    "headline": "Flexport launches AI agent freight booking integration",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Flexport has introduced a Model Context Protocol server enabling corporate artificial intelligence agents to autonomously handle freight bookings, shipment tracking, and quote retrieval at pre-negotiated rates. This development eliminates the need for manual platform logins. However, updated platform terms and standard contract laws establish that the liability for any booking errors rests entirely with the organization that deployed and integrated the autonomous agent.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/flexport-lets-ai-agents-book-freight-who-signed-the-contract/"
-  },
-  {
-    "headline": "LX Pantos opens major logistics center in Poland",
-    "continent": "Europe",
-    "country": "Poland",
-    "category": "storage_distribution",
-    "date": "2026-10-06",
-    "summary": "South Korean logistics provider LX Pantos has finalized a significant real estate investment in Katowice, Poland, establishing a large distribution complex spanning over 100,000 square meters. This facility was developed through a joint venture involving state-backed Korean infrastructure and urban development corporations, alongside specialized investment funds and maritime financing. The project is designed to strengthen the company's operational capabilities across Central and Eastern Europe, taking advantage of the region's expanding importance as a central hub for continental supply chain and freight distribution networks.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/lx-pantos-moves-in-eyeing-polands-growing-role-in-european-logistics/"
   }
 ]
