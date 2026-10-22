@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Tesla Starts Volume Production of Electric Semi",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Automaker Tesla has initiated volume manufacturing for its Class 8 electric Semi truck during the third quarter. This operational milestone arrives in preparation for a broader commercial market expansion slated for 2027. The heavy-duty electric vehicle program aims to transform commercial fleet operations by reducing emissions and reliance on fossil fuels, though scaling production remains a critical challenge for the company's long-term logistics strategy.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches"
+  },
+  {
+    "headline": "Knight-Swift Tops Q3 Expectations and Issues Q4 Outlook",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "Transportation provider Knight-Swift exceeded financial expectations during the third quarter of the fiscal year. Following these quarterly results, the carrier released its forward-looking guidance for the upcoming fourth quarter, which aligned closely with broader market consensus estimates. The performance reflects ongoing conditions within the freight and logistics sector, highlighting the company's operational trajectory amid prevailing market dynamics.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-knight-swifts-q3-beats-expectations"
+  },
+  {
+    "headline": "DSV Opens $90M Laredo Facility to Boost Cross-Border Freight",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-21",
+    "summary": "Logistics provider DSV has launched a major facility in Laredo, Texas, valued at $90 million to enhance operations along the US-Mexico border. The new hub integrates warehousing, cross-border transportation, and customs brokerage services into a single location to streamline freight movement between the two countries. This investment addresses growing demands for efficient nearshoring supply chain solutions and helps manage increasing trade volumes flowing through this critical gateway.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dsv-expands-us-mexico-freight-network-with-90m-laredo-facility"
+  },
+  {
     "headline": "TQL Files Defense in Carrier RICO Lawsuit",
     "continent": "North America",
     "country": "United States",
@@ -488,6 +518,16 @@
     "summary": "Singapore must maintain its competitive edge as a major international container transhipment hub amid rising pressure from rival ports investing heavily in automation and digital technologies. Speaking at a union anniversary event, senior leadership cautioned that complacency within port operations could lead to a loss of maritime business to competing facilities in the region. To secure its future standing within global shipping networks, the port must continue adapting and modernizing its operational capabilities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/port-of-singapore-faces-new-challenges-but-also-new-opportunities/"
+  },
+  {
+    "headline": "New Mexico Jury Awards $47M in Tanker Truck Crash Lawsuit",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-19",
+    "summary": "A New Mexico court has ordered a massive financial payout following a collision involving a commercial tanker truck near Carlsbad in 2022. The verdict allocates forty-seven million dollars to a motorist and his mother for damages sustained during the highway incident. While individual traffic accidents primarily concern legal and liability matters, such substantial judgments often influence commercial motor carrier insurance rates, risk management protocols, and safety compliance standards across the freight transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-mexico-jury-awards-47m-in-tanker-truck-crash-lawsuit"
   },
   {
     "headline": "Evos Launches AI to Preserve Retiring Dispatcher Expertise",
@@ -2958,45 +2998,5 @@
     "summary": "The Federal Motor Carrier Safety Administration has updated its regulations to reinstate a thirty-day automatic exemption period regarding hours of service rules. This regulatory adjustment applies specifically to commercial motor vehicle operators engaged in delivering direct assistance during regional emergency situations. By extending the relief timeframe, the agency aims to streamline logistical responses and ensure that essential relief supplies can reach affected areas more efficiently without standard driving time restrictions hindering urgent transport operations.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/fmcsa-restores-30-day-hos-relief-for-truckers-during-emergencies"
-  },
-  {
-    "headline": "Hapag-Lloyd's Zim Acquisition Delayed by Israeli Review",
-    "continent": "Asia",
-    "country": "Israel",
-    "category": "strategy",
-    "date": "2026-10-05",
-    "summary": "The multi-billion dollar acquisition of Zim by Hapag-Lloyd has stalled following a government mandate in Israel requiring a revised proposal. Regulators are demanding enhanced security guarantees to protect national maritime interests before allowing the transaction to proceed. This regulatory intervention forces a strategic reset for the major shipping companies involved as they work to address the state's security conditions and secure official clearance for the deal.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyds-zim-takeover-heads-for-reset-as-israel-requires-new-review"
-  },
-  {
-    "headline": "Optimus Technology Acquires SmartHop Platform",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Optimus Technology has completed the acquisition of SmartHop and its integrated load and fleet management software. The acquiring company intends to distribute the platform at no cost through a network of financial, insurance, and logistics partners, ultimately reaching a vast community of commercial carriers. This strategic move aims to expand technology access for fleet operators and streamline operations across the transportation sector by removing software subscription barriers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/optimus-acquires-smarthop-freight-platform"
-  },
-  {
-    "headline": "C.H. Robinson Acquires RXO in $5.8B Logistics Merger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "C.H. Robinson has reached an agreement to acquire RXO in a multi-billion dollar transaction valued at approximately $5.8 billion, providing shareholders with a 29 percent premium. The strategic consolidation merges C.H. Robinson's international forwarding capabilities and multimodal transport network with RXO's extensive North American truck brokerage, expedited shipping, and last-mile delivery operations. Leadership anticipates the transaction will yield $300 million in annual cost synergies by integrating the complementary transportation services and streamlining the combined enterprise's overall freight network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ch-robinson-to-purchase-rxo-in-multi-billion-dollar-deal/"
-  },
-  {
-    "headline": "Asia-US and Asia-Europe Container Spot Rates Diverge",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Container spot shipping rates between Asian origins and destinations in North America versus Europe have diverged to unprecedented levels. Recent industry analysis indicates that while transpacific pricing to North America is experiencing upward momentum, routes connecting Asia to Europe are seeing declining costs. This unusual dynamic has generated a substantial cost premium for importers bringing goods into North American markets compared to their European counterparts. Industry analysts project that this wide pricing gap will likely remain in place for the next several months, impacting ocean freight budgeting.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/divide-between-asia-us-and-asia-europe-rates-at-historic-levels/"
   }
 ]
