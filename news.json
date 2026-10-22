@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Motive Unveils Fleet AI Agents for Safety and Maintenance",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Technology provider Motive has introduced automated software agents designed to manage safety and maintenance alerts for trucking fleets. Unveiled at an industry conference in North Carolina, the new tools operate according to user-defined rules. Functions include contacting drivers directly, generating maintenance work orders, and escalating critical issues to management personnel. The system aims to help transportation operations scale efficiently without increasing headcount by automating routine problem-resolution workflows across their vehicle networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/motive-launches-ai-agents-fleets"
+  },
+  {
+    "headline": "Late and short deliveries drain $100B from food and CPG sectors",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "A recent analysis indicates that delivery failures impose massive financial burdens on North American food and consumer packaged goods manufacturers. The findings highlight that direct expenses account for up to $11 billion, while indirect losses escalate the total impact to roughly $100 billion. These figures underscore persistent vulnerabilities in fulfillment and distribution networks across the region, heavily affecting vendor relationships and overall operational efficiency for producers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion"
+  },
+  {
+    "headline": "Kuehne + Nagel Reports Strong Airfreight Growth Driven by Tech Cargo",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Kuehne + Nagel experienced a significant expansion in its third-quarter airfreight operations, largely fueled by rising demand for the transport of semiconductors and cloud infrastructure components. The forwarder reported substantial increases in both overall cargo volume and net turnover for its air logistics division. In contrast, competing logistics provider DSV saw a decline in tonnage as it intentionally streamlined its client portfolio and managed organizational adjustments related to a major corporate integration.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hi-tech-cargo-powers-kn-growth-as-dsv-rebuilds-volumes/"
+  },
+  {
+    "headline": "Mexican Airlines Eye US Routes as Bilateral Restrictions Ease",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Following the removal of regulatory sanctions by Washington on carriers from Mexico, domestic airlines are preparing to expand their flight networks northward. The resolution of the long-standing aviation dispute between the two nations paves the way for increased cross-border connectivity and enhanced government support for the aviation sector. However, the current momentum focuses primarily on passenger operations, with dedicated freighter services remaining constrained under the emerging transport framework, signaling growth potential primarily in passenger-driven logistics and trade lanes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/mexican-airlines-eager-to-launch-new-us-flights-but-no-freighters/"
+  },
+  {
     "headline": "Tesla Starts Volume Production of Electric Semi",
     "continent": "North America",
     "country": "United States",
@@ -8,6 +48,16 @@
     "summary": "Automaker Tesla has initiated volume manufacturing for its Class 8 electric Semi truck during the third quarter. This operational milestone arrives in preparation for a broader commercial market expansion slated for 2027. The heavy-duty electric vehicle program aims to transform commercial fleet operations by reducing emissions and reliance on fossil fuels, though scaling production remains a critical challenge for the company's long-term logistics strategy.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches"
+  },
+  {
+    "headline": "Commercial Fleets Shift to Alternative Risk Captives",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-21",
+    "summary": "Persistent unprofitability in commercial auto liability underwriting is driving freight fleets to explore alternative risk management models, particularly captives. Industry experts note that transport operators are moving away from traditional premium models to focus more broadly on total risk costs. This structural shift highlights a growing need for proactive risk mitigation strategies as insurance market pressures mount. Timing the transition is critical for organizations attempting to optimize financial protection and manage ongoing exposures within their operational logistics networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/why-more-fleets-are-looking-at-captives"
   },
   {
     "headline": "Knight-Swift Tops Q3 Expectations and Issues Q4 Outlook",
@@ -2948,55 +2998,5 @@
     "summary": "Food service operations are combating escalating transportation expenses by refining their distribution strategies. Industry professionals recommend assessing delivery schedules, implementing advanced route optimization software, and utilizing robust scenario planning. These measures help hospitality businesses offset rising operational costs tied to vehicle fleets and freight movement, maintaining stability amidst fluctuating energy markets without relying on ad-hoc reactions.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/how-restaurants-can-mitigate-rising-fuel-costs/832023/"
-  },
-  {
-    "headline": "DP World Plans US Return with Corpus Christi Terminal",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-05",
-    "summary": "DP World has secured a lease option agreement with the Port of Corpus Christi to develop a new container terminal. This project marks a strategic reentry into the United States port market for the global terminal operator. Once fully operational, the facility is projected to handle approximately one million twenty-foot equivalent units annually, significantly expanding regional shipping capacity and infrastructure along the Gulf Coast.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dp-world-plots-us-port-comeback-with-corpus-christi-container-terminal"
-  },
-  {
-    "headline": "UK Courier Evri Enters US Market via Acquisition",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "British parcel delivery firm Evri has expanded its international footprint by acquiring Florida-based Cross Border Connect. This strategic purchase enables the carrier to establish operations in the American delivery market, focusing specifically on cross-border e-commerce fulfillment and shipping lanes. The deal marks a major step in the company's broader growth initiatives outside of the United Kingdom, allowing it to compete more directly in the North American logistics sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/uk-parcel-carrier-evri-to-enter-us-delivery-market-with-acquisition"
-  },
-  {
-    "headline": "C.H. Robinson Acquires RXO to Drive Industry Consolidation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Logistics leader C.H. Robinson has announced the acquisition of competitor RXO, a transaction that is expected to accelerate consolidation within the freight and third-party logistics sector. Market speculation surrounding the multi-day deal emerged prior to the official announcement, driven by notable upward momentum in the acquired company's stock price late in the week. This major business combination involves the nation's largest third-party logistics provider absorbing a prominent industry peer, potentially reshaping competitive dynamics across the broader transportation and freight forwarding landscape.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/breaking-c-h-robinson-acquiring-rxo"
-  },
-  {
-    "headline": "ISEE and Holman Partner on Autonomous Yard Truck Services",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Autonomous yard vehicle developer ISEE has formed a strategic alliance with investor Holman to deliver comprehensive fleet solutions. The collaboration combines vehicle leasing, aftermarket retrofitting, and ongoing support services to expand the adoption of driverless yard trucks for supply chain and logistics operations. By integrating vehicle technology with established fleet management resources, the partnership aims to streamline the deployment of automated transport equipment within distribution facilities and freight yards.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/isee-holman-partnership-autonomous-yard-trucks"
-  },
-  {
-    "headline": "FMCSA Extends Emergency Trucker HOS Relief to 30 Days",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "The Federal Motor Carrier Safety Administration has updated its regulations to reinstate a thirty-day automatic exemption period regarding hours of service rules. This regulatory adjustment applies specifically to commercial motor vehicle operators engaged in delivering direct assistance during regional emergency situations. By extending the relief timeframe, the agency aims to streamline logistical responses and ensure that essential relief supplies can reach affected areas more efficiently without standard driving time restrictions hindering urgent transport operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-restores-30-day-hos-relief-for-truckers-during-emergencies"
   }
 ]
