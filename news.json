@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Nestlé to close Ohio manufacturing facility and relocate operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-22",
+    "summary": "Nestlé has announced plans to shut down its manufacturing plant located in Ohio by the conclusion of 2027. Production lines currently housed at this site will be transferred to an existing facility in South Carolina. The food manufacturing corporation stated that shifting consumer demand and fluctuating production volumes necessitated the relocation, framing the move as a sustainable strategy for its operational footprint.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/nestle-to-close-ohio-factory-by-end-of-2027/833587/"
+  },
+  {
+    "headline": "Stord Expands U.S. Footprint With AMS Fulfillment Acquisition",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-22",
+    "summary": "Logistics and warehousing provider Stord has acquired AMS Fulfillment to broaden its operational reach across the United States. This strategic transaction enhances the company's footprint in vital coastal markets on both the East and West Coasts. The purchase builds upon a series of recent corporate deals aimed at strengthening the firm's overall network capabilities and market positioning within the domestic fulfillment sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/stord-expands-network-with-ams-fulfillment-purchase/833617/"
+  },
+  {
+    "headline": "US Trailer Orders Surge 385% Amid Anticipated Price Hikes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Carrier demand for commercial trailers experienced a dramatic monthly surge in the United States, climbing 385 percent as fleet operators rushed to procure units before impending price adjustments take effect. Meanwhile, the heavy-duty commercial vehicle sector exhibited contrasting patterns, with truck sales displaying mixed momentum. This rush highlights ongoing equipment management strategies within the domestic logistics sector as carriers attempt to hedge against rising manufacturing costs.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/us-trailer-orders-soar-385-as-class-8-truck-market-sends-mixed-signals"
+  },
+  {
+    "headline": "UPS Automates Four Facilities to Boost Peak Season Capacity",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-22",
+    "summary": "UPS has finalized modernization efforts at four distribution sites to improve throughput and operational efficiency ahead of the busy holiday shipping period. These technology enhancements are designed to expand processing capabilities and streamline freight handling during peak demand. By investing in facility upgrades, the carrier aims to accelerate transit times and maintain service reliability as package volumes surge across its network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ups-automates-4-additional-facilities-ahead-of-peak-shipping-season"
+  },
+  {
+    "headline": "Union Pacific Reports 16 Percent Profit Rise in Third Quarter",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Union Pacific posted a 16 percent increase in third-quarter profit, driven by growth in freight volumes and favorable pricing adjustments that strengthened overall revenue. The railroad operator experienced solid financial performance during the period, reflecting steady demand for rail transportation services across its network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-union-pacific-earnings-4"
+  },
+  {
+    "headline": "Norfolk Southern Posts Record Revenue on Volume Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Norfolk Southern reported higher third-quarter earnings driven by increased freight volumes and fuel surcharges, resulting in record-breaking revenue for the railway operator. The financial performance highlights sustained demand for rail transportation services amid ongoing operational adjustments within the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-norfolk-southern-earnings-4"
+  },
+  {
+    "headline": "Knight-Swift Seeks Double-Digit Truckload Rate Hikes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Trucking enterprise Knight-Swift Transportation is preparing to pursue double-digit pricing increases as its upcoming customer contract bidding cycle begins next month. The carrier's substantial presence within the spot and contractual one-way truckload segments positions it favorably to push for these rate adjustments. Management anticipates improved market dynamics as transportation providers look to offset ongoing operational pressures and secure better margins during the forthcoming procurement period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/knight-swift-again-eyes-big-rate-increases-as-new-bid-season-nears"
+  },
+  {
+    "headline": "Einride Integrates Nvidia Alpamayo for Autonomous Trucking",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Autonomous electric vehicle developer Einride has announced plans to integrate Nvidia's Alpamayo technology into its heavy-duty trucks. Following a previous agreement to build its next-generation driver system on Nvidia's platform, the company will customize the software using its own route data and operational parameters. Public road evaluations for the newly upgraded autonomous vehicles are scheduled to begin in 2027, marking a significant step forward in the development of self-driving freight transport capabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/einride-nvidia-alpamayo-autonomous-trucks"
+  },
+  {
+    "headline": "CSX Reports Q3 Profit Increase Driven by Higher Freight Volumes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Freight railway operator CSX posted a rise in third-quarter profits, supported by expanding freight shipping volumes, increased income from fuel surcharges, and enhanced operational efficiency. The financial gains reflect positive demand trends across the company's rail network and improved cost management during the period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth"
+  },
+  {
+    "headline": "Typhoon Threatens Recovery of East Asian Ports",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Although container ports along the eastern coast of China are experiencing shorter waiting times and stabilizing operations following earlier storm disruptions, incoming severe weather near Taiwan threatens to reverse these logistical gains. Maritime carriers warn that the approaching storm could halt vessel movements once again, potentially renewing port congestion across the regional supply chain network and stalling recovery efforts for international shipping schedules.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/another-typhoon-threatens-recovery-of-east-asian-ports-from-congestion/"
+  },
+  {
+    "headline": "Intra-Asia Shipping Rates Decline as Port Congestion Eases",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Container shipping costs within Asia are retreating from previous peaks as vessel bottlenecks at major Chinese and regional hubs start to resolve. Drewry's regional index recorded a three percent drop, driven by shorter vessel waiting times across several key maritime routes connecting Shanghai to destinations such as South Korea, Vietnam, and India. Additionally, the recent Golden Week holiday period in China contributed to the temporary easing of operational pressures at ports throughout the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/"
+  },
+  {
     "headline": "Motive Unveils Fleet AI Agents for Safety and Maintenance",
     "continent": "North America",
     "country": "United States",
@@ -2888,115 +2998,5 @@
     "summary": "South Korean logistics provider LX Pantos has finalized a significant real estate investment in Katowice, Poland, establishing a large distribution complex spanning over 100,000 square meters. This facility was developed through a joint venture involving state-backed Korean infrastructure and urban development corporations, alongside specialized investment funds and maritime financing. The project is designed to strengthen the company's operational capabilities across Central and Eastern Europe, taking advantage of the region's expanding importance as a central hub for continental supply chain and freight distribution networks.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/lx-pantos-moves-in-eyeing-polands-growing-role-in-european-logistics/"
-  },
-  {
-    "headline": "Market evaluates financial impact of potential RXO and CH Robinson merger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-06",
-    "summary": "Financial analysts are reviewing the proposed combination of freight brokers RXO and CH Robinson, focusing on projected cost synergies and profit margins. While leadership anticipates hundreds of millions in net savings to bridge earnings gaps between the firms, investors are carefully considering the financial risks involved. Key concerns include the substantial debt load and share issuance required to complete the transaction, alongside ongoing legal considerations that could influence the final outcome of the consolidation.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/analysis-ch-robinson-rxo-the-market-weighs-it-up/"
-  },
-  {
-    "headline": "Suez route returns and capacity growth threaten ocean freight spot rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Container shipping demand measured in TEU-miles has experienced its first regression since January. This downturn is driven by holiday-related blanked sailings in China, ongoing additions of newly built vessels to the global fleet, and ships increasingly resuming transit through the Suez Canal on Asia-Europe trade lanes. Shipping consultancies indicate that long-haul services have faced significant cancellations due to softening export volumes. These combined market factors present a substantial challenge for ocean carriers attempting to stabilize sliding spot rates across transpacific routes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/suez-return-a-major-threat-to-carrier-efforts-to-halt-transpac-spot-rate-slide/"
-  },
-  {
-    "headline": "Truckload Spot Rates Rise Despite Decreasing Shipping Demand",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Freight market indicators reveal a curious divergence between rising road transport rates and declining demand. Even though accepted load volumes have dropped and tender rejections have subsided, both spot and contract pricing continue to climb upward. Industry analysis points to persistent factors such as elevated fuel expenses, restricted transportation capacity, and significant barriers preventing new fleet operators from entering the market, which collectively keep pricing elevated despite the softer shipping volume environment.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/truckload-spot-rates-keep-rising-but-demand-isnt-why"
-  },
-  {
-    "headline": "NMFTA launches threat portal for cyberattack reporting",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-05",
-    "summary": "The National Motor Freight Traffic Association has introduced a dedicated threat portal designed to help organizations report both successful and attempted cyberattacks. By providing a centralized platform for incident sharing, the initiative aims to bolster digital defense measures across the transportation and freight sector. Industry stakeholders can leverage this shared intelligence to identify emerging threats, understand adversarial tactics, and collectively improve the resilience of their supply chain networks against malicious digital activities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cybersecurity-portal-to-fight-bad-guys-open-for-business-nmfta"
-  },
-  {
-    "headline": "Costco CFO defends tariff strategy and pricing approach",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-05",
-    "summary": "Costco executives outlined the company's financial approach regarding tariff refunds during a recent update. Leadership confirmed that the retailer has primarily utilized funds recovered from initial international trade levies to reduce consumer prices rather than retain them as profit margins. This pricing strategy reflects the warehouse club's ongoing effort to maintain value for its membership base amid fluctuating trade policies and regulatory environments.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/costco-cfo-doubles-down-on-tariff-strategy-winks-at-churro-comeback/832022/"
-  },
-  {
-    "headline": "Class 8 Truck Orders Climb 18 Percent in September",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "North American commercial vehicle demand increased in September, with Class 8 truck orders reaching 21,300 units, representing an 18 percent sequential increase and a 3 percent rise compared to the same period last year. Industry data indicates this upward movement is driven by freight carriers beginning to transition their equipment acquisition strategies toward upcoming 2027 compliant model configurations, signaling a shift in fleet investment patterns within the regional transportation market.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/class-8-truck-orders-rise-18-in-september-as-fleets-turn-to-2027-models"
-  },
-  {
-    "headline": "C.H. Robinson Acquires RXO in Record $5.8B Deal",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "C.H. Robinson has completed a massive $5.8 billion acquisition of competitor RXO, establishing the largest truck brokerage transaction in industry history. The monumental merger is expected to yield hundreds of millions in operational synergies, fundamentally reshaping the competitive landscape for third-party logistics providers. Industry analysts are evaluating the long-term implications of this consolidation on the future of freight brokerage services and pricing dynamics across the logistics sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/c-h-robinson-buys-rxo-historys-largest-brokerage-deal"
-  },
-  {
-    "headline": "Evri Expands US Operations with Cross Border Connect Acquisition",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "UK-based logistics provider Evri Group has acquired Cross Border Connect to bolster its presence along the high-growth UK-US ecommerce route. This strategic purchase integrates Evri's operational scale with Cross Border Connect's domestic delivery expertise and proprietary technology. The transaction aims to enhance shipping capabilities for commercial shippers, online marketplaces, and freight partners operating internationally. Co-founder Chris Lentjes will remain at the helm as chief executive officer of the acquired entity, ensuring continuity in leadership as the enterprise pursues further global expansion.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/evri-acquires-us-based-cross-border-connect/"
-  },
-  {
-    "headline": "C.H. Robinson Plans $5.8B Acquisition of RXO",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Freight forwarding and logistics giant C.H. Robinson has reached an agreement to acquire competitor RXO in a transaction valued at $5.8 billion. The proposed combination aims to significantly expand network density and operational scale by integrating RXO's specialized brokerage capabilities, expedited transport options, and last-mile delivery services into the existing portfolio. Regulatory approval is required before the transaction can be finalized, which would unite two major third-party logistics operators and reshape market dynamics within the freight sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ch-robinson-to-buy-rxo-for-58b-combining-3pl-heavyweights/832124/"
-  },
-  {
-    "headline": "USPS Extends Delivery Timelines for Non-Contiguous Regions",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "The United States Postal Service has officially extended shipping timeframes for Ground Advantage and Priority Mail services traveling to and from Alaska, Hawaii, and several other outlying areas. According to the agency, the adjustments reflect more accurate delivery expectations necessitated by geographic distance and transit realities. These changes aim to provide customers with greater predictability regarding shipment arrivals in non-contiguous domestic territories, aligning service standards with actual operational performance capabilities.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/usps-lengthens-some-delivery-expectations-outside-contiguous-us/831958/"
-  },
-  {
-    "headline": "Restaurants Tackle Surging Fuel Expenses Through Logistics",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-05",
-    "summary": "Food service operations are combating escalating transportation expenses by refining their distribution strategies. Industry professionals recommend assessing delivery schedules, implementing advanced route optimization software, and utilizing robust scenario planning. These measures help hospitality businesses offset rising operational costs tied to vehicle fleets and freight movement, maintaining stability amidst fluctuating energy markets without relying on ad-hoc reactions.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/how-restaurants-can-mitigate-rising-fuel-costs/832023/"
   }
 ]
