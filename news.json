@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Daimler Truck Sues Former Manager Over Embezzlement",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-22",
+    "summary": "Daimler Truck North America has initiated legal action against a former fleet manager and their spouse, alleging the misappropriation of nearly $3.8 million. The company is pursuing $6.6 million in total damages resulting from the financial misconduct. Fleet management operations and internal oversight protocols are central to the dispute, highlighting potential vulnerabilities in corporate asset tracking and employee administration within large transportation networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/daimler-truck-sues-former-fleet-manager-over-alleged-3-8m-embezzlement"
+  },
+  {
+    "headline": "Union Pacific Sets Q3 Records Amid Freight Volume Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Union Pacific achieved record quarterly revenue and profitability during the third period, driven by higher shipping volumes and favorable pricing strategies. These commercial gains successfully absorbed headwinds from escalating fuel costs and broader inflationary pressures across the rail freight network, demonstrating resilient operational financial performance despite macroeconomic challenges.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/union-pacific-posts-record-third-quarter-revenue-and-profits"
+  },
+  {
     "headline": "IKEA Faces Criticism Over European Wood Sourcing Practices",
     "continent": "Europe",
     "country": "Multiple",
@@ -2978,25 +2998,5 @@
     "summary": "Recent data from the Logistics Managers Index indicates a notable reduction in available transportation capacity during September, accompanied by sharp increases in shipping prices. This trend highlights ongoing tightness across the freight sector, reflecting shifting balance between supply and demand within the broader distribution network. Industry metrics point to escalating cost pressures for shippers as carrier availability continues to diminish.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/transportation-prices-surge-as-capacity-tightens-further-in-september"
-  },
-  {
-    "headline": "Waabi Expands Autonomous Trucking into Regional LTL Lanes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Autonomous vehicle developer Waabi is expanding its technology testing beyond traditional long-haul truckload routes into regional less-than-truckload operations. The company is partnering with freight provider Warp to evaluate self-driving trucks on a Dallas-to-Houston corridor. According to corporate leadership, the application aims to leverage hours-of-service flexibilities to drive operational efficiencies across shorter regional distribution lanes, signaling a strategic shift for autonomous freight deployment models.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/waabi-volvo-warp-autonomous-ltl-customer-operations"
-  },
-  {
-    "headline": "Chemical producer supports Union Pacific and Norfolk Southern merger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "A large chemical manufacturing enterprise has expressed support for the proposed combination of Union Pacific and Norfolk Southern. The industrial shipper anticipates that the resulting transcontinental rail network will improve its connectivity and transportation efficiency to destinations in eastern regions. Advocates for the corporate consolidation argue it will streamline freight operations across the rail corridors, while critics and competing carriers continue to evaluate the potential impacts on service quality and industry competition.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/major-chemical-producer-backs-up-ns-merger"
   }
 ]
