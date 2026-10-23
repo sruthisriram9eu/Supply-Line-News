@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Drewry Index Shows Rising Trans-Pacific Ocean Freight Rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Recent data from Drewry indicates that global container freight costs increased, driven largely by stronger import demand across major maritime corridors. Specifically, ocean shipping rates on primary routes connecting Asia to North America and Europe experienced upward pressure. This trend reflects shifting trade volumes and cargo movement dynamics within the international container shipping sector as carriers respond to changing market demand.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates"
+  },
+  {
+    "headline": "Roadrunner Launches Canada-to-US Shipping Service",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Less-than-truckload logistics provider Roadrunner has introduced a new outbound shipping route originating in Canada and heading into the United States. Concurrently, the freight carrier announced a 5.9 percent general rate increase slated to become effective on November second. This expansion extends the provider's cross-border footprint while adjusting pricing structures for shippers utilizing its network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/roadrunner-announces-canada-outbound-service"
+  },
+  {
+    "headline": "Wabtec Raises Forecast as Freight and Transit Sales Grow",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-23",
+    "summary": "Rail equipment manufacturer Wabtec upgraded its financial outlook following an increase in third-quarter revenue and earnings. The stronger financial performance was driven by higher demand across both its freight and transit divisions. As a result of these robust quarterly results, the company adjusted its projections upward for the remainder of the fiscal year, reflecting sustained momentum in the rail and transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/wabtec-earnings-rise-on-higher-freight-and-transit-sales"
+  },
+  {
     "headline": "DHL Expands Temperature-Sensitive Air Cargo Lanes",
     "continent": "Global",
     "country": "Multiple",
@@ -2968,35 +2998,5 @@
     "summary": "The Federal Maritime Commission has issued a severe warning to Cosco, threatening a multi-million dollar penalty if the carrier fails to settle its outstanding fine. This enforcement action signals that the regulatory agency remains dedicated to maintaining accountability and establishing fair operational standards for United States shippers interacting with international container lines, despite speculation regarding potential shifts in regulatory oversight under the upcoming administration.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/fmc-clamps-down-on-cosco-fine-non-payment-with-threat-of-hefty-penalty/"
-  },
-  {
-    "headline": "Finland Halts Google Data Center Construction",
-    "continent": "Europe",
-    "country": "Finland",
-    "category": "storage_distribution",
-    "date": "2026-10-07",
-    "summary": "Finnish authorities have temporarily stopped construction on two planned Google data center sites due to environmental concerns regarding the clearing of over 300 hectares of forest. These locations are part of a massive multi-billion-euro regional infrastructure investment recently announced by the technology giant. The regulatory agency intervened following issues with site preparation activities, impacting the early stages of this large-scale European development project.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/bbc-finland-orders-halt-to-work-on-two-google-data-centres/"
-  },
-  {
-    "headline": "Adverse Weather Disrupts Shipping Trade Routes Across the Americas",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Severe weather conditions continue to create operational challenges for maritime trade between North and South America, despite recent increases in transit capacity through the Panama Canal. The imbalance between regional imports and exports persists amid these environmental hurdles. To help address shifting market demands, carriers are adjusting vessel routes, including the introduction of a new shipping service connecting South America's West Coast directly to the United States East Coast port of Gloucester City in New Jersey.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/bad-weather-creates-headwinds-for-trade-between-the-americas/"
-  },
-  {
-    "headline": "Japan Airfreight Exports Surge on Semiconductor and AI Demand",
-    "continent": "Asia",
-    "country": "Japan",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Japanese airfreight exports are projected to experience significant growth, supported by a heavy volume of semiconductor shipments tied to the global expansion of artificial intelligence infrastructure and data centers. Research indicates that outward air cargo from the country will achieve its third straight year of volume gains, reaching a multi-year high. Total air cargo activity, encompassing both inbound and outbound shipments, is likewise expected to expand steadily as high-tech manufacturing supply chains respond to surging technological investments.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ai-and-data-centre-boom-still-driving-increased-global-airfreight-traffic/"
   }
 ]
