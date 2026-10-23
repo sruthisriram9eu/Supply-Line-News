@@ -1,5 +1,125 @@
 [
   {
+    "headline": "DHL Expands Temperature-Sensitive Air Cargo Lanes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "DHL Global Forwarding has introduced specialized air freight routes linking Cincinnati directly with major Asian distribution centers. This infrastructure upgrade is designed to improve supply chain reliability and speed for temperature-controlled healthcare shipments. By strengthening these trans-Pacific connections, the company aims to better support pharmaceutical companies and medical device manufacturers requiring stringent cold chain management across international borders, addressing the growing demand for secure global health logistics.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/dhl-boosts-us-asia-cold-chain-connectivity-for-healthcare-shippers/833763/"
+  },
+  {
+    "headline": "Medtech Leaders Focus on Resilience Through Inventory and Chips",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-23",
+    "summary": "Medical technology industry leaders are actively preparing for potential operational disruptions by increasing buffer inventory levels and conducting rigorous scenario planning. Speaking at a recent sector conference, executives emphasized the critical importance of strengthening direct partnerships with semiconductor manufacturers to safeguard medical device production and ensure steady component availability.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833585/"
+  },
+  {
+    "headline": "Marten Transport Q3 Results Suffer From Rising Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Refrigerated freight carrier Marten Transport experienced a seven percent drop in share value during midday trading following a weak third-quarter financial report. Despite signs of a more balanced supply and demand environment within the freight market, the company's profitability was significantly undermined by escalating operational expenses, specifically driven by higher fuel prices and increased employee health insurance costs. The downward financial performance highlights the ongoing margin pressures facing motor carriers amid broader macroeconomic cost inflation.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cost-pressures-sink-marten-transports-q3"
+  },
+  {
+    "headline": "US Manufacturing Projects Secure Over $1.6B in New Investments",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-23",
+    "summary": "Five major industrial shippers are committing upwards of $1.6 billion to establish new facilities or expand existing operations across the United States. These investments are designed to boost domestic production capacity for various goods, including commercial trailers, specialized cooling systems, school buses, and bottled beverages. The development highlights ongoing efforts to strengthen regional industrial output and manufacturing infrastructure within the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/5-us-manufacturing-projects-bring-more-than-1-6b-in-investments"
+  },
+  {
+    "headline": "Airbus Predicts 46% Growth in Global Freighter Fleet by 2045",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Airbus has released its long-term market forecast, projecting a significant expansion of the worldwide air cargo fleet over the next two decades. According to the two-decade outlook, demand for dedicated cargo aircraft will drive a nearly fifty percent increase in fleet size compared to current levels. This steady upward trajectory in airfreight capacity reflects consistent long-term growth expectations for global shipping markets, with the latest projections remaining closely aligned with the manufacturer's previous annual estimates.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/airbus-sees-46-freighter-increase-by-2045-amid-stable-air-cargo-growth"
+  },
+  {
+    "headline": "Russian diesel tanker bound for US following political agreement",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-23",
+    "summary": "A vessel carrying Russian diesel fuel is currently en route to the United States. This maritime transport movement follows a political agreement between former President Trump and Russian leadership, aimed at increasing fuel supplies domestically ahead of upcoming midterm elections. The shipment marks a notable shift in energy trade pathways, impacting international logistics routes and petroleum distribution patterns between the two nations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal"
+  },
+  {
+    "headline": "Amazon challenges union order for Staten Island facility in court",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Legal proceedings continue regarding labor relations at an Amazon distribution facility in Staten Island, New York, following a unionization vote. The dispute centers on an administrative directive requiring the company to engage in collective bargaining with the labor organization. Court filings in the Fifth Circuit now address the enforcement of this regulatory decision, extending a multi-year contest over workforce representation and operational negotiations at the warehouse site.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/nlrb-ordered-amazon-to-bargain-with-staten-island-workers-its-now-in-federal-court"
+  },
+  {
+    "headline": "Oregon Port Secures $205M for Rail and Container Hub",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "An Oregon port has been awarded $205 million in federal grants to modernize its rail infrastructure and support the development of a proposed container terminal. The investment aims to improve freight movement efficiency in the Pacific Northwest by upgrading critical transportation links, thereby expanding regional cargo handling capacity and strengthening multimodal supply chain connections between maritime shipping and rail networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/a-new-pnw-container-port-205m-for-oregon-rail-project"
+  },
+  {
+    "headline": "Supply Chain AI Stuck in Pilot Stage Due to Skills Gap",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-23",
+    "summary": "Artificial intelligence adoption across various supply chain operations remains low, averaging below two on a five-point scale. According to industry leadership, organizations often purchase software solutions before properly addressing underlying operational procedures or training personnel. This mismatch between technology acquisition and workforce readiness prevents pilot programs from scaling into permanent operational improvements, leaving companies unable to capture the full value of their digital investments.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ascm-dsci-supply-chain-ai-workforce-readiness"
+  },
+  {
+    "headline": "Ocean carriers use blanked sailings to push up spot freight rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Container spot shipping rates across major east-west trade corridors, including Asia-Europe, transpacific, and transatlantic routes, have started climbing following a three-month post-peak decline. Industry data indicates that carriers are strategically implementing canceled voyages, known as blanked sailings, to artificially restrict vessel capacity and support pricing levels. This upward momentum is reflected across several key maritime benchmarks, reversing the recent downward trend that followed the busy shipping season.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/carriers-opt-for-more-blanked-sailings-to-bolster-freight-rates/"
+  },
+  {
+    "headline": "Singapore Urged to Evolve Logistics Beyond Container Shipping",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Singapore faces mounting competitive pressure in maritime trade as regional hubs narrow the gap in container port rankings. Industry analysts emphasize that the nation must look past traditional container throughput metrics to secure its long-term standing in global logistics. As shipping dynamics shift across Asia, the city-state is confronted with the strategic challenge of adapting its maritime infrastructure and trade models to maintain its competitive advantage in an evolving global supply chain environment.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/singapore-must-look-beyond-the-box-to-secure-its-logistics-future/"
+  },
+  {
+    "headline": "Container Shipping Orderbook Reaches Post-2009 High",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Container shipping carriers are aggressively expanding their fleets, pushing the global orderbook to nearly half of current active capacity. The total volume under construction has climbed significantly, driven largely by demand for ultra-large vessels. Chinese shipyards have captured the vast majority of this newbuilding volume, securing a record share of total capacity ordered this year. Major ocean carriers continue to fuel this unprecedented growth trend, despite already elevated fleet-to-order ratios that signal potential capacity shifts across global maritime trade routes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/boxship-orderbook-bulges-as-race-for-giant-vessels-heats-up/"
+  },
+  {
     "headline": "Kuehne + Nagel Expands Air Cargo Share Amid Peak Season",
     "continent": "Global",
     "country": "Multiple",
@@ -2878,125 +2998,5 @@
     "summary": "Japanese airfreight exports are projected to experience significant growth, supported by a heavy volume of semiconductor shipments tied to the global expansion of artificial intelligence infrastructure and data centers. Research indicates that outward air cargo from the country will achieve its third straight year of volume gains, reaching a multi-year high. Total air cargo activity, encompassing both inbound and outbound shipments, is likewise expected to expand steadily as high-tech manufacturing supply chains respond to surging technological investments.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/ai-and-data-centre-boom-still-driving-increased-global-airfreight-traffic/"
-  },
-  {
-    "headline": "Ceva Logistics Unveils Another Major Overhaul",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Global third-party logistics provider Ceva Logistics has announced another comprehensive restructuring initiative, aiming to streamline operations and service delivery. The company, currently operating as a division of container shipping giant CMA CGM, has a history of corporate reinventions dating back to its origins under private equity ownership. Industry observers are closely watching whether this latest strategic pivot will successfully overcome past restructuring challenges and deliver sustainable improvements across its vast operational network and workforce.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/another-ceva-reboot-another-10000-staff-can-it-deliver/"
-  },
-  {
-    "headline": "Adani Airports Halt Russia-Bound Cargo, Stranding Indian Exports",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Air cargo operations across eight Indian airports managed by the Adani Group have temporarily halted the processing of shipments destined for Russia. This sudden suspension has left approximately 150 tonnes of exports, predominantly pharmaceuticals, industrial machinery, and equipment spare parts, stranded over the past week. The restrictions introduce significant bottlenecks to trade between India and Russia, which had previously remained active despite broader international sanctions. Affected businesses are facing operational delays as logistics providers seek alternative pathways for their goods.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/exports-stranded-as-adani-russia-embargo-creates-indian-air-cargo-chaos/"
-  },
-  {
-    "headline": "Moralve adopts Amazon replenishment service for global distribution",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-06",
-    "summary": "Footwear brand Moralve is utilizing Amazon Global Warehousing and Distribution to optimize its product allocation processes in international markets outside the United States. According to the company's chief executive, the fulfillment solution enables more efficient inventory management and replenishment capabilities, supporting the brand's broader global expansion strategy by streamlining how goods are distributed to overseas markets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/why-one-brand-adopted-amazons-growing-inventory-replenishment-service/832260/"
-  },
-  {
-    "headline": "TA Services Expands Texas Cross-Border Capacity",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "TA Services has expanded its operational footprint along the United States and Mexico border by purchasing two Texas-based transportation companies: Carmen Pacheco Transportation and Interload Forwarding. This strategic move incorporates a fleet of 133 trucks and more than 550,000 square feet of storage space into the company's network. The integration aims to enhance cross-border freight capabilities and regional storage capacity to better support bilateral trade operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ta-services-acquires-2-texas-cross-border-carriers-adds-133-trucks"
-  },
-  {
-    "headline": "Old Dominion and Daylight Transport Win Top LTL Honors",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Recent industry survey results show Old Dominion maintaining its position as the leading national less-than-truckload carrier for the seventeenth consecutive year. Meanwhile, Daylight Transport secured the top overall ranking for the third year in a row. These findings come from an annual evaluation conducted by Mastio, which gathers feedback directly from shippers regarding carrier performance across the sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ltl-survey-old-dominion-daylight-transport-take-home-top-honors-again"
-  },
-  {
-    "headline": "A $100 Billion Discrepancy Found in US-China Trade Data",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-06",
-    "summary": "A massive valuation gap of one hundred billion dollars separates official export figures reported by China and the corresponding import numbers recorded by the United States. Experts highlight how granular shipping documentation plays a critical role in resolving such discrepancies, facilitating global sourcing strategies, and enforcing international trade sanctions. Analyzing detailed logistics records allows businesses and regulators to improve transparency within cross-border supply chains and better monitor the movement of goods between these two major economic powers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/100b-trade-gap-china-vs-us-data-exposed"
-  },
-  {
-    "headline": "Transfix Adds E3 Fraud Screening to TMS Platform",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Digital freight network Transfix has incorporated E3 Group identity verification tools directly into its transportation management software. This integration enables brokers to authenticate carrier identities prior to issuing pickup credentials, addressing rising security concerns surrounding fraudulent load pickups and unauthorized freight diversion. By embedding these verification safeguards into daily workflows, the company aims to protect shipments from deceptive actors and secure transaction workflows across the network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/transfix-integrates-e3-driver-fraud-screening-into-tms"
-  },
-  {
-    "headline": "Anduril Industries to Build Navy Submarine Plant in Baltimore",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-06",
-    "summary": "Anduril Industries has secured a contract from the United States Navy to construct submarine components at a redeveloped steel mill location. The new manufacturing facility will be situated within a multimodal logistics hub in Baltimore, leveraging the area's transportation infrastructure to support defense production operations and regional industrial supply chain growth.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-submarine-plant-planned-at-baltimore-multimodal-hub"
-  },
-  {
-    "headline": "Autonomous Trucks Rapidly Deploying Across Major Freight Lanes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-06",
-    "summary": "Driverless commercial vehicles are accelerating their deployment across key freight corridors, shifting from a distant future projection into an immediate reality for the transportation sector. While many traditional operators view this technological advancement with apprehension, the rapid integration of autonomous fleets is altering competitive dynamics within the logistics industry. Companies operating along these established routes must adapt to new operational realities as automated transport systems secure a permanent foothold in everyday freight movement.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-autonomous-trucks-are-coming-for-the-lane-not-necessarily-for-your-business"
-  },
-  {
-    "headline": "Etsy Advances Freight Decarbonization via Electric Trucks",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-10-06",
-    "summary": "Online handmade marketplace Etsy is joining forces with fellow shippers to utilize zero-emission trucking certificates. This initiative is designed to offset the higher operational costs associated with adopting electric vehicles for freight transportation. By participating in this program, the company aims to support sustainable logistics practices and reduce the environmental impact of its supply chain operations without relying on traditional fossil-fuel-powered transport fleets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/how-etsy-is-pushing-freight-decarbonization/832159/"
-  },
-  {
-    "headline": "Cal-Maine Reports U.S. Egg Supply and Demand Rebalancing",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-06",
-    "summary": "Cal-Maine Foods reports that inventory levels are normalizing following a reduction in the domestic laying flock and a decrease in hatched chicks from breeder eggs. Leadership indicates these adjustments are successfully addressing previous market oversupply conditions, stabilizing availability across the domestic market after a period of elevated production volumes.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/cal-maine-points-to-egg-supply-demand-rebalance/832069/"
-  },
-  {
-    "headline": "Levi's and M&S Launch Renewable Energy Initiative for Suppliers",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-10-06",
-    "summary": "Major apparel brands Levi Strauss and Marks & Spencer have partnered with Schneider Electric to introduce the Fashion Renewable Collective. This initiative aims to assist apparel manufacturing vendors in transitioning toward large-scale renewable electricity adoption across their operations, addressing environmental impacts within upstream production networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/levis-marks-spencer-launch-renewable-energy-initiative-for-fashion-supp/832004/"
   }
 ]
