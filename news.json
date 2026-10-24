@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Trump Adjusts Canada Tariffs on Plywood and Packaging",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "international_relations",
+    "date": "2026-10-23",
+    "summary": "The administration has updated trade policies concerning Canadian imports, lifting heavy duties on plywood and specific packaging supplies. While certain items have been granted relief from the steep fifty percent levy, other unspecified goods have been newly subjected to the trade measure. These adjustments are scheduled to take effect at the end of October, altering cost structures for cross-border shipping and material sourcing between the two nations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/"
+  },
+  {
+    "headline": "Levi's Supply Chain Overhaul Delayed Until 2027",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-23",
+    "summary": "Levi's ongoing transition of its distribution network faces extended delays following a facility fire during the third quarter. The complexity of the apparel retailer's stock-keeping unit mix has further complicated the overhaul process. Management now anticipates that the operational improvements and benefits stemming from the network modernization will not materialize until 2027.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/levis-distribution-network-transition-saga-continues-to-drag/833749/"
+  },
+  {
+    "headline": "Trump Opts for Talks Over Tariffs on Wind Turbine Imports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-23",
+    "summary": "Following a formal national security investigation under Section 232, the administration directed cabinet members to pursue diplomatic negotiations regarding wind turbine imports instead of immediately imposing punitive tariffs. Officials have been given a six-month window to engage with trade partners and submit a comprehensive progress report on the ongoing discussions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833840/"
+  },
+  {
+    "headline": "Arctic Northern Sea Route Traffic Rises Amid Suez Canal Recovery",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-23",
+    "summary": "Recent data highlights contrasting trends in global maritime routes as shipping volumes through both Russia's Northern Sea Route and the Suez Canal experience notable activity. Arctic route transits have surpassed previous yearly totals, while containership movements via the Suez corridor reach their highest levels since security disruptions began in the region. Analysts evaluate the economic viability and operational constraints of utilizing northern polar waters compared to traditional global trade pathways, noting that severe environmental challenges and specialized vessel requirements continue to impact broader adoption by major carriers.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/nsr-vs-suez-the-arctic-is-not-a-tradelane-its-a-corridor-with-a-hefty-premium/"
+  },
+  {
     "headline": "Drewry Index Shows Rising Trans-Pacific Ocean Freight Rates",
     "continent": "Global",
     "country": "Multiple",
@@ -2958,45 +2998,5 @@
     "summary": "Solent Freight Services, Tag-N-Trac, and Otonomi have introduced a combined monitoring and insurance subscription designed for forwarders handling temperature-sensitive goods like pharmaceuticals and perishables. The offering integrates real-time shipment tracking with automated financial payouts for delays and thermal excursions, aiming to streamline risk management for high-value logistics operations.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/new-cover-protects-forwarders-from-late-temperature-hit-cargo/"
-  },
-  {
-    "headline": "DHL Report: Tech and AI Drive Global Trade Growth",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-10-07",
-    "summary": "Recent findings from the DHL Globalization Tracker indicate that global trade expansion is accelerating, setting new records despite ongoing geopolitical disruptions and tariff barriers. The research, conducted alongside New York University's Stern School of Business, highlights the artificial intelligence boom as a primary catalyst for international commerce. According to the report, the surging demand for advanced technology effectively counterbalances current regulatory and trade headwinds, serving as a robust engine for cross-border supply chains and worldwide economic connectivity.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dhl-tech-beats-tariffs-the-ai-boom-has-become-a-powerful-driver-of-global-trade/"
-  },
-  {
-    "headline": "German Port Strikes Averted as Union Accepts New Contract Terms",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Industrial action across major German port facilities has been avoided after dockworker union members agreed to a newly proposed labor agreement. While the settlement removes the immediate threat of widespread disruptions at key hubs such as Hamburg and Bremen, pending final approval from employers, supply chain operations continue to face challenges. Specifically, low water levels on the Rhine River are currently restricting barge cargo movements, causing ongoing delays in regional freight transportation and adding pressure to the broader logistics network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/german-port-strikes-averted-but-low-rhine-still-delaying-barge-cargo/"
-  },
-  {
-    "headline": "LAPD Seizes $1M in Stolen Rail Cargo from Local Retailer",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Law enforcement officials in the Los Angeles area recovered approximately one million dollars worth of illicit merchandise originating from major freight networks operated by BNSF and Union Pacific. The seized inventory included footwear and outdoor gear from prominent brands such as Nike, New Balance, Brooks, and Yeti. Authorities are currently investigating the distribution pathways that allowed the stolen goods to enter the retail market. No details on suspects or arrests have been released as the inquiry continues into supply chain theft impacting regional rail transport.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/lapd-uncovers-1m-in-stolen-bnsf-and-union-pacific-rail-cargo-at-los-angeles-area-shoe-retailer"
-  },
-  {
-    "headline": "FMC Threatens Cosco with Massive Fine for Non-Payment",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-07",
-    "summary": "The Federal Maritime Commission has issued a severe warning to Cosco, threatening a multi-million dollar penalty if the carrier fails to settle its outstanding fine. This enforcement action signals that the regulatory agency remains dedicated to maintaining accountability and establishing fair operational standards for United States shippers interacting with international container lines, despite speculation regarding potential shifts in regulatory oversight under the upcoming administration.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/fmc-clamps-down-on-cosco-fine-non-payment-with-threat-of-hefty-penalty/"
   }
 ]
