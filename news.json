@@ -220,6 +220,16 @@
     "sourceUrl": "https://theloadstar.com/analysis-keep-calm-and-hit-the-road-with-dsv/"
   },
   {
+    "headline": "Ryder anticipates fleet adjustments ahead of stringent EPA engine regulations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-22",
+    "summary": "Logistics provider Ryder is evaluating potential fleet expansion strategies in anticipation of upcoming Environmental Protection Agency emissions regulations set for 2027. These impending standards for heavy-duty commercial vehicles will significantly influence equipment purchasing decisions for major commercial transport operators. Meanwhile, the company reported strong financial results for the third quarter, driving a notable increase in its stock value following the earnings announcement.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ryder-fleet-facing-possible-growth-need-as-epa-27-nears"
+  },
+  {
     "headline": "Daimler Truck Sues Former Manager Over Embezzlement",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Financial technology platform Stripe is utilizing analytics from FedEx Dataworks to evaluate small businesses for working capital loans. By incorporating operational metrics and shipping insights into the underwriting process, the collaboration aims to improve funding accessibility for merchants that rely on the logistics provider's shipping network. This initiative bridges financial services with supply chain performance data to streamline credit approvals for smaller enterprises.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/stripe-taps-fedex-data-to-expand-small-business-access-to-financing"
-  },
-  {
-    "headline": "New tracking and insurance product protects sensitive air cargo",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Solent Freight Services, Tag-N-Trac, and Otonomi have introduced a combined monitoring and insurance subscription designed for forwarders handling temperature-sensitive goods like pharmaceuticals and perishables. The offering integrates real-time shipment tracking with automated financial payouts for delays and thermal excursions, aiming to streamline risk management for high-value logistics operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/new-cover-protects-forwarders-from-late-temperature-hit-cargo/"
   }
 ]
