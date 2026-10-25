@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Truckload Contract Rates Sustain Double-Digit Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-25",
+    "summary": "Recent logistics industry data indicates that motor carriers are successfully securing contract rate increases exceeding ten percent. These significant jumps represent multi-year pricing adjustments concentrated into a compressed timeframe. This trend reflects ongoing shifts in market conditions, allowing transportation providers to achieve substantial pricing gains that outpace historical averages for annual carrier agreements.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/truckload-contract-rate-increases-riding-steady-above-10"
+  },
+  {
     "headline": "Trump Adjusts Canada Tariffs on Plywood and Packaging",
     "continent": "North America",
     "country": "Canada",
@@ -2988,15 +2998,5 @@
     "summary": "Recent logistics data highlights a persistent imbalance in the freight sector, where rising tender rejections and steady volume growth over a three-year period fail to attract new trucking capacity. Industry indicators suggest that structural market pressures are preventing fleet expansions, signaling ongoing operational challenges for carriers and shippers alike as the freight sector looks ahead to future market conditions.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/is-trucking-capacity-coming-back-why-new-capacity-isnt-entering-the-2026-freight-market"
-  },
-  {
-    "headline": "Stripe Uses FedEx Data to Fund Small Businesses",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-10-07",
-    "summary": "Financial technology platform Stripe is utilizing analytics from FedEx Dataworks to evaluate small businesses for working capital loans. By incorporating operational metrics and shipping insights into the underwriting process, the collaboration aims to improve funding accessibility for merchants that rely on the logistics provider's shipping network. This initiative bridges financial services with supply chain performance data to streamline credit approvals for smaller enterprises.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/stripe-taps-fedex-data-to-expand-small-business-access-to-financing"
   }
 ]
