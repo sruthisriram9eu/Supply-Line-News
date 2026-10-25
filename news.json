@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Avocado Imports Boost US Cross-Border Logistics",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-25",
+    "summary": "Cross-border avocado trade between Mexico and the United States has generated substantial revenue for regional logistics sectors, contributing hundreds of millions of dollars to domestic trucking and storage operations. Meanwhile, shipping providers are scaling up their infrastructure near the southern boundary. General Logistics Systems is broadening its parcel delivery footprint into the Texas border zone, while Jetco is growing its specialized heavy-transport division to better support industrial shipping demands along the Gulf Coast corridor.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-avocado-imports-generate-641m-for-us-trucking-warehousing"
+  },
+  {
     "headline": "Truckload Contract Rates Sustain Double-Digit Growth",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Bankrupt freight carrier Yellow Corporation and the Teamsters union have reached an agreement regarding WARN Act claims filed on behalf of former employees. Under the terms outlined in a union memo, displaced workers are set to receive a reduced percentage of the compensation they originally claimed. This resolution marks another step in the winding down of operations for the once-major logistics provider, following its massive shutdown that affected tens of thousands of jobs across the United States freight network.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/yellow-corp-teamsters-settle-on-warn-act-claims"
-  },
-  {
-    "headline": "Trucking Capacity Stagnates as Freight Volumes and Rejections Rise",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Recent logistics data highlights a persistent imbalance in the freight sector, where rising tender rejections and steady volume growth over a three-year period fail to attract new trucking capacity. Industry indicators suggest that structural market pressures are preventing fleet expansions, signaling ongoing operational challenges for carriers and shippers alike as the freight sector looks ahead to future market conditions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/is-trucking-capacity-coming-back-why-new-capacity-isnt-entering-the-2026-freight-market"
   }
 ]
