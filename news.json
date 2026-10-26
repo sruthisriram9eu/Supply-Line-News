@@ -1,5 +1,195 @@
 [
   {
+    "headline": "USTR Considers Extending China-Linked Vessel Fee Suspension",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-26",
+    "summary": "The United States Trade Representative is evaluating a proposal to push back the expiration date for a temporary waiver on port fees targeting vessels with Chinese connections. Originally scheduled to conclude in early November, the postponement aims to provide negotiating teams from both nations additional time to pursue bilateral talks. Officials indicate the extended window is necessary to continue constructive dialogue regarding maritime commerce policies and trade relations between the two economic powers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/"
+  },
+  {
+    "headline": "USPS to Introduce Weekly Fuel Surcharge in 2027",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "The United States Postal Service plans to implement a weekly fuel fee for package shipping services starting in 2027, aligning its pricing strategy with industry standards used by private carriers like FedEx and UPS. The upcoming adjustment will directly link shipping surcharges to ongoing fluctuations in diesel and jet fuel prices, which have experienced upward trends throughout the year.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/usps-to-debut-weekly-fuel-fee-in-2027-matching-fedex-ups-practices/872778/"
+  },
+  {
+    "headline": "FedEx Tests Network 2.0 Integration in Texas Facility",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "FedEx is advancing its Network 2.0 initiative by implementing a unified sorting and delivery system at a suburban facility in Dallas. This modernization effort is designed to streamline domestic package handling operations by combining previously separate ground and air shipping networks. The pilot location demonstrates the company's broader operational strategy to improve efficiency, reduce redundancy, and optimize national distribution routes across the United States supply chain.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/inside-fedexs-network-20-overhaul/833618/"
+  },
+  {
+    "headline": "UPS Implements 5.9% Rate Increase and Additional Service Changes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "United Parcel Service has announced a general rate increase of 5.9 percent scheduled to take effect later in December. This adjustment matches a comparable pricing adjustment previously announced by its primary competitor, FedEx. In addition to the standard rate hike, the parcel carrier is introducing several other modifications to its fee structures and service offerings, which will impact shipping costs for businesses and consumers alike during the busy holiday fulfillment period.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/"
+  },
+  {
+    "headline": "CSX targets truckload conversions amid freight market challenges",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Rail operator CSX is actively analyzing freight shipper data to evaluate potential conversions from highway transportation to intermodal services. By offering comparative cost analyses and service evaluations, the railroad aims to capture market share from a struggling trucking sector, positioning rail as a viable alternative for shippers seeking operational efficiencies and cost reductions amidst ongoing freight capacity fluctuations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/"
+  },
+  {
+    "headline": "PepsiCo Closes Tennessee Bottling Facility Amid Softening Sales",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-26",
+    "summary": "Beverage manufacturer PepsiCo has permanently closed a bottling facility located in Tennessee. This operational reduction follows a broader corporate cost-reduction strategy initiated by executive leadership to counteract plateauing sales growth within the beverage sector. The facility closure reflects ongoing adjustments to manufacturing capacity and footprint optimization as the company seeks to improve financial efficiency.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/pepsico-shutters-tennessee-bottling-plant-amid-soda-slump/833586/"
+  },
+  {
+    "headline": "Mexican Truckers Strike Nationwide Over Safety and Costs",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Commercial motor carriers in Mexico have initiated a nationwide strike to protest deteriorating highway security and escalating operating expenses. The industrial action features organized demonstrations across primary freight corridors, which are expected to impede domestic commercial transit and create bottlenecks for cross-border freight movements.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexican-truckers-launch-national-strike-over-highway-security-rising-costs"
+  },
+  {
+    "headline": "USPS Assures Readiness for Holiday Shipping Surge",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-26",
+    "summary": "The United States Postal Service has confirmed its operational preparedness for the high-volume holiday shipping period. Leadership reports that adequate personnel and modernized processing infrastructure are fully in place to maintain efficient package movement and prevent bottlenecks throughout the peak seasonal surge. This operational readiness aims to ensure reliable parcel delivery and maintain network stability during the busiest retail months of the year.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/u-s-postal-service-prepared-for-peak-season-surge"
+  },
+  {
+    "headline": "Japan Airlines Expands Freighter Capacity for Tech Goods",
+    "continent": "Asia",
+    "country": "Japan",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Japan Airlines is increasing its long-haul freight capacity to accommodate rising demand for technology shipments. The carrier is achieving this expansion by outsourcing operations to external airlines that operate large freighter aircraft, allowing them to scale their logistics capabilities and better serve high-tech sector shipping needs without purchasing new planes directly.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/japan-airlines-hires-b747-cargo-carriers-to-meet-high-tech-demand"
+  },
+  {
+    "headline": "Kuehne+Nagel Reports Q3 Profit Rise Driven by Air Freight Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Global logistics provider Kuehne+Nagel experienced a significant profit increase during the third quarter. The financial growth was primarily fueled by strong demand for air cargo services from hyperscale technology companies, alongside operational productivity improvements. The company successfully capitalized on the expanding tech sector's need for rapid air transport capabilities, bolstering its overall market performance and third-quarter financial results.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ai-air-freight-drives-kuehnenagel-profit-increase"
+  },
+  {
+    "headline": "FedEx Appoints New Chief Financial Officer",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-26",
+    "summary": "FedEx has announced the selection of a new chief financial officer, bringing in an experienced executive from the retail sector to lead its financial operations. This leadership transition comes as the major logistics provider navigates evolving market conditions and cost management strategies within its global freight and delivery networks. The incoming finance chief will oversee the company's financial planning, reporting, and capital allocation policies moving forward.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief"
+  },
+  {
+    "headline": "Freight Marketplaces Merge to Solve Capacity Gaps",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Freight marketplaces 123Loadboard and Direct Freight have joined forces to merge their platforms. This integration aims to help freight brokers fill uncovered capacity gaps while enabling carriers to secure better-matched shipments. Industry leaders highlight that addressing unfulfilled loads remains one of the primary logistical challenges facing the transportation sector today. By combining these independent networks, the partnership seeks to improve overall market efficiency and connectivity for both shippers and carriers operating within the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/completing-the-capacity-stack"
+  },
+  {
+    "headline": "US and Denmark sign bilateral maritime and shipbuilding agreement",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-26",
+    "summary": "The United States and Denmark have entered into a maritime agreement focused on strengthening American shipbuilding capabilities. The partnership aims to boost the domestic workforce through targeted training initiatives, encourage foreign investment from Danish entities, and facilitate the transfer of advanced marine technology between the two nations. This collaborative effort seeks to address ongoing industrial capacity challenges within the North American maritime sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/shipbuilding-central-to-new-us-denmark-maritime-pact"
+  },
+  {
+    "headline": "DSV Reports 19.5% Third-Quarter Profit Jump",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "During the third quarter, DSV achieved a 19.5 percent increase in operating profit. The financial growth was driven primarily by ongoing integration savings related to Schenker, which successfully counterbalanced softer performance within the company's road freight transport division. This earnings boost highlights the financial impact of the merger synergies on overall corporate results.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dsv-3q-profit-rises-19-5-as-schenker-integration-lifts-earnings"
+  },
+  {
+    "headline": "Canada's Port of Halifax Secures Tentative Labor Deal",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Management and dockworkers at a major Canadian maritime gateway have reached a provisional collective bargaining agreement. This development successfully averts the threat of industrial action and potential supply chain disruptions at the facility. While the arrangement remains tentative pending ratification by union members, it provides immediate relief to shippers and logistics operators relying on the port for import and export activities, easing concerns over regional freight fluidity.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/canada-port-reaches-new-longshore-union-labor-deal"
+  },
+  {
+    "headline": "Surging car carrier orders spark fears of maritime oversupply",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "The global fleet orderbook for pure car and truck carriers has expanded rapidly, driven by rising vehicle exports from China and high charter rates. Brokerage data shows a dramatic increase in vessel contracting over the first nine months of the year compared to the previous twelve months. This manufacturing and delivery boom threatens to create capacity oversupply if vessel availability outstrips cargo demand. Furthermore, potential import restrictions within Europe targeting Chinese automotive shipments could further constrain trade volumes, adding uncertainty to the long-term outlook for maritime vehicle transport logistics.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/car-carrier-orderbook-surge-raises-oversupply-fears/"
+  },
+  {
+    "headline": "US Postpones Port Fees on China-Linked Ships to January",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-10-26",
+    "summary": "Washington has extended the suspension of planned port fees targeting Chinese maritime, logistics, and shipbuilding industries. Originally scheduled to expire in November, the implementation date is now pushed to January. The extension aims to provide additional time for bilateral trade negotiations between the United States and Beijing regarding the proposed penalties.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-9-january/"
+  },
+  {
+    "headline": "Typhoons and port congestion disrupt Golden Week vessel blanking",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Recent data from Sea-Intelligence indicates that shipping capacity on major transpacific and Asia-Europe routes reached record levels during the Golden Week holiday. Severe weather events, specifically typhoons affecting ports in Asia, triggered significant vessel bunching. This disruption resulted in consecutive port calls known as double sailings, effectively neutralizing ocean carriers' typical strategies to cancel voyages and manage capacity during the seasonal demand lull.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/congestion-induced-double-sailings-cancel-out-golden-week-blanks/"
+  },
+  {
+    "headline": "Global airfreight rates surge as fuel prices climb",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Global airfreight shipping rates have increased significantly, surpassing previous peak season highs during the busiest operational period of the year. Rising jet fuel costs are driving the upward pressure on pricing across international markets. Recent market data shows notable rate increases over a two-week period, with significant year-over-year gains. The Asia Pacific region has emerged as a leading performer in this rising pricing environment, reflecting strong demand and ongoing cost pressures within the sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/asia-pacific-the-star-performer-as-airfreight-rates-take-off/"
+  },
+  {
     "headline": "Ocean Shipping Rates Diverge Across Asia-US and Europe Lanes",
     "continent": "Global",
     "country": "Multiple",
@@ -2808,195 +2998,5 @@
     "summary": "Electronics manufacturer Samsung has initiated legal action against ocean carrier CMA CGM to recover $186 million in financial damages. The dispute centers on accusations that the shipping company levied improper container fees and failed to fulfill agreed-upon inland transportation services. This conflict highlights ongoing friction between major shippers and container lines regarding billing practices and service reliability within global logistics networks.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/samsung-seeks-186m-from-cma-cgm-in-container-charges-dispute"
-  },
-  {
-    "headline": "Savannah Port Achieves Record September Container Volume",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-08",
-    "summary": "The Port of Savannah registered a new historical high for September container throughput, posting a 3.7 percent increase in box traffic compared to the same period in the previous year. This growth highlights ongoing upward momentum in cargo handling at the southeastern maritime facility, reflecting steady shipping activity and operational capacity improvements within the regional freight network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-monthly-mark-for-savannah-container-volume"
-  },
-  {
-    "headline": "SMB Shippers Face Persistent Supply Chain Disruption",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-08",
-    "summary": "Recent data from a Netstock benchmark report indicates that small and mid-sized enterprises are struggling with operational volatility as inventory velocity increases and obsolete stock accumulates. The findings reveal that conventional linear planning models are no longer effective for businesses generating under $250 million in annual revenue, leaving these smaller operators in a constant state of urgency to manage fulfillment and stock levels efficiently.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/the-battle-against-supply-chain-chaos-keeps-smbs-in-overdrive/"
-  },
-  {
-    "headline": "New customs rules increase fourth-quarter compliance burden for shippers",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-10-08",
-    "summary": "Importers face escalating regulatory challenges as newly implemented customs mandates in the United States, Mexico, and Europe intersect with the volatile year-end peak shipping season. According to a recent industry analysis by Maersk, this tightening of rules coincides with post-Golden Week market shifts and ongoing disruptions throughout Asian freight networks. Logistics operators are being advised to improve data accuracy and documentation practices to successfully navigate the increasingly complex operational landscape.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/customs-updates-add-a-compliance-burden-to-potentially-volatile-q4-for-shippers/"
-  },
-  {
-    "headline": "Man Sentenced in $3.5M Amazon Freight Fraud Scheme",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "A federal court sentenced an individual to two years in prison for orchestrating a multimillion-dollar invoice fraud scheme targeting Amazon Logistics. The operation utilized twenty-three separate motor carrier accounts to fraudulently secure and bill for over one thousand delivery assignments before federal authorities dismantled the illicit enterprise. The sentencing highlights ongoing vulnerabilities in digital freight brokering and carrier onboarding processes within major e-commerce supply chains.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/man-gets-2-years-for-3-5m-amazon-fraud-using-23-trucking-accounts"
-  },
-  {
-    "headline": "Hapag-Lloyd to Withdraw from Asia-South America Vessel Alliance",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Hapag-Lloyd has announced its impending departure from a shared vessel arrangement connecting Asia with the east coast of South America, which currently operates alongside partners MSC and Ocean Network Express. While Hapag-Lloyd prepares to exit the route next year, the remaining carriers intend to sustain the weekly maritime connection. The ongoing collaboration will continue to offer freight transport and operational links between numerous Asian ports and South American destinations without interruption.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hapag-lloyd-unveils-plan-to-quit-msc-led-asia-saec-service/"
-  },
-  {
-    "headline": "New Maersk Shuttle Boosts India-Middle East Container Trade",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Elevated freight yields are driving the introduction of new maritime container services connecting India and the Middle East, a regional trade corridor that has experienced repeated disruptions from geopolitical tensions involving Iran and the United States. In response to these conditions, major carriers like Maersk are launching dedicated shuttle loops, such as a new route linking India's Nhava Sheva port directly to Khor Fakkan in the United Arab Emirates, aimed at improving schedule reliability for commercial shippers operating across this vital corridor.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/high-yields-spark-new-container-services-on-bumpy-india-middle-east-trade/"
-  },
-  {
-    "headline": "SME Freight Forwarders Face Tech Adoption Pressures",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-08",
-    "summary": "Smaller logistics operators are under pressure from clients to integrate advanced digital tools, such as artificial intelligence and live tracking systems. While these investments are necessary to match the operational speed of larger competitors, industry leaders warn that high implementation costs and the invisible nature of back-end improvements may risk eroding the personalized service advantages that smaller freight forwarders historically offer.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/customer-demands-for-new-tech-a-dilemma-for-sme-forwarders/"
-  },
-  {
-    "headline": "WiseTech to bill separately for CargoWise AI agents",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-08",
-    "summary": "Logistics software provider WiseTech intends to bill separately for its upcoming artificial intelligence agents rather than including them in existing CargoWise Value Packs, according to financial analyst reports. This monetization strategy is anticipated to become a primary catalyst for revenue growth during the latter half of the fiscal year. Meanwhile, company leadership has noted that multiple autonomous agents are currently under development, though uncertainty remains among users regarding how current subscription packages will integrate these emerging technological capabilities.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/wisetech-ai-charge-plan-raises-questions-over-cargowise-value-packs/"
-  },
-  {
-    "headline": "Hong Kong leverages new canal to boost port cargo volumes",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Hong Kong authorities are planning to utilize the newly constructed Pinglu Canal to counter decreasing cargo traffic at the local port. By connecting industrial areas within Guangxi to the Beibu Gulf, the infrastructure project allows the port to expand its geographic reach into inland domestic markets. Officials expect this connection to enhance regional transshipment capabilities and restore the maritime hub's competitive edge amidst ongoing regional volume declines.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hong-kong-eyes-new-pinglu-canal-as-route-to-port-revival/"
-  },
-  {
-    "headline": "McCormick Raises Inflation Forecast Amid Rising Logistics Costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Spice and seasoning manufacturer McCormick has adjusted its inflation forecast upward, driven by escalating expenses related to freight and raw materials. To counteract these financial pressures, the company is implementing strategic price adjustments and operational efficiency initiatives. Additionally, McCormick is leveraging the integration of a newly acquired subsidiary located in Mexico to help absorb cost increases and stabilize its operational margin against ongoing supply chain volatility.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/mccormick-cites-higher-freight-input-costs-in-lifting-inflation-forecast/832279/"
-  },
-  {
-    "headline": "Trucking sector shows little interest in new red dye diesel tax break",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Carriers and fleet operators are currently demonstrating minimal enthusiasm for a newly available tax incentive tied to the use of red dye diesel. Despite the potential financial relief for motor carriers, market adoption remains remarkably sluggish as transportation providers have been slow to alter their fuel purchasing habits or modify existing operational fueling workflows in response to the policy change.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/red-dye-diesel-break-is-being-greeted-with-a-big-yawn"
-  },
-  {
-    "headline": "Mexico Maintains Position as Top U.S. Trading Partner in August",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-10-07",
-    "summary": "Total commerce between the United States and Mexico reached $94.3 billion during the month of August. Concurrently, Port Laredo processed a record-breaking volume of trade, totaling $38.6 billion. This ongoing commercial activity highlights the robust cross-border supply chain and the heavy reliance on land ports of entry for regional freight movement between the two North American nations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mexico-remains-top-us-trading-partner-as-august-commerce-hits-94-3b"
-  },
-  {
-    "headline": "Union Pacific CEO Confident in Norfolk Southern Merger Approval",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "The leader of Union Pacific expresses strong assurance that regulatory authorities will greenlight an $85 billion consolidation with Norfolk Southern. According to executive leadership, the combined rail network will accelerate freight transit times and enhance competitiveness against the trucking sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/union-pacific-ceo-99-99-confident-rail-merger-will-win-approval"
-  },
-  {
-    "headline": "Air Cargo Shippers Shift to Shorter Contracts",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Recent data from Xeneta indicates a growing reluctance among air cargo shippers to commit to long-term agreements. During the third quarter, three-month contracts accounted for sixty percent of all new shipper agreements, marking a significant increase from forty-seven percent in the previous quarter. This trend reflects increasing caution and a preference for flexibility within the air freight market as participants navigate ongoing rate volatility and shifting capacity conditions.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/air-freight-shippers-weary-of-long-term-fixed-contracts/832286/"
-  },
-  {
-    "headline": "Radiant Logistics Acquires Whitacre's Dallas Operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Radiant Logistics has completed the acquisition of Whitacre Logistics Services' brokerage operations located in Dallas. This transaction integrates a specialized intermodal and over-the-road transportation division into the acquiring company's existing road and rail business unit. The strategic move is designed to broaden the scope and capabilities of the company's bi-modal freight brokerage platform, enhancing its service offerings in domestic transportation markets.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/radiant-logistics-latest-deal-expands-its-bi-modal-broker-platform"
-  },
-  {
-    "headline": "IMC Logistics Orders 50 Tesla Semis for California Operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Intermodal drayage provider IMC Logistics has placed an order for 50 Tesla Semi trucks to expand its California fleet. The acquisition includes Standard Range models designated for port drayage operations, alongside Long Range variants assigned to freight corridors connecting Southern California with inland logistics facilities. This deployment highlights the ongoing integration of battery-electric heavy-duty vehicles into regional drayage networks to support freight movement and sustainability initiatives.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/imc-logistics-tesla-semi-order"
-  },
-  {
-    "headline": "SCOTUS Denies Garten Trucking NLRB Union Dispute Appeal",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "The Supreme Court declined to review an ongoing labor dispute between Garten Trucking and a labor union, leaving a previous National Labor Relations Board order intact. The high court's decision brings finality to this phase of the litigation, impacting the motor carrier's operational and labor management strategies as it navigates regulatory compliance and workforce relations within the freight and logistics sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/garten-trucking-appeal-on-nlrb-order-rejected-by-scotus"
-  },
-  {
-    "headline": "Coretura Proposes Shared Operating System to Enhance Commercial Trucks",
-    "continent": "Europe",
-    "country": "Sweden",
-    "category": "manufacturing",
-    "date": "2026-10-07",
-    "summary": "Modern commercial trucks are equipped with numerous embedded computers that begin aging immediately after assembly. To counteract this decline in performance and capability over time, Coretura chief executive Johan Lundén advocates for the implementation of a shared operating system. This software-driven approach aims to enable continuous vehicle improvement and feature updates long after the commercial vehicles depart the manufacturing facility, shifting the paradigm of heavy-duty transport maintenance and lifecycle management.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/coretura-software-defined-truck-operating-system"
-  },
-  {
-    "headline": "Panama Expands Audit in Hutchison Port Dispute",
-    "continent": "North America",
-    "country": "Panama",
-    "category": "international_relations",
-    "date": "2026-10-07",
-    "summary": "The comptroller general of Panama is forwarding additional audit documents regarding former port regulators and executives to prosecutors. This developing criminal investigation into the Panama Ports Company could significantly impact the ongoing dispute with CK Hutchison, potentially outweighing the influence of traditional damages assessments and international arbitration outcomes. The situation highlights the escalating legal risks faced by multinational operators dealing with regulatory changes and government scrutiny in key maritime trade hubs.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/panama-prosecutors-could-do-more-damage-to-hutchison-than-arbitrators/"
   }
 ]
