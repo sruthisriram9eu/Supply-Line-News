@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Navia Expands Southeast Asian Logistics Footprint in Malaysia",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "category": "logistics",
+    "date": "2026-10-26",
+    "summary": "Global logistics provider Navia has opened a new freight forwarding office in Johor Bahru, marking its second facility in Malaysia and twelfth in the Asia-Pacific region. Strategically positioned near Singapore along a major international trade corridor, the expansion strengthens the company's regional forwarding capabilities and supports its broader network growth across Southeast Asia, enhancing service delivery for cross-border freight operations in the area.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/"
+  },
+  {
     "headline": "Avocado Imports Boost US Cross-Border Logistics",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Two major logistics enterprises have agreed to pay a combined settlement of two million dollars to resolve legal actions regarding alleged unfair hiring practices. The companies faced scrutiny over recruitment methods that reportedly violated employment discrimination regulations. This financial resolution concludes the federal inquiries into their employment procedures, prompting both organizations to review and adjust their internal hiring protocols to ensure future compliance with labor laws.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/logistics-firms-to-pay-2m-to-settle-hiring-discrimination-cases"
-  },
-  {
-    "headline": "Yellow Corp and Teamsters Reach Settlement on WARN Act Claims",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-07",
-    "summary": "Bankrupt freight carrier Yellow Corporation and the Teamsters union have reached an agreement regarding WARN Act claims filed on behalf of former employees. Under the terms outlined in a union memo, displaced workers are set to receive a reduced percentage of the compensation they originally claimed. This resolution marks another step in the winding down of operations for the once-major logistics provider, following its massive shutdown that affected tens of thousands of jobs across the United States freight network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/yellow-corp-teamsters-settle-on-warn-act-claims"
   }
 ]
