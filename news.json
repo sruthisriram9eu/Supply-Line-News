@@ -1,5 +1,185 @@
 [
   {
+    "headline": "UPS Projects Q4 Volume Drop Amid Declining Amazon Shipments",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "The major shipping company anticipates a year-over-year decrease in domestic package volumes during the upcoming peak holiday season as reliance on its largest e-commerce customer diminishes. Despite the anticipated reduction in overall shipment numbers, leadership expects stronger revenue performance driven by growth across alternative customer segments. This strategic shift reflects the carrier's ongoing efforts to rebalance its network capacity and diversify its revenue streams away from heavy dependence on a single dominant partner.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ups-gears-up-for-peak-season-with-less-amazon-volume-in-tow/872845/"
+  },
+  {
+    "headline": "MAAP Integrates Planning and Sourcing on Bamboo Rose Platform",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-10-27",
+    "summary": "Cycling apparel brand MAAP has adopted a unified technology platform provided by Bamboo Rose to streamline its procurement and operational planning processes. By consolidating these functions, the company joins other major retailers such as Walmart and Pacsun in leveraging digital solutions to optimize supply chain visibility and execution. This implementation aims to improve coordination across product development and vendor sourcing stages, supporting more efficient enterprise scaling and operational resilience.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/cycling-apparel-company-unites-planning-sourcing-on-single-platform/833732/"
+  },
+  {
+    "headline": "Audi to Build First US Manufacturing Plant in Georgia",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-27",
+    "summary": "Automotive manufacturer Audi is committing four billion dollars to establish its inaugural production facility in the United States, located in Georgia. The plant aims to achieve an annual output capacity of up to 200,000 automobiles. Groundbreaking is scheduled for 2027, with vehicle manufacturing projected to commence during the early 2030s. This strategic move expands the company's North American industrial footprint, localizing production capabilities to better serve regional markets and mitigate cross-border transportation vulnerabilities.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/"
+  },
+  {
+    "headline": "Overcoming the Execution Challenge in Supply Chain AI",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-27",
+    "summary": "Artificial intelligence tools are increasingly integrated into supply chain software, yet their ability to drive effective operational decisions remains under scrutiny. Industry experts emphasize that modern language models require a robust decision engine infrastructure to function reliably. Planners are advised to implement specific evaluation frameworks before adopting automated recommendations into their daily workflows, ensuring these digital solutions deliver practical value rather than theoretical insights.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/"
+  },
+  {
+    "headline": "Merchants Fleet Deploys 113 Shared Vehicles in Puerto Rico",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Merchants Fleet deployed a total of 113 shared vehicles in Puerto Rico to support operations for a major international e-commerce enterprise. The deployment, which began on September 14, provides commercial transport assets tailored to corporate distribution needs within the region. Specific financial details, pricing structures, and the identity of the client company were not publicly released by the fleet management provider.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/merchants-fleet-fleetshare-puerto-rico"
+  },
+  {
+    "headline": "CDL Enforcement May Spur Long-Term Trucking Market Recovery",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "According to the chief executive of Knight-Swift, increased regulatory scrutiny regarding commercial driver licenses and tighter broker-carrier standards could fundamentally alter the competitive landscape of the freight sector. This enforcement is anticipated to disproportionately advantage legacy transportation fleets that maintain robust compliance frameworks and superior safety histories, potentially setting the stage for a sustained market recovery.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/knight-swift-ceo-says-cdl-crackdown-could-fuel-lasting-trucking-recovery"
+  },
+  {
+    "headline": "Band24 Invites Testers for Multi-Network Asset Tracker",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-27",
+    "summary": "Asset-tracking provider Band24 is recruiting corporate participants for an early-access program evaluating Terra, a new tracking device that integrates cellular, satellite, and Bluetooth technologies. Scheduled to close its application window on November 13, the initiative aims to help supply chain and logistics companies maintain continuous oversight of shipping containers, trailers, and remote freight equipment operating beyond standard cellular coverage areas, ahead of the product's eventual commercial launch.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/band24-seeks-early-testers-for-satellite-connected-asset-tracker-ahead-of-nov-13-deadline"
+  },
+  {
+    "headline": "Miami Airport Partners with Kalé for Shared Cargo Platform",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Miami International Airport is collaborating with technology provider Kalé to implement a centralized data exchange portal. This shared logistics platform is designed to connect various air cargo stakeholders operating within the airport community, aiming to streamline information sharing, enhance operational efficiency, and improve coordination across the local supply chain network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/miami-airport-to-deploy-shared-logistics-platform-for-cargo-community"
+  },
+  {
+    "headline": "Double Nickel Introduces AI Agent for Driver Compliance Checks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "A New York-based technology firm has unveiled an artificial intelligence tool designed to streamline the driver recruitment process for motor carriers. The system aims to accelerate regulatory compliance by automating employment verification tasks. During beta trials involving multiple mid-sized trucking companies, the automated agent successfully handled a significant portion of verification requests without human intervention, addressing a historically sluggish administrative hurdle in driver onboarding.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/double-nickel-launches-ai-agent-to-automate-driver-employment-checks"
+  },
+  {
+    "headline": "Courts Increasing Freight Liability for Brokers in Trucking Accidents",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Judicial standards regarding accident responsibility within the freight sector are undergoing a major evolution. Rather than focusing on isolated legal decisions, this trend demonstrates a continuous expansion of legal accountability moving upward to impact freight brokers during trucking crashes. Many industry participants remain unprepared for this changing legal landscape, which alters how liability is assigned when contracted motor carriers are involved in road accidents.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-biggest-shift-in-freight-liability-since-deregulation-is-here-and-few-are-ready-for-it"
+  },
+  {
+    "headline": "California Police Recover $54K Stolen Hot Wheels from Train",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Local law enforcement in Colton, California, arrested an individual and recovered fifty-four thousand dollars worth of stolen Hot Wheels toys following a freight train burglary. The BNSF railway shipment was targeted, prompting an ongoing investigation into how the perpetrators managed to access the cargo cars while in transit. Authorities have released video footage related to the ongoing case as security concerns surrounding rail freight operations continue to draw attention from industry stakeholders and law enforcement agencies.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/police-recover-54k-in-hot-wheels-after-bnsf-freight-train-burglary-in-california"
+  },
+  {
+    "headline": "Spartan Carrier Group adopts AI agents for operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Spartan Carrier Group recently developed its initial artificial intelligence agent to automate hourly customer reports within a remarkably brief timeframe. The leadership team encourages non-technical dispatchers to take the lead in designing subsequent automation tools. This shift highlights a broader operational strategy aimed at integrating advanced technology directly into daily freight workflows to improve efficiency and reduce the need for specialized coding expertise among staff members.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/spartan-carrier-alvys-foundry-ai-agents"
+  },
+  {
+    "headline": "Typhoon Champi Fails to Halt Container Rate Decline",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Recent disruptions caused by Typhoon Champi and ongoing congestion across Southeast and South Asian ports have offered a brief lift to container freight rates and caused minor schedule delays. Nevertheless, market analysts indicate this temporary boost will not reverse the broader downward trend in shipping costs. Persistent vessel overcapacity, aggressive pricing rivalry among carriers, and the arrival of the traditional winter slack season are expected to maintain downward pressure on the market.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/champis-support-wont-reverse-market-trend/"
+  },
+  {
+    "headline": "SITC Issues Major Special Dividend Following Record Share Price",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Regional maritime carrier SITC, based in Hong Kong, has announced a substantial special dividend payout totaling $344 million to its investors. This financial move follows a period of record-breaking performance for the company's stock value. The leadership board formally authorized the distribution, which amounts to $0.13 per ordinary share, reflecting robust financial returns within the intra-Asian container shipping sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shipping-series-sitc-shareholders-in-line-for-bumper-payout/"
+  },
+  {
+    "headline": "UK rail freight suspended at London Gateway and Tilbury after storm",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Severe storms in the United Kingdom caused a train derailment and damaged over a kilometer of railway track, leading to the suspension of rail freight services at key south-eastern terminals including London Gateway, Tilbury, and Tilbury 2. The sudden disruption has forced supply chain operators and shippers to urgently seek alternative transportation methods for inland container distribution throughout the region while infrastructure repairs are carried out.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/no-rail-freight-from-london-gateway-and-tilbury-after-storms/"
+  },
+  {
+    "headline": "Unpredictable Tariffs Trigger Major Disruptions at Container Terminals",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-10-27",
+    "summary": "Sudden tariff policy announcements are creating severe cargo surges and operational disruptions at container terminals, according to Terminal Investment Limited executives speaking at an industry conference. Rather than diminishing overall trade volume, these unpredictable trade measures are causing shifts in shipping routes, highlighted by cargo moving away from Canadian ports into facilities in the United States. Terminal operators struggle to absorb these rapid volume fluctuations, which lead to significant logistical challenges across the supply chain network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/tariff-anouncements-cause-cargo-chaos-for-box-terminals-says-til/"
+  },
+  {
+    "headline": "Container Shipping Reliability Shifts as Gemini Declines",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Recent data from Sea-Intelligence indicates that schedule reliability for east-west container shipping routes experienced notable shifts during August and September. MSC secured the top position for reliability, narrowly outperforming the newly formed Gemini Cooperation. While Maersk maintained its status as the most reliable individual ocean carrier, the Gemini partnership between Maersk and Hapag-Lloyd suffered a significant month-on-month decrease in performance. Meanwhile, MSC experienced a much smaller decline, allowing it to edge ahead in overall network reliability rankings for the period.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/maersk-the-most-reliable-carrier-hits-and-misses-for-gemini/"
+  },
+  {
+    "headline": "Maritime Cyber Attack Exposes Vendor Supply Chain Vulnerability",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-27",
+    "summary": "An extortion collective recently targeted nearly forty logistics and maritime entities almost simultaneously. Security analysts indicate that the breach likely originated from a single shared software vendor rather than multiple independent hacks. This incident highlights severe vulnerabilities within the interconnected digital supplier network of the global shipping industry, demonstrating how third-party data repositories can expose numerous downstream enterprises to simultaneous compromise and data extortion threats.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/one-vendor-38-targets-shippings-cyber-supply-chain-in-focus/"
+  },
+  {
     "headline": "Fresh produce shippers demand better carrier performance metrics",
     "continent": "Global",
     "country": "Multiple",
@@ -2818,185 +2998,5 @@
     "summary": "Freight-tech startup Freightmate has admitted to obtaining and utilizing confidential shipping records belonging to Flexport, concluding a notable legal battle concerning data rights in artificial intelligence logistics tools. A California federal court approved the resolution after earlier determinations found that the startup and its leaders neglected to maintain crucial electronic evidence, which hindered the plaintiff's ability to investigate the matter fully. This outcome highlights growing legal scrutiny regarding data ownership in the development of automated freight technologies.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/freightmate-admits-using-flexport-docs-as-ai-trade-secrets-case-settles/"
-  },
-  {
-    "headline": "AI Integration Could Reduce Air Cargo Processing Times Significantly",
-    "continent": "Europe",
-    "country": "Greece",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Artificial intelligence tools could eliminate approximately eight hours from air cargo shipment turnaround times by streamlining dispatch and collection schedules ahead of standard release triggers. Industry leaders note that significant operational data within the sector currently remains inaccessible inside unstructured formats such as PDFs, emails, and spreadsheets. Leveraging advanced technology to process this information can vastly improve efficiency and optimize logistics workflows across the global air freight sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ai-could-cut-eight-hours-from-air-cargo-collections-says-handling-chief/"
-  },
-  {
-    "headline": "Attacks on Saudi Airports Reduce Outbound Air Cargo Capacity",
-    "continent": "Middle East",
-    "country": "Saudi Arabia",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Recent security incidents at Saudi airports have led to flight suspensions, resulting in a significant reduction in outbound air cargo capacity from Riyadh. Data indicates that total capacity on both dedicated freighters and widebody passenger aircraft dropped by over a third within a twenty-four-hour period. This sudden contraction in available freight and bellyhold space arrives just as the shipping sector prepares for the upcoming peak season, raising concerns about potential bottlenecks and rate pressures for regional and international supply chains.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/saudi-disruption-squeezes-air-cargo-capacity-as-peak-looms/"
-  },
-  {
-    "headline": "Autonomous Trucking Sector Shifts Focus to Financial Viability",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "The autonomous trucking industry is transitioning its primary objective from technological demonstration to commercial scalability and financial sustainability. Over the upcoming year, autonomous vehicle developers must prove their business models by addressing critical economic factors, including capital requirements for prolonged operating periods, production timelines, and revenue-sharing structures with fleet operators. As firms like Aurora Innovation advance their deployment plans, the market will closely evaluate how these automated freight solutions justify their long-term investment costs and achieve profitability.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/analysis-driverless-trucking-from-proving-drivers-to-proving-businesses/"
-  },
-  {
-    "headline": "Intra-Asia Container Freight Rates Decline Slightly",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Container shipping costs within Asia experienced a minor decrease following a peak achieved prior to the Golden Week holiday in China. The regional index dropped one percent to reach a specific per-container threshold, halting a six-week upward trajectory. Despite this recent dip, shipping prices remain significantly elevated compared to the previous year, driven by persistent challenges including higher fuel expenses, ongoing geopolitical conflicts, and various operational limitations affecting maritime transport throughout the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/tradelanes-intra-asia-freight-rates-ease-after-post-covid-high/"
-  },
-  {
-    "headline": "Containership Charter Rates Surge as Liners Scramble for Tonnage",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "The containership timecharter market has experienced a significant upward trend driven by major European liner operators aggressively securing available vessels. Market benchmarks reflect this increased demand and urgency, with the assessed one-year rate for a geared non-eco 1,700 teu benchmark vessel climbing substantially between June and September. This market momentum highlights heightened competition among carriers to lock in capacity amid tightening vessel availability.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/is-fomo-driving-sentiment-in-the-containership-charter-market/"
-  },
-  {
-    "headline": "Molson Coors Appoints New Americas Supply Chain Chief",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-08",
-    "summary": "Molson Coors has named Matthew Hook as its new chief supply chain officer for the Americas region, effective mid-October. In this leadership position, he will oversee ongoing efforts to modernize operational processes and improve overall service performance across the beverage company's supply chain network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832441/"
-  },
-  {
-    "headline": "Mesabi Metallics Plans $15B Steel Mill in Iowa",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-08",
-    "summary": "Mesabi Metallics has announced plans to construct a massive steel mill in Iowa with an investment of $15 billion, which will become the largest facility of its kind in the United States and add ten million tons of production capacity annually. Additionally, the initiative includes a $3 billion investment to finalize an iron ore mining project in Minnesota, significantly expanding domestic industrial capabilities and raw material sourcing for the national manufacturing sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/trump-unveils-plans-to-build-15b-steel-mill-in-iowa/831654/"
-  },
-  {
-    "headline": "Nippon Express launches five-day US long-haul transport service",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Logistics provider Nippon Express has introduced a five-day transport service designed to improve delivery reliability across the United States. The offering connects company warehousing facilities located near the Port of Los Angeles with major metropolitan destinations nationwide. By streamlining long-haul transit routes, the initiative aims to enhance efficiency for cargo moving from major maritime gateways to domestic distribution hubs.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/nippon-express-aims-to-boost-us-transport-reliability-with-5-day-service/832372/"
-  },
-  {
-    "headline": "NJ CDL school sues FMCSA over emergency shutdown and removal",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "A commercial driver's license training facility in New Jersey has filed a legal challenge against the Federal Motor Carrier Safety Administration following an emergency administrative removal from the federal training registry. The institution is petitioning for its credentials to be reinstated, disputing the validity and sufficiency of the documentation and evidence used by federal regulators to justify the sudden shutdown of its operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-jersey-cdl-school-lawsuit-questions-evidence-behind-fmcsa-shutdown"
-  },
-  {
-    "headline": "CBP begins processing tariff refunds for liquidated entries",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-08",
-    "summary": "US Customs and Border Protection has initiated the disbursement of tariff refunds associated with liquidated entries. Importers are eligible for these reimbursements provided they successfully submitted a valid importer of record number prior to the established July deadline. The agency is currently restricted to processing payments exclusively for these compliant accounts, leaving other applicants awaiting further administrative action as the financial adjustments proceed across affected trade channels.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/cbp-starts-paying-out-ieepa-tariff-refunds-for-finally-liquidated-entries/832411/"
-  },
-  {
-    "headline": "FMCSA Advances Split Sleeper Berth Pilot Program",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "The Federal Motor Carrier Safety Administration is initiating a new public comment period as it progresses toward launching a pilot program focused on truck driver sleeper berth hours. This upcoming initiative aims to evaluate alternative rest schedules for commercial motor vehicle operators, potentially reshaping current hours-of-service regulations within the freight and logistics sector. Industry stakeholders will have the opportunity to provide feedback before the trial officially begins.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-split-sleeper-berth-pilot-program-moves-closer-to-launch"
-  },
-  {
-    "headline": "FMCSA Grants AV Truck Fleets Five-Year Warning Beacon Exemption",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Autonomous vehicle trucking operators have secured a five-year regulatory exemption from traditional warning triangle requirements, addressing a key compliance question previously raised by investors and industry partners. The Federal Motor Carrier Safety Administration ruling remains in effect through October 2031, providing long-term operational clarity for autonomous freight transport companies navigating federal safety standards.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-aurora-warning-beacon-exemption-five-year"
-  },
-  {
-    "headline": "Global Container Volumes Reach Record 17.46 Million TEUs",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Worldwide container shipping volumes reached an all-time high of 17.46 million TEUs during the month of August, according to Container Trades Statistics data. Concurrently, ocean freight pricing climbed to its highest level in two years, reflecting intensified demand across major maritime trade routes. This milestone highlights continued robust activity within the international logistics sector, driven by heightened shipping volumes and rising transportation costs for global supply chains.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/global-container-volumes-hit-record-17-46-million-teus"
-  },
-  {
-    "headline": "SONAR Adds Intermodal Rates and Cost Conversion Features",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "FreightWaves has updated its SONAR Rate Intelligence platform to incorporate intermodal contract and spot pricing alongside rail ramp data. The new functionality features a conversion savings tool designed to help supply chain professionals directly evaluate and compare the financial differences between traditional truckload shipping and intermodal transportation options. This addition aims to assist organizations in optimizing freight modal selection and improving overall transportation cost management.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/sonar-rate-intelligence-adds-intermodal-rates-and-truckload-to-intermodal-conversion-savings"
-  },
-  {
-    "headline": "January Disruption Pressures European Ecommerce Logistics",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-08",
-    "summary": "European ecommerce networks face intense fulfillment pressures during January despite the traditional post-holiday lull. A combination of post-Christmas product returns, high consumer demand for health and fitness items at the start of the year, and multiple weekday public holidays severely restricts delivery windows across several European Union markets. Consequently, logistics operators must manage heavy operational strain during a period that typically offers relief after the peak holiday shipping season.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/europe-january-ecommerce-peak-delivery-days/"
-  },
-  {
-    "headline": "Amazon introduces new air freight services from China to US",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Amazon has rolled out two new air cargo shipping options connecting China and the United States to assist sellers with inventory replenishment and upcoming peak seasonal demand. The newly introduced services, designated as Air SMP and Economy Air, aim to accelerate transit times for goods moving across the Pacific. This development provides businesses utilizing Amazon logistics infrastructure with additional capacity and routing choices to manage supply chain flows and mitigate fulfillment bottlenecks ahead of high-volume retail periods.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazon-launches-2-new-china-to-us-air-freight-options/832364/"
-  },
-  {
-    "headline": "US factory backlogs rise as material and freight costs grow",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-08",
-    "summary": "Unfilled factory orders reached $1.61 trillion during August, while shipments remained stagnant. At the same time, expenses for essential industrial inputs such as steel, freight transportation, and diesel increased in September. This combination of rising operational costs and mounting backlogs highlights ongoing challenges within the industrial sector as manufacturers struggle to clear pending orders efficiently amidst escalating transportation and raw material expenses.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/factory-backlogs-freight-steel-costs"
-  },
-  {
-    "headline": "AI Infrastructure Boom Shakes Up Trans-Pacific Logistics",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "The rapid expansion of artificial intelligence data centers is generating high-value shipping demand for logistics providers operating across the Asia-Pacific region and the United States. This technological surge is reshaping traditional trans-Pacific trade lanes as operators rush to transport specialized hardware and infrastructure components required to support massive computing facilities, creating both opportunities and capacity challenges within the global supply chain network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ai-gold-rush-transforms-trans-pacific-trade-and-logistics"
   }
 ]
