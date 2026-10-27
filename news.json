@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Kroger adopts RFID and machine learning to optimize inventory",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-27",
+    "summary": "Kroger is implementing radio frequency identification technology across fifteen hundred store bakeries to enhance stock accuracy. Additionally, the supermarket operator is sharing machine learning insights derived from computer vision data with its suppliers. These initiatives are designed to improve product availability and streamline internal inventory management processes across the retail network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/"
+  },
+  {
+    "headline": "Mexican truckers end strike after securing federal talks",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Commercial motor carriers in Mexico have suspended a nationwide strike that severely impacted highway transit and freight operations across numerous states. The work stoppage prompted federal authorities to establish a series of four negotiating sessions to address industry concerns. This agreement aims to resolve ongoing grievances and prevent further disruptions to domestic supply chains and cargo transportation networks throughout the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-truckers-reach-deal-for-talks-after-strike-disrupts-19-states"
+  },
+  {
+    "headline": "Small Carriers Face Strategic Equipment Ownership Decisions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Independent motor carriers and small fleet operators must carefully evaluate asset ownership models, contrasting the financial implications of purchasing heavy-duty tractors against leasing cargo trailers. Selecting the right equipment acquisition approach directly impacts long-term operational cost structures and profitability for freight businesses. Determining whether to finance, lease, or operate power-only units requires precise mathematical assessment to avoid silent financial failures within transportation networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-case-for-renting-the-box-and-buying-the-truck"
+  },
+  {
     "headline": "UPS Projects Q4 Volume Drop Amid Declining Amazon Shipments",
     "continent": "North America",
     "country": "United States",
@@ -2968,35 +2998,5 @@
     "summary": "Maritime shipping data from Xeneta reveals that ocean freight spot rates for container transport from Asia to the United States West Coast have begun to decrease. This movement marks the initial downward adjustment for this major trade lane following a continuous upward trend that started in the middle of September. Market analysts attribute the shift to changing demand patterns and seasonal adjustments in transpacific trade volumes, impacting carrier pricing power across key shipping routes.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/us-west-coast-container-rates-edge-lower"
-  },
-  {
-    "headline": "Truckload Rates Rise Despite Flat Freight Demand",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Truckload freight rates increased through 2026 even though overall cargo volume remained flat. Industry data reveals that rising operational expenses continue to outpace the revenue collected by motor carriers. Because current earnings fall short of covering standard business costs, industry cost studies indicate that pricing pressure will persist, driving further rate increases as transportation providers struggle to achieve sustainable profitability in the current market environment.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/why-trucking-rates-are-rising-without-more-freight"
-  },
-  {
-    "headline": "Transpacific container spot rates drop following Golden Week",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Ocean shipping spot rates from Asia to the United States experienced declines following the conclusion of China's Golden Week holiday, signaling a cooling of the extended transpacific peak season. Data from Drewry's World Container Index highlights reductions on both major coastal routes, with the Shanghai to Los Angeles and Shanghai to New York lanes both seeing downward pricing adjustments week over week. Meanwhile, ocean carriers are reportedly considering future price increases despite the current softening in immediate market demand.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/post-peak-spot-rates-tumble-as-ocean-carriers-eye-price-increases/"
-  },
-  {
-    "headline": "Freightmate Settles AI Trade Secrets Suit with Flexport",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-09",
-    "summary": "Freight-tech startup Freightmate has admitted to obtaining and utilizing confidential shipping records belonging to Flexport, concluding a notable legal battle concerning data rights in artificial intelligence logistics tools. A California federal court approved the resolution after earlier determinations found that the startup and its leaders neglected to maintain crucial electronic evidence, which hindered the plaintiff's ability to investigate the matter fully. This outcome highlights growing legal scrutiny regarding data ownership in the development of automated freight technologies.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/freightmate-admits-using-flexport-docs-as-ai-trade-secrets-case-settles/"
   }
 ]
