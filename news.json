@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Fresh produce shippers demand better carrier performance metrics",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-27",
+    "summary": "Perishable goods shippers are grappling with severe cost pressures and logistics hurdles, prompting support for the Global Coalition of Fresh Produce's new best practices charter. However, industry leaders emphasize that meaningful progress in supply chain efficiency requires deeper transparency and robust performance tracking for carriers. Without precise metrics to monitor transit reliability and address rising fuel and operational expenses, agricultural supply chains will remain vulnerable to expensive bottlenecks and distribution delays.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/produce-shippers-need-better-visibility-and-metrics-to-ward-off-costly-delays/"
+  },
+  {
     "headline": "USTR Considers Extending China-Linked Vessel Fee Suspension",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "The rapid expansion of artificial intelligence data centers is generating high-value shipping demand for logistics providers operating across the Asia-Pacific region and the United States. This technological surge is reshaping traditional trans-Pacific trade lanes as operators rush to transport specialized hardware and infrastructure components required to support massive computing facilities, creating both opportunities and capacity challenges within the global supply chain network.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/ai-gold-rush-transforms-trans-pacific-trade-and-logistics"
-  },
-  {
-    "headline": "Samsung files $186M lawsuit against CMA CGM over freight fees",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-08",
-    "summary": "Electronics manufacturer Samsung has initiated legal action against ocean carrier CMA CGM to recover $186 million in financial damages. The dispute centers on accusations that the shipping company levied improper container fees and failed to fulfill agreed-upon inland transportation services. This conflict highlights ongoing friction between major shippers and container lines regarding billing practices and service reliability within global logistics networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/samsung-seeks-186m-from-cma-cgm-in-container-charges-dispute"
   }
 ]
