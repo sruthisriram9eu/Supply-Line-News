@@ -1,5 +1,165 @@
 [
   {
+    "headline": "Tesla Starts Manufacturing Humanoid Robots in California",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-28",
+    "summary": "Tesla has commenced manufacturing of its Optimus humanoid robots at a facility in California. Initial deployment is targeted toward industrial environments, where these machines will take on hazardous and repetitive operational duties to improve workplace safety and efficiency. Company leadership highlighted that early adopters will integrate the technology directly into their manufacturing or logistics workflows. This move marks a significant step toward commercializing robotic labor for heavy industry, signaling potential shifts in future operational workforce strategies.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/"
+  },
+  {
+    "headline": "Nvidia Secures Supplier Pacts to Scale AI Chip Output",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-10-28",
+    "summary": "To address surging demand for artificial intelligence hardware, the semiconductor firm has entered into agreements with six key manufacturing partners. These contracts aim to dramatically scale production capacity for essential components, potentially multiplying output up to fifteen times. This strategic move is designed to alleviate ongoing supply bottlenecks and support the rapid expansion of the artificial intelligence infrastructure market worldwide.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/nvidia-forges-supplier-agreements-to-expand-capacity-for-ai/872780/"
+  },
+  {
+    "headline": "WD-40 Saves $7M Through Supply Chain Optimization",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-28",
+    "summary": "During the 2026 fiscal year, WD-40 achieved significant cost reductions totaling seven million dollars by optimizing its supply chain operations. Leadership attributed these financial savings primarily to strategic adjustments that successfully lowered overall inventory levels across the business.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/wd-40-credits-supply-chain-for-7m-in-cost-savings/872902/"
+  },
+  {
+    "headline": "Aurora Secures 500-Truck Autonomous Deal With Charger Logistics",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Autonomous vehicle developer Aurora Innovation has entered into a nonbinding agreement with Charger Logistics for up to 500 driverless commercial trucks. This partnership expands the carrier-owned pipeline necessary for Aurora to reach its long-term deployment goals by the end of the decade. The collaboration highlights the ongoing commercialization and fleet integration efforts surrounding autonomous freight technology within the logistics industry.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/aurora-charger-logistics-500-driverless-trucks-mou"
+  },
+  {
+    "headline": "C.H. Robinson and Landstar face stock drops on high insurance expenses",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Recent third-quarter financial disclosures from major logistics providers C.H. Robinson and Landstar triggered negative reactions on Wall Street despite solid overall earnings reports. Market sentiment was weighed down primarily by unexpectedly high insurance costs and heavier than normal insurance charges reported by Landstar. These mounting risk management expenses raised investor concerns regarding near-term profitability within the freight and transportation sector, overshadowing positive performance metrics across the rest of their respective businesses during the quarter.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/c-h-robinson-and-landstar-stock-prices-slammed-insurance-costs-a-factor"
+  },
+  {
+    "headline": "Old Dominion Reports First Tonnage Growth in Two Years",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Old Dominion experienced positive tonnage growth in September, marking its first such increase in over twenty-four months. Despite this positive metric, corporate leadership noted that achieving a full market upcycle depends on broader demand recovery, which is currently tied to lower energy costs. The carrier continues to navigate a cautious freight environment while monitoring broader macroeconomic indicators for sustained growth signals.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/old-dominions-tonnage-turns-positive-recovery-needs-demand-inflection"
+  },
+  {
+    "headline": "CPKC Reports Third-Quarter Revenue and Earnings Growth",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Canadian Pacific Kansas City posted higher revenue and earnings for the third quarter, though profitability was constrained by rising fuel expenses. The railway operator navigated increased operational costs while achieving overall financial growth during the period, reflecting broader freight transportation market conditions across North America.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-cpkc-earnings-2"
+  },
+  {
+    "headline": "Los Angeles Police Recover $1 Million in Stolen BNSF Cargo",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Law enforcement in Los Angeles successfully recovered approximately one million dollars in missing rail freight after tracking down an online marketplace listing for stolen footwear. Authorities arrested a local business owner in connection with the recovered merchandise, though the exact source and entry point of the stolen goods into the secondary market remain under active investigation by officials. The missing inventory originated from BNSF Railway operations, highlighting ongoing vulnerabilities in rail freight security and cargo theft prevention.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stolen-shoes-on-ebay-lead-police-to-1-million-in-missing-bnsf-train-cargo"
+  },
+  {
+    "headline": "FMCSA Purges Over 10,000 Driver Training Providers from Registry",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "In an effort to bolster industry safety standards, federal transportation regulators have removed more than ten thousand commercial driver training providers from the official registry since late 2025. This regulatory cleanup targets substandard training programs, directly impacting the pipeline of newly licensed freight operators and commercial truck drivers across the nation, while aiming to ensure higher compliance and competence levels entering the logistics workforce.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push"
+  },
+  {
+    "headline": "Railcar Shortages Create Container Backlog at LA Ports",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Roughly 35,700 import containers are currently delayed and waiting for on-dock rail services at the twin ports of Los Angeles and Long Beach. The congestion stems from a combination of unprecedented cargo volumes entering the maritime gateways and ongoing shortages of railcars, which has significantly decelerated the movement of freight inland. This bottleneck highlights ongoing capacity constraints within the intermodal transportation network, affecting the efficiency of cargo distribution across the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach"
+  },
+  {
+    "headline": "U.S. Diesel Prices Expected to Remain High Through Spring 2027",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Executives within the energy and truck stop sectors warn that U.S. trucking fleets will likely face sustained high diesel costs through early 2027. Industry leaders attribute this extended price pressure to structural constraints, specifically limited domestic refining output and restricted pipeline capacity. These ongoing supply bottlenecks threaten to increase operational expenses for freight carriers and logistics providers across the country well into the future, according to industry forecasts.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/diesel-prices-may-stay-elevated-into-spring-2027-fuel-executives-warn"
+  },
+  {
+    "headline": "Forward Air Secures Major Two-Year Logistics Client Contract",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Logistics provider Forward Air successfully negotiated a two-year agreement to retain a substantial portion of business from a primary contract logistics customer. The company had previously expressed concerns regarding the potential loss of this major account. Securing this agreement helps stabilize revenue and maintains operational volume for the transportation provider, averting what could have been a considerable blow to its core freight and supply chain service operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/forward-air-saves-significant-portion-of-major-customer-account"
+  },
+  {
+    "headline": "Potential Port Security Strike Threatens LA-Long Beach Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Approximately two hundred fifty security personnel at the twin ports of Los Angeles and Long Beach have threatened to initiate a walkout at the beginning of November. This labor action could impact terminal operations at the nation's largest maritime gateway, threatening regional freight movement and creating potential bottlenecks across domestic supply chains if negotiations fail to resolve the underlying grievances before the deadline.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/strike-threat-by-port-security-workers-at-los-angeles-long-beach"
+  },
+  {
+    "headline": "UK Logistics Sector Relieved by Budget Fuel Duty Freeze",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "British transport and logistics operators have expressed relief following the latest government budget, which chose to maintain the existing five-pence-per-litre reduction on fuel duty and prevent scheduled tax increases. Additionally, the policy announcement ensured that commercial warehouse property rates will not increase. Industry representatives welcomed the measures as vital temporary relief for operators navigating challenging financial conditions, though sector leaders caution that broader macroeconomic cost pressures still threaten profitability and ongoing operational stability across the domestic supply chain network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/under-pressure-uk-transport-and-logistics-firms-dodge-budget-bullet/"
+  },
+  {
+    "headline": "Global Containership Orderbook Nears 16 Million TEU",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "The worldwide backlog for new container vessels is projected to approach sixteen million TEU by the conclusion of the year, driven by upcoming and recently executed megamax contracts from major ocean carriers. Industry analysis indicates that additional orders from prominent shipping lines will significantly expand current maritime fleet capacity as carriers continue to invest heavily in new tonnage despite existing market conditions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/container-newbuilding-fleet-closing-in-on-16m-teu-by-year-end/"
+  },
+  {
+    "headline": "Seko Urges Early Planning for 2027 Chinese New Year Shipping",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Logistics provider Seko is advising cargo owners who source products from China to accelerate purchase orders and secure ocean freight capacity well in advance of upcoming factory closures. Because the holiday falls earlier in the year than previously, the operational timeline for moving goods prior to the shutdown is significantly compressed. Supply chain managers must adjust their booking schedules by several weeks to mitigate potential delays and maintain inventory flow during the seasonal disruption.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/early-lunar-new-year-means-shippers-need-to-plan-ahead-says-seko/"
+  },
+  {
     "headline": "UPS Boosts Revenue and Raises Outlook Despite Analyst Split",
     "continent": "North America",
     "country": "United States",
@@ -2838,165 +2998,5 @@
     "summary": "Industry advocates are launching Freight Fraud Awareness Day to encourage victims to share their experiences regarding sophisticated cargo theft schemes. These complex criminal tactics continue to expose vulnerabilities throughout the transportation network, prompting calls for greater vigilance, improved information sharing, and stronger security measures across the trucking sector to protect valuable shipments and secure supply chain operations.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/freight-fraud-awareness-day-returns-as-strategic-cargo-theft-reshapes-trucking"
-  },
-  {
-    "headline": "Treating Fleet Compliance as a Strategic Resource",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Corporate leadership must view regulatory compliance for transport fleets as a critical resource allocation matter rather than a routine administrative duty. As transport networks expand across various regulatory zones, ensuring vehicles maintain legal operating status directly impacts asset availability and overall operational continuity. Industry experts emphasize that managing compliance capacity effectively prevents unexpected downtime and protects scaling businesses from severe logistical disruptions, shifting the focus from mere paperwork completion to comprehensive operational readiness.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-hidden-business-risk-inside-fleet-compliance"
-  },
-  {
-    "headline": "OOCL Reports 45.1% Revenue Surge Driven by Trans-Pacific Volume Growth",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Container shipping firm OOCL experienced a significant financial boost, posting a 45.1 percent increase in total revenue. This upward trend was fueled by rising freight rates per container and expanding cargo volumes across all four major operating trade corridors. The trans-Pacific route played a particularly vital role in the financial surge, reflecting robust demand and elevated activity within ocean freight networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/oocl-revenue-up-45-1-on-trans-pacific-surge"
-  },
-  {
-    "headline": "DP World and Operators Expand African Port Infrastructure",
-    "continent": "Africa",
-    "country": "Angola",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Major terminal operators are scaling up capacity across the African continent to accommodate rising cargo volumes, with the western maritime corridor experiencing particularly high demand. DP World has committed ninety million dollars toward upgrading operations at the Port of Luanda in Angola, highlighting strong industry confidence in the region's trade gateways. This investment reflects a broader trend of international logistics companies strengthening their operational footprint to support growing commercial activity and improve efficiency within key African freight corridors.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dp-world-joins-in-as-africas-logistics-hot-spots-attract-the-big-players/"
-  },
-  {
-    "headline": "Carriers Resuming Red Sea and Suez Canal Routes Amid Rising Risks",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Container shipping lines are gradually returning to traditional pathways through the Red Sea and the Suez Canal, even as security concerns persist due to escalating regional conflicts. Despite recent vessel attacks near active combat zones, transport providers continue utilizing these vital maritime shortcuts between Asia and Europe while conditions permit, keeping supply chains focused on transit efficiency despite elevated operational dangers.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/shippers-stressing-over-risks-from-suez-canal-and-red-sea-transits/"
-  },
-  {
-    "headline": "Samsung SDS Expands Airfreight Capabilities Through Woojung Air Acquisition",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Samsung SDS is growing its air cargo operations by acquiring Woojung Air, a South Korean freight consolidator. This strategic move enhances the company's ability to procure airline capacity and integrates a wholesale network of over twelve hundred freight forwarders. The transaction bolsters Samsung's presence in the third-party logistics market, complementing its existing digital forwarding platform by scaling its operational reach and customer base within the air freight sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/samsung-steps-up-airfreight-ambitions-with-woojung-air-takeover/"
-  },
-  {
-    "headline": "Chinese automakers and shipowners invest $2.5B in vehicle carriers",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Major Chinese automotive and logistics firms are committing approximately $2.5 billion to construct twenty-one large car-carrying vessels. Companies including Cosco Shipping, BYD, and SAIC Anji Logistics have partnered with domestic shipbuilders to expand their maritime transport fleets. This fleet expansion strategy aims to accommodate the rapid growth in vehicle exports from the country, addressing ongoing capacity constraints in international roll-on/roll-off shipping lanes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/china-wants-more-and-bigger-car-carriers-to-meet-export-demand/"
-  },
-  {
-    "headline": "US Trucking Sector Faces Structural Crisis Amid Shifting Capacity",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "The United States road freight sector continues to struggle with persistent market challenges that are projected to persist well into the following year. While freight rates have experienced upward movement, this shift stems from shrinking industry capacity rather than robust economic demand. Elevated tender rejection rates indicate deep operational strains, fueling concerns that current industry frameworks are fundamentally flawed. Although some financial metrics suggest partial recovery, industry observers warn of ongoing structural instability affecting domestic transport operators.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/no-end-in-sight-of-the-misery-for-us-trucking-its-a-broken-model/"
-  },
-  {
-    "headline": "Container Spot Rates Diverge From Broader Shipping Market",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Maritime analysts report that container spot shipping rates have experienced increased volatility relative to overall market conditions following the pandemic. A recent study examining Asia-to-Europe and transpacific trade lanes revealed a growing disconnect between spot price movements and broader market developments. Industry data comparing monthly average freight benchmarks with comprehensive trade statistics indicates that spot market signals no longer reliably reflect the wider container shipping sector, prompting warnings for shippers relying on these metrics for long-term planning.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/shippers-warned-spot-rates-no-pointer-to-wider-box-shipping-market/"
-  },
-  {
-    "headline": "Suardiaz Group expands fleet with LNG-powered car carrier",
-    "continent": "Europe",
-    "country": "Spain",
-    "category": "logistics",
-    "date": "2026-10-11",
-    "summary": "Spanish logistics provider Suardiaz Group has acquired the RS Atlantico, a dual-fuel liquefied natural gas vessel with a capacity for 5,500 vehicles. This delivery marks a milestone as the firm becomes the first in Spain to operate an LNG-powered ship within the car carrier sector. The addition forms a core component of a broader corporate investment strategy aimed at expanding global transport operations and upgrading fleet capabilities with environmentally focused propulsion technologies.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/suardiaz-lng-powered-car-carrier-rs-atlantico/"
-  },
-  {
-    "headline": "Mexico Vehicle Exports Drop in September Amid Major US Share",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-10-11",
-    "summary": "September vehicle shipments from Mexico experienced a significant decline, though the United States remained the primary destination, absorbing over three-quarters of these automotive exports. Meanwhile, logistics providers are scaling up cross-border infrastructure, with DSV opening a new freight facility in McAllen to strengthen connectivity between the United States and Mexico. Additionally, academic institutions in Texas are securing funding to develop artificial intelligence solutions aimed at optimizing freight flows and operational efficiency through the critical Laredo corridor.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-us-takes-76-of-vehicle-exports-as-september-shipments-plunge"
-  },
-  {
-    "headline": "Florida Trucking Owner Admits Guilt in USPS Freight Fraud Scheme",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-11",
-    "summary": "An Orlando-based trucking company owner has entered a guilty plea in a federal court regarding a fraudulent scheme targeting the United States Postal Service. Court documents reveal that fabricated delivery records were submitted to secure over $1 million in improper payouts for freight transportation services that were never actually performed. This case highlights vulnerabilities in government logistics contracting and oversight, leading to criminal charges and financial accountability for the perpetrator involved in the scheme.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/orlando-trucking-owner-pleads-guilty-in-1m-usps-freight-auction-fraud"
-  },
-  {
-    "headline": "Regional freight markets show diverging capacity trends",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-11",
-    "summary": "Northwestern agricultural harvests are currently generating a temporary surge in freight capacity demand, creating localized tightening. Meanwhile, the Midwest is experiencing sustained capacity tightness that indicates a more durable and structural shift in regional logistics markets. These contrasting conditions highlight the varied pressures currently influencing the broader freight transportation sector across different geographic areas.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-two-tightest-regions-tell-two-very-different-stories-about-the-freight-market"
-  },
-  {
-    "headline": "Port of Mobile Halts Operations Due to Hurricane Isaias",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "The Alabama Port Authority has temporarily suspended all vessel movements and terminal activities at public berths in response to approaching severe weather conditions from Hurricane Isaias. This shutdown aims to protect port infrastructure, maritime personnel, and incoming cargo vessels from potential storm damage. Consequently, regional maritime logistics and freight flows through the port facility are experiencing delays as supply chain stakeholders monitor the storm's trajectory and await clearance to resume normal operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/port-of-mobile-shutters-operations-ahead-of-hurricane-isaias/832621/"
-  },
-  {
-    "headline": "Texas Trucking Company Faces Age Discrimination Lawsuit",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "A cross-border motor carrier located in Texas is being taken to court over alleged age discrimination practices. The legal action centers on the company enforcing a strict age limit policy that bars drivers aged 65 and older from employment. This case highlights ongoing regulatory and legal scrutiny regarding labor practices and hiring standards within the freight and logistics sector, specifically concerning commercial vehicle operator demographics and cross-border transportation operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/texas-trucking-firm-sued-over-age-limits-on-drivers"
-  },
-  {
-    "headline": "Transpacific Freight Rates Remain High Despite Holiday Slowdown",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Ocean freight rates on the Transpacific trade lane are staying elevated rather than declining during the Golden Week holiday period in China. While seasonal factory closures typically reduce cargo volume and stabilize shipping costs, adverse weather disruptions are counteracting this effect. These environmental challenges are preventing expected relief in maritime shipping fees, keeping pressure on supply chain networks moving goods across the Pacific Ocean.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/golden-week-slowdown-may-not-be-enough-to-ease-transpacific-ocean-rates/832512/"
-  },
-  {
-    "headline": "New Transpacific air cargo route launched for tech sector",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Nippon Express and Japan Airlines have established a dedicated weekly air freight circuit connecting Los Angeles with major Asian hubs. This service is specifically designed to handle the transportation needs of artificial intelligence hardware and semiconductor components. The partnership aims to address growing demand for fast, reliable transpacific connectivity as manufacturers rush to ship critical tech components across global markets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ai-driven-cargo-bump-sparks-transpacific-air-freight-service/832399/"
   }
 ]
