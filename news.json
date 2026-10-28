@@ -1,5 +1,45 @@
 [
   {
+    "headline": "WEX and Euclid AI partner to cut trucking transaction costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "WEX has teamed up with Euclid AI to introduce specialized artificial intelligence agents aimed at the trucking sector. The technology is designed to streamline operations and administrative tasks, with deployed systems demonstrating potential transaction cost reductions of up to ninety percent. This collaboration highlights the growing integration of automated digital agents within freight operations and logistics administration to improve efficiency and reduce overhead expenses across the transport network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/wex-euclid-ai-target-90-reduction-in-trucking-transaction-costs"
+  },
+  {
+    "headline": "Landstar reports strong Q3 freight demand offset by claims",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Landstar System experienced robust third-quarter performance bolstered by firm demand for dry van and flatbed services, supported by constrained market capacity and ongoing data center construction. However, significant insurance claims adjustments negatively impacted the company's overall financial results for the period. Despite the financial drag from claims, the truckload broker maintained positive momentum in its core transportation operations as freight market dynamics remained favorable.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/insurance-claims-adjustments-tank-landstars-otherwise-strong-q3"
+  },
+  {
+    "headline": "Port Houston September Container Volumes Surge 11%",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-28",
+    "summary": "Port Houston experienced an eleven percent growth in container volume during September, driven primarily by a significant rise in inbound shipments. Additionally, outbound cargo movement showed signs of improvement, boosting overall operational activity at the major Gulf Coast gateway. This growth highlights continuing shifts in regional trade flows and import demand heading into the autumn shipping season.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/port-houston-container-volumes-jump-11-as-imports-surge-in-september"
+  },
+  {
+    "headline": "Werner Enterprises Expects Ongoing Cost Pressures into Q1",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "During a recent earnings call, transportation provider Werner Enterprises detailed its strategic roadmap to recover mid-cycle profit margins. However, leadership cautioned that various financial headwinds, encompassing both transient factors and investments tied to business expansion, are likely to persist through the first quarter. The carrier continues to navigate these operational cost challenges while working toward its long-term financial recovery goals in a competitive freight market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/werner-enterprises-sees-cost-headwinds-lingering-into-q1"
+  },
+  {
     "headline": "Kroger adopts RFID and machine learning to optimize inventory",
     "continent": "North America",
     "country": "United States",
@@ -2958,45 +2998,5 @@
     "summary": "Autonomous trucking technology provider Kodiak AI has teamed up with cross-border carrier Charger Logistics to transport consumer packaged goods and food and beverage items on a freight route between Dallas and Laredo, Texas. The initial deployment involves staffed trucks, with plans to transition to fully driverless operations once the necessary safety validations are completed. This collaboration highlights the ongoing integration of autonomous vehicle technology into commercial freight networks within North America.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/kodiak-charger-autonomous-trucks-dallas-laredo"
-  },
-  {
-    "headline": "Extended peak shipping season slows down for US retailers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "The extended peak shipping period for retail freight is drawing to a close as the majority of holiday inventory arrives at domestic destinations. According to the National Retail Federation, inbound container volumes arriving at United States ports are anticipated to moderate as the year concludes. This shift indicates that supply chain networks have largely finished moving seasonal goods ahead of the upcoming consumer shopping rush, signaling a return to more typical freight handling volumes.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/retailers-say-extended-peak-shipping-season-winding-down"
-  },
-  {
-    "headline": "Walmart Launches Automated Fulfillment Center in California",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-09",
-    "summary": "Retail giant Walmart has officially opened a high-tech automated fulfillment hub in California. The facility is part of a broader corporate strategy focused on modernizing the company's fulfillment network through advanced technology. By integrating next-generation automation into its operational footprint, the organization aims to accelerate online order processing speeds, optimize warehouse efficiency, and better manage escalating e-commerce demands across the regional supply chain.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/walmart-activates-automated-e-commerce-logistics-center-in-california"
-  },
-  {
-    "headline": "New Jersey Seafood Shipment Intercepted in Broker Impersonation Scam",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Criminals impersonating a legitimate freight broker successfully manipulated a driver into diverting a high-value seafood cargo shipment valued at $273,000 in New Jersey. Using fraudulent communications via phone and text messages, the perpetrators attempted to execute a sophisticated cargo theft. Law enforcement and investigators are currently examining the incident to understand how the deception occurred, highlighting ongoing vulnerabilities within digital shipment verification processes and the persistent threat of broker impersonation across the freight transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fake-freight-broker-redirects-273k-seafood-shipment-in-new-jersey-cargo-theft-attempt"
-  },
-  {
-    "headline": "Asia to US West Coast Container Freight Rates Decline",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Maritime shipping data from Xeneta reveals that ocean freight spot rates for container transport from Asia to the United States West Coast have begun to decrease. This movement marks the initial downward adjustment for this major trade lane following a continuous upward trend that started in the middle of September. Market analysts attribute the shift to changing demand patterns and seasonal adjustments in transpacific trade volumes, impacting carrier pricing power across key shipping routes.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/us-west-coast-container-rates-edge-lower"
   }
 ]
