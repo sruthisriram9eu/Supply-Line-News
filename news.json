@@ -1,5 +1,35 @@
 [
   {
+    "headline": "UPS Boosts Revenue and Raises Outlook Despite Analyst Split",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Logistics giant UPS has successfully concluded its planned reduction of Amazon shipment volumes, shifting its focus toward higher-margin freight. This strategy has driven up revenue per parcel faster than operating costs, prompting the company to raise its financial outlook for the second consecutive quarter and boosting its share price. However, financial analysts remain divided regarding long-term projections for 2027, debating whether current profitability gains can be sustained once temporary factors such as fuel surcharges and one-time cash benefits dissipate.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/analysis-ups-the-cash-line-matters-just-as-much-as-the-earnings-beat/"
+  },
+  {
+    "headline": "Cyclone Arnab disrupts port operations along India's eastern coast",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Severe weather conditions caused by Cyclone Arnab have forced the suspension or restriction of vessel-handling services at multiple major ports along India's eastern coastline. The storm brought powerful gale winds and high swells to the region, prompting critical gateways like Visakhapatnam to halt all operations until further notice. This shutdown impacts vital feeder services for major ocean carriers operating out of the area, creating potential cargo bottlenecks and schedule delays for regional maritime supply chains.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cyclone-arnab-brings-more-disruption-along-indias-eastern-coast/"
+  },
+  {
+    "headline": "Air Cargo Buyers Reward Forwarders for Reliable Crisis Performance",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Major industrial shippers have indicated that freight forwarders demonstrating reliability during supply chain disruptions will secure a larger share of future contracts. Speaking at an industry event, representatives from leading manufacturers emphasized that operational execution during crises holds more value than initial pricing quotes alone. While technology and executive assurances are important, cargo owners expect forwarders to deliver tangible, practical solutions when operational challenges arise, directly influencing subsequent transportation procurement decisions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shippers-promise-more-freight-to-forwarders-that-deliver-when-it-matters/"
+  },
+  {
     "headline": "WEX and Euclid AI partner to cut trucking transaction costs",
     "continent": "North America",
     "country": "United States",
@@ -2968,35 +2998,5 @@
     "summary": "Nippon Express and Japan Airlines have established a dedicated weekly air freight circuit connecting Los Angeles with major Asian hubs. This service is specifically designed to handle the transportation needs of artificial intelligence hardware and semiconductor components. The partnership aims to address growing demand for fast, reliable transpacific connectivity as manufacturers rush to ship critical tech components across global markets.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/ai-driven-cargo-bump-sparks-transpacific-air-freight-service/832399/"
-  },
-  {
-    "headline": "Court certifies importer class for tariff refunds",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-09",
-    "summary": "The Court of International Trade has certified a class action lawsuit on behalf of importers, paving the way for businesses to pursue reimbursements for levies previously determined to be unlawful. This procedural milestone is designed to streamline the refund process, ensuring that all affected commercial entities can effectively recover the specific payments they made under the contested duties.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/federal-court-clears-way-for-class-action-suit-against-ieepa-tariffs/832600/"
-  },
-  {
-    "headline": "Stord Secures $400M Credit Facility for Facility and Tech Expansion",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-09",
-    "summary": "Logistics and warehousing provider Stord has secured a $400 million credit facility led by Citigroup to fund the development of new warehouse spaces and automated robotics technology. The capital injection coincides with the appointment of a new chief financial officer and chief revenue officer to support the company's ongoing expansion. Stord's fulfillment network currently reaches a significant portion of households across the United States annually.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/stord-400m-credit-facility-citi"
-  },
-  {
-    "headline": "Kodiak AI and Charger Logistics Partner on Texas Autonomous Route",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-09",
-    "summary": "Autonomous trucking technology provider Kodiak AI has teamed up with cross-border carrier Charger Logistics to transport consumer packaged goods and food and beverage items on a freight route between Dallas and Laredo, Texas. The initial deployment involves staffed trucks, with plans to transition to fully driverless operations once the necessary safety validations are completed. This collaboration highlights the ongoing integration of autonomous vehicle technology into commercial freight networks within North America.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/kodiak-charger-autonomous-trucks-dallas-laredo"
   }
 ]
