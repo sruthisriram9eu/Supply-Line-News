@@ -1,5 +1,105 @@
 [
   {
+    "headline": "California Arrests Follow $500K SIG Sauer Cargo Theft",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-29",
+    "summary": "Local authorities in California have arrested two individuals in connection with a major cargo theft involving a fraudulent pickup. A shipment of firearms and related goods valued at half a million dollars was intercepted after leaving a warehouse in Torrance under deceptive pretenses. Investigators from Los Angeles County led the operation to recover the stolen merchandise and apprehend the suspects, highlighting ongoing vulnerabilities in secure transit and freight handling processes within regional distribution networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/500000-sig-sauer-shipment-stolen-in-fictitious-pickup-two-arrested-in-california"
+  },
+  {
+    "headline": "XPO Beats Third-Quarter Expectations on Stronger Pricing and Volumes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Transportation provider XPO surpassed market expectations for the third quarter, propelled by increased freight volumes and higher pricing strategies. These commercial gains amplified the positive effects of ongoing internal operational efficiency initiatives implemented by the carrier, allowing the enterprise to outperform previous financial projections despite broader economic headwinds impacting the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/xpos-pricing-operating-initiatives-drive-q3-beat"
+  },
+  {
+    "headline": "Kenco Report Predicts Higher Holiday Spending and Fast Shipping Demands",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "A recent study by Kenco indicates that nearly half of consumers intend to increase their spending during the upcoming holiday shopping peak. The findings reveal that shoppers continue to expect high-level fulfillment services, including complimentary shipping options, rapid two-day delivery windows, and no-cost return policies. These rising expectations put additional pressure on retailers and logistics providers to optimize their fulfillment networks and inventory strategies to handle peak consumer demand efficiently.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/kenco-survey-shoppers-plan-more-peak-spending"
+  },
+  {
+    "headline": "CH Robinson Stock Dips Despite Volume and Profit Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Third-party logistics provider CH Robinson reported increases in trucking volumes, load profitability, and operational margins. However, company shares experienced a sharp decline following investor concerns over minor shipment volume shortfalls, escalating claims expenses, pending insurance policy negotiations, and a major financial investment in RXO. Meanwhile, the forwarding segment exceeded its financial targets, outperforming previous analyst expectations despite the broader market hesitations and ongoing operational hurdles.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/analysis-ch-robinson-spoils-the-bull-party-tests-remain/"
+  },
+  {
+    "headline": "Boluda Shipping Agrees to Acquire Samskip",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Boluda Shipping has reached an agreement to buy rival firm Samskip, pending regulatory approval, with the transaction slated to finalize on January 1. This strategic merger aims to strengthen European shortsea shipping operations by integrating regional networks. The resulting entity will deploy a fleet of 32 vessels, providing substantial container capacity across numerous routes, countries, and maritime terminals throughout Northern Europe, the Iberian Peninsula, the Canary Islands, and West Africa.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/"
+  },
+  {
+    "headline": "Cyberattacks on refrigeration systems expose cold chain vulnerabilities",
+    "continent": "Europe",
+    "country": "France",
+    "category": "storage_distribution",
+    "date": "2026-10-29",
+    "summary": "Recent cyber incidents targeting supermarket refrigeration units in France demonstrate growing physical security risks within temperature-controlled supply chains. Malicious remote manipulation caused significant temperature spikes, leading to equipment damage and facility flooding. These events highlight critical vulnerabilities across connected cold storage facilities, pharmaceutical warehouses, and refrigerated transport fleets, emphasizing the urgent need for enhanced cybersecurity measures in logistics operations to protect sensitive cargo and infrastructure from sabotage.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/the-cold-chain-just-got-weaponised-logistics-is-exposed/"
+  },
+  {
+    "headline": "UK Emissions Trading Scheme Imposes New Rules on Vessel Operators",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "sustainability",
+    "date": "2026-10-29",
+    "summary": "Maritime operators must prepare for upcoming regulatory requirements under the UK Emissions Trading Scheme, which expands to include offshore vessels starting in January. Large ships exceeding 5,000 gross tonnes will face strict monitoring, reporting, and allowance-surrender obligations. Non-compliance will result in significant financial penalties, with a charge of £100 for each missing allowance. This regulatory shift introduces additional operational and financial pressures for shipping companies navigating the evolving environmental compliance landscape in the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/vessel-operators-need-to-prepare-for-compliance-as-uk-ets-looms/"
+  },
+  {
+    "headline": "Surging fuel costs squeeze air cargo profit margins",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Steep fuel price increases are outpacing airfreight yield growth, putting financial pressure on cargo airline operations despite steady market demand. Industry data reveals that profitability varies significantly across different global trade routes and operating directions. While overall volumes remain robust, rising operational expenses are creating distinct economic challenges for dedicated freighter operators across the international network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/"
+  },
+  {
+    "headline": "Scan Global Acquires OIA Global in Record Deal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Danish logistics provider Scan Global has completed the acquisition of Portland-based OIA Global. This transaction represents the largest investment in the history of Scan Global. Market observers had previously anticipated the deal following speculation regarding the potential sale of the United States-based logistics and supply chain services firm. The purchase expands Scan Global's operational capabilities and footprint within the global freight and forwarding market.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/as-previously-rumoured-scan-global-acquires-oia-global-its-largest-ever-investment/"
+  },
+  {
+    "headline": "Boluda Shipping Agrees to Acquire Samskip",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Boluda Shipping has reached an agreement to buy Samskip in a move designed to establish a prominent short-sea maritime network across Europe. The transaction combines the resources and operational expertise of both maritime transport providers, creating expanded trade routes that link Northern Europe with the Iberian Peninsula, the Canary Islands, and West Africa. This corporate consolidation aims to enhance regional maritime connectivity and freight capacity for shippers operating within these key European and African corridors.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/boluda-acquires-samskip/"
+  },
+  {
     "headline": "Scan Global Logistics Agrees to Acquire OIA Global",
     "continent": "North America",
     "country": "United States",
@@ -2898,105 +2998,5 @@
     "summary": "Heavy-duty vehicle shipments from Mexico experienced a dramatic 145 percent increase during September. This substantial growth was primarily fueled by rising commercial demand within the United States market. Buyers accelerated their purchasing activity to secure vehicles ahead of upcoming environmental regulations and stricter emissions standards taking effect. The surge highlights the close economic ties and transportation dependencies between the two North American trading partners as automotive manufacturers adjust production timelines to meet regulatory shifts.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/mexico-truck-exports-soar-145-as-us-demand-accelerates"
-  },
-  {
-    "headline": "CSX COO Cory to Retire from Rail Operations Leadership",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Class I railroad CSX has announced that its executive vice president and chief operating officer is stepping down. The departing executive has directed the carrier's daily operational strategy and network execution since taking the role in 2023. The transition comes as the freight rail sector continues to navigate shifting demand, labor dynamics, and service reliability pressures. Leadership changes at major transportation providers often prompt strategic reassessments regarding network efficiency, resource allocation, and customer service standards across North American freight corridors. The company has not yet named a permanent successor to oversee its extensive rail network operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/csx-operations-chief-to-retire"
-  },
-  {
-    "headline": "Bot Auto integrates Lenovo and Nvidia tech into autonomous trucks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Bot Auto has announced plans to integrate Lenovo computing hardware and Nvidia components into its fleet of autonomous Class 8 commercial trucks. Implementation is scheduled to begin in the first quarter of 2027, with the autonomy hardware package priced at fifty thousand dollars. This deployment supports the company's long-term operational objective to achieve one billion driverless miles by the year 2031, marking a significant milestone in the development of autonomous freight transport technology.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/bot-auto-lenovo-ad1-nvidia-driverless-trucks"
-  },
-  {
-    "headline": "West African Port Congestion Highlights Infrastructure Shortfalls",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Severe vessel backups at West African ports reveal significant infrastructural shortcomings outside terminal gates, struggling to cope with a rapidly growing container market. Regional container throughput surged notably over the past year, driven by the deployment of larger ships on routes connecting Asia and Latin America. Observers note that current investment levels and planned enhancements fail to match the pace of maritime volume growth, threatening regional trade efficiency and pointing to a pressing need for broader logistical upgrades across the transport network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/west-african-port-congestion-exposes-gaps-beyond-terminal-gates/"
-  },
-  {
-    "headline": "Netradyne Introduces New AI Agents for Fleet Safety",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Technology provider Netradyne has grown its ecosystem of artificial intelligence tools designed for fleet safety operations. The update incorporates pre-built agents alongside a development tool that allows organizations to create custom agents. Additionally, the system now features a conversational interface capable of retrieving real-time data insights directly from active commercial vehicle fleets to support logistics and transportation management teams.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/netradyne-expands-ai-agents-fleet-safety"
-  },
-  {
-    "headline": "Gemini Cooperation Relaunches Asia-Middle East Service",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Maersk and Hapag-Lloyd are reinstating their maritime trade route connecting the Far East and the Middle East to restore capacity for regional importers following prolonged conflict disruptions. The updated shipping loop introduces a notable alteration by omitting stops at Jebel Ali and rerouting vessels to Khor Fakkan, a facility situated outside the Strait of Hormuz. This network adjustment aims to optimize operations and improve reliability for cargo owners navigating the challenging Middle Eastern trade corridor.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/gemini-to-relaunch-asia-middle-east-loop-but-drops-jebel-ali-call/"
-  },
-  {
-    "headline": "Bangladesh Secures Chinese Loan for Mongla Port Expansion Amid Terminal Unrest",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Bangladesh has secured a significant funding package from China to upgrade and modernize infrastructure at Mongla port, involving the construction of new container jetties, yards, and cargo handling equipment. Meanwhile, labor unrest has emerged at the nation's primary container gateway in Chittagong, where workers are threatening indefinite hunger strikes in opposition to an agreement that awards terminal operations to DP World. These concurrent developments highlight ongoing foreign investment initiatives and domestic labor challenges within the nation's maritime trade network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/bangladesh-backs-mongla-expansion-as-workers-protest-dp-world-deal/"
-  },
-  {
-    "headline": "Levi's directs tariff refund toward supply chain upgrades",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Apparel manufacturer Levi's has announced plans to allocate a significant portion of an eighty million dollar tariff refund toward modernizing its logistics and distribution networks. Three quarters of the recovered duties will be invested into strengthening supply chain operations alongside marketing initiatives. This financial recovery provides the company with capital to enhance fulfillment efficiency and improve operational resilience across its global distribution channels following previous trade cost burdens.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/levis-to-use-part-of-80m-tariff-refund-for-supply-chain/832562/"
-  },
-  {
-    "headline": "Cross-Border Trucking Capacity Constrained by Driver Shortages",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Cross-border logistics between North American neighbors face tight capacity due to ongoing driver shortages and visa limitations. Rising operating expenses are further compounding carrier availability issues for freight moving across regional boundaries. These operational bottlenecks threaten to disrupt international supply chains and increase transportation delays for goods moving through border entry points.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mexico-trucker-shortages-visa-restrictions-squeeze-cross-border-capacity"
-  },
-  {
-    "headline": "Louisiana State Loan Funds New Rail Link for Local Port",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "The state of Louisiana is stepping in to resolve a financial shortfall by issuing a one million dollar loan dedicated to constructing a brand new rail connection for a regional port. This public financial support aims to bridge the funding gap and advance the rail infrastructure project, which is designed to enhance freight movement and strengthen intermodal transportation capabilities within the local supply chain network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/state-loan-to-aid-louisiana-ports-new-rail-connection"
-  },
-  {
-    "headline": "Walmart Launches Advanced California Fulfillment Center",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-12",
-    "summary": "Walmart has inaugurated a massive 900,000-square-foot fulfillment facility in California designed to enhance operational efficiency on the West Coast. The site incorporates an automated storage and retrieval system to significantly expand order handling capacity and accelerate delivery speeds for regional customers. This investment reflects the company's ongoing strategy to modernize its distribution network and improve inventory management across critical consumer markets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/walmart-opens-next-gen-california-facility-to-boost-west-coast-fulfillmen/832631/"
   }
 ]
