@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Scan Global Logistics Agrees to Acquire OIA Global",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Scan Global Logistics has reached an agreement to purchase Portland-based OIA Global. The transaction brings together two established logistics and transportation service providers, expanding Scan Global Logistics' operational footprint and service capabilities in the Pacific Northwest and broader North American markets. Financial terms of the acquisition and the expected closing timeline were not disclosed in the announcement.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/scan-global-logistics-to-acquire-oregon-based-oia-global"
+  },
+  {
+    "headline": "Greenbrier Fourth-Quarter Profit Declines Amid Soft Railcar Demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-28",
+    "summary": "Railroad equipment manufacturer Greenbrier reported a decline in net income for its final fiscal quarter, driven by softening market demand for new railcars. Despite the lower earnings and reduced sales figures, the company expressed optimism regarding its future order pipeline and anticipated growth within its leasing division. Management remains confident that upcoming market conditions will support broader operational recovery and sustained commercial momentum moving forward.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/greenbrier-profit-falls-as-railcar-demand-weighs-on-sales"
+  },
+  {
+    "headline": "Brad Jacobs Endorses C.H. Robinson's Acquisition of RXO",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-28",
+    "summary": "Industry veteran Brad Jacobs has expressed his backing for the proposed acquisition of RXO by C.H. Robinson. Speaking at an industry event, the founder emphasized that achieving sufficient scale and network density is essential for success within the freight brokerage sector. The commentary highlights ongoing consolidation trends among major third-party logistics providers as companies seek to expand their operational capabilities and market reach.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/jacobs-rxos-creator-backs-its-acquisition-by-c-h-robinson"
+  },
+  {
     "headline": "Tesla Starts Manufacturing Humanoid Robots in California",
     "continent": "North America",
     "country": "United States",
@@ -2968,35 +2998,5 @@
     "summary": "Walmart has inaugurated a massive 900,000-square-foot fulfillment facility in California designed to enhance operational efficiency on the West Coast. The site incorporates an automated storage and retrieval system to significantly expand order handling capacity and accelerate delivery speeds for regional customers. This investment reflects the company's ongoing strategy to modernize its distribution network and improve inventory management across critical consumer markets.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/walmart-opens-next-gen-california-facility-to-boost-west-coast-fulfillmen/832631/"
-  },
-  {
-    "headline": "BD Agrees to Boost US Medical Production to Avoid Tariffs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-12",
-    "summary": "Medical technology manufacturer BD has reached an agreement with the federal administration to expand domestic manufacturing capacity for critical healthcare consumables. Under the terms of the arrangement, the company will scale up its operations within the United States in return for exemptions from upcoming import duties on its goods. This move aims to secure the domestic medical supply chain against potential trade disruptions and reduce reliance on foreign manufacturing for essential health sector products.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/bd-strikes-supply-chain-pact-with-trump-administration/832653/"
-  },
-  {
-    "headline": "Port of Los Angeles Sets All-Time Record with 1M Containers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "During September, the Port of Los Angeles processed over one million container units, establishing a new operational milestone for the facility. This unprecedented monthly volume reflects strong throughput levels at the major maritime gateway. The surge highlights ongoing high activity within the regional shipping sector, driven by sustained import demand and efficient terminal operations. This performance sets a historical benchmark for the facility's extensive operational timeline.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/1-million-boxes-set-new-los-angeles-port-record"
-  },
-  {
-    "headline": "Freight Fraud Awareness Day Spotlights Cargo Theft Risks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-12",
-    "summary": "Industry advocates are launching Freight Fraud Awareness Day to encourage victims to share their experiences regarding sophisticated cargo theft schemes. These complex criminal tactics continue to expose vulnerabilities throughout the transportation network, prompting calls for greater vigilance, improved information sharing, and stronger security measures across the trucking sector to protect valuable shipments and secure supply chain operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freight-fraud-awareness-day-returns-as-strategic-cargo-theft-reshapes-trucking"
   }
 ]
