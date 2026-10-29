@@ -1,5 +1,165 @@
 [
   {
+    "headline": "Kroger expands direct sourcing to improve supply chain control",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-10-29",
+    "summary": "Kroger is scaling up its direct procurement initiatives to increase first-party sourcing volumes beyond ten percent. The supermarket operator aims to establish a fully integrated import and distribution network to enhance cost management and end-to-end supply chain visibility. This strategic shift allows the company to bypass traditional middlemen, optimize inventory flows, and secure better pricing terms directly from manufacturers, strengthening its overall operational resilience.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/kroger-accelerates-direct-sourcing-efforts-for-better-cost-control-visibil/872931/"
+  },
+  {
+    "headline": "FedEx attracts parcel shippers to air cargo amid AI growth",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "FedEx is experiencing increased air freight demand from customers who typically rely on parcel shipping. The carrier is actively pursuing business in high-value sectors, including artificial intelligence and data center infrastructure. This shift reflects broader supply chain adjustments as logistics providers target specialized, time-sensitive technology markets to capture new revenue streams and adapt to changing industrial demands.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/"
+  },
+  {
+    "headline": "Wella Company Names New Chief Supply Chain Officer",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-10-29",
+    "summary": "The beauty enterprise owning brands such as OPI and Nioxin has announced the appointment of a new supply chain head. Effective December first, the incoming executive will direct global manufacturing operations, supplier sourcing networks, and logistics infrastructure to streamline product fulfillment and distribution processes across the organization's international markets.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/opi-nioxin-owner-appoints-chief-supply-chain-officer/872796/"
+  },
+  {
+    "headline": "US Pursues Trade Talks Instead of Tariffs on Machinery",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-10-29",
+    "summary": "The United States administration has instructed cabinet members to engage in diplomatic negotiations rather than imposing tariffs on imported industrial machinery and robotics. This marks the second instance this month where trade discussions were chosen to address commercial and security concerns identified through Section 232 investigations, shifting away from immediate punitive trade measures for these critical manufacturing sectors.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/"
+  },
+  {
+    "headline": "TFI International Posts Strong Truckload Growth Despite LTL Slump",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "TFI International highlighted the performance of its Truckload division during the third quarter, contrasting with its better-known less-than-truckload segment. While the truckload operations showed significant improvement and captured investor attention, the LTL segment experienced a rise in its operating ratio, indicating higher operational costs relative to revenue during the period. The financial results reflect shifting performance dynamics across the company's core transportation portfolios.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-tfi-truckload-sparkles-but-or-at-ltl-slips"
+  },
+  {
+    "headline": "Covenant Logistics Posts 19% Q3 Revenue Jump on Freight Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Covenant Logistics Group experienced a significant lift in its third-quarter financial performance, driven primarily by robust expansion within its managed freight division. Total revenue for the quarter reached $353.9 million, representing a 19.2 percent improvement compared to the previous year. The standout managed freight segment saw an impressive surge of 68 percent, reflecting strong demand and operational scaling within the company's freight services sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-covenant-logistics-q3-freight-revenue-surges-68"
+  },
+  {
+    "headline": "FedEx Reports Q3 Growth Driven by Logistics and Pricing",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "FedEx announced strong third-quarter financial results, propelled by increased shipping volumes and favorable pricing strategies. The delivery giant also reported capitalizing on premium logistics services and fuel surcharges, reflecting solid financial health within its core operations. Furthermore, corporate leadership anticipates robust demand and high activity levels heading into the upcoming peak shipping season.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-cashes-in-on-premium-logistics-services-fuel-surcharges"
+  },
+  {
+    "headline": "Saia Reaches Record Revenue via Terminal Expansion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Less-than-truckload logistics provider Saia reported record-breaking revenue and cargo tonnage for the third quarter, driven by the strategic growth of its terminal footprint. Management is now shifting its operational priorities toward maximizing efficiency and performance across these newly established facilities to sustain the positive momentum. The carrier continues to benefit from increased capacity and broader geographic reach within its freight network, reflecting steady demand for its regional transportation services.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/saias-expanded-terminal-network-delivers-record-revenue-tonnage"
+  },
+  {
+    "headline": "Container Freight Rates Rise Despite Cooling Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Ocean shipping freight rates are experiencing upward pressure along major maritime trade lanes connecting Asia to Europe and crossing the trans-Pacific corridor. This price increase occurs concurrently with observable indicators showing a softening in overall shipping demand. Market analysts are monitoring this unusual divergence between freight pricing trends and cargo volume demand across key global shipping lanes, as carriers continue to navigate shifting operational dynamics and capacity management strategies.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand"
+  },
+  {
+    "headline": "DTL Transport to Deploy 75 Autonomous Trucks Using Kodiak Tech",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Carrier DTL Transport has entered into a binding agreement to integrate Kodiak's automated driving system into 75 of its semi-trucks. The deployment will launch on specific freight lanes between Dallas and El Paso, as well as Dallas and Atlanta, which have previously undergone testing by Kodiak. This initiative represents a step toward wider commercial adoption of autonomous vehicle technology within the long-haul trucking sector, aiming to enhance route efficiency on major interstate corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/kodiak-dtl-75-driverless-trucks"
+  },
+  {
+    "headline": "RXO Posts Profitable Quarter Ahead of Acquisition",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-10-29",
+    "summary": "Freight broker RXO reported positive financial results across its key performance categories for the quarter. The company released its earnings figures as scheduled despite an impending acquisition by industry peer C.H. Robinson. Because of the pending merger transaction, management bypassed the traditional earnings call typically held with financial analysts, and accompanying summary presentation slides were withheld from public release. The company continues to operate as an independent publicly traded entity while the deal moves toward finalization.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/rxos-earnings-still-coming-out-had-solid-profitable-quarter"
+  },
+  {
+    "headline": "Rising fuel and operating costs squeeze Florida trucking profits",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Motor carriers in Florida face severe financial pressure driven by escalating fuel prices, equipment expenses, and soaring insurance premiums. According to industry leadership at the Florida Trucking Association, these compounding operational costs are heavily compressing profit margins across the motor carrier sector, raising concerns about the long-term economic viability of regional freight operations as expenses continue to climb.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/florida-trucking-ceo-warns-soaring-diesel-costs-are-squeezing-carrier-profits"
+  },
+  {
+    "headline": "U.S. Rail Traffic Rises 7.8% Driven by Intermodal Growth",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Rail freight volumes across the United States increased during the most recent reporting period, driven primarily by strong gains in the intermodal sector. Data indicates that eight out of ten monitored carload commodity categories experienced volume growth, reflecting broad yet uneven economic activity within the domestic rail transportation network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/u-s-rail-traffic-up-7-8-as-intermodal-leads-gainers"
+  },
+  {
+    "headline": "California Arrests Tie Cartel to Cargo Train Thefts",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Law enforcement authorities in Southern California have apprehended nine individuals suspected of ties to the Sinaloa Cartel in connection with an organized freight train cargo theft ring. The arrests highlight growing security concerns surrounding rail shipping operations and the involvement of international criminal networks in domestic supply chain theft. Investigators continue to examine the scope of the illicit ring and its impact on regional transportation security and freight protection.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/9-alleged-mexican-cartel-associates-arrested-in-california-train-theft-ring"
+  },
+  {
+    "headline": "Scan Global Logistics to Buy US Forwarder OIA Global",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Danish freight forwarding enterprise Scan Global Logistics has entered an agreement to purchase United States-based logistics provider OIA Global. This transaction represents the largest acquisition in the Danish company's operational history. By integrating the American firm, the buyer anticipates entering the global top twenty rankings of freight forwarders. The deal is designed to expand the organization's international footprint and enhance its overall market position within the global transportation sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/scan-global-logistics-to-acquire-us-forwarder-oia-global/"
+  },
+  {
+    "headline": "Former SeaLead Executives Launch Jade Pacific Line",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "A new container shipping carrier, Jade Pacific Line, has entered the intra-Asia and Middle East short-haul market. Founded by former leaders of the now-liquidated SeaLead Shipping, the new enterprise joins a highly competitive regional shipping sector characterized by significant trade volatility. Short-haul routes in Asia continue to attract startup shipping operators despite challenging macroeconomic and operational conditions, positioning these high-demand trade corridors as primary testing grounds for new maritime logistics ventures.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/jade-pacific-line-the-latest-new-kid-on-the-asian-short-haul-block/"
+  },
+  {
     "headline": "California Arrests Follow $500K SIG Sauer Cargo Theft",
     "continent": "North America",
     "country": "United States",
@@ -108,6 +268,16 @@
     "summary": "Scan Global Logistics has reached an agreement to purchase Portland-based OIA Global. The transaction brings together two established logistics and transportation service providers, expanding Scan Global Logistics' operational footprint and service capabilities in the Pacific Northwest and broader North American markets. Financial terms of the acquisition and the expected closing timeline were not disclosed in the announcement.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/scan-global-logistics-to-acquire-oregon-based-oia-global"
+  },
+  {
+    "headline": "Coty cuts air cargo to lower supply chain emissions",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-10-28",
+    "summary": "Beauty products manufacturer Coty has significantly reduced its reliance on air freight since 2019, achieving a 48 percent decrease. The company is actively shifting its distribution network toward more sustainable freight modes, specifically increasing its use of ocean shipping and rail transport. This operational transition is designed to lower the carbon footprint associated with moving its goods globally, aligning with broader corporate environmental and sustainability objectives within its distribution network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/coty-pursues-less-air-freight-more-ocean-and-rail-transport/873024/"
   },
   {
     "headline": "Greenbrier Fourth-Quarter Profit Declines Amid Soft Railcar Demand",
@@ -2828,175 +2998,5 @@
     "summary": "The cybercriminal group Direwolf recently claimed responsibility for attacks against two key transport nodes within a short timeframe. Michigan-based finished-vehicle logistics provider Precision Vehicle Logistics and Malaysia's Port of Tanjung Pelepas were both added to the threat group's list of victims. These incidents highlight growing digital vulnerabilities across international freight networks and marine terminals, prompting increased vigilance among cargo shippers and supply chain operators regarding potential disruptions to vehicle distribution and port handling capabilities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/direwolf-cyber-threat-under-the-radar/"
-  },
-  {
-    "headline": "UPS Strategic Pivot Away From Low-Margin E-Commerce",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-13",
-    "summary": "United Parcel Service is shifting its operational focus away from low-yield business-to-consumer parcel delivery to concentrate on high-value sectors such as healthcare, automotive, and business-to-business distribution. This realignment involves reducing reliance on major e-commerce accounts to navigate intensifying market competition and margin pressures. Industry analysts are debating whether this long-term strategy will successfully improve profitability or leave vulnerable gaps in the carrier's final-mile distribution network against lower-cost rivals.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/freightwaves-is-ups-parcel-pivot-a-strategic-winner-or-a-trojan-horse/"
-  },
-  {
-    "headline": "US-Mexico Border Visa Revocations Spark Freight Capacity Crisis",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Cross-border logistics operations are experiencing severe disruptions as authorities revoke thousands of visas for Mexican commercial truck drivers. This sudden reduction in available drivers has driven up freight rates and increased load rejections across both southern and northern North American border crossings. Industry analysts warn that these structural capacity constraints will likely persist for several years, creating ongoing challenges for regional supply chain networks and international freight management.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/25000-drivers-lost-us-mexico-border-crisis-explained"
-  },
-  {
-    "headline": "Panama Canal Disruptions Redirect Cargo to Port of LA",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Ongoing operational challenges within the Panama Canal, compounded by elevated fuel prices, are prompting maritime carriers and shippers to reroute cargo volumes toward the Port of Los Angeles. This strategic shift aims to circumvent extended transit delays and reduce overall voyage expenses associated with alternative shipping lanes. Consequently, West Coast port facilities are experiencing altered freight flows as the industry adapts to maritime bottlenecks and rising operational costs.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/panama-canal-challenges-drive-shippers-to-port-of-los-angeles/832748/"
-  },
-  {
-    "headline": "New York City offers $5M to shift deliveries to off-peak hours",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "New York City has launched a funding initiative providing five million dollars to encourage businesses to schedule commercial shipments during off-peak and nighttime hours. The municipal program aims to alleviate severe street congestion caused by daytime freight operations. By incentivizing nocturnal logistics, the city hopes to streamline urban distribution networks, reduce traffic bottlenecks, and improve overall supply chain efficiency within metropolitan commercial corridors.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/nyc-offers-5m-to-move-deliveries-away-from-peak-hours/832758/"
-  },
-  {
-    "headline": "Walmart Expands Drone Delivery with Wing Partnership",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Walmart is broadening its aerial delivery network through a collaboration with Wing, bringing automated drone services to metropolitan areas including Denver and Seattle. The initiative aims to scale up rapidly, with both companies projecting operational capabilities across more than 270 retail locations nationwide within the coming year. This expansion reflects growing retailer investment in autonomous last-mile logistics technology to accelerate customer fulfillment speeds and reduce traditional road delivery congestion for small parcel shipments.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/walmart-to-expand-wing-drone-delivery-to-denver-seattle/832654/"
-  },
-  {
-    "headline": "Taylor Farms Halts Seasonal Lettuce Sourcing in Central Mexico",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "procurement",
-    "date": "2026-10-13",
-    "summary": "Following a cyclosporiasis outbreak, Taylor Farms has decided to suspend its lettuce harvesting and processing operations in central Mexico during the peak risk period identified by health officials. The sourcing halt will be implemented annually between May and August, aligning with the timeframe designated by disease control authorities as the primary season for the parasitic infection. This operational adjustment aims to protect consumers and mitigate food safety risks within the company's agricultural supply chain network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/taylor-farms-halts-central-mexico-sourcing-after-cyclospora-outbreak/832766/"
-  },
-  {
-    "headline": "Samsara Releases No-Code AI Agent Platform",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-13",
-    "summary": "Fleet technology provider Samsara has launched its Agent Studio platform for general use, enabling businesses to design custom artificial intelligence agents. The software supports automated functions including driver compliance tracking, data reporting, and messaging operations. The company reported substantial growth in preliminary usage of the tool, though verified financial returns and long-term customer deployment metrics remain to be determined.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/samsara-makes-ai-agent-platform-generally-available-reports-7x-adoption-growth"
-  },
-  {
-    "headline": "Port of LA warns tariffs and trade shifts threaten planning",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-13",
-    "summary": "Following a historic volume record, the Port of Los Angeles leadership highlights growing operational uncertainty across trans-Pacific shipping lanes. Anticipated tariff policies and shifting sourcing strategies are complicating long-term planning for maritime supply chains, as importers attempt to navigate regulatory changes and volume fluctuations. These external pressures create distinct forecasting challenges for logistics operators managing capacity and cargo flow through major North American gateways.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/despite-new-record-port-of-la-chief-warns-of-tariff-driven-planning-risk"
-  },
-  {
-    "headline": "SONAR Pricing Power Index Falls to 70",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "The logistics market experienced a shift as the pricing power index dropped to 70 during the week. This decline was driven by decreasing rates for intermodal contracts and a reduction in ocean freight bookings. Meanwhile, truckload tender rejection rates remained steady, hovering close to 13.9 percent. These metrics reflect changing market dynamics across freight transportation modes, indicating cooling demand in specific sectors while domestic truckload rejection rates maintained relative stability.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/sonar-pricing-power-index-slips-to-70-as-intermodal-contract-rates-fall"
-  },
-  {
-    "headline": "CCT Auto Trans Acquires Livingston VTS to Expand Car Haul Routes",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Vehicle transport provider CCT Auto Trans has completed the acquisition of industry competitor Livingston Vehicle Transportation Services. This strategic purchase enables the company to broaden its geographic coverage map and enhance its automotive logistics network. The integration of Livingston's operations is expected to strengthen service delivery across the region, supporting growing demands within the specialized vehicle freight sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cct-auto-trans-expands-car-haul-coverage-map-in-livingston-vts-deal"
-  },
-  {
-    "headline": "Cass Data Shows Rising Truckload Rates and Shipment Volumes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Recent logistics data indicates that truckload linehaul rates increased by ten percent in September. Additionally, freight shipment volumes experienced growth for the second consecutive month, signaling a shift following a lengthy forty-two-month market downturn. These figures reflect strengthening momentum within the domestic freight sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cass-tl-linehaul-rates-up-10-in-september-shipment-counts-remain-positive"
-  },
-  {
-    "headline": "AI hardware surges past e-commerce to drive Asian air freight",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Artificial intelligence infrastructure demands, including semiconductors and data center equipment, have surpassed e-commerce to become the primary catalyst for air cargo out of Asia. This transition is actively restructuring international trade pathways and global logistics networks, generating significant economic impacts for key technology manufacturing regions such as Taiwan. The unprecedented volume of specialized tech shipments requires adjustments in capacity planning and transport routing across transpacific and global shipping corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-ai-boom-why-its-replacing-e-commerce-in-global-freight"
-  },
-  {
-    "headline": "Container Schedule Reliability Drops as Vessel Delays Grow",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Global container schedule reliability has experienced a consecutive four-month decline, driven by rising port congestion and operational disruptions. Average vessel delays for shipments heading toward the United States now approach one week, creating logistical bottlenecks for importers and transport networks alike. This ongoing deterioration in maritime transit predictability forces supply chain managers to build additional buffer time into their inventory planning and distribution schedules to mitigate the impact of extended lead times.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/shippers-waiting-an-extra-week-for-us-bound-containers"
-  },
-  {
-    "headline": "Saudi Arabia Air Cargo Capacity Plummets After Riyadh Shutdown",
-    "continent": "Middle East",
-    "country": "Saudi Arabia",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "International air freight capacity in Saudi Arabia fell by nearly a third over a recent three-day period following the closure of the Riyadh airport and increased regional airspace risks. Total inbound and outbound cargo volumes across dedicated freighters and widebody passenger planes dropped by over 3,500 tonnes compared to the previous week. The disruptions have forced carriers to alter standard routing options, severely impacting overall freight throughput and highlighting vulnerabilities in regional aviation logistics infrastructure.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/saudi-air-cargo-capacity-drops-amid-disruption-from-riyadh-shutdown/"
-  },
-  {
-    "headline": "US Import Demand Set to Sustain Transpacific Freight Rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Transpacific container shipping rates are anticipated to maintain strength through the upcoming new year, driven by robust US economic conditions and steady import demand. Conversely, cargo volumes and pricing on Asia-Europe trade lanes face downward pressure due to sluggish economic growth in Europe. Industry experts note a widening divergence in market performance between the two major global corridors, with North American routes proving significantly more resilient as carriers navigate shifting regional demand dynamics.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/strong-us-import-demand-will-support-transpacific-rates-till-new-year/"
-  },
-  {
-    "headline": "Beyond uses AI to unify inventory forecasting",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-13",
-    "summary": "The parent company of retail brands including The Container Store and Kirkland’s has partnered with Relex Solutions to implement artificial intelligence technology. The rollout aims to streamline demand forecasting and inventory replenishment processes. By adopting this unified software platform, the retail group seeks to reduce operational complexity across its supply chain network and improve overall inventory management efficiency for its portfolio of home goods brands.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/bed-bath-beyond-parent-company-taps-ai-to-unify-forecasting-replenishmen/832759/"
-  },
-  {
-    "headline": "Mexico heavy-duty truck exports surge on US demand",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "logistics",
-    "date": "2026-10-13",
-    "summary": "Heavy-duty vehicle shipments from Mexico experienced a dramatic 145 percent increase during September. This substantial growth was primarily fueled by rising commercial demand within the United States market. Buyers accelerated their purchasing activity to secure vehicles ahead of upcoming environmental regulations and stricter emissions standards taking effect. The surge highlights the close economic ties and transportation dependencies between the two North American trading partners as automotive manufacturers adjust production timelines to meet regulatory shifts.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mexico-truck-exports-soar-145-as-us-demand-accelerates"
   }
 ]
