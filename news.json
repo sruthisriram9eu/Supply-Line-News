@@ -1,5 +1,35 @@
 [
   {
+    "headline": "FedEx Freight stabilization points to fourth-quarter margin gains",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-30",
+    "summary": "FedEx Freight has observed a stabilization in its shipping volumes, signaling potential financial improvements heading into the fourth quarter. Leadership attributes this positive trajectory to enhanced operating leverage anticipated for the coming year. Strategic contributions from specialized sales groups have yielded new commercial accounts and optimized the overall freight composition, supporting stronger operational performance across the shipping division.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-freight-sees-volumes-stabilize-eyes-q4-margin-improvement"
+  },
+  {
+    "headline": "Amazon faces rising freight expenses as third-quarter shipping costs surge",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "During the third quarter, Amazon experienced an eleven percent increase in shipping expenses, driven by escalating fuel and linehaul rates across its fulfillment network. Despite these rising financial pressures within its transportation operations, the e-commerce giant successfully processed and delivered over one and a half billion packages using rapid same-day and overnight fulfillment speeds.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amazon-battles-freight-inflation-as-shipping-costs-jump-11-in-q3"
+  },
+  {
+    "headline": "CPKC Posts Record Third-Quarter Revenue",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-10-29",
+    "summary": "Canadian Pacific Kansas City achieved record revenue during the third quarter, driven by strong performance in both domestic and international intermodal shipping volumes. Additionally, the railway handled record-breaking grain traffic. This financial growth highlights the ongoing resilience and high demand within the rail freight sector, particularly for intermodal and agricultural commodities transport.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic"
+  },
+  {
     "headline": "Kroger expands direct sourcing to improve supply chain control",
     "continent": "North America",
     "country": "United States",
@@ -2968,35 +2998,5 @@
     "summary": "Geopolitical tensions and the closure of the Hormuz Straits have severely disrupted operational routes and fleet deployments for the top common feeder shipping lines. Major carriers have been forced to scale back operations in response to the ongoing Middle East conflict, altering the competitive landscape as regional players narrow the gap on established market leaders. Analysts highlight that these disruptions are driving significant shifts in how maritime transport networks are structured across the affected region.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/gulf-conflict-upsets-networks-and-fleet-size-of-biggest-feeder-operators/"
-  },
-  {
-    "headline": "Late-Booking AI Shippers Threaten Airfreight Capacity",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "Hyperscale technology companies that have delayed securing peak-season transport capacity for servers, processors, and data center hardware risk triggering significant airfreight rate spikes. While traditional e-commerce operators and major brands successfully locked in their required space ahead of the surge, the impending entry of late-booking artificial intelligence shippers adds substantial strain to an already tight global transport market, potentially overwhelming available aircraft payload despite recent holiday demand lulls.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ai-shippers-still-looking-for-capacity-risk-sharp-airfreight-peak-squeeze/"
-  },
-  {
-    "headline": "South Korea Pushes for Arctic Shipping Route by 2030 Despite Carrier Hesitation",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "South Korean leadership reaffirms its commitment to launching regular container shipping services between Busan and Europe via the Northern Sea Route by the end of the decade. This ambition follows a recent test voyage completed by a regional ferry operator, which successfully navigated a round-trip between domestic ports and European destinations in forty days. Despite these operational milestones proving the technical feasibility of Arctic maritime transport, domestic shipping lines remain cautious about the long-term commercial viability and profitability of utilizing these polar trade lanes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/nsr-box-shipping-test-a-success-but-s-korean-carriers-are-sceptical/"
-  },
-  {
-    "headline": "Direwolf Ransomware Targets Automotive Logistics and Port Operations",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "The cybercriminal group Direwolf recently claimed responsibility for attacks against two key transport nodes within a short timeframe. Michigan-based finished-vehicle logistics provider Precision Vehicle Logistics and Malaysia's Port of Tanjung Pelepas were both added to the threat group's list of victims. These incidents highlight growing digital vulnerabilities across international freight networks and marine terminals, prompting increased vigilance among cargo shippers and supply chain operators regarding potential disruptions to vehicle distribution and port handling capabilities.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/direwolf-cyber-threat-under-the-radar/"
   }
 ]
