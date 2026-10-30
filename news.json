@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Venti Introduces Autonomous Yard Trucks to US Rail Yards",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-30",
+    "summary": "Autonomous vehicle technology firm Venti Technologies is deploying its driverless container trucks into United States freight yards. Following a successful three-year operational period in Singapore ports, the company adapted its navigation capabilities to meet the specific demands of domestic rail facilities, including the development of advanced reversing maneuvers required for yard operations. This expansion aims to enhance efficiency and safety in logistics hub maneuvering.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/venti-driverless-trucks-us-yards"
+  },
+  {
+    "headline": "Walmart and Symbotic Expand Automation Deal",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-10-30",
+    "summary": "Walmart and Symbotic have signed a multi-billion dollar agreement to deploy advanced artificial intelligence-driven robotics across twenty-five regional distribution centers in the United States. This expanded commercial partnership builds on a ten-year collaboration aimed at accelerating warehouse modernization and enhancing fulfillment efficiency throughout the retail giant's domestic and international distribution network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/supply-chain-transformation-walmart-and-tech-leader-symbotic-disclose-multi-billion-agreement/"
+  },
+  {
+    "headline": "LA and Long Beach Ports Face Potential Security Guard Strike",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-30",
+    "summary": "Operations at the major West Coast port complex of Los Angeles and Long Beach are threatened by an impending strike as a labor contract extension for security personnel concludes. Roughly 250 union-represented guards could walk off the job following a breakdown in negotiations between worker representatives and the Pacific Maritime Association. A work stoppage at these critical maritime gateways risks creating cargo handling bottlenecks and freight delays across regional and national supply chains.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/la-lb-port-complex-braces-for-potential-strike-as-labour-contract-expires/"
+  },
+  {
+    "headline": "XPO Outpaces Freight Rivals in Q3 Volume Growth Despite Slowing Prices",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-30",
+    "summary": "During the third quarter, transportation provider XPO increased its shipment volumes by nearly six percent, outperforming competitors FedEx Freight and Old Dominion, both of which experienced declines. XPO maintained stronger margins than typical seasonal trends allow, although headline price growth moderated to 3.6 percent. Leadership attributed the pricing deceleration to an influx of heavier, shorter-haul freight resulting from tight truckload market conditions, noting that pricing momentum improved in October with a five percent increase.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/xpo-beats-fedex-freight-old-dominion-on-volume-growth-yet-the-bulls-want-more/"
+  },
+  {
+    "headline": "Potential Labor Dispute Threatens Major California Port Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-30",
+    "summary": "A small security union local at the ports of Los Angeles and Long Beach has threatened a walkout that could severely disrupt operations at the busiest container complex in the United States. Although the strike may be postponed by a few days, the industrial action poses a significant risk to cargo movement, compounding existing bottlenecks where tens of thousands of containers are already backed up and waiting for railway connections. The situation highlights the outsized impact that localized labor tensions can exert on national freight networks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/250-watchmen-one-picket-line-and-half-of-americas-busiest-port-complex/"
+  },
+  {
     "headline": "FedEx Freight stabilization points to fourth-quarter margin gains",
     "continent": "North America",
     "country": "United States",
@@ -2948,55 +2998,5 @@
     "summary": "PhilaPort is undertaking a massive nearly one billion dollar public-private investment project to construct its first new vessel berth in half a century. This capital expenditure represents the port facility's largest infrastructure enhancement to date, aiming to significantly boost regional shipping capacity and cargo handling capabilities along the mid-Atlantic maritime corridor, supporting long-term regional freight and maritime supply chain growth.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/philadelphia-ports-sets-837-million-expansion-first-new-berth-in-50-years"
-  },
-  {
-    "headline": "Missile attacks in Strait of Hormuz sink one container ship, damage another",
-    "continent": "Middle East",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "Two container ships operated by Global Feeder Shipping were targeted by missile strikes in the Strait of Hormuz within a 24-hour window. The vessel GFS Pride suffered severe damage and a fire before sinking, though the entire crew was safely evacuated without injuries. A second ship, the GFS Giselle, also sustained hull damage during the incidents. These attacks threaten vital maritime logistics routes in the region, prompting heightened safety concerns and potential disruptions for container shipping operations passing through the critical waterway.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/gfs-ship-sinks-after-missile-attack-second-ship-sustains-damage/"
-  },
-  {
-    "headline": "Cyber Extortion Group Threatens 38 Global Shipping and Port Entities",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "An extortion group named n0n has published the names of 38 international organizations operating within the maritime, logistics, and port sectors on its dark-web site. The targets span 18 countries and include container terminals, shipping operators, and logistics technology providers. A cybersecurity firm identified the simultaneous data leak threat, though none of the affected companies have publicly acknowledged a security breach at this time. The incident highlights ongoing digital vulnerabilities across critical global transport infrastructure.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/cyber-crime-group-hits-38-shipping-and-port-groups-with-date-leak-threat/"
-  },
-  {
-    "headline": "Gemini Service Relaunch Threatens Khor Fakkan Port Congestion",
-    "continent": "Middle East",
-    "country": "United Arab Emirates",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "The upcoming relaunch of the Gemini ocean shipping network by Hapag-Lloyd and Maersk is expected to worsen vessel congestion at the port of Khor Fakkan. The revised trade lane service, connecting the Far East with the Middle East, redirected its port calls away from Jebel Ali to Khor Fakkan. Consequently, the sudden surge in maritime traffic is straining the facility's operational capacity, raising concerns about potential delays and bottlenecks for cargo movement in the region as carriers attempt to restore direct ocean links.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/gemini-relaunch-likely-to-add-to-congestion-pressure-at-khor-fakkan/"
-  },
-  {
-    "headline": "Pilot and Tesla Launch First Heavy-Duty EV Megacharger",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "Pilot Travel Centers and Tesla have launched their initial heavy-duty electric vehicle charging station at a travel center in Georgia. This inaugural location features six dedicated stalls designed to support commercial freight trucks. Additional charging locations are currently under construction across the country, with multiple sites nearing completion in California and other regions. This infrastructure development aims to expand zero-emission transportation corridors for long-haul freight operations and support the growing adoption of heavy-duty electric trucks in the commercial logistics sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/pilot-tesla-megacharger-site-opens"
-  },
-  {
-    "headline": "Gulf Conflict Forces Major Feeder Operators to Reshape Networks",
-    "continent": "Middle East",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-14",
-    "summary": "Geopolitical tensions and the closure of the Hormuz Straits have severely disrupted operational routes and fleet deployments for the top common feeder shipping lines. Major carriers have been forced to scale back operations in response to the ongoing Middle East conflict, altering the competitive landscape as regional players narrow the gap on established market leaders. Analysts highlight that these disruptions are driving significant shifts in how maritime transport networks are structured across the affected region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/gulf-conflict-upsets-networks-and-fleet-size-of-biggest-feeder-operators/"
   }
 ]
