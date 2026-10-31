@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Trailer Leasing Demand Surges Past Pandemic Peaks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-10-30",
+    "summary": "Utilization rates for leased trailers have reached unprecedented heights, exceeding figures recorded during the height of the global health crisis. Industry executives report a supply-driven expansion in the trailer market, accompanied by an increased appetite for older equipment as commercial fleets adapt their capital expenditure strategies. Concurrently, sector leaders are issuing warnings regarding rising rental fraud schemes, prompting organizations to exercise greater caution when securing short-term and long-term equipment rentals to protect their operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/unexpected-boom-trailer-leasing-demand-hits-record-highs"
+  },
+  {
     "headline": "Aurora Maintains 2027 Autonomous Truck Production Target Despite Losses",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "LATAM Cargo experienced a significant expansion in pharmaceutical air freight volumes connecting Europe and Brazil during the opening seven months of the year. This dramatic growth was primarily propelled by escalating requirements for GLP-1 therapeutic drugs. Despite this regional surge in healthcare shipments, the broader international air freight sector remained relatively stagnant overall during the same comparative timeframe.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/pharma-traffic-on-the-rise-for-latam-cargo-but-global-market-stays-flat/"
-  },
-  {
-    "headline": "US Container Ports Face Persistent Congestion and Drayage Constraints",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "American container gateways are experiencing sustained high import volumes without the usual post-peak slowdown. This surge has severely strained drayage capacity, creating critical bottlenecks at major ports such as Houston and hindering inland rail ramp operations. Logistics and trucking providers identify constrained drayage networks as the primary limitation to regional cargo growth. As freight volumes continue their upward trajectory, terminal operators and transport providers face ongoing operational challenges in moving containers efficiently through domestic supply chain corridors.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/"
   }
 ]
