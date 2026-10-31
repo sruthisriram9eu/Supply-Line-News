@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Aurora Maintains 2027 Autonomous Truck Production Target Despite Losses",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-10-30",
+    "summary": "Autonomous vehicle developer Aurora has reiterated its projection to manufacture over one thousand commercial trucks by the year 2027. This reaffirmation follows a financial update revealing a substantial operating loss alongside lower-than-anticipated revenue figures for the period, leading the organization to revise its annual financial outlook downward. The firm continues to focus its long-term strategy on scaling automated freight transport capabilities within the heavy-duty vehicle sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/aurora-q3-2026-earnings"
+  },
+  {
     "headline": "USDA Invests $1.3B to Boost Domestic Fertilizer Production",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "American container gateways are experiencing sustained high import volumes without the usual post-peak slowdown. This surge has severely strained drayage capacity, creating critical bottlenecks at major ports such as Houston and hindering inland rail ramp operations. Logistics and trucking providers identify constrained drayage networks as the primary limitation to regional cargo growth. As freight volumes continue their upward trajectory, terminal operators and transport providers face ongoing operational challenges in moving containers efficiently through domestic supply chain corridors.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/"
-  },
-  {
-    "headline": "UPS Happy Returns Integrates with TikTok Shop",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-14",
-    "summary": "UPS has integrated its Happy Returns service into TikTok Shop, allowing retailers such as Pacsun and Everlane to streamline the returns process for customers. This rollout aims to help brands manage the high volume of merchandise sent back following the busy holiday shopping season. By incorporating this reverse logistics solution directly into the social commerce platform, merchants can offer a more efficient and convenient drop-off experience, ultimately reducing friction in post-purchase operations and improving overall consumer satisfaction.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ups-happy-returns-comes-to-tiktok-shop/832990/"
   }
 ]
