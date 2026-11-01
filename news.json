@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Strict Cabotage Laws Threaten US-Mexico Cross-Border Trucking",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-11-01",
+    "summary": "Recent enforcement actions regarding cabotage rules in Mexico are causing growing concern for cross-border trucking operations. Meanwhile, regional authorities in Nuevo León have reduced toll fees by half at the Colombia Bridge in an effort to incentivize commercial freight traffic. In addition, retail giant Walmart has announced a major capital investment of four hundred million dollars to construct a new distribution hub near San Antonio, Texas, which is projected to generate over four hundred new employment opportunities in the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking"
+  },
+  {
     "headline": "Trailer Leasing Demand Surges Past Pandemic Peaks",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Ascent Global Logistics has appointed Gal Dayan, a former executive from Apple and UPS, as its new chief operating officer. Following his appointment, Dayan criticized large freight forwarders for failing to meet the customer service standards promoted in their marketing materials. He contends that specialized logistics providers are better positioned to focus on and invest in strong relationships with shippers compared to heavily consolidated legacy forwarders.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/big-forwarders-are-failing-shippers-on-service-says-ascents-new-coo/"
-  },
-  {
-    "headline": "LATAM Cargo Reports Major Surge in Brazil Pharmaceutical Air Freight",
-    "continent": "South America",
-    "country": "Brazil",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "LATAM Cargo experienced a significant expansion in pharmaceutical air freight volumes connecting Europe and Brazil during the opening seven months of the year. This dramatic growth was primarily propelled by escalating requirements for GLP-1 therapeutic drugs. Despite this regional surge in healthcare shipments, the broader international air freight sector remained relatively stagnant overall during the same comparative timeframe.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/pharma-traffic-on-the-rise-for-latam-cargo-but-global-market-stays-flat/"
   }
 ]
