@@ -1,5 +1,135 @@
 [
   {
+    "headline": "Norfolk Southern and Schneider National expand intermodal reach",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Norfolk Southern has formed a strategic partnership with Schneider National to expand intermodal freight services along the East Coast. Executives highlighted that the collaboration aims to enhance network efficiency and capacity. Additionally, leadership noted that a potential merger between the railroad company and Union Pacific would further strengthen the operational scope of the joint initiative. This alliance is designed to improve service reliability and meet rising customer demands across eastern shipping corridors.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/"
+  },
+  {
+    "headline": "Walmart Invests $6B in Distribution Center Automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-02",
+    "summary": "Walmart is investing six billion dollars to upgrade its distribution network through a major automation initiative. The retail giant plans to integrate advanced robotics technology across twenty-five of its regional distribution facilities. This operational overhaul aims to accelerate fulfillment speeds and enhance overall inventory replenishment accuracy throughout the supply chain network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/"
+  },
+  {
+    "headline": "Runnings Deploys AI to Streamline Supply Chain Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-02",
+    "summary": "Farm and home goods retailer Runnings is implementing an artificial intelligence platform from Relex Solutions across its entire store and distribution center network. The phased rollout aims to integrate demand forecasting and inventory replenishment processes, helping the company optimize stock levels, improve product availability, and enhance overall efficiency throughout its supply chain infrastructure.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/"
+  },
+  {
+    "headline": "Fixing Supply Chain Decision Layers to Improve Fill Rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-02",
+    "summary": "Despite holding record inventory levels, many companies continue to struggle with meeting fill rate targets. Analysts suggest that the root cause of these fulfillment failures is not related to material shortages or inaccurate demand forecasting, but rather inefficiencies within the core supply chain decision-making framework. Organizations are advised to overhaul their internal decision processes and technological systems rather than simply accumulating more stock, which fails to resolve underlying operational bottlenecks and visibility challenges.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/"
+  },
+  {
+    "headline": "Southern California Port Union Extends Contract Amid Ongoing Talks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Labor negotiations at the busiest port complex in the United States have been extended as port employers and union watchmen in Southern California continue discussions. The temporary agreement pushes back potential strike action while bargaining sessions remain active. Both sides are working to reach a permanent resolution to avoid significant disruptions to regional and national freight operations, cargo handling, and the broader maritime supply chain network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue"
+  },
+  {
+    "headline": "Flexport Reports Surge in Ocean Freight Volumes Amid Lean Growth",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Freight forwarder Flexport has experienced a significant increase in ocean shipping volumes since April, accompanied by minimal staff expansion. Leadership attributes this efficiency to artificial intelligence tools, which are accelerating software development cycles and allowing the firm to operate with leaner engineering teams. This operational strategy highlights a broader industry trend toward leveraging automation to scale business output without proportional increases in labor overhead.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount"
+  },
+  {
+    "headline": "Bangladesh Garment Protests Threaten Export Deadlines",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Labor unrest across Bangladesh has forced the suspension of operations at hundreds of garment factories, creating severe delays for apparel shipments heading to Chittagong port. Demonstrations and road blockades are preventing finished goods originating in Dhaka from reaching maritime transport hubs. Consequently, exporters face mounting challenges in meeting contracted delivery schedules, risking missed vessel departures and potential downstream disruptions for international buyers relying on the region's textile manufacturing output.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/labour-protests-in-bangladesh-garment-sector-threaten-export-deadlines/"
+  },
+  {
+    "headline": "Ocean Freight Disruptions Fail to Drive Major Air Cargo Surge, Says DSV",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Forwarder DSV reports that ongoing maritime shipping disruptions are not resulting in a significant migration of cargo to air transport. High costs associated with emergency air capacity are deterring most shippers from making the switch. Executives explain that companies only opt for airfreight when the financial impact of maritime delays clearly outweighs the steep price premium of urgent air options, meaning the majority of cargo remains routed via ocean transit despite current network challenges.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ocean-disruption-offers-no-easy-windfall-for-airfreight-warns-dsv/"
+  },
+  {
+    "headline": "Cosco Shipping Sees Q3 Profit Surge Amid Freight Rate Spikes",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Chinese maritime enterprise Cosco Shipping Holdings experienced a dramatic eighty-one percent profit increase during the third quarter. This financial surge was driven by elevated freight rates resulting from persistent vessel rerouting and port congestion globally. Conversely, its terminal management subsidiary, Cosco Shipping Ports, registered flat financial returns as domestic facilities in China operated near maximum capacity. Analysts anticipate a seasonal softening of these maritime market conditions heading toward early 2027.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cosco-shipping-vs-ports-same-parent-not-quite-siblings/"
+  },
+  {
+    "headline": "JB Hunt Faces Class-Action Lawsuits Following Cyber Attack",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Transportation and logistics provider JB Hunt is facing four proposed class-action lawsuits following a significant cybersecurity incident. A cybercrime group allegedly stole millions of business records and employee details from the firm. These legal actions highlight a growing trend where organizations experiencing security compromises quickly become targets for litigation from affected stakeholders. The filings were recently submitted in an Arkansas federal court, reflecting escalating legal risks for transport companies dealing with cyber threats and data breaches.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/jb-hunt-faces-data-breach-lawsuits-as-hackers-claim-haul-of-carrier-records/"
+  },
+  {
+    "headline": "Amazon Opens Logistics Network to Third-Party Merchants",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-02",
+    "summary": "Amazon has transitioned its logistics division into a third-party carrier, offering freight, warehousing, and delivery services to external businesses. Merchants utilizing the fulfillment infrastructure can now integrate Prime delivery options directly into their own e-commerce storefronts and purchase less-than-truckload labels through the platform. This strategic shift coincides with the rise of artificial intelligence shopping agents used by hundreds of millions of consumers, which increasingly prioritize speed and reliability in delivery when comparing purchasing options.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/amazon-opens-delivery-network-to-all-just-as-ai-shopping-agents-reward-the-quickest/"
+  },
+  {
+    "headline": "Global maritime shipping reliability shows rising seasonal volatility",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Recent data indicates that container shipping schedule reliability has developed a distinctly seasonal pattern since the pandemic. Analysis of historical vessel arrival records reveals that winter months consistently experience poor punctuality and more severe delays, while schedule adherence tends to recover as summer approaches. Additionally, weekly liner service deployments have become increasingly unstable, pointing to a broader structural shift in how international maritime freight networks operate throughout the year.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/poor-new-year-liner-schedule-reliability-only-improves-as-summer-arrives/"
+  },
+  {
+    "headline": "Sierra Leone Launches New Chinese-Backed National Shipping Line",
+    "continent": "Africa",
+    "country": "Sierra Leone",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Sierra Leone has established a new national shipping enterprise in partnership with Chinese backers, aiming to build a fleet of fifty vessels and secure a major portion of the nation's maritime freight market. This initiative follows the discontinuation or delay of previous infrastructure undertakings involving Chinese investment. While the financial structure for this maritime venture has been revised, observers continue to raise traditional concerns regarding the long-term viability and governance of the project as the country attempts to strengthen its logistics and trade capabilities.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/slosco-sierra-leones-latest-chinese-shipping-venture/"
+  },
+  {
     "headline": "AIT Worldwide Acquires Australian Forwarder Connor Anderson",
     "continent": "Oceania",
     "country": "Australia",
@@ -2868,135 +2998,5 @@
     "summary": "Consumer products giant Unilever is scaling its digital twin technology across forty manufacturing facilities globally. The expansion emphasizes tangible performance improvements, standardized and repeatable operational procedures, and comprehensive training for the workforce. Rather than pursuing unproven technologies, the company is anchoring its digital transformation strategy on direct business value and operational efficiency at each production site.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/unilever-puts-business-results-first-in-factory-digital-twin-rollout/833011/"
-  },
-  {
-    "headline": "Federal Grants to Fund Over 2,400 New Truck Parking Spaces",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "The U.S. Department of Transportation is allocating financial support to construct over 2,400 new commercial vehicle parking spots across multiple states. This initiative aims to address the critical shortage of secure and accessible resting areas for long-haul drivers, which directly impacts highway safety, driver well-being, and freight movement efficiency throughout the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/federal-dot-grants-will-fund-more-than-2400-parking-spots"
-  },
-  {
-    "headline": "UNFI tackles fuel cost surges with AI routing and hedging",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Wholesale food distributor United Natural Foods is mitigating the financial impact of rising diesel prices through strategic fuel hedging and the implementation of an artificial intelligence platform designed to optimize delivery routes. By leveraging advanced routing software, the enterprise reduces transportation mileage and fuel consumption, helping to stabilize operational costs within its distribution network amidst volatile energy markets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/how-unfi-tackles-higher-fuel-prices/832977/"
-  },
-  {
-    "headline": "California Truckers Face Prolonged High Diesel Costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Commercial vehicle operators in California continue to grapple with fuel expenses exceeding eight dollars per gallon. Industry experts warn that these elevated operational costs are likely to persist well into the upcoming year, placing sustained financial pressure on freight carriers and supply chain networks operating within the region. In response to the ongoing burden, transport operators are actively seeking government and industry relief measures to mitigate the severe economic impact on their day-to-day operations and freight distribution capabilities.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/california-diesel-prices-remain-above-8-per-gallon-as-truckers-call-for-re/833092/"
-  },
-  {
-    "headline": "GlobalFoundries Expands NY Semiconductor Production",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-15",
-    "summary": "GlobalFoundries is investing 21 billion dollars to construct new semiconductor fabrication facilities in New York. This multibillion-dollar initiative stems from a collaborative trade agreement between the United States and Japan aimed at bolstering domestic microchip production. The project is designed to fortify critical industrial supply chains and address the rising component demands of the automotive and industrial sectors.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/globalfoundries-building-21b-new-york-fabs-under-us-japan-trade-deal/832995/"
-  },
-  {
-    "headline": "Descartes Unveils Multi-Source Freight Tracking Feature",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Descartes has introduced a new capability to its MacroPoint platform that combines electronic logging device data, trailer GPS tracking, and driver mobile applications into a single monitoring process. This multi-source approach aims to eliminate blind spots in transit tracking, improve operational communication with drivers, and detect potential security or fraudulent risks by verifying shipment locations across multiple data streams simultaneously, enhancing overall supply chain oversight.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freight-visibility-gets-a-second-set-of-eyes"
-  },
-  {
-    "headline": "Fleetworthy Expands Expedited Electronic Inspection Tool to Five States",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Compliance software provider Fleetworthy has rolled out its Expedited Inspection feature to four additional states, bringing its total footprint to five. The system streamlines roadside enforcement by digitally transmitting a commercial driver's electronic record of duty status file directly to law enforcement officials when a vehicle is pulled over. According to law enforcement feedback, this automated data transfer significantly reduces the time required to complete standard roadside inspections, saving approximately fifteen minutes per stop and improving overall efficiency for both drivers and inspectors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fleetworthy-expedited-inspection-five-states"
-  },
-  {
-    "headline": "Prologis Beats Q3 Expectations and Raises Development Outlook",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-15",
-    "summary": "Logistics real estate leader Prologis surpassed financial expectations for the third quarter, prompting the company to significantly elevate its future projections for new development starts. The positive performance reflects steady demand within the industrial warehouse sector, encouraging the operator to expand its construction pipeline further out into coming years as market conditions remain favorable for modern distribution facilities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/prologis-tops-q3-estimates-raises-development-starts-forecast-again"
-  },
-  {
-    "headline": "FedEx Launches Digital Booking for European Pharma Cold Chain",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "FedEx has introduced a new digital platform designed to streamline the reservation process for temperature-controlled pharmaceutical cargo across Europe. The technology aims to improve efficiency and simplify logistics management for healthcare clients moving sensitive medical products throughout the region, addressing specific operational requirements for cold-chain transport networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fedex-digitizes-booking-process-for-european-cold-chain-pharma-shipments"
-  },
-  {
-    "headline": "AP Møller Capital to Acquire Portek International from Mitsui",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-15",
-    "summary": "Investment firm AP Møller Capital has reached an agreement to purchase Portek International, a Singapore-based port operator, from Mitsui & Co. Portek currently manages seven terminal locations spanning multiple regions, including Southeast Asia, Europe, and Africa, while also providing specialized port engineering services. The transaction involves acquiring the entirety of the company and its workforce of approximately 1,400 employees, further expanding the buyer's global maritime infrastructure portfolio across key international shipping and logistics hubs.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ap-moller-capital-acquires-portek-international-from-mitsui/"
-  },
-  {
-    "headline": "Volvo Targets Vocational Truck Market to Drive Growth",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-15",
-    "summary": "Volvo aims to capture a fifteen percent market share by expanding its presence in the vocational truck sector. Driven by increased infrastructure spending and a surge in data center construction, the manufacturer is targeting heavy-duty segments it previously missed. The strategy focuses on capturing strong domestic demand for specialized commercial vehicles used in heavy construction and industrial applications.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/volvo-vocational-market-share-voorhoeve"
-  },
-  {
-    "headline": "Westport Fuel Systems rebrands to Aetherion Technologies",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-15",
-    "summary": "Westport Fuel Systems has officially changed its name to Aetherion Technologies following a strategic shift. According to the chief executive, the rebranding reflects a focused operational approach centered on HPDI technology and the Cespira joint venture with Volvo. The company is positioning itself to support compressed natural gas applications within the United States long-haul transportation market.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/westport-aetherion-name-change-cng-hpdi"
-  },
-  {
-    "headline": "UK Ports Deny Volume Growth Is Driven by EU ETS Avoidance",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "international_relations",
-    "date": "2026-10-15",
-    "summary": "Representatives from the British Ports Association have dismissed claims that increased cargo volumes at major UK gateways are the result of shipping lines rerouting vessels to bypass European Union emissions trading scheme fees. The response comes amid concerns raised by continental European bodies regarding potential carbon leakage and cargo diversion toward nearby non-EU transhipment facilities. Industry stakeholders argue that the traffic shifts stem from standard commercial and operational factors rather than regulatory arbitrage.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/uk-port-volume-growth-not-due-to-eu-shippers-avoiding-ets-says-bpa/"
-  },
-  {
-    "headline": "Low Rhine River levels strain European freight networks",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Unseasonably shallow water levels along the Rhine River are severely restricting container barge capacities around Duisburg and upstream areas, forcing shippers to divert freight toward already overburdened road and rail networks. This modal shift is creating mounting operational pressure at major European container terminals in Antwerp and Rotterdam. Industry stakeholders report that some upstream vessel services have been suspended entirely as navigational drafts drop below critical thresholds, compounding existing congestion and capacity constraints across alternative regional transportation corridors.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/low-rhine-water-level-driving-barge-cargo-to-capacity-strained-road-and-rail/"
   }
 ]
