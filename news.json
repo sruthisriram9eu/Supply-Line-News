@@ -1,5 +1,15 @@
 [
   {
+    "headline": "AIT Worldwide Acquires Australian Forwarder Connor Anderson",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Logistics provider AIT Worldwide has expanded its operational footprint in the Oceania region through the acquisition of Connor Anderson International, an Australian freight forwarder known for supporting major technology infrastructure projects. This strategic purchase strengthens the buyer's international network and enhances its capability to handle complex supply chain requirements for tech sector deployments within the Australian market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout"
+  },
+  {
     "headline": "Strict Cabotage Laws Threaten US-Mexico Cross-Border Trucking",
     "continent": "North America",
     "country": "Mexico",
@@ -2988,15 +2998,5 @@
     "summary": "Unseasonably shallow water levels along the Rhine River are severely restricting container barge capacities around Duisburg and upstream areas, forcing shippers to divert freight toward already overburdened road and rail networks. This modal shift is creating mounting operational pressure at major European container terminals in Antwerp and Rotterdam. Industry stakeholders report that some upstream vessel services have been suspended entirely as navigational drafts drop below critical thresholds, compounding existing congestion and capacity constraints across alternative regional transportation corridors.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/low-rhine-water-level-driving-barge-cargo-to-capacity-strained-road-and-rail/"
-  },
-  {
-    "headline": "Ascent COO Criticizes Major Freight Forwarders on Service Quality",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Ascent Global Logistics has appointed Gal Dayan, a former executive from Apple and UPS, as its new chief operating officer. Following his appointment, Dayan criticized large freight forwarders for failing to meet the customer service standards promoted in their marketing materials. He contends that specialized logistics providers are better positioned to focus on and invest in strong relationships with shippers compared to heavily consolidated legacy forwarders.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/big-forwarders-are-failing-shippers-on-service-says-ascents-new-coo/"
   }
 ]
