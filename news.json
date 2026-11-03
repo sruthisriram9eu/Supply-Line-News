@@ -1,5 +1,145 @@
 [
   {
+    "headline": "3M Overhauls Manufacturing Network to Boost Productivity",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-11-03",
+    "summary": "Industrial manufacturer 3M is restructuring its production footprint by shutting down 16 facilities and modifying operations at 10 additional sites. Leadership expects this broad operational transformation to generate annual productivity savings reaching $1 billion by the close of 2027. The sweeping network optimization is part of a larger corporate strategy to streamline operations and enhance efficiency across the company's industrial supply chain.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/3m-closes-16-factories-plans-changes-at-10-more-in-network-revamp/873536/"
+  },
+  {
+    "headline": "FedEx Expands Network 2.0 Integration to Los Angeles",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "FedEx is preparing to roll out its Network 2.0 integration plan in Los Angeles and additional markets following the upcoming holiday period. The broader infrastructure consolidation strategy, designed to streamline operations and enhance efficiency, has already been finalized in major urban areas such as Dallas and San Francisco. Company leadership is currently focused on managing the upcoming peak shipping season while keeping the overall network restructuring on schedule for full completion by the end of 2027.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873453/"
+  },
+  {
+    "headline": "Coty Updates Maryland Facility Lighting to Cut Emissions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Beauty product manufacturer Coty has completed a major energy efficiency upgrade at its distribution facility in Maryland. The company replaced approximately 2,600 lighting fixtures to modernize its physical infrastructure. This operational change successfully reduced electricity consumption tied to lighting by 25 percent. The initiative forms part of a broader corporate strategy focused on environmental sustainability and reducing carbon emissions across the company's supply chain network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/coty-upgrades-warehouse-lighting-to-slash-emissions/872961/"
+  },
+  {
+    "headline": "Warehouse Inventory Shifts Toward Inland Markets Amid Uncertainty",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Market uncertainty is prompting businesses to transfer higher inventory volumes into inland distribution centers rather than traditional port locations. Industry specialists indicate that this changing storage pattern stems from cautious inventory strategies rather than a permanent structural alteration in overall warehouse demand. While port-adjacent real estate has historically dominated supply chain logistics networks, companies are increasingly utilizing inland facilities to better manage risk and navigate ongoing operational volatility across global trade routes.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/"
+  },
+  {
+    "headline": "GXO Logistics reports Q3 revenue growth and record pipeline",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Contract logistics provider GXO Logistics achieved a revenue increase of 5.7 percent to reach $3.59 billion during the third quarter. The financial performance was supported by a significant acceleration in new business acquisitions, which jumped by 34 percent compared to previous periods. Additionally, the company's prospective sales pipeline expanded to an all-time high of $3.1 billion, indicating strong ongoing demand for its warehousing and fulfillment operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/first-look-gxo-logistics-q3-revenue-hits-3-6b"
+  },
+  {
+    "headline": "Walmart Commits $6 Billion to Warehouse Automation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Retail giant Walmart has partnered with Symbotic in a multi-billion dollar agreement to implement advanced automation technology across several large distribution facilities. This capital expenditure aims to modernize warehouse operations, increase fulfillment speed, and improve overall supply chain efficiency as the company scales its distribution network to meet rising consumer demand.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/walmart-in-6b-symbiotic-deal-to-automate-warehouses"
+  },
+  {
+    "headline": "Lawsuit threatens federal motor carrier registration system",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "A legal challenge filed by the Small Business in Transportation Coalition targets the federal Uniform Crime Reporting system. Operators warn that a successful ruling could severely disrupt motor carrier registration fees and endanger crucial state safety funding. The ongoing litigation creates significant regulatory uncertainty for the freight sector, potentially forcing a restructuring of how administrative fees and safety programs are funded across the industry.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trucking-groups-lawsuit-threatens-to-upend-federal-carrier-registration-system"
+  },
+  {
+    "headline": "Freight Capacity Contracts for Eleven Consecutive Months",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Data from recent manufacturing and logistics reports indicates that transportation capacity has contracted for eleven straight months. Strong freight demand combined with constrained availability has driven both shipping rates and diesel fuel prices upward. Analysts point to October economic indicators as evidence of ongoing tightness within the freight sector, highlighting persistent operational challenges for shipping networks and transportation providers navigating persistent supply and demand imbalances.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/logistics-alert-capacity-shrinks-for-11-straight-months"
+  },
+  {
+    "headline": "Diesel Prices Suffer Extreme Volatility Amid Low Inventories",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Diesel markets face severe instability, marked by steep declines followed by rapid recoveries driven by shifting geopolitical events. Tight fuel inventories and constrained refining capabilities continue to threaten the market with sudden price surges. Industry analysts highlight that heating oil demand and underlying supply constraints leave freight operations vulnerable to ongoing cost fluctuations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/diesel-prices-collapse-then-rebound-whats-driving-volatility"
+  },
+  {
+    "headline": "Latam Cargo Transports Popemobiles to Peru",
+    "continent": "South America",
+    "country": "Peru",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Latam Cargo successfully delivered two specialized armored vehicles, known as popemobiles, to Peru for an upcoming papal visit. The high-profile transport operation highlights the airline's capability in managing specialized international freight shipments under stringent security and scheduling requirements. The successful execution ensures the Vatican's official vehicles arrived safely at their South American destination.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/latam-cargo-airlifts-armored-vehicles-to-peru-for-pope-leo-visit"
+  },
+  {
+    "headline": "Holiday inventory surge strengthens truckload carrier pricing power",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Recent logistics data indicates a significant expansion in stored goods ahead of the year-end shopping period, creating favorable market conditions for road freight operators. This inventory buildup arrives as several transport companies initiate their annual contract bidding cycles. The combination of heightened merchandise volume and shifting market dynamics allows carriers to pursue substantial price increases for their transportation services, signaling a potential shift in leverage within the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/holiday-inventory-surge-supportive-of-double-digit-plus-tl-contract-rates"
+  },
+  {
+    "headline": "U.S. Diesel Benchmark and Futures Prices Decline",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "The national benchmark retail price for diesel fuel experienced a modest decrease this week, dropping by six cents to land at $6.29 per gallon. Meanwhile, petroleum markets observed a significantly larger downturn in diesel futures pricing at the start of the week. This downward adjustment directly affects freight transportation fuel surcharges across the logistics sector, offering temporary cost relief to carriers and shippers relying heavily on road freight operations within the United States.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/benchmark-diesel-price-is-down-so-is-futures-market-in-a-big-way"
+  },
+  {
+    "headline": "FedEx wins industrial contracts with dedicated logistics",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "FedEx has secured new enterprise contracts within the aerospace and automotive sectors by deploying specialized logistics teams. The carrier tailored its operational approach to accommodate high-value industrial freight, successfully winning business to transport sensitive components like aircraft engines and automotive parts. This specialized service initiative reflects a broader push by major transport providers to capture complex industrial supply chain business through targeted, premium solutions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fedex-uses-dedicated-logistics-teams-to-win-aerospace-automotive-business"
+  },
+  {
+    "headline": "US Launches Labor Probe and Resolves Case at Two Mexican Plants",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-11-03",
+    "summary": "United States trade authorities have initiated a labor rights inquiry concerning a packaging producer in Mexico, focusing on alleged worker protection violations. Concurrently, officials finalized a resolution agreement regarding separate labor infractions at an ammunition manufacturing facility in the region. These actions reflect ongoing efforts by US authorities to enforce labor standards under bilateral trade agreements, impacting cross-border supply chain operations and manufacturing practices within the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/us-targets-alleged-labor-violations-at-2-mexican-factories"
+  },
+  {
     "headline": "Loamy Secures $6M Funding to Reduce Produce Rejections",
     "continent": "North America",
     "country": "United States",
@@ -2858,145 +2998,5 @@
     "summary": "Cargo carrier Amerijet has confirmed plans to restore an older Boeing 767 freighter aircraft following structural damage sustained during a hard landing. Despite the advanced age of the aircraft, the company has decided against retiring it, opting instead to fix the buckled fuselage skin and return the cargo plane to active service. This maintenance effort ensures the preservation of cargo capacity within their operational fleet.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/amerijet-to-repair-aging-767-freighter-aircraft-damaged-in-hard-landing"
-  },
-  {
-    "headline": "Gemini Cooperation Restructures Asia-Med Network Ahead of Expected Suez Return",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Maersk and Hapag-Lloyd are revamping the regional hub-and-spoke model for their Gemini Cooperation network in the Asia-Mediterranean trade lane. Scheduled to roll out in the latter half of November, this network adjustment coincides with carrier leadership projections indicating a complete restoration of Suez Canal shipping routes by the first quarter of the coming year. The operational changes reflect ongoing preparations among major ocean carriers to normalize routing strategies as security conditions permit.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/new-asia-med-service-from-gemini-signals-full-suez-return-by-q1/"
-  },
-  {
-    "headline": "New box truck carriers face steep learning curve on operational expenses",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Startup box truck fleets frequently underestimate fundamental operational costs, initially focusing on potential revenue before confronting significant financial hurdles such as high insurance deposits, unexpected freight claims, and costly vehicle maintenance. Experienced operators emphasize that understanding these hidden financial liabilities is crucial for survival in the competitive freight sector, as unforeseen expenses often catch new entrants off guard and threaten their long-term business viability.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tla-group-box-truck-business-costs"
-  },
-  {
-    "headline": "Sub-Saharan Africa Solar Exports Surge",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-10-19",
-    "summary": "Renewable energy technology is significantly boosting trade capabilities across sub-Saharan Africa, according to regional supply chain leaders. Kenya and Nigeria are emerging as rapidly expanding hubs for the sector. Specifically, Nigeria has advanced into the leading tier of solar panel exporters to the United States market, with a substantial portion of its outbound shipments destined for American buyers. This growth underscores an evolving export landscape for the region, highlighting how clean technology manufacturing and distribution are beginning to play a larger role in international trade dynamics and economic development.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/solar-power-a-shining-example-of-export-progress-across-sub-saharan-africa/"
-  },
-  {
-    "headline": "CMA CGM Highlights LNG Strategy and Agility in Shipping",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-10-19",
-    "summary": "A major ocean carrier attributes its successful adoption of liquefied natural gas fuel to early investments and flexible asset deployment. Speaking at an industry event, a company executive noted that long-term fuel supply contracts initiated years prior have significantly advanced corporate decarbonization targets while maintaining operational resilience. The shipping line continues to emphasize adaptable logistics networks to navigate ongoing environmental regulations and evolving energy demands within the global maritime freight sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/redeployment-and-agility-key-to-continued-success-of-lng-transition-says-cma/"
-  },
-  {
-    "headline": "New EU parcel fees drive European inventory shifts",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-10-19",
-    "summary": "Recent regulatory updates in the European Union, including new handling fees and custom duties on low-value parcels, are compelling retailers to reconsider their cross-border shipping models. These financial adjustments, combined with constrained airfreight capacity and high transportation expenses from Asian markets, create significant cost burdens. Consequently, online merchants are increasingly evaluating the strategic advantage of establishing local inventory storage within Europe to bypass escalating cross-border expenses and maintain operational efficiency.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/new-eu-parcel-charges-add-pressure-for-rethink-on-cross-border-fulfilment/"
-  },
-  {
-    "headline": "Cargo theft creates severe financial risks beyond lost freight value",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "A recent study indicates that cargo theft generates indirect expenses up to seven times greater than the direct value of stolen goods. Organized criminals and cybercriminals are actively exploiting vulnerabilities across transportation networks in Europe. For every euro lost from an incident, businesses face substantial supplementary outlays stemming from replacement procedures, expedited reshipping, administrative dispute resolution, and reputational damage. These magnified financial impacts highlight a critical need for enhanced security measures and risk mitigation strategies throughout regional transport operations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/new-report-reveals-hidden-extra-costs-of-cargo-crime/"
-  },
-  {
-    "headline": "Ocean carriers restructure Asia-Europe routes to mitigate carbon tax",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Maritime transport operators have reorganized their Asia-Europe shipping loops to reduce exposure to carbon pricing regulations. Industry analysis reveals that shipping lines strategically adjusted their network configurations not solely to minimize regulatory costs, but also to optimize overall operational efficiency. Although companies typically pass environmental expenses to customers via surcharges, significant financial stakes prompted a structural redesign of service networks to limit carbon tax impacts.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/the-ets-question-did-carriers-redesign-asia-europe-services-to-avoid-carbon-tax/"
-  },
-  {
-    "headline": "Transloading Grows as Solution to US-Mexico Border Truck Bottlenecks",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Supply chain operators are increasingly adopting transloading as a permanent operational strategy to navigate severe trucking constraints and growing shipment volumes at the southern border. Despite ongoing trade policy uncertainties, bilateral commerce continues to expand significantly, pushing companies to rethink conventional cross-border transportation networks and shift away from viewing transloading strictly as an emergency fix.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/shippers-eye-transloading-to-ease-truck-constraints-at-us-mexico-border/"
-  },
-  {
-    "headline": "California Trucking Operator Admits Guilt in Fraud Case",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-18",
-    "summary": "The owner of a California-based trucking company has entered a guilty plea for orchestrating a financial identity theft scheme totaling over two million dollars. The illicit operation compromised the personal details of approximately one hundred individuals. Federal law enforcement officials tracked the stolen funds through cross-border financial transactions. The suspect was eventually apprehended after spending a year and a half abroad in Turkey, bringing a significant freight-related financial crime investigation toward its conclusion.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/california-trucking-owner-pleads-guilty-in-2-1m-identity-theft-scheme"
-  },
-  {
-    "headline": "US Trucking Crackdown at Mexico Border Sparks Logistics Fears",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-18",
-    "summary": "Recent enforcement actions targeting commercial vehicles along the United States and Mexico border have triggered anxieties regarding potential freight movement bottlenecks and supply chain delays. Industry stakeholders are monitoring the situation closely as heightened inspections threaten to slow cross-border trade flows. Additionally, regional developments in Texas include the establishment of a new logistics provider in Houston and the opening of a distribution facility by an apparel brand, highlighting ongoing infrastructure adjustments within the southern shipping corridor.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions"
-  },
-  {
-    "headline": "Truckload Capacity Fails to Recover Amid Market Trends",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-18",
-    "summary": "Current data indicates that the truckload market is not experiencing the anticipated recovery following an extended period of rate inflation. Contrary to expectations of stabilization, industry metrics point to persistent tightness in available capacity. This ongoing challenge continues to impact freight operations and pricing dynamics across the sector, defying earlier projections of a market rebound.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/no-signs-of-truckload-capacity-recovering"
-  },
-  {
-    "headline": "Texas Court Affirms Major Verdict Against C.H. Robinson",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-17",
-    "summary": "A Texas judge has officially upheld a significant legal judgment issued against third-party logistics provider C.H. Robinson. While details regarding the specific underlying incident and financial penalty were not immediately detailed in the affirmation, the court's decision maintains the substantial ruling. This development underscores ongoing legal liabilities and risk management challenges within the freight brokerage and transportation sector, where severe judicial outcomes continue to impact major industry operators.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson"
-  },
-  {
-    "headline": "FedEx and UPS peak season surcharges to drive Q4 rates up",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Carriers FedEx and UPS are preparing to implement record-high delivery rates for the upcoming peak season, following a third quarter that provided temporary financial relief through declining fuel costs and increased discounting behavior among shippers. According to data from the latest freight index, these upcoming seasonal surcharges will reverse recent trends, escalating shipping expenses for businesses as demand surges during the final months of the year.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fedex-ups-delivery-prices-set-for-record-high-q4/832992/"
-  },
-  {
-    "headline": "Lego adopts e-methanol to lower fossil fuel dependency",
-    "continent": "Europe",
-    "country": "Denmark",
-    "category": "sustainability",
-    "date": "2026-10-16",
-    "summary": "Danish toy manufacturer Lego has integrated low-carbon e-methanol into its production processes to create over ninety distinct components, including miniature hands, steering mechanisms, and various connectors. This manufacturing shift is designed to decrease the company's reliance on traditional virgin fossil fuels by incorporating more sustainable material alternatives. The initiative marks a strategic step toward environmental responsibility within its material sourcing and manufacturing operations, aligning with broader industry efforts to reduce carbon footprints across production ecosystems.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/lego-taps-e-methanol-to-make-certain-products-cut-reliance-on-fossil-fuels/833062/"
   }
 ]
