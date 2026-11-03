@@ -1,5 +1,125 @@
 [
   {
+    "headline": "Pamt Corp. Posts Q3 Loss Amid Rising Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Pamt Corp. recorded a net loss and a truckload operating ratio exceeding one hundred percent during the third quarter. The financial decline stemmed from increased expenses related to securing drivers and rising fuel prices, reflecting broader market pressures impacting freight carriers across the transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/pamt-corp-sees-q3-net-loss-books-109-1-truckload-or"
+  },
+  {
+    "headline": "US manufacturing grows for 10th month amid escalating Middle East tensions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-02",
+    "summary": "Domestic factory activity extended its growth streak for a tenth consecutive month, though business sentiment darkened amid ongoing geopolitical conflict in Iran and broader trade disputes. According to the latest data from the Institute for Supply Management, industrial leaders expressed growing concern over persistent price volatility and international trade pressures, which threaten to disrupt operations and inflate costs across the industrial sector.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/"
+  },
+  {
+    "headline": "Reshoring and FDI Added 247K Manufacturing Jobs in 2025",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-02",
+    "summary": "Manufacturing employment received a significant boost in 2025 as reshoring efforts and foreign direct investment contributed hundreds of thousands of new positions. Data from the Reshoring Initiative indicates that this total closely mirrored the figures recorded during the preceding year. Industry analysts anticipate a notable acceleration in domestic production employment growth, projecting a twenty-five percent expansion in reshoring-related roles over the course of the following year.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/"
+  },
+  {
+    "headline": "Truck Retailer Warns of Potential Delays for EPA 27 Standards",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Major commercial vehicle dealerships are advising industry stakeholders that the upcoming environmental regulations regarding nitrogen oxide emissions, commonly referred to as the EPA '27 rule, may face release delays. Speaking during a recent financial earnings discussion, leadership noted that the timeline for finalized engine compliance requirements remains uncertain, leaving fleet operators and manufacturers awaiting official guidance to prepare for upcoming technological adaptations necessary to meet the stringent future emission mandates within the road freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/waiting-on-epa-27-rule-rush-says-it-might-not-be-soon"
+  },
+  {
+    "headline": "SONAR Updates Analytics Tool to Guide Freight Mode Selection",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Logistics data platform SONAR has integrated new conversion optimization features into its Custom Insights application. The updated software analyzes proprietary shipper metrics to pinpoint specific transportation lanes that would benefit from alternative shipping modes or revised pricing strategies. By evaluating these operational routes, the tool calculates potential financial savings for organizations, enabling supply chain managers to make data-driven adjustments to their freight distribution networks and improve overall transport efficiency.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/sonar-sci-custom-insights-now-includes-conversion-optimization-shows-shippers-where-to-switch-modes-and-what-they-can-save"
+  },
+  {
+    "headline": "Major Retailers Report Higher Freight Costs in Third Quarter",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Major retailers experienced increased transportation expenses during the third quarter, driven by rising shipping inflation. Along with elevated freight costs, these companies also encountered localized disruptions in receiving incoming merchandise inventories. The pressures highlight ongoing cost challenges within retail supply chains as businesses manage the movement of goods.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/amazon-retailers-paid-more-for-freight-in-3q"
+  },
+  {
+    "headline": "Shipper Alliance Orders 2,500 Tesla Semis to Accelerate EV Freight",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "A major shipper alliance has committed to the largest commercial order of heavy-duty electric trucks in domestic history, purchasing 2,500 Class 8 vehicles. This coordinated demand strategy aims to overcome the longstanding market adoption barrier between vehicle availability and charging infrastructure. By leveraging collective purchasing power, the program helps achieve cost parity with traditional diesel freight vehicles, signaling a significant shift toward sustainable long-haul logistics operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/electric-trucking-why-2500-tesla-semis-will-transform-freight"
+  },
+  {
+    "headline": "ShipMatrix Forecasts 4% Rise in Holiday Parcel Shipping",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "Recent industry forecasting indicates that parcel carriers will experience a four percent increase in shipping volume during the upcoming holiday season. This anticipated uptick points toward the strongest peak operational period for the parcel delivery sector since 2022. Analysts suggest this growth reflects steady consumer demand and improving market conditions for logistics providers handling final-mile and regional deliveries. Carriers are expected to manage the increased volume efficiently compared to previous years, avoiding severe capacity bottlenecks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/parcel-shipping-demand-to-increase-4-during-holidays-shipmatrix-says"
+  },
+  {
+    "headline": "US Manufacturing Sector Grows for Tenth Consecutive Month",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-02",
+    "summary": "United States manufacturing activity expanded for the tenth straight month in October, registering a Purchasing Managers' Index reading of 55.5 that surpassed market expectations. This sustained industrial growth aligns with recent demand observations from major less-than-truckload freight carriers, which have signaled cautious optimism regarding domestic shipping volumes and broader industrial momentum within the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/octobers-55-5-manufacturing-pmi-beats-expectations"
+  },
+  {
+    "headline": "Mexico Destroys 52 Tons of Export Avocados After Pest Discovery",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-11-02",
+    "summary": "Agricultural authorities in Mexico recently destroyed more than 50 tons of avocados intended for the international market. The action was taken after inspectors identified destructive pests within the cargo. This discovery highlights ongoing phytosanitary challenges in the region's agricultural sector and raises potential concerns regarding cross-border trade compliance and biosecurity measures for outgoing food shipments.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-destroys-52-tons-of-avocados-after-pest-discovery-raises-export-concerns"
+  },
+  {
+    "headline": "Boeing Awarded 767 Freighter Conversion Contract by Icelease",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-11-02",
+    "summary": "Aircraft manufacturer Boeing has entered into an agreement with lessor Icelease to convert a passenger 767-300 jet into a dedicated cargo aircraft. The deal includes options for the leasing company to commission up to two additional conversions in the future. Scheduled production for the initial aircraft is set to begin in early 2027, as Icelease seeks to expand its overall cargo fleet capacity to meet ongoing market demand for dedicated freight transport solutions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion"
+  },
+  {
+    "headline": "Ocean Line Acquisition Expands European Logistics for US Shippers",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-02",
+    "summary": "A proposed merger of maritime, rail, and trucking networks across Europe and West Africa aims to enhance supply chain connectivity for American exporters and temperature-sensitive cargo clients. The integration of these multi-modal transportation systems is designed to streamline cross-border freight operations, offering broader distribution access and improved route efficiencies within the European market for international businesses operating from the United States.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ocean-line-sale-expands-europe-logistics-reach-for-u-s-shippers"
+  },
+  {
     "headline": "Norfolk Southern and Schneider National expand intermodal reach",
     "continent": "North America",
     "country": "United States",
@@ -2878,125 +2998,5 @@
     "summary": "During the third quarter, transportation provider J.B. Hunt Transport Services encountered rising cost pressures and operational growing pains. Despite these financial hurdles, company leadership remains optimistic, characterizing the challenges as temporary disruptions rather than long-term obstacles on the path toward market recovery. Executives anticipate improved performance as the network adjusts to ongoing market shifts.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/j-b-hunt-experiences-growing-pains-in-q3"
-  },
-  {
-    "headline": "Ocean carriers absorb green transition expenses amidst shipper resistance",
-    "continent": "Asia",
-    "country": "Singapore",
-    "category": "sustainability",
-    "date": "2026-10-16",
-    "summary": "Maritime transport operators are shouldering the financial responsibility for adopting alternative fuels and lower-emission ships. Industry representatives at a recent Singapore conference highlighted that customers and logistics intermediaries remain unwilling to pay premium rates for environmentally sustainable transportation services. This reluctance is particularly pronounced in price-sensitive regions, creating economic challenges for carriers attempting to modernize fleets and reduce their environmental impact without adequate financial support from supply chain partners.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/were-shouldering-cost-burden-of-green-transition-say-carriers/"
-  },
-  {
-    "headline": "FedEx and UPS Peak Season Surcharges Drive Record Q4 Rates",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Although declining fuel costs and increased discounting provided financial relief to shipping companies during the third quarter, upcoming peak season surcharges are projected to push fourth-quarter delivery prices to unprecedented heights. According to analysis by TD Cowen and AFS, these mandatory seasonal fees will neutralize recent cost-saving benefits for shippers, creating significant budgetary pressures as enterprise logistics networks manage high-volume fulfillment demands through the end of the year.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fedex-ups-delivery-prices-set-for-record-high-q4-td-cowenafs/832992/"
-  },
-  {
-    "headline": "UPS Opens New Air Cargo Terminal in the Philippines",
-    "continent": "Asia",
-    "country": "Philippines",
-    "category": "storage_distribution",
-    "date": "2026-10-16",
-    "summary": "United Parcel Service has launched a significantly expanded air cargo and package processing facility within the Philippines. This strategic infrastructure upgrade is designed to enhance connectivity between regional markets across Asia and the company's extensive worldwide transportation network, ultimately improving transit times and service reliability for international freight operations in the region.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/larger-ups-air-hub-in-philippines-boosts-asia-service-levels"
-  },
-  {
-    "headline": "Container Ship Attacks Escalate in Strait of Hormuz",
-    "continent": "Middle East",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Maritime security threats in the Strait of Hormuz have intensified as commercial container vessels face a rising wave of targeted strikes. The escalating violence recently resulted in the sinking of a Singapore-flagged cargo ship following a direct hit. These incidents threaten critical global trade routes in the Middle East, forcing carriers to reevaluate security measures and vessel transit paths through the strategically vital waterway, which handles a significant portion of international maritime freight movement.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/container-ship-attacks-escalate-in-strait-of-hormuz"
-  },
-  {
-    "headline": "Port of Long Beach Sets All-Time Monthly Cargo Volume Record",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "The Port of Long Beach achieved its highest monthly container volume in history during September. This surge occurred as shippers actively managed escalating fuel expenses associated with diesel. The milestone highlights a period of intense maritime throughput at one of North America's primary import gateways, reflecting broader shifts in freight movement and capacity management as supply chain operators navigate fluctuating operational expenses.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-long-beach-record-as-volume-nears-1m-containers"
-  },
-  {
-    "headline": "Wyoming Logistics Broker Liable for $9.4M Fraud",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-10-16",
-    "summary": "A federal court jury ordered a Wyoming-based logistics firm and its managing director to pay $9.4 million to a medical supply distributor. The financial penalty stems from a fraudulent transaction involving the procurement and delivery of COVID-19 medical gloves during the pandemic. The court found the defendants liable for deceptive practices related to the fulfillment of these critical healthcare products, underscoring risks within pandemic-era supply chain sourcing and freight brokerage operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/jury-hits-wyoming-logistics-broker-with-9-4m-fraud-verdict"
-  },
-  {
-    "headline": "Asia-Europe Ocean Freight Spot Rates Rebound",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Container spot shipping prices connecting Asia and Europe increased recently, halting a three-month downward trend. Market indicators show a notable rise on key maritime trade corridors, including the Shanghai to Rotterdam and Shanghai to Genoa routes. This upward movement in pricing occurs in anticipation of upcoming freight all kinds rate adjustments slated for implementation during the month, signaling a shift in ocean transport market conditions for shippers on these major international trade lanes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/carriers-eye-fak-hikes-as-spot-decline-eases-and-capacity-stays-tight/"
-  },
-  {
-    "headline": "DHL Express Invests €300M to Expand African Logistics Network",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Logistics provider DHL Express has announced a €300 million capital expenditure plan targeted at the African market through the end of the decade. The firm is encouraging enterprises to broaden their supplier networks and explore emerging growth markets on the continent to mitigate ongoing geopolitical disruptions and shifting global trade routes. Regional leadership attributes this financial commitment to strong long-term economic prospects across Sub-Saharan Africa, positioning the region as an increasingly vital hub for international commerce.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dhl-express-puts-its-faith-and-its-cash-in-africas-trade-potential/"
-  },
-  {
-    "headline": "JB Hunt CEO signals higher shipping rates ahead",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "During a third-quarter earnings call, the chief executive of major transport provider JB Hunt emphasized a shift toward sustainable growth that prioritizes long-term financial value over pure volume expansion. Company leadership indicated that upcoming commercial strategies will focus heavily on securing higher freight rates to better match the perceived value of their services. Consequently, corporate clients utilizing these transportation networks should prepare for increased shipping costs as the carrier attempts to capitalize on a new market pricing cycle.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/jb-hunt-riding-new-pricing-cycle-shippers-must-pay-up/"
-  },
-  {
-    "headline": "Container spot rates and surcharges drop as India peak season ends",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Ocean carriers are reducing various surcharges and cancellation penalties for shipments originating in India as westbound cargo volumes experience a seasonal slowdown. Major operators, including Hapag-Lloyd, have significantly lowered booking cancellation fees in response to cooler market demand. During the preceding peak period, liners had raised these penalty fees to maximize profits amidst surging shipping volumes. This adjustment signals a shift toward a less congested freight market as shipping activity normalizes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ex-india-spot-rates-and-surcharges-ease-as-peak-comes-to-an-end/"
-  },
-  {
-    "headline": "R&R Trucking CEO Discloses $12.7M in Assets Amid Collapse",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-15",
-    "summary": "Chapter 11 bankruptcy disclosures reveal the personal financial standing of the chief executive officer for the collapsed R&R Family of Companies. The asset valuation document emerges as legal proceedings and litigation continue following the sudden cessation of operations by the major trucking enterprise. Court filings outline ongoing financial evaluations tied to the corporate failure, shedding light on the executive's holdings while creditors navigate the fallout from the logistics network's shutdown.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/rr-trucking-ceo-reports-12-7m-in-assets-after-company-collapse"
-  },
-  {
-    "headline": "Unilever Focuses on Measurable ROI in Global Digital Twin Expansion",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "manufacturing",
-    "date": "2026-10-15",
-    "summary": "Consumer products giant Unilever is scaling its digital twin technology across forty manufacturing facilities globally. The expansion emphasizes tangible performance improvements, standardized and repeatable operational procedures, and comprehensive training for the workforce. Rather than pursuing unproven technologies, the company is anchoring its digital transformation strategy on direct business value and operational efficiency at each production site.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/unilever-puts-business-results-first-in-factory-digital-twin-rollout/833011/"
   }
 ]
