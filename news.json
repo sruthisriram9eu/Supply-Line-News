@@ -1,5 +1,105 @@
 [
   {
+    "headline": "Loamy Secures $6M Funding to Reduce Produce Rejections",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Startup Loamy has secured six million dollars in a seed funding round led by Zeal Capital Partners. The company provides a digital platform designed to help agricultural producers, packers, and distributors identify quality issues and flag substandard produce prior to buyer inspection. According to the firm, its technology has successfully cut product rejection rates in half for supply chain participants, helping to minimize agricultural waste and improve efficiency in fresh food distribution.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/loamy-raises-6m-flag-produce-rejections"
+  },
+  {
+    "headline": "US Crackdown Targets Undocumented Commercial Drivers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Federal and state law enforcement agencies recently arrested over 230 undocumented immigrants during a coordinated three-day operation across 15 states. The sweep specifically targeted unauthorized individuals holding commercial driver's licenses. This enforcement action highlights ongoing regulatory oversight within the commercial transport sector, aiming to address legal compliance and workforce standards among commercial vehicle operators. Authorities executed the multi-state initiative to identify and penalize drivers lacking proper authorization to operate heavy commercial transport vehicles.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/230-plus-immigrants-arrested-in-crackdown-targeting-unauthorized-cdl-holders"
+  },
+  {
+    "headline": "North American Rail Freight Sees Revenue Growth",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "North American intermodal rail operators experienced higher revenues during the summer period, driven by an increase in domestic freight demand and tightening conditions within the trucking sector. Union Pacific performed particularly well in containerized rail transport during the three months leading up to October, amidst ongoing discussions regarding its proposed acquisition of Norfolk Southern. Overall, the broader rail freight market capitalized on these favorable market dynamics, benefiting multiple major operators across the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/upswing-in-domestic-demand-gives-railfreight-operators-a-revenue-boost/"
+  },
+  {
+    "headline": "Los Angeles Voters Decide on Port Lease Workforce Disclosure Rules",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-03",
+    "summary": "Voters in California are casting ballots on a municipal measure that introduces new labor and economic reporting mandates for entities seeking leases and agreements at the Port of Los Angeles. Under the proposed charter amendment, businesses pursuing harbor lease agreements or extensions must submit detailed employment data and economic impact assessments. These disclosures will undergo review by the Board of Harbor Commissioners as part of the approval process, sparking debate among local stakeholders regarding the impact on port operations and development.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/vote-opens-on-controversial-port-of-la-workforce-disclosure-rules/"
+  },
+  {
+    "headline": "E-commerce Fails to Fix Latin America Air Cargo Imbalance",
+    "continent": "South America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Expanding online retail imports are transforming air freight networks across Latin America, yet the sector continues to struggle with structural directional imbalances. According to the chief executive of LATAM Cargo, rising southbound consumer parcel volumes are being neutralized by a parallel drop in traditional industrial freight. This ongoing disparity highlights the complex economic and trade dynamics currently influencing air transport operations and capacity management throughout the region.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ecommerce-growth-leaves-latin-americas-air-cargo-imbalance-unresolved/"
+  },
+  {
+    "headline": "Major container lines plan to resume Suez Canal transit routes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Ocean shipping operators are preparing to bring their Asia to Europe and Mediterranean services back through the Suez Canal. Major carriers including Evergreen, Yang Ming, and HMM are scheduling vessel transits through the waterway following months of security-related diversions around Africa. This shift marks a significant return to traditional routing for major shipping alliances, which is expected to impact transit times and capacity management on critical maritime trade corridors connecting Asian manufacturing hubs with European consumer markets.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/major-liners-set-to-resume-all-asia-europe-services-through-suez/"
+  },
+  {
+    "headline": "Adani Ports Bids $3.3 Billion for European Terminal Operator EVOS",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Indian infrastructure operator Adani Ports has submitted a binding financial offer valued at approximately $3.3 billion to acquire European liquid bulk storage provider EVOS. This move aligns with the company's broader strategy to expand its operational footprint outside of India. Having recently upgraded its growth projections, the firm continues to pursue international maritime and logistics assets, evidenced by prior acquisition interest in the UK and new operational ventures in Oman, while balancing its capital allocation strategy between generating financial returns and pursuing large-scale expansion.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/adani-ports-bidding-for-europes-tank-terminals-the-test-is-whether-it-pays-for-returns-or-size/"
+  },
+  {
+    "headline": "Potential Port Strike Threatens Los Angeles and Long Beach Congestion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Supply chain operators and cargo owners are bracing for severe disruption at the Los Angeles and Long Beach port complex as security watchmen prepare to strike. Contract negotiations between the Pacific Maritime Association and the International Longshore and Warehouse Union face a looming deadline. A walkout by these critical terminal personnel risks compounding existing container backlogs and slowing freight movement across the vital trade gateway if a last-minute labor agreement cannot be reached.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/fears-a-strike-at-san-pedro-bay-ports-could-see-congestion/"
+  },
+  {
+    "headline": "US Customs Faces Banking Bottlenecks in Multi-Billion Tariff Refunds",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-03",
+    "summary": "United States customs authorities have certified billions of dollars in emergency-duty refunds following unlawful collections. While processing systems operate efficiently to return these funds, operational challenges within banking procedures and legal discrepancies have created significant delays. Consequently, numerous importers continue to experience prolonged wait times to receive their allocated payouts, highlighting friction in the distribution phase of international trade restitution.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/128bn-tariff-refunds-the-money-has-moved-yet-not-everyone-has-been-paid/"
+  },
+  {
+    "headline": "Ryder Acquires Efficiency Enterprises to Expand Fleet Network",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Ryder System has completed the purchase of Efficiency Enterprises, strengthening its regional footprint across the Northeast, Mid-Atlantic, and Florida. The transaction enhances the buyer's truck rental, leasing, and maintenance capabilities within key distribution hubs. This move supports broader corporate expansion goals by increasing service capacity and operational coverage in high-demand transportation markets along the East Coast.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ryder-acquires-efficiency-enterprises/"
+  },
+  {
     "headline": "Pamt Corp. Posts Q3 Loss Amid Rising Costs",
     "continent": "North America",
     "country": "United States",
@@ -2898,105 +2998,5 @@
     "summary": "Danish toy manufacturer Lego has integrated low-carbon e-methanol into its production processes to create over ninety distinct components, including miniature hands, steering mechanisms, and various connectors. This manufacturing shift is designed to decrease the company's reliance on traditional virgin fossil fuels by incorporating more sustainable material alternatives. The initiative marks a strategic step toward environmental responsibility within its material sourcing and manufacturing operations, aligning with broader industry efforts to reduce carbon footprints across production ecosystems.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/lego-taps-e-methanol-to-make-certain-products-cut-reliance-on-fossil-fuels/833062/"
-  },
-  {
-    "headline": "DHL Group Upgrades 2026 Earnings Forecast on Express Growth",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Logistics provider DHL Group has revised its profit expectations upward for the 2026 fiscal year, projecting consolidated earnings before interest and taxes to surpass seven billion euros. Leadership attributed this positive financial outlook to sustained earnings momentum within the company's express shipping sector, alongside projections for a strong seasonal demand peak.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dhl-group-raises-full-year-2026-earnings-guidance/"
-  },
-  {
-    "headline": "Carrier Logistics and LSP44 Partner for LTL Tracking",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Carrier Logistics has teamed up with LSP44 to introduce an automated application programming interface designed to streamline freight management. The new tool matches shipment descriptions, delivery points, and timeframes to identify less-than-truckload shipments when proper tracking numbers are absent or inaccurate. This technological integration aims to reduce manual tracking errors and improve operational visibility for logistics service providers dealing with incomplete freight documentation.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/carrier-logistics-lsp44-announce-partnership-to-automate-ltl-shipment-identification"
-  },
-  {
-    "headline": "FMC Proposes Fines and Import Restrictions on Spanish Ships",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-16",
-    "summary": "The Federal Maritime Commission has initiated a proposal to levy a $200,000 fee on every voyage conducted by Spanish-flagged vessels. Additionally, the regulatory agency intends to implement restrictions targeting specific goods originating from Spain. This regulatory action aims to address maritime trade imbalances or policy disputes involving the two nations, potentially impacting maritime shipping lanes, vessel scheduling, and bilateral trade flows between the United States and Europe.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fmc-proposes-fees-on-spanish-flagged-vessels-import-restrictions/833122/"
-  },
-  {
-    "headline": "Evos Secures $9M to Develop Industrial AI Workflow Automation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-16",
-    "summary": "Industrial automation startup Evos has successfully raised $9 million in pre-seed funding to build artificial intelligence operators designed to learn workforce routines and execute digital tasks within legacy enterprise software. The technology is targeted at industrial and logistics operations, with early implementation demonstrating high-volume invoice auditing capabilities for a freight brokerage. The fresh capital will support further product development and expansion into the industrial sector, streamlining administrative back-office procedures through machine learning and automated workflow execution.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses"
-  },
-  {
-    "headline": "Tesla expands hiring at Nevada facility for electric truck production",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-16",
-    "summary": "Tesla is actively recruiting personnel for assembly, quality assurance, and service operations at its Nevada manufacturing complex. This workforce expansion supports rising commercial demand for its Class 8 electric semi-trucks, driven by commitments and procurement orders from major fleet operators and logistics alliances. The hiring push indicates scaling efforts to meet growing market interest in heavy-duty electric commercial vehicles as regional carriers shift toward sustainable transport options.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-nevada-hiring"
-  },
-  {
-    "headline": "New Free Digital Tool Launches for Truck Drivers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "An experienced commercial vehicle operator from Georgia has introduced a complimentary digital platform designed to assist freight transporters. The service integrates multiple resources onto a single interface, helping drivers locate available parking spaces, compare regional diesel costs, find roadside mechanical assistance, and access general operational support. This initiative aims to address common daily challenges faced by long-haul transportation professionals on the road.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/veteran-trucker-launches-free-parking-fuel-price-platform-for-drivers"
-  },
-  {
-    "headline": "Drug Ring Exploits Freight Carriers for Cocaine Shipment",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Federal authorities have charged 25 individuals following a major investigation named Operation Icebreaker, which uncovered a criminal enterprise utilizing unaware trucking firms to transport cocaine cross-country from California to Florida. Law enforcement confiscated over 45 kilograms of the illegal substance during the operation. According to investigators, the primary supplier allegedly coordinated shipments reaching up to 60 kilograms biweekly, highlighting significant security vulnerabilities and risks for the long-haul freight and transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/25-charged-after-drug-ring-used-unsuspecting-truckers-to-haul-cocaine-from-california-to-florida"
-  },
-  {
-    "headline": "US Intermodal Rail Volumes Surge by 10 Percent",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "Recent data from the United States indicates a strong upward trend in rail freight operations, with intermodal volumes expanding by ten percent in the latest reporting period. This growth highlights increased activity and demand within the country's rail transportation sector, reflecting ongoing momentum in domestic freight movement and intermodal shipping efficiency.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/intermodal-rail-better-by-10-in-latest-count"
-  },
-  {
-    "headline": "DHL Invests $450M in Eastern Europe Logistics",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-16",
-    "summary": "DHL Group has announced a substantial investment of $450 million directed toward expanding its logistics infrastructure across Central and Eastern Europe. This strategic funding initiative aims to enhance the company's regional operational capabilities, improve regional connectivity, and accommodate growing freight demands within the target markets. The capital injection highlights ongoing corporate efforts to strengthen regional supply chain networks and support broader economic growth throughout the affected territories.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dhl-earmarks-450m-for-eastern-europe-logistics-expansion"
-  },
-  {
-    "headline": "J.B. Hunt Reports Q3 Cost Pressures and Growth Pains",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-16",
-    "summary": "During the third quarter, transportation provider J.B. Hunt Transport Services encountered rising cost pressures and operational growing pains. Despite these financial hurdles, company leadership remains optimistic, characterizing the challenges as temporary disruptions rather than long-term obstacles on the path toward market recovery. Executives anticipate improved performance as the network adjusts to ongoing market shifts.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/j-b-hunt-experiences-growing-pains-in-q3"
   }
 ]
