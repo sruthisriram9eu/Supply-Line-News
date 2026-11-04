@@ -1,5 +1,95 @@
 [
   {
+    "headline": "ArcBest Surpasses Q3 Expectations on Stronger Shipment Weights",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "During the third quarter, transportation provider ArcBest exceeded analyst projections, driven by heavier freight loads within its less-than-truckload division. This increase in shipment weight directly generated higher total tonnage and improved revenue per shipment for the carrier, reflecting positive operational momentum in its core freight business despite broader market fluctuations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/higher-shipment-weights-help-arcbest-beat-q3-expectations"
+  },
+  {
+    "headline": "Shippers Diversify Parcel Volume Amid Rising Carrier Surcharges",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Escalating and unpredictable surcharges for large, bulky items are prompting major retailers to adjust their final-mile delivery strategies. By partnering with multiple carriers, supply chain managers gain the flexibility to reroute shipments dynamically when specific transport costs spike. This multi-carrier approach helps mitigate budgetary pressures and reduces reliance on a single provider, ensuring better control over distribution expenses in a volatile freight market.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tractor-supply-multi-carrier-parcel-surcharges"
+  },
+  {
+    "headline": "Ocean Network Express Doubles Profit Forecast Amid Rate Surge",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Ocean Network Express has significantly upgraded its annual profit expectations following a massive jump in second-quarter net income. The Singapore-based container shipping line reported a quarterly net profit of $1.3 billion, a dramatic increase compared to the same period in the previous year. Overall revenue grew by 41 percent to reach $6.3 billion. Company leadership attributed this financial growth to robust volume demand and escalating freight rates across the global maritime shipping sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/one-profits-soar-thanks-to-surging-rates-and-volumes/"
+  },
+  {
+    "headline": "Feeder Container Ship Rates Face 2027 Downward Pressure",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Charter rates for feeder container vessels could decline by 2027 as an influx of newly built ships increases available global capacity. While smaller container ships have recently experienced strong earnings and significantly higher daily time-charter rates compared to previous years, upcoming vessel deliveries threaten to reverse this growth. Market analysts indicate that rising capacity from new construction will likely outpace demand, cooling the robust rate environment currently enjoyed by vessel operators in this specific maritime sector.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/wave-of-feeder-newbuilds-could-bring-a-chill-to-charter-rates-in-2027/"
+  },
+  {
+    "headline": "AI-driven demand boosts global air cargo volumes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Rapid expansion in the artificial intelligence sector is significantly increasing demand for airfreight capacity, driven heavily by hyperscaler requirements. Logistics providers, airlines, and airport operators are experiencing a surge in cargo volumes and revenue. Industry participants are now focusing on demonstrating competitive advantages through specialized handling capabilities, network reach, and available capacity to capture ongoing market share amid this high-tech surge.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/air-cargo-cashes-in-on-ai-boom-but-who-has-the-edge/"
+  },
+  {
+    "headline": "Schneider National shifts primary eastern rail partner to Norfolk Southern",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Schneider National has transitioned its primary eastern rail partner to Norfolk Southern, ending an eighteen-year relationship with CSX. This strategic network shift is expected to alter competition dynamics within the domestic container market. However, the precise freight volume departing from CSX has not been publicly disclosed, and industry stakeholders are monitoring the situation alongside an ongoing proposed merger involving Union Pacific and Norfolk Southern.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/schneider-picks-norfolk-over-csx-you-say/"
+  },
+  {
+    "headline": "Pan-American Air Cargo Growth Strains Airport Infrastructure",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Expanding trade volumes between North and South America are straining existing airport cargo facilities and established logistics operations. Air Canada has responded to rising demand by resuming direct flights connecting Montreal and Toronto with Santiago, Chile, as well as Lima, Peru, utilizing Boeing 787-9 aircraft. This increased flight frequency enhances regional airfreight capacity, though industry stakeholders note that current ground infrastructure struggles to keep pace with the accelerating volume of cross-border goods movement.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/infrastructure-cant-cope-with-pace-of-pan-american-air-trade-growth/"
+  },
+  {
+    "headline": "Expeditors reports record profits amid freight disruption",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Expeditors achieved record stock values and significant financial growth during a volatile freight market marked by high demand and technological expansion. The company reported substantial increases in both quarterly revenue and operating profit under the leadership of its new chief executive. Industry observers note that while current market conditions involving capacity constraints and infrastructure investments have strongly boosted financial performance, the long-term viability of these gains remains to be tested when market volatility subsides.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/lady-luck-and-the-lifer-dan-walls-expeditors-is-on-a-tear/"
+  },
+  {
+    "headline": "Delivery AI Vendors Urged to Adopt Gradual Autonomy Model",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Retailers often resist implementing artificial intelligence platforms that demand complete operational control immediately. Industry leaders suggest a phased approach, where automated systems begin in an observational role and gradually gain autonomy based on proven performance within specific operational segments. This measured strategy helps build trust between retail organizations and technology providers, ensuring that automated logistics tools demonstrate reliability before managing critical supply chain workflows.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/burq-earned-autonomy-delivery-ai"
+  },
+  {
     "headline": "Expeditors Reports Q3 Revenue Growth Driven by Hyperscaler Demand",
     "continent": "Global",
     "country": "Multiple",
@@ -518,6 +608,16 @@
     "summary": "Logistics provider AIT Worldwide has expanded its operational footprint in the Oceania region through the acquisition of Connor Anderson International, an Australian freight forwarder known for supporting major technology infrastructure projects. This strategic purchase strengthens the buyer's international network and enhances its capability to handle complex supply chain requirements for tech sector deployments within the Australian market.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout"
+  },
+  {
+    "headline": "Analysis Shows Domestic Freight Markets Driven by Shocks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-01",
+    "summary": "Recent historical data regarding the domestic transportation sector indicates that freight cycles lack traditional regularity. Instead of following predictable patterns, market shifts since the year two thousand have been defined by a sequence of irregular disruptions, challenging standard forecasting models and traditional industry assumptions regarding cyclical timing and stability.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular"
   },
   {
     "headline": "Strict Cabotage Laws Threaten US-Mexico Cross-Border Trucking",
@@ -2898,105 +2998,5 @@
     "summary": "A recent analysis evaluating 110 prominent apparel companies reveals that merely four businesses openly share information regarding the compensation provided to factory garment makers. The findings highlight a widespread lack of transparency across the clothing production network, with well-known labels such as Zara, Adidas, and Chanel among the participants evaluated. Advocacy groups emphasize that inadequate visibility into factory payroll practices hinders progress toward ensuring fair compensation for workers throughout the global manufacturing sector.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/few-major-apparel-brands-pay-garment-workers-a-living-wage-report/833275/"
-  },
-  {
-    "headline": "Walmart Expands Marketplace Delivery Options with Eight New Carriers",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Walmart has broadened its marketplace shipping options by greenlighting eight additional delivery providers for merchants handling their own fulfillment operations. Companies utilizing the platform can now partner with alternative carriers, including DoorDash and UniUni, to manage customer shipments. This move increases logistical flexibility for marketplace vendors, enabling them to diversify their last-mile delivery networks and potentially improve delivery times and service reliability for online shoppers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/walmart-approves-8-more-parcel-carriers-for-seller-fulfilled-shipping/833259/"
-  },
-  {
-    "headline": "Savannah Port Expands Capacity with New Terminal",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-19",
-    "summary": "The Georgia Ports Authority is planning a major infrastructure expansion at the Port of Savannah by constructing a new container terminal with a capacity of 3.5 million TEUs. This development aims to significantly boost the facility's overall throughput, enabling the port to handle up to 12 million TEUs annually upon completion. The project is designed to accommodate rising container volumes and strengthen the region's position as a critical node in international maritime logistics and regional freight distribution.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/port-of-savannah-to-build-35m-teu-container-terminal/833246/"
-  },
-  {
-    "headline": "Volvo Trucks North America adds powertrain repair to service plan",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-19",
-    "summary": "Volvo Trucks North America has introduced a new maintenance offering during the ATA Management Conference. The program integrates powertrain repair coverage directly into the existing connected Blue maintenance plan, aiming to expand fleet support options and streamline service operations for commercial vehicle operators across the region.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain"
-  },
-  {
-    "headline": "CBP Intercepts $30.4M in Methamphetamine Hidden in Salt Cargo",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Customs and Border Protection agents intercepted a large illicit drug shipment at the Laredo World Trade Bridge, seizing over thirty million dollars worth of methamphetamine concealed within a commercial salt cargo. Federal officers uncovered seventy-six suspicious packages during a secondary inspection of the commercial transport vehicle. Homeland Security Investigations has launched an inquiry to trace the logistics route, including the origin and intended destination of the shipment, as well as the individuals responsible for the smuggling operation.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cbp-seizes-30-4m-in-meth-hidden-in-commercial-salt-load-at-laredo-world-trade-bridge"
-  },
-  {
-    "headline": "Air Canada Expands Winter Cargo Network",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Air Canada has announced an expansion of its dedicated air freighter network to include new routes serving destinations in Europe and Latin America ahead of the winter season. This capacity enhancement aims to support international cargo flows and meet seasonal shipping demands across these key regional markets. The carrier's expanded flight schedules will provide businesses with increased freight connectivity and improved access to global supply chain corridors during the peak winter shipping period.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winter-season"
-  },
-  {
-    "headline": "Fuel Prices Surge to Top Concern in ATRI Trucking Survey",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "A recent industry study reveals that fuel expenses have emerged as the primary worry for the trucking sector, jumping significantly from outside the top ten in previous years. Data collected from commercial drivers and motor carriers indicates that escalating pump prices are placing renewed financial pressure on freight operators. This sharp shift highlights the growing vulnerability of fleet operational budgets to energy market volatility, impacting both individual drivers and large transport companies across the region.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/pump-price-is-truckings-1-concern-atri-survey"
-  },
-  {
-    "headline": "Maersk Explores Nuclear Container Ships for US-UK Route",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Ocean carrier Maersk is currently evaluating safety standards and regulatory frameworks surrounding the deployment of nuclear-powered container vessels. As part of this preliminary research, the shipping company is considering a potential maritime trade lane connecting the United States to the United Kingdom. This investigation reflects ongoing efforts within the maritime sector to explore alternative, low-carbon propulsion technologies to reduce environmental impact across international freight networks, though significant technical and compliance hurdles must still be addressed before commercial adoption can occur.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/no-2-container-line-studying-us-uk-route-for-nuclear-ships"
-  },
-  {
-    "headline": "Trans-Pacific Ocean Freight Faces Declining Reliability",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Ocean shipping reliability is deteriorating across major trade lanes, driven by tightening capacity along the trans-Pacific route. According to industry analysis, these capacity constraints are creating substantial booking risks and operational challenges for companies moving cargo across the Pacific, threatening to disrupt supply chain timelines and inventory planning for importers relying on maritime transport.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks"
-  },
-  {
-    "headline": "Matson Christens First New Containership in Billion-Dollar Fleet Upgrade",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Ocean carrier Matson recently christened its new containership, named Makua, at a Philadelphia shipyard. This vessel represents the initial delivery out of a three-ship order, forming part of a broader one billion dollar investment aimed at modernizing the company's maritime fleet and expanding operational capacity within its shipping lanes.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/matson-christens-1st-new-vessel-of-1b-us-shipyard-order"
-  },
-  {
-    "headline": "Ceva Logistics Assigns Paack to Manage Last-Mile Delivery",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-10-19",
-    "summary": "Ceva Logistics has designated its newly acquired entity, Paack, to spearhead its last-mile parcel delivery operations. This strategic alignment places Paack alongside Colis Privé, another courier brand previously brought under the Ceva Logistics portfolio. By consolidating its parcel delivery services, the company aims to streamline its final-stage distribution network and strengthen its footprint in the courier market. The integration reflects an ongoing effort to optimize asset management and service delivery across its European operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ceva-logistics-puts-paack-in-charge-of-last-mile-parcel-delivery"
   }
 ]
