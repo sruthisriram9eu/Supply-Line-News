@@ -1,5 +1,155 @@
 [
   {
+    "headline": "Groups Urge USTR to Drop China-Linked Vessel Fees",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-04",
+    "summary": "Major industry associations, including the National Retail Federation and the World Shipping Council, are formally requesting that trade officials permanently drop proposed fees targeting vessels tied to China. Stakeholders warn that these additional levies threaten to introduce further financial strain into an already fragile global transportation and freight network, potentially driving up operational expenses for shippers and consumers alike as the industry navigates persistent supply chain pressures.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/"
+  },
+  {
+    "headline": "Amazon rolls out smart glasses to speed up last-mile delivery",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-04",
+    "summary": "Amazon is outfitting thousands of delivery drivers with specialized smart glasses designed to enhance routing efficiency. These wearable devices project real-time navigation prompts and delivery instructions directly into the user's field of vision, streamlining the final stages of the fulfillment process. The initiative forms part of a broader corporate strategy to optimize last-mile distribution operations and reduce fulfillment times across the delivery network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/"
+  },
+  {
+    "headline": "US Energy Department Launches Battery Manufacturing Accelerator",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-04",
+    "summary": "The United States Department of Energy has introduced the Battery Manufacturing Accelerator initiative to address domestic supply chain vulnerabilities. As national demand for batteries is projected to quadruple in the coming years, the program focuses on closing critical gaps in the sourcing of raw materials and essential components within the country to build a resilient manufacturing base.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873699/"
+  },
+  {
+    "headline": "Anduril develops domestic supply chain for new laptop line",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-04",
+    "summary": "Defense technology manufacturer Anduril is working to establish a domestic supply chain for its new BlueChip laptop series. The company is handling circuit board assembly internally and collaborating with Qualcomm to source the primary processor chip. To complete the production process, Anduril is actively seeking local suppliers within the United States to provide the remaining hardware components required for the computer line.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/defense-tech-company-aims-to-build-us-supply-chain-for-new-laptop-line/873658/"
+  },
+  {
+    "headline": "Class 8 Truck Orders Drop 36% Amid Regulatory and Cost Pressures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "North American demand for heavy-duty commercial vehicles experienced a steep year-over-year decline in October. Industry data indicates that looming regulatory changes by the environmental agency, combined with elevated vehicle acquisition costs and constrained operating budgets, are causing fleet operators to delay capital investments and equipment replacements. This downturn highlights growing hesitation within the freight sector as businesses navigate evolving compliance standards and financial headwinds.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-as-epa-uncertainty-rattles-fleets"
+  },
+  {
+    "headline": "GXO reports Q3 contract growth alongside rising onboarding costs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-04",
+    "summary": "Third-quarter contract wins for logistics provider GXO increased significantly by 34 percent, totaling $375 million in new business. However, accelerating the integration and onboarding processes for these new customers resulted in short-term financial headwinds and increased cost pressures, despite overall gains in revenue and corporate earnings for the period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/gxos-contract-wins-surge-34-but-growth-comes-amid-cost-pressures"
+  },
+  {
+    "headline": "Emirates Launches New Air Cargo Service for Data Centers",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Emirates has introduced a specialized air cargo service designed specifically to meet the logistical requirements of data center operators and their supply chain partners. This initiative aims to capture a larger share of the fast-growing transport market driven by massive infrastructure expansion and the increasing global demand for advanced computing hardware. By tailoring its freight capabilities to high-tech logistics, the airline seeks to provide more reliable and targeted delivery solutions for sensitive technological components.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators"
+  },
+  {
+    "headline": "US rail freight volume grows 3.5% led by intermodal gains",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Recent data released by the Association of American Railroads indicates that domestic rail freight volumes increased by 3.5 percent week-over-week. This overall upward trajectory was primarily driven by strong performance within the intermodal sector. The figures reflect continued positive momentum for major rail carriers operating across the country, highlighting steady movement in domestic freight transportation markets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar"
+  },
+  {
+    "headline": "Uber Freight Reports Record Bookings Amid Ongoing Profitability Hurdles",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Uber Freight achieved a record-breaking performance in the third quarter, reporting gross bookings of $1.768 billion. Despite this notable revenue expansion, the digital freight brokerage arm of the transportation giant continues to face challenges in achieving sustainable operating profitability. Leadership acknowledged the duality of the financial results, noting that strong top-line growth is currently occurring alongside persistent bottom-line losses as the business navigates broader market conditions in the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stronger-revenue-at-uber-freight-but-profits-still-elusive"
+  },
+  {
+    "headline": "Asia-US Container Rates Hold Firm Amid Planned November Hikes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Maritime shipping costs from Asia to the United States are holding steady despite softening market demand, as ocean carriers push for upcoming price increases. The situation is further complicated by potential labor disruptions at the crucial Los Angeles and Long Beach port complex, which continues to introduce operational uncertainty for importers and logistics providers navigating the transpacific trade lanes as the peak shipping season progresses.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/asia-us-container-rates-hold-as-carriers-seek-3000-november-rate-hikes"
+  },
+  {
+    "headline": "Trimble Lowers Forecast Amid European Freight Slowdown",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Technology provider Trimble has reduced its annual recurring revenue growth projection due to a softening European freight market that negatively impacted its transportation division. Persistent weak demand across European shipping channels created headwinds for the company's enterprise software and hardware solutions tailored to freight carriers and logistics operators. This downward revision highlights ongoing macroeconomic pressures and reduced shipping volumes affecting the regional transportation sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trimble-cuts-growth-outlook-as-european-freight-market-slows"
+  },
+  {
+    "headline": "Ocean Network Express Raises Profit Forecast to $2 Billion",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Ocean Network Express has upgraded its full-year profit projection to $2 billion, supported by a significant financial recovery driven by increased cargo volumes and elevated freight rates. Despite the strong performance in the first half, carrier leadership anticipates a moderation in market conditions during the upcoming six months, signaling potential cooling across global maritime shipping routes as demand patterns shift and capacity adjustments take effect.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/one-lifts-profit-forecast-to-2-billion-as-earnings-surge"
+  },
+  {
+    "headline": "East Midlands Airport Adds New Chinese Cargo Carrier",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "China Central Longhao Airlines has expanded its international flight network by introducing a new all-cargo route connecting China directly to East Midlands Airport. This development highlights the ongoing growth of air freight connections between Asian manufacturing hubs and European logistics markets, enhancing cargo handling activity at the UK facility.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/east-midlands-airport-welcomes-another-chinese-cargo-airline"
+  },
+  {
+    "headline": "Lufthansa Cargo Reports Surge in Third-Quarter Yields",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Lufthansa Cargo posted significant financial gains in the third quarter, driven by robust air freight demand and tight capacity constraints. Base yields climbed noticeably compared to the previous year, while total yields saw an even larger increase as the airline successfully transferred fuel-related expenses to customers. This pricing strength allowed the carrier to more than triple its adjusted earnings before interest and taxes, resulting in a substantial profit margin expansion for the period.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/lufthansa-cargo-rides-airfreight-pricing-power-to-stronger-yields/"
+  },
+  {
+    "headline": "Transpacific Route Emerges as Most Lucrative Container Trade",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "Recent data from Alphaliner indicates that the transpacific container route is significantly more profitable than other major shipping lanes. Ocean carriers operating spot shipments from China to the United States West Coast are generating higher revenues per nautical mile compared to alternative corridors, such as routes connecting China to Europe. Strong spot freight rates on the transpacific lane continue to drive this profitability gap, reinforcing its position as the most lucrative major trade route for maritime shipping companies.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/transpacific-the-most-profitable-container-trade-by-far-says-alphaliner/"
+  },
+  {
     "headline": "ArcBest Surpasses Q3 Expectations on Stronger Shipment Weights",
     "continent": "North America",
     "country": "United States",
@@ -2848,155 +2998,5 @@
     "summary": "Ocean container shipping rates are experiencing upward pressure due to ongoing disruptions in the Red Sea. Carriers face complex routing challenges that strain operational efficiency across major global trade lanes. Meanwhile, industry analysts warn that incoming vessel capacity additions could lead to significant oversupply issues by 2027, creating long-term volatility for maritime freight markets and complicating capacity management strategies for shippers and logistics providers alike.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/how-new-capacity-is-raising-rates-in-chaotic-ocean-market"
-  },
-  {
-    "headline": "Australia Post grows freighter fleet for holiday season",
-    "continent": "Oceania",
-    "country": "Australia",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Australia Post and Qantas Freight are expanding their air cargo operations by introducing additional Airbus A321 converted freighters. This fleet enhancement is designed to bolster regional logistics capacity and manage the anticipated surge in parcel volumes during the upcoming peak holiday online shopping period. While this specific aircraft model has not achieved widespread adoption across the broader global air cargo market, the carrier continues to leverage it for domestic freight efficiency.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/australia-post-expands-freighter-fleet-ahead-of-holiday-e-commerce-rush"
-  },
-  {
-    "headline": "US Commercial Truck Inspections Reveal Numerous Violations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "State and federal authorities spanning from California to North Dakota executed a series of targeted commercial vehicle inspections resulting in hundreds of safety violations and out-of-service orders. These enforcement operations focused on commercial driver's license compliance and vehicle safety standards to identify and remove unsafe operators and equipment from public roadways, highlighting ongoing regulatory oversight within the domestic freight and transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/truck-safety-blitzes-uncover-hundreds-of-violations-across-us"
-  },
-  {
-    "headline": "Upcoming 2026 U.S. Elections Set to Alter Trucking Labor Regulations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Experts warn that upcoming legislative elections will significantly shift national policy regarding the freight workforce, transcending traditional partisan divides. Industry analysts briefing a major trucking association committee note that long-standing assumptions about how different political parties approach independent contractor classifications and employment rules are evolving. As regulatory frameworks face potential overhauls, fleet operators and logistics companies must prepare for changes that could impact labor availability, operational costs, and overall distribution network strategies across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-2026-elections-will-reshape-trucking-labor-policy-no-matter-which-party-wins"
-  },
-  {
-    "headline": "APM Terminals to Lose Salalah Port Concession in 2028",
-    "continent": "Middle East",
-    "country": "Oman",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Oman's Ministry of Transport, Communications and Information Technology has officially informed the Salalah Port Service Company that the current operational agreements held by APM Terminals will not be renewed past their scheduled expiration date in November 2028. This decision means APM Terminals will relinquish its management control over the critical deepsea transhipment hub located in the Middle East once the contractual term concludes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/apm-terminals-to-lose-control-of-salalah-transhipment-hub-in-2028/"
-  },
-  {
-    "headline": "Sub-Saharan Mining Growth Drives Regional Logistics Demand",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Mining projects across sub-Saharan Africa are stimulating much-needed transport infrastructure development, creating new prospects for regional supply chain operators. International organizations estimate that substantial financial investments in ports, railways, and roadways will be necessary over the coming decade to fully support this economic potential, though several improvement initiatives are already underway across the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/new-mining-operations-unearth-opportunities-for-logistics-in-africa/"
-  },
-  {
-    "headline": "CargoWise and Dray Dog Automate US Drayage Port Bookings",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "WiseTech Global has linked its CargoWise Landside transport management systems with marine terminal appointment platform Dray Dog to streamline US drayage operations. This technical integration connects Dray Dog with management solutions such as Trinium, Profit Tools, and Compcare. As a result, dispatchers and customer service teams can automatically receive verified port appointment data and reference numbers directly inside their existing software environment, removing the need for manual administrative data entry.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dray-dog-cargowise-link-up-will-automate-port-bookings-for-drayage/"
-  },
-  {
-    "headline": "Airlines expand global freighter routes ahead of winter season",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Major cargo carriers are ramping up international freighter operations across key global corridors to handle anticipated seasonal demand and assist forwarders in managing capacity shifts. Additions feature newly established transatlantic routes, expanded connections linking manufacturing and distribution centers in Latin America, and heightened flight frequencies dedicated to moving technology exports originating in Asia. Notable network enhancements involve services operated by Air Canada Cargo, Lufthansa Cargo, Air France, Japan Airlines, and Cathay Cargo, providing the logistics sector with alternative routing options as yearly contracting negotiations take place.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/"
-  },
-  {
-    "headline": "Singapore Port Faces Growing Regional Automation Pressure",
-    "continent": "Asia",
-    "country": "Singapore",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Singapore must maintain its competitive edge as a major international container transhipment hub amid rising pressure from rival ports investing heavily in automation and digital technologies. Speaking at a union anniversary event, senior leadership cautioned that complacency within port operations could lead to a loss of maritime business to competing facilities in the region. To secure its future standing within global shipping networks, the port must continue adapting and modernizing its operational capabilities.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/port-of-singapore-faces-new-challenges-but-also-new-opportunities/"
-  },
-  {
-    "headline": "New Mexico Jury Awards $47M in Tanker Truck Crash Lawsuit",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "A New Mexico court has ordered a massive financial payout following a collision involving a commercial tanker truck near Carlsbad in 2022. The verdict allocates forty-seven million dollars to a motorist and his mother for damages sustained during the highway incident. While individual traffic accidents primarily concern legal and liability matters, such substantial judgments often influence commercial motor carrier insurance rates, risk management protocols, and safety compliance standards across the freight transportation sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-mexico-jury-awards-47m-in-tanker-truck-crash-lawsuit"
-  },
-  {
-    "headline": "Evos Launches AI to Preserve Retiring Dispatcher Expertise",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Smaller freight companies face operational vulnerabilities as experienced dispatchers and operations managers retire, leaving behind outdated technology systems that lack advanced automation. To address this loss of critical institutional expertise, an upcoming autonomous platform named Evos aims to preserve this internal knowledge and apply it to daily freight workflows. By digitizing veteran insights before experienced workers exit the industry, the solution seeks to help mid-sized operators bridge the technological gap with larger enterprise carriers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/what-happens-to-tribal-knowledge-when-dispatchers-retire"
-  },
-  {
-    "headline": "DHL Group Upgrades 2026 Outlook Amid Peak Season Expectations",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "DHL Group has revised its future financial projections upward, driven by anticipated high demand during the upcoming peak shipping period. The logistics provider adjusted its forecast based on expected growth in freight volumes and operational performance. This announcement reflects confidence in market conditions and sustained parcel movement despite broader economic uncertainties. Leadership anticipates increased commercial activity to bolster earnings as companies prepare for high-volume seasonal inventory requirements across international shipping networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dhl-group-boosts-guidance-on-expectations-for-strong-peak-season"
-  },
-  {
-    "headline": "Cargo theft losses double despite drop in reported freight incidents",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Cargo theft metrics reveal a shifting risk landscape for the freight sector as peak shipping season approaches. Although total reported incidents experienced a significant decline during the second quarter compared to the prior year, financial damages surged past three hundred million dollars. This divergence highlights a trend toward more targeted and financially damaging criminal operations within the transportation network, forcing carriers and logistics providers to reevaluate security measures and risk mitigation strategies ahead of high-volume operational periods.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freight-fraud-gets-more-strategic-heading-into-peak-season"
-  },
-  {
-    "headline": "Federal charges filed in Massachusetts CDL cheating scheme",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Federal authorities in Massachusetts have charged a local man for orchestrating a fraudulent commercial driver's license examination scheme. Investigators utilized phone records and an undercover operation to uncover the illicit arrangement, which allowed applicants to pay three thousand dollars to bypass standard testing requirements using hidden Bluetooth communication devices. The accused now faces significant prison time as enforcement agencies crack down on integrity violations within commercial vehicle licensing and driver credentialing processes.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/failed-cdl-exams-3000-payments-and-bluetooth-cheating-scheme-lead-to-federal-charges"
-  },
-  {
-    "headline": "Cutter & Buck Opens Automated Texas Distribution Hub",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-19",
-    "summary": "Apparel brand Cutter & Buck has expanded its fulfillment network by opening a new automated distribution center in Grand Prairie, Texas. The facility features over 50,000 storage bins and utilizes advanced technology capable of processing more than 1,200 bins per hour. This strategic addition is designed to enhance the company's order fulfillment speed and overall distribution capacity to better serve its customers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/cutter-buck-eyes-fulfillment-boost-with-second-automated-distribution-cen/833237/"
-  },
-  {
-    "headline": "Most Major Clothing Brands Fail to Disclose Factory Wage Levels",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-10-19",
-    "summary": "A recent analysis evaluating 110 prominent apparel companies reveals that merely four businesses openly share information regarding the compensation provided to factory garment makers. The findings highlight a widespread lack of transparency across the clothing production network, with well-known labels such as Zara, Adidas, and Chanel among the participants evaluated. Advocacy groups emphasize that inadequate visibility into factory payroll practices hinders progress toward ensuring fair compensation for workers throughout the global manufacturing sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/few-major-apparel-brands-pay-garment-workers-a-living-wage-report/833275/"
   }
 ]
