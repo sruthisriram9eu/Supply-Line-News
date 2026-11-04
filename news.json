@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Expeditors Reports Q3 Revenue Growth Driven by Hyperscaler Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-03",
+    "summary": "Expeditors International posted a significant year-over-year revenue increase reaching $4.1 billion during the third quarter, supported heavily by growth within its hyperscaler business segment. Although the freight forwarder and customs broker experienced faster proportional jumps in overall transportation expenses and employee compensation costs, financial indicators remained broadly positive. The performance highlights robust demand for specialized logistics and forwarding services despite rising operational expenditures across the sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/successful-quarter-at-expeditors-boosted-by-hyperscaler-business"
+  },
+  {
+    "headline": "Container Ports See Little Financial Return From AI Investments",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-03",
+    "summary": "Recent research reveals that container terminals implementing artificial intelligence technologies are failing to generate measurable monetary gains. Despite widespread adoption across the sector, industry professionals report that these digital deployments have yet to translate into improved profitability or bottom-line growth for port operators, raising questions about the immediate value of current technological upgrades within maritime logistics and terminal operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings"
+  },
+  {
     "headline": "3M Overhauls Manufacturing Network to Boost Productivity",
     "continent": "Global",
     "country": "Multiple",
@@ -2978,25 +2998,5 @@
     "summary": "Ceva Logistics has designated its newly acquired entity, Paack, to spearhead its last-mile parcel delivery operations. This strategic alignment places Paack alongside Colis Privé, another courier brand previously brought under the Ceva Logistics portfolio. By consolidating its parcel delivery services, the company aims to streamline its final-stage distribution network and strengthen its footprint in the courier market. The integration reflects an ongoing effort to optimize asset management and service delivery across its European operations.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/ceva-logistics-puts-paack-in-charge-of-last-mile-parcel-delivery"
-  },
-  {
-    "headline": "Werner Enterprises Issues Q3 Profit Warning",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Trucking provider Werner Enterprises released a downward third-quarter profit preannouncement, pointing to escalating operating expenses. The company highlighted surging costs related to fuel consumption, driver compensation, and insurance claims as primary drivers behind the negative financial outlook.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning"
-  },
-  {
-    "headline": "Amerijet to Repair Damaged Boeing 767 Freighter",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-19",
-    "summary": "Cargo carrier Amerijet has confirmed plans to restore an older Boeing 767 freighter aircraft following structural damage sustained during a hard landing. Despite the advanced age of the aircraft, the company has decided against retiring it, opting instead to fix the buckled fuselage skin and return the cargo plane to active service. This maintenance effort ensures the preservation of cargo capacity within their operational fleet.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/amerijet-to-repair-aging-767-freighter-aircraft-damaged-in-hard-landing"
   }
 ]
