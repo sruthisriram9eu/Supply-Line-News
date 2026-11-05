@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Schneider National Boosts Intermodal Network with Norfolk Southern",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Transportation provider Schneider National has transitioned its intermodal rail partnership to Norfolk Southern, aiming to enhance network efficiency and service performance. The chief executive highlighted the company's extensive decades of intermodal operating experience as a key foundation for the new collaboration. This strategic shift is designed to strengthen freight movement capabilities and optimize supply chain operations across their shared shipping corridors, marking a major operational realignment for the logistics enterprise.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/"
+  },
+  {
+    "headline": "EBay Upgrades Depop Logistics With AI Delivery Tools",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "EBay is introducing artificial intelligence capabilities to the Depop platform to streamline fulfillment operations for merchants. The technology aims to simplify the calculation of freight expenses while generating accurate delivery timelines for buyers. By leveraging advanced analytics, the platform seeks to improve overall supply chain efficiency and reliability for online sellers, enhancing the customer delivery experience.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/"
+  },
+  {
+    "headline": "Regulator Orders Union Pacific to Release Disputed Video",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Federal rail authorities have dismissed an appeal by Union Pacific, mandating the public release of a recording concerning comments allegedly made about rate increase threats directed at shippers who opposed a proposed railway merger. The regulatory action highlights ongoing oversight regarding carrier communications and industry consolidation disputes. The contested video is expected to provide transparency on the interactions between major rail operators and freight customers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public"
+  },
+  {
+    "headline": "Humble Robotics Secures $51M for Electric Hauler Pilots",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Humble Robotics has successfully closed a 51 million dollar Series A financing round to advance customer pilot programs, initial manufacturing, and testing for its autonomous, electric freight haulers. The capital will enable the company to deploy its cabless transport technology for dock-to-dock logistics operations, supporting the expansion of its commercial testing phase.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler"
+  },
+  {
+    "headline": "US Army Partners with FedEx to Modernize Depot Logistics",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "The United States Army has established a collaboration with FedEx to enhance operational efficiency across its network of manufacturing depots, military arsenals, and ammunition production facilities. This modernization initiative aims to streamline supply chain execution, improve material delivery performance, and upgrade overall distribution capabilities within critical defense manufacturing environments, leveraging commercial freight expertise to support military readiness.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/us-army-enlists-fedex-to-modernize-logistics-at-depots"
+  },
+  {
+    "headline": "Americold Lifts Annual Earnings Guidance",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-05",
+    "summary": "Americold Realty Trust has increased its full-year earnings projections following a strong third-quarter revenue performance. The upward revision reflects improved operational metrics and enhanced efficiency within the company's temperature-controlled warehouse network. This financial growth highlights a positive trend in cold storage management and operational execution across its facility portfolio.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/americold-raises-full-year-outlook-as-warehouse-performance-improves"
+  },
+  {
+    "headline": "US Importers Warned Over DDP Compliance Risks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-05",
+    "summary": "United States businesses utilizing delivered duty-paid shipping methods are encountering heightened regulatory and financial dangers as national border authorities increase investigations into foreign importers of record. Industry experts caution that domestic purchasers risk severe consequences, including financial penalties, confiscated merchandise, and blocked borders, regardless of whether their business is officially designated as the importer of record. This heightened oversight necessitates a strategic reassessment of how customs documentation and responsibilities are delegated to overseas partners.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/us-importers-should-reconsider-farming-out-customs-paperwork-warns-cargotrans/"
+  },
+  {
+    "headline": "DHL Reports Strong Third-Quarter Growth Beyond Express Delivery",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Recent financial reporting from DHL highlights expanding revenue streams outside of its core express delivery division. The global forwarding segment successfully captured increased air freight market share amidst tightening capacity constraints. Additionally, contract logistics operations experienced a significant surge in new business wins over the year, driven by expanding sectors such as data center infrastructure development. This diversification indicates a broader distribution of profitability and operational momentum across the organization's global logistics network.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/dhls-growth-broadening-beyond-express-global-forwarding-sparkles/"
+  },
+  {
+    "headline": "GXO Logistics Reports Strong Organic Growth and Wincanton Integration",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-05",
+    "summary": "Contract logistics provider GXO Logistics achieved its fastest organic growth rate in over three years, while advancing the integration of recently acquired Wincanton. Despite near-term pressures on profit margins caused by elevated start-up expenses and operational investments, the company boosted share buybacks. Market reaction was positive following the earnings announcement, sending company shares higher by nearly ten percent as investors responded favorably to the underlying growth metrics and progress on structural expansion.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gxo-logistics-its-all-about-margins-stupid/"
+  },
+  {
     "headline": "Thousands of Truckers Sidelined in US Highway Inspections",
     "continent": "North America",
     "country": "United States",
@@ -2908,95 +2998,5 @@
     "summary": "Apparel brand Bluffworks transitioned its fulfillment operations to Cart.com following persistent invoicing issues with its previous third-party logistics partner. The strategic change aims to streamline order processing and significantly reduce overall fulfillment expenses. By resolving billing discrepancies and improving operational efficiency, the travel clothing company expects better cost control across its supply chain network, supporting ongoing financial stability and scalable distribution for its e-commerce business operations moving forward.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/bluffworks-targets-lower-fulfillment-costs-after-provider-switch/833337/"
-  },
-  {
-    "headline": "A. Duie Pyle Expands Regional Freight Network",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-20",
-    "summary": "Regional freight carrier A. Duie Pyle is growing its less-than-truckload distribution capabilities through the opening of two new infrastructure sites. The company has established a dedicated freight service center in the Cincinnati region of Ohio to handle regional shipments. Additionally, the firm launched an integrated storage and distribution facility located in Camp Hill, Pennsylvania. These new locations are designed to enhance the efficiency and reach of the company's transportation network across the northeastern and midwestern regions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/a-duie-pyle-expands-ltl-network-with-new-ohio-pennsylvania-facilities"
-  },
-  {
-    "headline": "US Reefer Truckload Rejections Reach 20 Percent",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Refrigerated truckload rejections have climbed to twenty percent nationwide, driven by increasing diesel fuel prices and seasonal harvest demands. This surge in rejected loads is influencing pricing dynamics across both spot and contract markets, creating capacity constraints in specific regions. Shippers and carriers are navigating volatile freight volumes as agricultural yields peak and transportation costs continue to fluctuate across the country, altering operational strategies in the refrigerated shipping sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/reefer-truckload-rejections-soar-1-in-5-loads-rejected-nationally"
-  },
-  {
-    "headline": "South Korea Tests Faster Northern Sea Route for Ocean Freight",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "South Korea has successfully completed a trial voyage using an Arctic shipping lane to assess potential time savings for maritime deliveries between Asia and Europe. While the passage proved faster than traditional southern routes, industry observers note that significant hurdles remain regarding its long-term commercial viability. The test highlights ongoing efforts by shipping operators to explore alternative pathways that could bypass congested chokepoints and reduce transit durations, though environmental, navigational, and infrastructure challenges continue to cloud the future adoption of polar shipping corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/time-definite-ocean-delivery-container-ship-completes-new-arctic-route-trial"
-  },
-  {
-    "headline": "First Ammonia-Powered Dry Bulk Vessel Finishes Sea Trials",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-10-20",
-    "summary": "The completion of sea trials for the global market's initial ammonia-propelled dry bulk vessel signifies a major advancement toward adopting alternative energy sources within ocean shipping. This milestone highlights progress in reducing carbon emissions across maritime logistics and freight operations, paving the way for wider commercial implementation of sustainable marine fuels in international trade corridors.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/worlds-first-ammonia-powered-dry-bulk-ship-completes-sea-trials"
-  },
-  {
-    "headline": "Freight Broker Fura Acquires Road Dog Logistics",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Truckload brokerage firm Fura has completed the acquisition of Road Dog Logistics to expand its operational network. This strategic buyout incorporates an estimated thirty million dollars in supplementary revenue into Fura's growing platform, strengthening its market presence within the competitive freight brokerage sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freight-broker-furas-latest-deal-adds-30m-in-revenue"
-  },
-  {
-    "headline": "Daimler Integrates Autonomous Readiness Directly into Factory Production",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-20",
-    "summary": "Daimler Truck has updated its manufacturing operations to integrate autonomous driving capabilities directly onto the production line for Freightliner vehicles. Rather than relying on aftermarket modifications, the company is baking autonomous hardware requirements straight into the factory-built trucks. This approach allows fleet operators the flexibility to select their preferred third-party software providers once the vehicle is delivered. By standardizing autonomous integration at the manufacturing level, Daimler aims to streamline the eventual deployment of self-driving commercial fleets and simplify the adoption process for logistics companies.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/daimler-is-building-autonomy-into-the-truck-at-the-factory-and-leaving-the-software-choice-open"
-  },
-  {
-    "headline": "US Customs Proposes Earlier Data Requirements for Small Imports",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-20",
-    "summary": "United States customs authorities are seeking earlier electronic data submissions and increased information for low-value import shipments valued under the threshold. While the regulatory changes introduce tighter compliance mandates for mail-in cargo, the implementation timeline has been adjusted, delaying the enforcement deadline by three months. Industry observers note the timing may prevent immediate retail price pressures during the electoral cycle. The new framework distinguishes between postal arrivals and traditional cargo modes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/us-customs-wants-more-data-and-earlier-filing-for-low-value-imports/"
-  },
-  {
-    "headline": "Rocky Mountain Chocolate Factory Sells Colorado Facility",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-20",
-    "summary": "Rocky Mountain Chocolate Factory has finalized a $6.6 million sale-leaseback transaction for its Colorado property, which serves as the company's corporate headquarters, production plant, and warehouse facility. The financial arrangement is designed to reduce the organization's existing debt obligations while allowing operations to continue at the current location under a lease agreement. This move reflects a broader trend of asset monetization strategies used by manufacturing and distribution companies to improve their balance sheets and maintain capital liquidity during challenging economic periods.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/chocolate-maker-signs-66m-sale-leaseback-deal-for-warehouse-site/833344/"
-  },
-  {
-    "headline": "Constellation Brands Restores Beer Stock After Inventory Mismatch",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-20",
-    "summary": "Constellation Brands has successfully normalized stock levels for its popular beer brands following a period of undersupply. The inventory imbalance occurred after the company overcorrected its production volumes to align with softer-than-anticipated consumer demand. A key factor in the demand fluctuation was a notable slowdown in purchasing trends among Hispanic consumers. Management has since adjusted operations to stabilize the supply chain and ensure consistent product availability across distribution channels.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/modelo-pacifico-maker-stabilizes-beer-inventory-following-undersupply/833292/"
   }
 ]
