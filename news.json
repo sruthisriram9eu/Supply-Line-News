@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Thousands of Truckers Sidelined in US Highway Inspections",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Recent commercial vehicle enforcement operations in Arkansas and Virginia uncovered numerous safety violations. Federal transportation authorities report that tens of thousands of truck drivers nationwide have been placed out of service due to failures regarding English language proficiency requirements. These regulatory crackdowns aim to enforce compliance and improve safety standards across major freight corridors, though the removal of numerous drivers risks tightening capacity further within the domestic trucking and logistics network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/33000-truckers-sidelined-over-violations-as-highway-blitzes-hit-arkansas-virginia"
+  },
+  {
+    "headline": "Overcoming Data Gaps in Autonomous Trucking Safety",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-04",
+    "summary": "The autonomous trucking industry faces significant hurdles regarding safety data collection, as high test mileage alone proves insufficient for validating self-driving systems. Industry experts emphasize that traditional testing methods often miss critical, unpredictable real-world scenarios. To achieve true reliability, autonomous vehicle developers must shift focus toward capturing rare and dangerous edge cases during road tests. This targeted approach to data gathering and validation aims to improve how commercial robo-taxis and freight trucks navigate complex and hazardous environments safely.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/the-hidden-data-challenges-for-autonomous-trucking-safety"
+  },
+  {
     "headline": "Groups Urge USTR to Drop China-Linked Vessel Fees",
     "continent": "North America",
     "country": "United States",
@@ -2978,25 +2998,5 @@
     "summary": "Constellation Brands has successfully normalized stock levels for its popular beer brands following a period of undersupply. The inventory imbalance occurred after the company overcorrected its production volumes to align with softer-than-anticipated consumer demand. A key factor in the demand fluctuation was a notable slowdown in purchasing trends among Hispanic consumers. Management has since adjusted operations to stabilize the supply chain and ensure consistent product availability across distribution channels.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/modelo-pacifico-maker-stabilizes-beer-inventory-following-undersupply/833292/"
-  },
-  {
-    "headline": "US Benchmark Diesel Prices Rise Following Recent Market Volatility",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Following a period of significant fluctuation, the weekly national diesel fuel benchmark, published by the Energy Information Administration to calculate standard shipping surcharges, experienced another upward movement. Although overall market conditions displayed signs of temporary stabilization heading into the week, the continued price growth impacts fuel cost calculations for trucking and freight operators relying on these baseline figures.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/benchmark-diesel-price-up-as-market-takes-a-short-breather"
-  },
-  {
-    "headline": "Container shipping rates rise amid Red Sea crisis and future capacity fears",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Ocean container shipping rates are experiencing upward pressure due to ongoing disruptions in the Red Sea. Carriers face complex routing challenges that strain operational efficiency across major global trade lanes. Meanwhile, industry analysts warn that incoming vessel capacity additions could lead to significant oversupply issues by 2027, creating long-term volatility for maritime freight markets and complicating capacity management strategies for shippers and logistics providers alike.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/how-new-capacity-is-raising-rates-in-chaotic-ocean-market"
   }
 ]
