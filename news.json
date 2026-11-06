@@ -1,5 +1,155 @@
 [
   {
+    "headline": "Unilever Increases Prices to Counter Rising Material Costs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-05",
+    "summary": "Consumer packaged goods giant Unilever has implemented price increases following improved supply visibility for essential raw materials. The organization previously maintained stable pricing throughout the initial six months of the year while monitoring market conditions. Adjusting rates allows the enterprise to successfully offset escalating commodity expenses without incurring further margin compression, supported by clearer forecasts regarding the availability of critical operational inputs.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/unilever-ramps-up-pricing-to-offset-higher-commodity-costs/873793/"
+  },
+  {
+    "headline": "Urban Outfitters Adds Tech to Boost Supply Chain Visibility",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-05",
+    "summary": "The retail parent organization is integrating new features into its existing production lifecycle management platform. This technological expansion aims to provide greater insight into material costs and enhance overall supply chain efficiency across its portfolio of brands. By upgrading its digital infrastructure, the company seeks to streamline operations from production to delivery, addressing cost management and workflow optimization in a competitive retail market.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/urban-outfitters-seeks-material-cost-visibility-from-expanded-technology-su/873642/"
+  },
+  {
+    "headline": "Logitech Launches Supplier Decarbonization Program",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-05",
+    "summary": "Computer peripheral manufacturer Logitech has introduced a new sustainability program aimed at reducing carbon emissions across its supplier network. The initiative, known as Chain Reaction, initially brings together seventeen suppliers to aggregate their buying power. Through this collaborative approach, the participating companies will jointly purchase renewable electricity to power their operations, driving down greenhouse gas emissions within the manufacturing supply chain and promoting broader environmental compliance among vendors.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/logitech-launches-supply-chain-decarbonization-program/873778/"
+  },
+  {
+    "headline": "Teamsters Claim Amazon Delivery Driver Unionization in Indiana",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "The Teamsters union asserts that delivery drivers at an Indiana Amazon facility have successfully unionized and are demanding formal contract negotiations. However, the company disputes the characterization of the event and questions the extent of representation. This development represents another chapter in ongoing labor organizing efforts directed at the e-commerce giant's logistics workforce, which has faced sustained pressure from labor unions seeking to represent delivery and warehouse personnel across various operating locations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/teamsters-say-theyve-organized-amazon-employees-in-indiana-company-demurs"
+  },
+  {
+    "headline": "Mexico Truck Parking Cargo Thefts Surge in Q3",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "During the third quarter, cargo theft incidents targeting parked commercial trucks surged significantly across Mexico. According to data released by supply chain risk analytics firm Overhaul, thefts from stationary vehicles accounted for nearly half of all recorded cargo security breaches in the country during this period. This trend highlights a notable shift in operational tactics among criminal networks, presenting new vulnerabilities for freight carriers and logistics operators managing cross-border and domestic transit routes within the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-cargo-thieves-shift-tactics-as-q3-truck-parking-thefts-surge"
+  },
+  {
+    "headline": "Conrail Names John Wright President and COO",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Conrail has chosen experienced rail industry veteran John Wright to step into the role of president and chief operating officer. In this leadership position, he will oversee the executive operations of the company. The announcement marks a significant organizational update for the freight rail provider as it manages its executive leadership structure going forward.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/conrail-tabs-wright-as-president-and-chief-operating-officer"
+  },
+  {
+    "headline": "Harbinger Secures $240M to Expand Electric Vehicle Platform",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-05",
+    "summary": "Electric vehicle manufacturer Harbinger has successfully closed a funding round, securing $240 million to support the expansion of its platform into vehicle classes beyond traditional trucks. Strategic participation in the investment came from major industry players, including delivery giant FedEx and recreational vehicle maker THOR Industries. The California-based company continues to scale its operations to meet growing commercial demand for alternative-fuel transportation solutions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/harbinger-240m-series-d-funding"
+  },
+  {
+    "headline": "Truck Buyers Face Favorable Market Amid Squeezed Margins",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Independent carriers and owner-operators currently navigate a stabilized equipment market characterized by abundant vehicle availability and normalized lead times, reversing the severe shortages and inflated costs of previous years. Despite improved inventory levels and realistic used pricing, these transportation operators face tight financial margins, forcing them to exercise extreme caution with capital investments. The current purchasing environment requires careful financial calculation rather than desperate fleet expansion, shifting the focus toward long-term operational viability and cost management in the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/buying-trucks-in-a-buyers-market-what-owner-operators-are-weighing-right-now"
+  },
+  {
+    "headline": "Maersk raises earnings outlook following strong third-quarter profits",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "A.P. Moller-Maersk upgraded its annual financial projection after surging freight rates propelled significant third-quarter profit growth. Despite the positive revision to its full-year outlook, the company experienced a decline in share value as its financial results fell short of analyst expectations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/maersk-raises-profit-outlook-as-earnings-surge-but-shares-slide-on-expectations-miss"
+  },
+  {
+    "headline": "LA and Long Beach Port Strike Postponed Amid Ongoing Labor Talks",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Labor negotiations between longshore union representatives and terminal employers at the major West Coast container hubs of Los Angeles and Long Beach have resulted in the postponement of a potential work stoppage. Both sides are actively continuing discussions to reach a new collective bargaining agreement, temporarily averting disruptions to vital maritime freight movement and container terminal operations at the busiest gateway complex in the United States.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
+  },
+  {
+    "headline": "US Rail Regulators Probe Allegations of Shipper Intimidation",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-05",
+    "summary": "Federal transport regulators are investigating whether Union Pacific retaliated against or intimidated freight customers during proceedings regarding a major merger proposal. The Surface Transportation Board ordered the railway to submit internal records, including executive conference footage, to determine if shipper feedback was suppressed. Union Pacific has strongly denied any wrongdoing. The outcome of this inquiry could influence the continuation and evaluation of the historic railroad consolidation review.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/stb-turns-up-ns-merger-fight-into-inquiry-over-shipper-intimidation/"
+  },
+  {
+    "headline": "FMC Investigates Effectiveness of Demurrage Penalties",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "The United States Federal Maritime Commission is examining whether steep demurrage and detention charges effectively accelerate cargo flow when freight is actually immobilized due to port constraints rather than shipper inaction. Industry stakeholders emphasize a clear difference between preventable delays where financial penalties might influence behavior, and systemic bottlenecks outside importer control where higher fees merely penalize supply chain participants without resolving underlying logistical hurdles.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/detention-fees-have-a-simple-problem-a-bigger-bill-cannot-move-a-box-that-cannot-move/"
+  },
+  {
+    "headline": "Port of Long Beach Projecting Historic 10 Million TEU Volume",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "The Southern California maritime hub is on track to surpass ten million twenty-foot equivalent units of container volume for the first time in its history. Leadership at the facility noted that a remarkably strong peak season and an all-time high monthly volume recorded in September drove the unprecedented throughput levels this year. This milestone highlights significant import demand and increased cargo handling activity moving through the key North American gateway.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/"
+  },
+  {
+    "headline": "Maersk Q3 Revenue Surges on High Freight Rates Despite Lower Volumes",
+    "continent": "Europe",
+    "country": "Denmark",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Container shipping giant Maersk reported a significant twenty-seven percent increase in third-quarter revenue, reaching $18.1 billion compared to the same period last year. Higher freight rates primarily drove the financial gains, successfully balancing out a minor decrease in cargo volumes. The Ocean Services division served as the primary growth engine, generating $12.6 billion, which represents a thirty-seven percent year-over-year rise. Buoyed by these strong financial results across all business segments, the Danish transport company elevated its financial projections for the remainder of the year.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ocean-the-star-performer-as-maersk-reports-a-q3-bump-in-revenue/"
+  },
+  {
+    "headline": "AI equipment surge overwhelms Taiwan air cargo facilities",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "An influx of machinery supporting semiconductor and artificial intelligence sectors is severely disrupting cargo terminal operations at Taiwan Taoyuan Airport. Unclaimed shipments are accumulating in storage facilities, causing severe equipment shortages such as unavailable dollies. These logistical bottlenecks are delaying aircraft unloading processes and forcing several airlines, including China Airlines, to cancel select outbound freighter routes to international destinations like the United States, raising significant concerns among regional forwarders.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/reminds-me-of-covid-ai-equipment-chokes-taiwans-air-cargo-gateway/"
+  },
+  {
     "headline": "Schneider National Boosts Intermodal Network with Norfolk Southern",
     "continent": "North America",
     "country": "United States",
@@ -2848,155 +2998,5 @@
     "summary": "A majority of British freight and storage companies express severe anxiety as diesel costs surge to unprecedented levels. Average fuel prices climbed significantly over a seven-month period, adding hundreds of pounds in extra expenses per vehicle run for commercial haulers. Industry representatives are actively petitioning the national government for urgent financial assistance to keep freight operations viable amidst these compounding financial pressures.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/transport-businesses-call-for-help-as-diesel-price-hits-record-high/"
-  },
-  {
-    "headline": "Highway proposes unified data standards to combat freight fraud",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Carrier identity platform Highway is advocating for collaborative data verification across the freight sector to counter evolving fraudulent activities. Following the success of its performance guarantee, the company emphasizes the necessity for insurers, financial factors, and electronic logging device providers to validate their data sources collectively. As fraudulent tactics adapt, industry stakeholders are urged to establish shared security protocols to protect supply chain transactions and secure freight movements against rising vulnerabilities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/highway-shared-standards-freight-fraud"
-  },
-  {
-    "headline": "DSV posts strong Q3 earnings driven by air and sea margins",
-    "continent": "Europe",
-    "country": "Denmark",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Freight forwarder DSV reported impressive third-quarter financial results, highlighting robust performance in its air and sea divisions. The company achieved a high conversion rate and strong operating margins following ongoing integration efforts, setting a high performance benchmark within the global logistics sector and drawing positive attention from market investors.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/investors-bid-up-golden-goose-dsv-bar-set-high-for-kuehne/"
-  },
-  {
-    "headline": "Global operators eye upcoming concession bids at Colombo Port",
-    "continent": "Asia",
-    "country": "Sri Lanka",
-    "category": "storage_distribution",
-    "date": "2026-10-21",
-    "summary": "Major international terminal operators and container shipping lines are showing strong interest in upcoming concession agreements at Sri Lanka's Colombo Port. Attention is particularly focused on the upcoming rebidding process for the South Asia Gateway Terminals facility, as its existing thirty-year operational agreement approaches expiration. Current stakeholders in the terminal include local conglomerates, major ocean carriers, and the state ports authority, setting the stage for competitive international bids as the transition timeline draws nearer.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/terminal-operators-and-liners-eye-concession-opportunity-at-colombo-port/"
-  },
-  {
-    "headline": "Digital Freight Platform Sennder Targets €1B Revenue by 2026",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Digital freight forwarder Sennder reports reaching unadjusted monthly IFRS EBITDA profitability alongside expectations to cross €1 billion in total annual revenue by 2026. This financial milestone reflects deliberate optimization of the firm's service portfolio, heightened focus on primary operations, and continuous enhancements to operational productivity. Furthermore, the enterprise finalized the complete integration of recent business acquisitions to reinforce its market position across the European road freight sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/sennder-set-to-hit-e1bn-sales-this-year/"
-  },
-  {
-    "headline": "Nearly $1M in trading cards stolen from FedEx truck in California",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "A delivery driver in California discovered a broken cargo lock and the disappearance of high-value sports and Pokemon trading cards valued at nearly one million dollars. The cargo vanished outside a professional grading facility, prompting local detectives to launch an investigation. Law enforcement officials are currently verifying the driver's statement and actively reviewing local surveillance footage to trace how the lucrative shipment was intercepted and stolen during transit.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-and-sports-cards-vanish-from-fedex-truck-driver-discovers-missing-lock"
-  },
-  {
-    "headline": "Napa Auto Parts boosts warehouse efficiency through automation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-20",
-    "summary": "Napa Auto Parts has partnered with Hy-Tek Intralogistics and Hai Robotics to upgrade its fulfillment operations. The initiative focuses on enhancing storage capacity within distribution facilities while simultaneously improving order fulfillment precision and operational speed. By integrating advanced robotic automation, the retailer seeks to address modern warehousing challenges and streamline inventory management across its distribution network, meeting rising consumer demands more effectively.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/napa-auto-parts-revs-up-fulfillment-efficiency-with-automation/833383/"
-  },
-  {
-    "headline": "Lawsuit Challenges Proposed Tariffs on Canadian Imports",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-10-20",
-    "summary": "A legal challenge filed at the Court of International Trade argues that the administration overstepped its authority by relying on a century-old legislative act to levy heavy import duties on goods from Canada. The litigation contests the legitimacy of utilizing this historical statute for modern trade barriers, which could significantly impact cross-border supply chains and international trade relations if the court rules against the executive action.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/"
-  },
-  {
-    "headline": "Heartland Express Returns to Core Profitability in Q3",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Truckload carrier Heartland Express posted a net profit in the third quarter that relied on core operations rather than asset sales, marking its first such earnings turnaround since 2023. This financial shift indicates stabilizing conditions for the carrier, as previous quarters depended heavily on liquidating equipment and terminal facilities to stay profitable. The development highlights improving operational performance within the trucking sector, signaling a potential recovery in freight market fundamentals after an extended period of financial pressure.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/heartland-express-sees-earnings-turnaround-in-q3"
-  },
-  {
-    "headline": "US DOT Allocates $2.34B for Rail Infrastructure",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "The United States Department of Transportation has announced a significant funding package totaling over two billion dollars directed toward rail infrastructure improvements. This latest federal grant round focuses on upgrading short lines, bridges, and a petrochemical port to alleviate critical freight bottlenecks and improve network efficiency. While the selection encompasses over a hundred projects aimed at enhancing movement capacity, industry shippers face a prolonged wait before these infrastructure investments translate into active operational improvements.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/washington-has-2-34bn-for-rail-which-freight-bottlenecks-get-fixed/"
-  },
-  {
-    "headline": "Texas Sues Gerber Over Heavy Metals in Baby Food",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-10-20",
-    "summary": "The state of Texas has initiated legal action against Gerber, a subsidiary of Nestlé, regarding allegations of heavy metal contamination in its baby food products. In response to the lawsuit, the manufacturer maintained that it implements rigorous supplier standards, careful ingredient procurement protocols, and comprehensive quality assurance testing to minimize trace heavy metal content throughout its production processes. The case highlights ongoing regulatory and legal scrutiny surrounding food safety and ingredient sourcing practices in the infant nutrition sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/texas-sues-nestles-gerber-over-alleged-heavy-metals-in-baby-food/833374/"
-  },
-  {
-    "headline": "PACCAR Integrates Digital App Platform Into Commercial Fleets",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-20",
-    "summary": "Commercial vehicle manufacturer PACCAR plans to integrate a connected fleet software ecosystem into its Kenworth and Peterbilt truck brands. Launching in early 2027, the technology will connect drivers to an external digital marketplace for operational applications. This development coincides with the preparation for third-quarter financial disclosures, highlighting the company's ongoing investment in digital tools for commercial transport operations and fleet management efficiency.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/paccar-connect-kenworth-peterbilt-launch"
-  },
-  {
-    "headline": "Napa Auto Parts Enhances Fulfillment with Automation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-20",
-    "summary": "Napa Auto Parts has partnered with Hy-Tek Intralogistics and Hai Robotics to upgrade its warehouse operations. The initiative focuses on increasing storage capacity within existing facilities while simultaneously boosting the precision of customer order processing. By deploying advanced automated technology, the automotive retailer seeks to streamline its distribution workflows and handle higher inventory volumes more effectively.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/napa-auto-parts-revs-fulfillment-efficiency-with-automation/833383/"
-  },
-  {
-    "headline": "Semiconductor Industry Association Urges US Chip Supply Chain Security",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-10-20",
-    "summary": "The Semiconductor Industry Association has emphasized the critical need for closer cooperation between government and industry to protect domestic chip manufacturing from hidden vulnerabilities. In response to potential supply disruptions, the organization recommends targeted government-industry initiatives focused on strengthening domestic production capabilities and establishing strategic material stockpiles to ensure long-term resilience within the technology sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/us-semiconductor-supply-chain-relies-on-vulnerable-hidden-inputs/833485/"
-  },
-  {
-    "headline": "Whataburger Diversifies Supply Base to Mitigate Inflation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-10-20",
-    "summary": "Fast-food operator Whataburger has broadened its vendor network to navigate inflationary pressures affecting key commodities like beef and transportation expenses such as diesel fuel. The enterprise implemented strategic supplier adjustments to protect profit margins and maintain operational stability across its restaurant footprint. By expanding sourcing channels, the company aims to build resilience against market volatility and price spikes within its procurement and logistics operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/"
-  },
-  {
-    "headline": "Bluffworks Shifts Fulfillment Providers to Cut Costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-20",
-    "summary": "Apparel brand Bluffworks transitioned its fulfillment operations to Cart.com following persistent invoicing issues with its previous third-party logistics partner. The strategic change aims to streamline order processing and significantly reduce overall fulfillment expenses. By resolving billing discrepancies and improving operational efficiency, the travel clothing company expects better cost control across its supply chain network, supporting ongoing financial stability and scalable distribution for its e-commerce business operations moving forward.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/bluffworks-targets-lower-fulfillment-costs-after-provider-switch/833337/"
   }
 ]
