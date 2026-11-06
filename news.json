@@ -1,5 +1,145 @@
 [
   {
+    "headline": "Union Pacific Chief's Merger Remarks Dismissed as Offhand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Railroad executives have downplayed recent comments from a major freight leader regarding potential shipping price hikes aimed at opponents of an ongoing industry merger. The remarks surfaced during discussions surrounding corporate consolidation within the freight rail sector, prompting the company to characterize the statement as casual rather than a formal business policy. Regulatory bodies and industry stakeholders continue to monitor the consolidation process closely as carrier partnerships face heightened scrutiny over potential impacts on service pricing and market competition.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/"
+  },
+  {
+    "headline": "Aurora Delays Autonomous Truck Production",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-06",
+    "summary": "Autonomous vehicle developer Aurora has postponed its truck manufacturing timeline due to ongoing component supply constraints and quality control challenges. The firm partners with Roush to modify vehicles for autonomous operations. Despite current operational setbacks impacting the immediate schedule, the enterprise maintains its long-term deployment projections, anticipating a fleet exceeding one thousand autonomous trucks operational by the close of 2027.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/"
+  },
+  {
+    "headline": "Lear Corporation Building Automated Michigan Factory",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-06",
+    "summary": "Lear Corporation is developing a highly automated manufacturing and distribution facility in Michigan, scheduled to open next year. The plant will feature dual automated storage and retrieval systems to serve as a standardized operational framework for the company's worldwide production and supply chain network, enhancing efficiency and material handling capabilities across future facilities.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/lear-to-open-automated-factory-as-blueprint-for-global-network/873888/"
+  },
+  {
+    "headline": "Apple Increases Purchase Commitments by $33B Amid Memory Shortage",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-11-06",
+    "summary": "Facing rising component expenses during the fourth quarter, the technology giant expanded its financial purchase commitments by thirty-three billion dollars. The company successfully offset these elevated memory costs through a combination of strategic price adjustments and existing inventory carried over from the prior period. This financial maneuver highlights ongoing supply chain adjustments within the high-tech manufacturing sector as firms navigate component constraints and pricing pressures.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/apple-boosts-purchase-commitments-by-33b-amid-memory-crunch/873936/"
+  },
+  {
+    "headline": "Tilray Brands targets $20M savings from facility closures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-06",
+    "summary": "Tilray Brands has implemented structural changes to adapt to shifts in the beverage market by shutting down four production sites and significantly reducing its stock-keeping unit count. The company expects these operational adjustments to yield twenty million dollars in cost reductions. This move highlights ongoing supply chain optimization efforts within the craft brewing sector as businesses face evolving consumer demand and market pressures.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/tilray-brands-targets-20m-in-cost-savings-after-craft-brewery-closures/873848/"
+  },
+  {
+    "headline": "PS Logistics Acquires Roane Transportation to Expand Flatbed Fleet",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "PS Logistics has grown its footprint in Tennessee through the acquisition of Roane Transportation Services. This strategic purchase adds over 170 commercial drivers to the company's network, strengthening its capacity and operational reach within the flatbed transportation sector. The transaction supports the acquiring firm's ongoing efforts to scale its freight and logistics operations regionally.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ps-logistics-expands-tennessee-flatbed-presence-with-roane-acquisition"
+  },
+  {
+    "headline": "Border Officials Seize Meth Hidden in Produce Shipment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Customs officers at the Texas border discovered over one thousand pounds of methamphetamine concealed within a commercial produce transport. The illicit narcotics, valued at nearly one million dollars, were detected during a routine inspection facilitated by a canine unit. This incident underscores ongoing border enforcement challenges within cross-border freight operations and agricultural supply chain routes, highlighting security vulnerabilities that drug traffickers attempt to exploit within commercial transport networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cbp-seizes-1000-plus-pounds-of-meth-in-produce-truck-at-texas-border"
+  },
+  {
+    "headline": "Fleetworthy Introduces AI-Powered RADAR for Fleet Management",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Fleetworthy has unveiled RADAR, an artificial intelligence solution designed to streamline fleet operations. The technology automates the detection of toll discrepancies and tracks expenditures, eliminating the need for manual report reviews. This tool aims to assist fleet managers in making data-driven decisions more efficiently.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fleetworthy-launches-radar-new-ai-fleet-management-technology"
+  },
+  {
+    "headline": "STB Proposes Broader Protections for Rail Infrastructure",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Federal regulators have introduced a revised policy statement aimed at shielding rail-served facilities from state and local municipal regulations. The updated guidelines question previous rulings regarding privately owned customer terminals and establish stronger legal defenses against the acquisition or restriction of railroad property. This shift could impact how regional infrastructure projects navigate local permitting and zoning laws, potentially streamlining development by limiting state-level intervention in federally regulated rail operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/stb-signals-broader-protection-for-rail-served-projects-against-state-and-local-restrictions"
+  },
+  {
+    "headline": "Walmart Expands Nationwide Drone Delivery with Zipline",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-06",
+    "summary": "Walmart is expanding its aerial drone delivery network across the United States through an expanded partnership with Zipline. The drone operator secured a substantial funding round to support the rollout, which will deploy unmanned delivery aircraft across hundreds of new retail store locations. This initiative aims to accelerate last-mile fulfillment capabilities and scale automated distribution directly to consumers.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/walmart-to-take-drone-delivery-nationwide-as-zipline-raises-1-5b"
+  },
+  {
+    "headline": "Conlio Secures €6.4M to Automate Freight Documentation",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "European logistics technology startup Conlio has secured €6.4 million in a funding round led by Piton Capital. The fresh capital will be directed toward developing automated solutions for verifying shipping paperwork, a routine administrative task traditionally handled manually by freight forwarders prior to processing carrier payments and issuing customer invoices. This technological upgrade aims to streamline back-office workflows within the European transportation sector by reducing manual error rates and accelerating transaction cycles.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/conlio-funding-freight-document-checks"
+  },
+  {
+    "headline": "US Truck Transportation Employment Flat in October",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Employment levels within the American trucking sector remained steady between September and October, according to data published by the Bureau of Labor Statistics. While the agency adjusted the previous month's employment figures slightly downward, subsequent hiring balanced the total count for the industry. This flat growth reflects a stabilizing labor market for freight carriers following earlier fluctuations in workforce numbers, indicating consistent demand for drivers and logistics personnel nationwide.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/october-truck-transportation-jobs-september-truck-transportation-jobs"
+  },
+  {
+    "headline": "Mexico Expands US Trade Lead With Record September",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-11-06",
+    "summary": "Mexico reinforced its standing as the leading trade partner of the United States by achieving a record-breaking volume in September. Cross-border commercial exchange reached a significant financial milestone, outpacing other trading counterparts. This surge highlights the deepening economic ties and the ongoing integration of supply chains within the North American region, reflecting sustained high demand for manufactured goods and cross-border freight movement between the two neighboring nations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-widens-us-trade-lead-with-record-96-3b-september"
+  },
+  {
+    "headline": "Maersk Invests in Over 50 Global Port Terminals",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-06",
+    "summary": "The corporate parent's investment division of shipping giant Maersk is actively broadening its global maritime infrastructure network. Through strategic agreements spanning across Europe and Asia, the company aims to secure operations in more than 50 terminal facilities. This expansion initiative is designed to strengthen the organization's international footprint in port operations, enhancing its capacity to manage ocean freight flows and streamline global trade routes amid evolving industry demands.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/maersk-eyes-trade-in-deals-for-more-than-50-terminals"
+  },
+  {
     "headline": "Ryder Expands Fleet Management Operations via East Coast Buyout",
     "continent": "North America",
     "country": "United States",
@@ -2858,145 +2998,5 @@
     "summary": "Following the removal of regulatory sanctions by Washington on carriers from Mexico, domestic airlines are preparing to expand their flight networks northward. The resolution of the long-standing aviation dispute between the two nations paves the way for increased cross-border connectivity and enhanced government support for the aviation sector. However, the current momentum focuses primarily on passenger operations, with dedicated freighter services remaining constrained under the emerging transport framework, signaling growth potential primarily in passenger-driven logistics and trade lanes.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/mexican-airlines-eager-to-launch-new-us-flights-but-no-freighters/"
-  },
-  {
-    "headline": "Tesla Starts Volume Production of Electric Semi",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "Automaker Tesla has initiated volume manufacturing for its Class 8 electric Semi truck during the third quarter. This operational milestone arrives in preparation for a broader commercial market expansion slated for 2027. The heavy-duty electric vehicle program aims to transform commercial fleet operations by reducing emissions and reliance on fossil fuels, though scaling production remains a critical challenge for the company's long-term logistics strategy.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches"
-  },
-  {
-    "headline": "Commercial truck operational data increasingly dictates credit and insurance",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Telematics data generated by commercial trucks is evolving into a critical metric for business financing and insurance underwriting. Connected systems monitor vehicle performance, driver behavior, mechanical health, and route patterns. Financial institutions and insurance providers utilize this continuous stream of operational insights to assess risk profiles more accurately. Consequently, how a vehicle is operated directly influences operating expenses, tying equipment utilization and driving habits to business creditworthiness and insurance premiums.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-data-your-truck-sends-home-is-becoming-your-new-credit-score-and-your-insurance-rate-too"
-  },
-  {
-    "headline": "San Pedro Bay Ports See Higher Cargo Dwell Times",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "September cargo volume surges at the San Pedro Bay ports have led to increased dwell times for both rail and truck shipments, according to the Pacific Merchant Shipping Association. Unusually heavy volumes characteristic of an extended peak shipping season have slowed movement through the West Coast gateway, resulting in containers and freight remaining idle longer than normal as terminals work to process the influx.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/"
-  },
-  {
-    "headline": "Commercial Fleets Shift to Alternative Risk Captives",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Persistent unprofitability in commercial auto liability underwriting is driving freight fleets to explore alternative risk management models, particularly captives. Industry experts note that transport operators are moving away from traditional premium models to focus more broadly on total risk costs. This structural shift highlights a growing need for proactive risk mitigation strategies as insurance market pressures mount. Timing the transition is critical for organizations attempting to optimize financial protection and manage ongoing exposures within their operational logistics networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/why-more-fleets-are-looking-at-captives"
-  },
-  {
-    "headline": "Knight-Swift Tops Q3 Expectations and Issues Q4 Outlook",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Transportation provider Knight-Swift exceeded financial expectations during the third quarter of the fiscal year. Following these quarterly results, the carrier released its forward-looking guidance for the upcoming fourth quarter, which aligned closely with broader market consensus estimates. The performance reflects ongoing conditions within the freight and logistics sector, highlighting the company's operational trajectory amid prevailing market dynamics.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/first-look-knight-swifts-q3-beats-expectations"
-  },
-  {
-    "headline": "DSV Opens $90M Laredo Facility to Boost Cross-Border Freight",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-21",
-    "summary": "Logistics provider DSV has launched a major facility in Laredo, Texas, valued at $90 million to enhance operations along the US-Mexico border. The new hub integrates warehousing, cross-border transportation, and customs brokerage services into a single location to streamline freight movement between the two countries. This investment addresses growing demands for efficient nearshoring supply chain solutions and helps manage increasing trade volumes flowing through this critical gateway.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dsv-expands-us-mexico-freight-network-with-90m-laredo-facility"
-  },
-  {
-    "headline": "TQL Files Defense in Carrier RICO Lawsuit",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Total Quality Logistics has submitted its initial legal defense in a federal racketeering lawsuit brought by motor carriers against major third-party logistics providers. The company filed three separate motions in a federal district court to contest the allegations. In its court filings, the logistics enterprise criticized the plaintiffs for inadequate business practices while seeking dismissals or adjustments regarding the ongoing litigation concerning freight brokerage operations and carrier relations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/tqls-rico-response-rips-carriers-poor-business-practices"
-  },
-  {
-    "headline": "Freightos Founder Forces Shareholder Vote in Board Dispute",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-21",
-    "summary": "The board of Freightos has agreed to let shareholders vote on proposals from company founder Zvi Schreiber during the upcoming annual meeting in December. This decision escalates an ongoing governance conflict regarding the company's strategic direction. Schreiber, who stepped down from his board position earlier in the year, contends that management's current emphasis on software development is misguided, arguing that artificial intelligence developments pose a significant threat to traditional software offerings. Instead, he advocates for a stronger focus on the platform's core booking capabilities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freightos-founder-takes-board-fight-to-shareholder-vote"
-  },
-  {
-    "headline": "Trucking Bankruptcies Rise Amid Growing Debt Pressures",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Recent data reveals a wave of bankruptcies impacting multiple commercial carriers across the country. These financial closures highlight severe industry pressures, driven by accumulating debt and shrinking operational fleets. As smaller and mid-sized transport companies struggle to remain solvent in a challenging economic environment, capacity across regional freight networks faces further contraction. This trend underscores ongoing financial distress within the domestic surface transportation sector, impacting overall freight availability.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-trucking-bankruptcies-expose-mounting-debt-and-shrinking-fleets"
-  },
-  {
-    "headline": "Apple Grows Domestic Supplier Network for iPhone Parts",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-10-21",
-    "summary": "Apple has broadened its American supplier base by incorporating a new titanium provider and scaling up an existing partnership with an advanced film manufacturer. This move aligns with a broader financial commitment toward bolstering domestic manufacturing capabilities and supply chain resilience within the United States, specifically focusing on components and materials utilized in iPhone production.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/apple-expands-us-supplier-network-for-iphone-materials-components/833496/"
-  },
-  {
-    "headline": "Primo Brands Launches New Arkansas Facility",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-10-21",
-    "summary": "Primo Brands has inaugurated its first new manufacturing facility following its recent merger, selecting Arkansas as the site for the plant. The facility is designed to scale up production capabilities for the Mountain Valley sparkling water brand. This operational expansion comes in response to rising consumer demand for premium beverage options in the marketplace, enabling the company to enhance its manufacturing output and better serve its customer base across the region.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/primo-brands-opens-first-new-factory-post-merger/833375/"
-  },
-  {
-    "headline": "New York Short Line Secures $11.2M Rail Grant",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "The Ontario Midland Railroad has been awarded an $11.2 million federal grant intended for infrastructure enhancements in New York state. Funding will be directed toward upgrading local rail tracks and road crossings to improve network reliability and safety. This financial support helps regional carriers maintain vital rail connections, supporting local freight movement and regional logistics operations without expanding footprint.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/new-york-short-line-wins-11-2-million-federal-rail-grant"
-  },
-  {
-    "headline": "Phillips Connect Introduces New Trailer Sensor and Diagnostic Tools",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-21",
-    "summary": "Phillips Connect has unveiled two smart trailer technologies designed to streamline yard operations and maintenance workflows. The first system analyzes sensor data to identify and diagnose issues related to tires and lighting systems. The second solution features a visual indicator mounted on the front of the trailer to communicate dispatch readiness, displaying distinct colors depending on whether the equipment is cleared for transport. These offerings aim to improve efficiency and safety across commercial fleet management operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/phillips-connect-insights-trailersignal-launch"
-  },
-  {
-    "headline": "CSX Cuts Over 100 Management Roles in Engineering Restructuring",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-10-21",
-    "summary": "Railroad operator CSX has eliminated more than 100 management positions as part of a broader corporate restructuring focused on its engineering department. The workforce reduction affects administrative and supervisory personnel within the rail network's infrastructure division. This organizational shift aims to streamline operations and alter internal management structures within the company's engineering sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions"
   }
 ]
