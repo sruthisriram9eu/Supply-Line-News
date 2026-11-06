@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Ryder Expands Fleet Management Operations via East Coast Buyout",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Ryder System has expanded its Fleet Management Systems division through the acquisition of Efficiency Enterprises, a regional supplier of commercial truck, trailer, and material handling equipment services. The transaction strengthens Ryder's maintenance and leasing footprint along the East Coast, integrating a business model that closely mirrors its own service offerings. This strategic purchase enables the company to broaden its service capacity and deepen its regional market presence for enterprise fleet operations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ryder-grows-its-fms-business-with-east-coast-acquisition"
+  },
+  {
+    "headline": "Container spot rates stabilize as capacity constraints ease",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Container spot freight rates experienced slight decreases or remained steady across major transpacific and Asia-Europe routes due to a combination of reduced capacity pressures and seasonally lower demand. Market trackers noted marginal declines for shipments originating in Shanghai heading toward European ports. Nevertheless, industry analysts warn that the underlying stability remains precarious, noting that ongoing geopolitical instability in the Middle East continues to pose a significant risk to maritime shipping networks and could quickly disrupt current pricing trends.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/calmer-waters-for-container-spot-rates-but-fragile-middle-east-a-threat/"
+  },
+  {
+    "headline": "Freighter Access Splits Air Cargo Fortunes Amid Rising Rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Access to dedicated freighter capacity is creating a significant divide in the air cargo sector as shipping rates increase. Companies possessing dedicated cargo aircraft achieved substantial volume growth, whereas competitors without these assets experienced traffic declines due to canceled services. Market analysis indicates that global demand expanded by six percent year over year in October, while overall capacity stayed flat. Despite the rising freight rates, analysts suggest this trend does not necessarily indicate a late peak-season surge for the industry.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/freighter-capacity-divides-air-cargo-fortunes-as-rates-climb/"
+  },
+  {
+    "headline": "NYK Faces Dividend Cut Risks as Ocean Freight Rates Stabilize",
+    "continent": "Asia",
+    "country": "Japan",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Maritime carrier NYK has increased its dividend payout following a profitable period driven by elevated container shipping rates and disruptions in the Strait of Hormuz. However, the company projects a significant decline in second-half profitability. Financial analysts are questioning whether current earnings represent a temporary peak or a sustainable baseline, warning that normalization in the freight sector could lead to substantial dividend reductions over the next few years as market conditions stabilize.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/nyk-the-argument-now-is-over-what-a-normal-year-looks-like/"
+  },
+  {
+    "headline": "Asia-North America Freight Routes Face Elevated Disruption Risks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Transpacific shipping lanes are experiencing significant disruption risks due to shrinking carrier capacity and rising booking difficulties, according to data from WiseTech Global. The latest outlook rates the Asia to North America and Asia to Europe trade routes at high risk for shipment delays and unreliability, while the Europe to North America lane holds a medium-risk assessment. Shippers operating on these major corridors are advised to carefully evaluate transport partners to maintain delivery schedules amid tightening vessel availability over the coming weeks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/carrier-selection-matters-when-it-comes-to-getting-your-goods-on-time/"
+  },
+  {
+    "headline": "North American Cargo Crime Losses Rise Despite Fewer Incidents",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Data from Verisk CargoNet indicates that total supply chain crime incidents across the United States and Canada decreased by twenty-five percent during the first three quarters of the year compared to the same timeframe previously. However, total financial losses escalated by thirty-nine percent year over year. Criminal organizations are increasingly utilizing sophisticated tactics such as identity fraud, carrier impersonation, and vulnerabilities within freight verification systems to target high-value shipments and bypass traditional security measures.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cargo-crime-in-north-america-down-in-q3-but-losses-are-mounting/"
+  },
+  {
+    "headline": "Hong Kong evaluates river vessel fees amid mainland port competition",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Hong Kong transport authorities are examining permit fees levied on river trade vessels to preserve the port's competitive standing against nearby mainland Chinese facilities in Shenzhen and Guangzhou. These domestic vessels transport containers through the Pearl River Delta to Hong Kong terminals for subsequent transfer onto ocean-going vessels. The fee assessment comes in response to regional pressures as rival mainland ports increasingly attract cargo traffic away from the territory.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hong-kong-reviews-river-fees-as-mainland-ports-lure-cargo-away/"
+  },
+  {
     "headline": "Unilever Increases Prices to Counter Rising Material Costs",
     "continent": "Global",
     "country": "Multiple",
@@ -2928,75 +2998,5 @@
     "summary": "Railroad operator CSX has eliminated more than 100 management positions as part of a broader corporate restructuring focused on its engineering department. The workforce reduction affects administrative and supervisory personnel within the rail network's infrastructure division. This organizational shift aims to streamline operations and alter internal management structures within the company's engineering sector.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions"
-  },
-  {
-    "headline": "Missouri Short Line Secures $16M for Autonomous Rail",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "A short-line railway operating in Missouri has been awarded a federal grant totaling sixteen million dollars to fund the implementation of automated railcar systems. This financial backing aims to modernize local rail operations, potentially improving efficiency and safety within regional freight transport corridors. The project represents a significant step forward in adopting advanced transportation technologies to streamline rail logistics and enhance overall supply chain connectivity at the local level.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant"
-  },
-  {
-    "headline": "Stord Expands Fulfillment Operations With AMS Acquisition",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-10-21",
-    "summary": "Retail logistics and fulfillment provider Stord has expanded its market footprint by acquiring competing e-commerce fulfillment company AMS Fulfillment. This major transaction brings together two prominent operators in the sector, positioning the combined entity to better serve retail clients and scale its distribution and warehousing capabilities. The deal reflects ongoing consolidation within the third-party logistics industry as firms seek to enhance their competitive advantage and network capacity.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/stord-acquires-e-commerce-competitor-ams-fulfillment-in-large-deal"
-  },
-  {
-    "headline": "IFM Investors Acquires Controlling Stake in UK Port Operator ABP",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "storage_distribution",
-    "date": "2026-10-21",
-    "summary": "Australian fund manager IFM Investors has reached an agreement to purchase a majority stake in Associated British Ports, the largest port operator in the United Kingdom. Two major institutional shareholders agreed to sell their combined holdings following extensive market speculation regarding interested buyers. The transaction transfers operational control of several vital maritime gateways within the British logistics network to the new investor group.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/australias-ifm-snaps-up-68-stake-in-abp/"
-  },
-  {
-    "headline": "DSV to eliminate low-margin contracts amid third-quarter volume drops",
-    "continent": "Europe",
-    "country": "Denmark",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Freight forwarding giant DSV experienced a contraction in its air and sea freight volumes during the third quarter, despite achieving a year-on-year revenue increase driven by high ocean freight rates. The enterprise reported strong overall financial growth, with total group revenue and earnings both showing significant increases compared to the previous year. In response to the shifting volume trends, the organization announced plans to phase out low-margin business segments to optimize its forwarding operations moving forward.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/dsv-set-to-root-out-low-margin-business-as-volumes-decline-in-q3/"
-  },
-  {
-    "headline": "Most Far East-Europe shipping capacity returns to Suez Canal",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "Recent industry data reveals that nearly two-thirds of ocean shipping capacity connecting the Far East and Europe has resumed transits through the Red Sea and Suez Canal following years of maritime detours. However, carrier network surveys indicate that several major operators are continuing to hedge against potential security risks by keeping a portion of their fleet on the longer Cape of Good Hope route.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/nearly-two-thirds-of-far-east-europe-capacity-now-back-to-suez-canal/"
-  },
-  {
-    "headline": "African Airfreight Surges Amid Ocean Shipping Disruption",
-    "continent": "Africa",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "African airfreight volumes are experiencing significant growth as ongoing disruptions in Middle Eastern maritime shipping force shippers to seek alternative transportation methods. According to logistics executives, air cargo has become the primary viable option to maintain trade flows across the region. However, industry forwarders remain uncertain whether this surge in demand will translate into lasting structural improvements for the local airfreight sector, or if it represents a temporary shift driven entirely by immediate maritime bottlenecks.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/airfreight-in-africa-booming-thanks-to-disrupted-ocean-shipping-services/"
-  },
-  {
-    "headline": "UK Transport Sector Urges Relief as Diesel Costs Reach Peak",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "logistics",
-    "date": "2026-10-21",
-    "summary": "A majority of British freight and storage companies express severe anxiety as diesel costs surge to unprecedented levels. Average fuel prices climbed significantly over a seven-month period, adding hundreds of pounds in extra expenses per vehicle run for commercial haulers. Industry representatives are actively petitioning the national government for urgent financial assistance to keep freight operations viable amidst these compounding financial pressures.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/transport-businesses-call-for-help-as-diesel-price-hits-record-high/"
   }
 ]
