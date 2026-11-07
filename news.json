@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Major carriers continue enforcement of non-domiciled CDL rules",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-07",
+    "summary": "Large trucking companies are maintaining regulatory pressure regarding non-domiciled commercial driver's license holders, a factor industry leaders blame for prolonged freight market downturns. According to sector analysts, this strict enforcement by major operators is expected to persist regardless of upcoming political shifts or administrative changes in Washington, signaling a lasting impact on freight capacity and driver availability across the national transportation network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fuller-big-carriers-fmcsa-crackdown-permanent"
+  },
+  {
     "headline": "Freight Fraud Report Links Compromised Communications to 40% of Stolen Loads",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Technology provider Motive has introduced automated software agents designed to manage safety and maintenance alerts for trucking fleets. Unveiled at an industry conference in North Carolina, the new tools operate according to user-defined rules. Functions include contacting drivers directly, generating maintenance work orders, and escalating critical issues to management personnel. The system aims to help transportation operations scale efficiently without increasing headcount by automating routine problem-resolution workflows across their vehicle networks.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/motive-launches-ai-agents-fleets"
-  },
-  {
-    "headline": "Late and short deliveries drain $100B from food and CPG sectors",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "A recent analysis indicates that delivery failures impose massive financial burdens on North American food and consumer packaged goods manufacturers. The findings highlight that direct expenses account for up to $11 billion, while indirect losses escalate the total impact to roughly $100 billion. These figures underscore persistent vulnerabilities in fulfillment and distribution networks across the region, heavily affecting vendor relationships and overall operational efficiency for producers.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion"
   }
 ]
