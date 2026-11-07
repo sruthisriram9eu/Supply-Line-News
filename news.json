@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Freight Fraud Report Links Compromised Communications to 40% of Stolen Loads",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-07",
+    "summary": "A recent industry report highlights that compromised communications are tied to nearly half of all direct cargo theft incidents. The analysis also reveals a dramatic escalation in fraudulent phone calls, which jumped by ninety percent, alongside a more than twofold increase in suspicious carrier ownership changes. These findings point to growing vulnerabilities and evolving tactics within freight transportation networks, emphasizing the urgent need for enhanced verification measures across the supply chain to safeguard shipments and secure logistics operations against sophisticated criminal activities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report"
+  },
+  {
     "headline": "North America Container Imports Jump 9% Amid Rising Freight Costs",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "A recent analysis indicates that delivery failures impose massive financial burdens on North American food and consumer packaged goods manufacturers. The findings highlight that direct expenses account for up to $11 billion, while indirect losses escalate the total impact to roughly $100 billion. These figures underscore persistent vulnerabilities in fulfillment and distribution networks across the region, heavily affecting vendor relationships and overall operational efficiency for producers.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion"
-  },
-  {
-    "headline": "Kuehne + Nagel Reports Strong Airfreight Growth Driven by Tech Cargo",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "Kuehne + Nagel experienced a significant expansion in its third-quarter airfreight operations, largely fueled by rising demand for the transport of semiconductors and cloud infrastructure components. The forwarder reported substantial increases in both overall cargo volume and net turnover for its air logistics division. In contrast, competing logistics provider DSV saw a decline in tonnage as it intentionally streamlined its client portfolio and managed organizational adjustments related to a major corporate integration.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hi-tech-cargo-powers-kn-growth-as-dsv-rebuilds-volumes/"
   }
 ]
