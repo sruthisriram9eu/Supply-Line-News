@@ -1,5 +1,15 @@
 [
   {
+    "headline": "North America Container Imports Jump 9% Amid Rising Freight Costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "Container volumes heading into North America grew by nine percent over the month of September. This increase occurred despite ongoing logistical disruptions and escalating pricing pressures within the global freight market. Industry data highlights a continued surge in international shipping volumes even as supply chain operators face tightening capacity constraints and elevated transportation expenses.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/north-america-container-imports-rise-9-as-as-freight-pricing-pressures-mount"
+  },
+  {
     "headline": "Union Pacific Chief's Merger Remarks Dismissed as Offhand",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Kuehne + Nagel experienced a significant expansion in its third-quarter airfreight operations, largely fueled by rising demand for the transport of semiconductors and cloud infrastructure components. The forwarder reported substantial increases in both overall cargo volume and net turnover for its air logistics division. In contrast, competing logistics provider DSV saw a decline in tonnage as it intentionally streamlined its client portfolio and managed organizational adjustments related to a major corporate integration.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/hi-tech-cargo-powers-kn-growth-as-dsv-rebuilds-volumes/"
-  },
-  {
-    "headline": "Mexican Airlines Eye US Routes as Bilateral Restrictions Ease",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "Following the removal of regulatory sanctions by Washington on carriers from Mexico, domestic airlines are preparing to expand their flight networks northward. The resolution of the long-standing aviation dispute between the two nations paves the way for increased cross-border connectivity and enhanced government support for the aviation sector. However, the current momentum focuses primarily on passenger operations, with dedicated freighter services remaining constrained under the emerging transport framework, signaling growth potential primarily in passenger-driven logistics and trade lanes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/mexican-airlines-eager-to-launch-new-us-flights-but-no-freighters/"
   }
 ]
