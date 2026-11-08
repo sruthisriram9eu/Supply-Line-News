@@ -260,6 +260,16 @@
     "sourceUrl": "https://theloadstar.com/hong-kong-reviews-river-fees-as-mainland-ports-lure-cargo-away/"
   },
   {
+    "headline": "Transporting the US Capitol Christmas Tree 2,000 Miles",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Hauling the official U.S. Capitol Christmas Tree requires a complex long-distance freight operation spanning over two thousand miles. A specialized Kenworth commercial truck and a rotating team of four professional drivers manage the intricate over-the-road transport of the massive evergreen from its origin to the West Lawn in Washington, D.C., highlighting the critical role long-haul logistics plays in national holiday traditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off"
+  },
+  {
     "headline": "Unilever Increases Prices to Counter Rising Material Costs",
     "continent": "Global",
     "country": "Multiple",
@@ -2988,15 +2998,5 @@
     "summary": "Freight railway operator CSX posted a rise in third-quarter profits, supported by expanding freight shipping volumes, increased income from fuel surcharges, and enhanced operational efficiency. The financial gains reflect positive demand trends across the company's rail network and improved cost management during the period.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth"
-  },
-  {
-    "headline": "Typhoon Threatens Recovery of East Asian Ports",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "Although container ports along the eastern coast of China are experiencing shorter waiting times and stabilizing operations following earlier storm disruptions, incoming severe weather near Taiwan threatens to reverse these logistical gains. Maritime carriers warn that the approaching storm could halt vessel movements once again, potentially renewing port congestion across the regional supply chain network and stalling recovery efforts for international shipping schedules.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/another-typhoon-threatens-recovery-of-east-asian-ports-from-congestion/"
   }
 ]
