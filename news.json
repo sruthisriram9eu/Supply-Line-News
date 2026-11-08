@@ -1,5 +1,15 @@
 [
   {
+    "headline": "Fuel Surcharges Drive Autumn Intermodal Freight Rates",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-08",
+    "summary": "Intermodal contract rates are experiencing upward pressure this autumn season, primarily driven by rising fuel surcharges rather than base shipping demand. Industry analysts are evaluating whether these elevated freight costs will persist through the remainder of the year as diesel and energy markets fluctuate, impacting overall transportation budgets for shippers utilizing combined rail and truck networks across domestic freight corridors.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven"
+  },
+  {
     "headline": "Major carriers continue enforcement of non-domiciled CDL rules",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Container shipping costs within Asia are retreating from previous peaks as vessel bottlenecks at major Chinese and regional hubs start to resolve. Drewry's regional index recorded a three percent drop, driven by shorter vessel waiting times across several key maritime routes connecting Shanghai to destinations such as South Korea, Vietnam, and India. Additionally, the recent Golden Week holiday period in China contributed to the temporary easing of operational pressures at ports throughout the region.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/"
-  },
-  {
-    "headline": "Motive Unveils Fleet AI Agents for Safety and Maintenance",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "Technology provider Motive has introduced automated software agents designed to manage safety and maintenance alerts for trucking fleets. Unveiled at an industry conference in North Carolina, the new tools operate according to user-defined rules. Functions include contacting drivers directly, generating maintenance work orders, and escalating critical issues to management personnel. The system aims to help transportation operations scale efficiently without increasing headcount by automating routine problem-resolution workflows across their vehicle networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/motive-launches-ai-agents-fleets"
   }
 ]
