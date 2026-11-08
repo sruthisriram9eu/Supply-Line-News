@@ -1,5 +1,15 @@
 [
   {
+    "headline": "US Foreign-Trade Zones Address USMCA Tariff Challenges",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-11-08",
+    "summary": "Advocates are utilizing United States foreign-trade zones to mitigate regulatory tariff challenges stemming from the USMCA trade agreement. Concurrently, regional security measures are expanding with the deployment of National Guard personnel to enhance protection along Mexican transport routes. In addition, manufacturing investments are growing in the border region, highlighted by a major facility expansion project that will create hundreds of new employment positions to support cross-border production capacity.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles"
+  },
+  {
     "headline": "Fuel Surcharges Drive Autumn Intermodal Freight Rates",
     "continent": "North America",
     "country": "United States",
@@ -2988,15 +2998,5 @@
     "summary": "Although container ports along the eastern coast of China are experiencing shorter waiting times and stabilizing operations following earlier storm disruptions, incoming severe weather near Taiwan threatens to reverse these logistical gains. Maritime carriers warn that the approaching storm could halt vessel movements once again, potentially renewing port congestion across the regional supply chain network and stalling recovery efforts for international shipping schedules.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/another-typhoon-threatens-recovery-of-east-asian-ports-from-congestion/"
-  },
-  {
-    "headline": "Intra-Asia Shipping Rates Decline as Port Congestion Eases",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-22",
-    "summary": "Container shipping costs within Asia are retreating from previous peaks as vessel bottlenecks at major Chinese and regional hubs start to resolve. Drewry's regional index recorded a three percent drop, driven by shorter vessel waiting times across several key maritime routes connecting Shanghai to destinations such as South Korea, Vietnam, and India. Additionally, the recent Golden Week holiday period in China contributed to the temporary easing of operational pressures at ports throughout the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/"
   }
 ]
