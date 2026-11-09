@@ -49,6 +49,14 @@ HEADERS = {
 
 PAUSE_SECONDS = 4.5          # keeps us under the free tier's per-minute limit
 MAX_NEWS_ITEMS = 400         # oldest stories drop off past this
+
+# Regional balance: the newest stories from an over-represented region are
+# kept and older ones are dropped, so one region cannot crowd out the others.
+# Raise or lower these numbers any time. Regions not listed have no limit.
+REGION_LIMITS = {
+    "North America": 50,
+    "Global": 60,
+}
 MAX_INNOVATION_ITEMS = 120
 MAX_REJECTED_REMEMBERED = 4000
 
@@ -58,19 +66,19 @@ MAX_REJECTED_REMEMBERED = 4000
 # ---------------------------------------------------------------------------
 NEWS_FEEDS = [
     # Strong Asia coverage
-    ("https://splash247.com/feed/", "Splash247", 8),
-    ("https://container-news.com/feed/", "Container News", 8),
+    ("https://splash247.com/feed/", "Splash247", 12),
+    ("https://container-news.com/feed/", "Container News", 12),
     ("https://www.hellenicshippingnews.com/feed/", "Hellenic Shipping News", 6),
     # Strong Europe coverage
-    ("https://theloadstar.com/feed/", "The Loadstar", 8),
+    ("https://theloadstar.com/feed/", "The Loadstar", 12),
     ("https://www.porttechnology.org/feed/", "Port Technology International", 6),
     ("https://www.railfreight.com/feed/", "RailFreight.com", 6),
     ("https://www.imd.org/ibyimd/tag/manufacturing/feed/", "IMD Business School", 4),
     # Global / North America, kept smaller on purpose
-    ("https://www.supplychaindive.com/feeds/news/", "Supply Chain Dive", 4),
-    ("https://www.freightwaves.com/feed", "FreightWaves", 4),
+    ("https://www.supplychaindive.com/feeds/news/", "Supply Chain Dive", 2),
+    ("https://www.freightwaves.com/feed", "FreightWaves", 2),
     ("https://www.aircargonews.net/feed", "Air Cargo News", 4),
-    ("https://www.scdigest.com/rss/scdigest_headlines.xml", "Supply Chain Digest", 3),
+    ("https://www.scdigest.com/rss/scdigest_headlines.xml", "Supply Chain Digest", 2),
 ]
 
 # ---------------------------------------------------------------------------
@@ -299,6 +307,20 @@ def build_innovation_item(result, entry, feed, link):
     }
 
 
+def apply_region_limits(items, rejected):
+    """Keep the newest stories per region up to REGION_LIMITS; drop the rest."""
+    counts, kept = {}, []
+    for item in sorted(items, key=lambda i: i["date"], reverse=True):
+        region = item.get("continent")
+        limit = REGION_LIMITS.get(region)
+        if limit is not None and counts.get(region, 0) >= limit:
+            rejected.add(item.get("sourceUrl"))   # don't fetch it again later
+            continue
+        counts[region] = counts.get(region, 0) + 1
+        kept.append(item)
+    return kept
+
+
 def merge(existing, new_items, limit):
     combined = new_items + existing
     combined.sort(key=lambda i: i["date"], reverse=True)
@@ -318,13 +340,14 @@ def main():
     new_innovation = run_feeds(INNOVATION_FEEDS, innovation, rejected,
                                INNOVATION_PROMPT, build_innovation_item, "future")
 
-    if new_news:
-        news = merge(news, new_news, MAX_NEWS_ITEMS)
+    before = len(news)
+    news = apply_region_limits(merge(news, new_news, MAX_NEWS_ITEMS), rejected)
+    if new_news or len(news) != before:
         save_json(NEWS_PATH, news)
     if new_innovation or not INNOVATION_PATH.exists():
         innovation = merge(innovation, new_innovation, MAX_INNOVATION_ITEMS)
         save_json(INNOVATION_PATH, innovation)
-    save_json(REJECTED_PATH, sorted(rejected)[-MAX_REJECTED_REMEMBERED:])
+    save_json(REJECTED_PATH, sorted(u for u in rejected if u)[-MAX_REJECTED_REMEMBERED:])
 
     print(f"Done. New news: {len(new_news)} (total {len(news)}). "
           f"New Future Watch: {len(new_innovation)} (total {len(innovation)}).")
