@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Supply Line — Global Supply Chain News</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;0,800;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    /* Soft tinted page with slightly lighter cards: no glare, strong text */
+    --page: #e9e7df;
+    --card: #f8f7f2;
+    --card-hover: #ffffff;
+    --line: #d3d0c4;
+    --ink: #161918;
+    --text: #272b2a;
+    --muted: #565c59;
+    --faint: #6f7571;
+    --accent: #b81218;
+    --accent-soft: #efdad8;
+    --pill-ink: #1f2824;
+
+    /* news topic colors, all dark enough to read on the cards */
+    --c-strategy: #3f5f8a;
+    --c-procurement: #86600a;
+    --c-manufacturing: #84552a;
+    --c-logistics: #1c7350;
+    --c-storage_distribution: #2a6a89;
+    --c-international_relations: #85445d;
+    --c-sustainability: #2e7a3f;
+    --c-crm: #66568f;
+
+    /* Future Watch kinds */
+    --k-research: #66568f;
+    --k-technology: #2a6a89;
+    --k-use_case: #1c7350;
+  }
+
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{
+    margin:0; background:var(--page); color:var(--text);
+    font-family:'Libre Franklin', system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{ color:inherit; }
+  :focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+
+  .wrap{ max-width:1180px; margin:0 auto; padding:0 24px; }
+  .topbar{ height:5px; background:var(--accent); }
+
+  header.masthead{ padding:26px 0 18px; border-bottom:2px solid var(--ink); }
+  .masthead-row{ display:flex; justify-content:space-between; align-items:center; gap:16px; flex-wrap:wrap; }
+  .wordmark{
+    font-family:'Source Serif 4', Georgia, serif; font-weight:700;
+    font-size:clamp(1.9rem, 4.5vw, 2.5rem); letter-spacing:-0.01em; margin:0; line-height:1; color:var(--ink);
+  }
+  .wordmark .bar{ color:var(--accent); }
+  .masthead-right{ display:flex; align-items:center; gap:14px; }
+  .updated{ font-size:0.74rem; color:var(--muted); white-space:nowrap; text-transform:uppercase; letter-spacing:0.06em; }
+
+  .game-btn{
+    appearance:none; border:1px solid var(--ink); background:var(--card); color:var(--ink);
+    font-family:inherit; font-weight:600; font-size:0.83rem; padding:8px 15px; border-radius:2px; cursor:pointer;
+    transition:background .15s ease, color .15s ease;
+  }
+  .game-btn:hover{ background:var(--ink); color:var(--card); }
+
+  .searchbar{ padding:16px 0 14px; }
+  .searchbar input[type="search"]{
+    width:100%; background:var(--card); border:1px solid var(--line); color:var(--ink);
+    font-family:'Source Serif 4', Georgia, serif; font-size:1.05rem; padding:12px 16px; border-radius:2px;
+  }
+  .searchbar input[type="search"]::placeholder{ color:#707672; }
+
+  /* ---------- Tabs ---------- */
+  .tabs{ display:flex; gap:26px; border-bottom:1px solid var(--line); }
+  .tab{
+    appearance:none; background:none; border:none; border-bottom:3px solid transparent; margin-bottom:-1px;
+    font-family:inherit; font-size:0.95rem; font-weight:700; color:var(--muted);
+    padding:10px 2px 11px; cursor:pointer; transition:color .15s ease, border-color .15s ease;
+  }
+  .tab:hover{ color:var(--ink); }
+  .tab.active{ color:var(--ink); border-bottom-color:var(--accent); }
+  .tab-count{ font-weight:500; color:var(--faint); margin-left:5px; font-size:0.8rem; }
+
+  .controls{
+    position:sticky; top:0; z-index:5;
+    background:rgba(233,231,223,0.96); backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line); padding:14px 0;
+  }
+  .control-group{ margin-bottom:10px; }
+  .control-group:last-child{ margin-bottom:0; }
+  .control-label{ font-size:0.68rem; color:var(--muted); margin:0 0 7px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; }
+  .pillrow{ display:flex; flex-wrap:wrap; gap:6px; }
+  .pill{
+    appearance:none; border:1px solid var(--line); background:var(--card);
+    color:var(--text); font-family:inherit; font-size:0.78rem; font-weight:600;
+    padding:6px 13px; border-radius:2px; cursor:pointer;
+    transition:border-color .15s ease, color .15s ease, background .15s ease;
+  }
+  .pill:hover{ border-color:var(--accent); color:var(--accent); background:var(--accent-soft); }
+  .pill.active{ background:var(--pill-ink); border-color:var(--pill-ink); color:#f8f7f2; font-weight:700; }
+  .pill .count{ opacity:0.7; font-weight:500; margin-left:5px; }
+
+  select{
+    background:var(--card); border:1px solid var(--line); color:var(--ink);
+    font-family:inherit; font-size:0.86rem; padding:8px 10px; border-radius:2px; min-width:200px;
+  }
+
+  main{ padding:24px 0 80px; }
+  .result-count{ font-size:0.76rem; color:var(--muted); margin:0 0 16px; text-transform:uppercase; letter-spacing:0.05em; }
+  .intro{ font-family:'Source Serif 4', Georgia, serif; font-size:1.02rem; line-height:1.55; color:var(--text); max-width:70ch; margin:0 0 18px; }
+
+  /* ---------- Magazine grid ---------- */
+  .cards{ display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); gap:16px; }
+  .item{
+    background:var(--card); border:1px solid var(--line); border-radius:3px;
+    padding:0 22px 20px; display:flex; flex-direction:column; transition:background .15s ease;
+  }
+  .item:hover{ background:var(--card-hover); }
+  .item-top{ border-top:4px solid var(--c-logistics); margin:0 -22px 12px; padding:10px 22px 0; }
+  .rubric{ display:block; font-size:0.72rem; font-weight:800; text-transform:uppercase; letter-spacing:0.07em; }
+  .item-meta{
+    display:flex; flex-wrap:wrap; align-items:center; gap:8px;
+    font-size:0.76rem; color:var(--muted); margin:0 0 12px;
+  }
+  .item h2{
+    font-family:'Source Serif 4', Georgia, serif;
+    font-size:1.24rem; line-height:1.3; margin:0 0 10px; font-weight:700; letter-spacing:-0.01em; color:var(--ink);
+  }
+  .item p{
+    font-family:'Source Serif 4', Georgia, serif;
+    font-size:1rem; line-height:1.6; margin:0 0 14px; color:var(--text);
+  }
+  .why{
+    background:#ecebe2; border-left:3px solid var(--k-technology);
+    padding:9px 12px; margin:0 0 14px; font-size:0.88rem; line-height:1.5; color:var(--text);
+  }
+  .why strong{ display:block; font-size:0.68rem; text-transform:uppercase; letter-spacing:0.07em; color:var(--muted); margin-bottom:3px; }
+  .badge{
+    display:inline-block; font-size:0.66rem; font-weight:800; text-transform:uppercase; letter-spacing:0.05em;
+    color:#6b3f00; background:#f1e0bb; padding:2px 7px; border-radius:2px;
+  }
+  .source-link{
+    font-size:0.79rem; font-weight:700; color:var(--accent);
+    text-decoration:none; border-bottom:1px solid var(--accent);
+    text-transform:uppercase; letter-spacing:0.04em; margin-top:auto; align-self:flex-start;
+  }
+  .source-link:hover{ color:var(--ink); border-color:var(--ink); }
+
+  .empty{ text-align:center; padding:60px 20px; color:var(--muted); font-family:'Source Serif 4', Georgia, serif; font-size:1.05rem; }
+
+  footer{ border-top:2px solid var(--ink); padding:22px 0 48px; font-size:0.78rem; color:var(--muted); max-width:72ch; line-height:1.6; }
+
+  /* ---------- Daily game ---------- */
+  .modal-overlay{
+    position:fixed; inset:0; background:rgba(0,0,0,0.5);
+    display:none; align-items:center; justify-content:center; z-index:50; padding:20px;
+  }
+  .modal-overlay.open{ display:flex; }
+  .modal{
+    background:var(--card); border:1px solid var(--line); border-radius:3px; padding:26px 24px 22px;
+    max-width:420px; width:100%; max-height:90vh; overflow-y:auto; box-shadow:0 20px 60px rgba(0,0,0,0.3);
+  }
+  .modal-head{ display:flex; justify-content:space-between; align-items:center; margin-bottom:4px; }
+  .modal-head h3{ margin:0; font-family:'Source Serif 4', Georgia, serif; font-size:1.2rem; font-weight:700; color:var(--ink); }
+  .modal-close{ background:none; border:none; font-size:1.3rem; color:var(--muted); cursor:pointer; line-height:1; padding:4px; }
+  .modal-sub{ font-size:0.85rem; color:var(--muted); margin:0 0 18px; font-family:'Source Serif 4', Georgia, serif; }
+  .grid{ display:grid; grid-template-rows:repeat(6, 1fr); gap:6px; margin-bottom:18px; }
+  .grid-row{ display:grid; grid-template-columns:repeat(5, 1fr); gap:6px; }
+  .tile{
+    aspect-ratio:1; border:2px solid var(--line); border-radius:2px;
+    display:flex; align-items:center; justify-content:center;
+    font-weight:700; font-size:1.3rem; text-transform:uppercase; color:var(--ink);
+    background:var(--card); transition:transform .15s ease;
+  }
+  .tile.filled{ border-color:var(--faint); }
+  .tile.correct{ background:var(--c-logistics); border-color:var(--c-logistics); color:#fff; }
+  .tile.present{ background:var(--accent); border-color:var(--accent); color:#fff; }
+  .tile.absent{ background:#d4d0c3; border-color:#d4d0c3; color:#5f5b50; }
+  .keyboard{ display:flex; flex-direction:column; gap:6px; }
+  .kb-row{ display:flex; gap:5px; justify-content:center; }
+  .key{
+    appearance:none; border:none; border-radius:2px; background:#e3e0d5;
+    color:var(--ink); font-family:inherit; font-weight:600; font-size:0.78rem;
+    padding:11px 0; flex:1; min-width:0; cursor:pointer; text-transform:uppercase;
+  }
+  .key:hover{ background:var(--ink); color:#fff; }
+  .key.wide{ flex:1.6; font-size:0.68rem; }
+  .key.correct{ background:var(--c-logistics); color:#fff; }
+  .key.present{ background:var(--accent); color:#fff; }
+  .key.absent{ background:#d4d0c3; color:#5f5b50; }
+  .game-msg{ text-align:center; font-size:0.9rem; font-weight:600; margin:0 0 14px; min-height:1.3em; color:var(--accent); }
+
+  @media (max-width:640px){
+    .wrap{ padding:0 16px; }
+    .cards{ grid-template-columns:1fr; }
+    .tabs{ gap:18px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar"></div>
+
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <h1 class="wordmark">Supply <span class="bar">Line</span></h1>
+    <div class="masthead-right">
+      <span class="updated" id="updatedLabel">Loading…</span>
+      <button class="game-btn" id="openGame">🎮 Today's word</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="searchbar">
+    <input type="search" id="searchInput" placeholder="Search headlines and summaries…">
+  </div>
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-view="news">Latest news<span class="tab-count" id="newsTabCount"></span></button>
+    <button class="tab" data-view="future">Future Watch<span class="tab-count" id="futureTabCount"></span></button>
+  </nav>
+</div>
+
+<div class="controls" id="newsControls">
+  <div class="wrap">
+    <div class="control-group">
+      <p class="control-label">Region</p>
+      <div class="pillrow" id="continentRow"></div>
+    </div>
+    <div class="control-group">
+      <p class="control-label">Topic</p>
+      <div class="pillrow" id="categoryRow"></div>
+    </div>
+    <div class="control-group">
+      <select id="countrySelect"></select>
+    </div>
+  </div>
+</div>
+
+<div class="controls" id="futureControls" style="display:none;">
+  <div class="wrap">
+    <div class="control-group">
+      <p class="control-label">Type</p>
+      <div class="pillrow" id="kindRow"></div>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <p class="intro" id="futureIntro" style="display:none;">Research, new technology and real-world use cases that could shape where supply chains go next. Items marked “Preprint” are research papers that have not yet been peer reviewed, so treat them as early signals rather than settled findings.</p>
+  <p class="result-count" id="resultCount"></p>
+  <div class="cards" id="feed"></div>
+  <div class="empty" id="emptyState" style="display:none;"></div>
+</main>
+
+<footer class="wrap">
+  Stories are pulled from public supply chain news feeds and rewritten by AI into short, sourced summaries. Every summary links back to the original article, which is where the full story lives. AI can make mistakes, so check the source before relying on a detail.
+</footer>
+
+<div class="modal-overlay" id="gameOverlay">
+  <div class="modal">
+    <div class="modal-head">
+      <h3>Today's word</h3>
+      <button class="modal-close" id="closeGame" aria-label="Close">✕</button>
+    </div>
+    <p class="modal-sub">A 5-letter supply chain term. New word every day.</p>
+    <p class="game-msg" id="gameMsg">&nbsp;</p>
+    <div class="grid" id="grid"></div>
+    <div class="keyboard" id="keyboard"></div>
+  </div>
+</div>
+
+<script data-goatcounter="https://supply-line-news.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+<script src="app.js"></script>
+<script src="game.js"></script>
+</body>
+</html>
