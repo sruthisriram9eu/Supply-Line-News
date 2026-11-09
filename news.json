@@ -1,5 +1,285 @@
 [
   {
+    "headline": "COSCO Shipping Launches Massive $1.42B Supertanker Expansion",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Chinese maritime giant COSCO Shipping Energy Transportation has announced a major fleet expansion project involving twenty-four Very Large Crude Carriers. The initiative includes direct contracts for ten new supertankers valued at approximately $1.42 billion, alongside fourteen additional vessels secured via long-term bareboat charter agreements. This extensive capital investment highlights the company's aggressive strategy to scale up its global energy transport capabilities and modernize its marine logistics fleet.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/"
+  },
+  {
+    "headline": "Regional Container Lines Expands Fleet With $213M Vessel Order",
+    "continent": "Asia",
+    "country": "Thailand",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Thailand-based Regional Container Lines has invested approximately $213 million to acquire two new neo-panamax containerships. Each vessel, featuring a capacity of 9,200 TEU, is valued at about $106.5 million. The expansion of the carrier's newbuilding program reflects ongoing fleet growth and capacity planning, with the delivery of the two ships scheduled for 2030 and 2031.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/"
+  },
+  {
+    "headline": "PowerChina Secures Three Offshore Wind Engineering Deals",
+    "continent": "Asia",
+    "country": "China",
+    "category": "manufacturing",
+    "date": "2026-11-09",
+    "summary": "PowerChina's East China Engineering Institute has won three survey and engineering design contracts for offshore wind developments in China. Valued at a combined 124.23 million yuan, the agreements encompass the 308-megawatt China Resources Xiangshui project in Jiangsu, the 302.4-megawatt China Resources Daishan development in Zhejiang, and CGN New Energy's 396-megawatt Shengsi initiative. These awards highlight ongoing infrastructure investments within the domestic renewable energy supply chain and engineering sector.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/powerchina-picks-up-trio-of-offshore-wind-contracts/"
+  },
+  {
+    "headline": "Sinopec awards offshore platform and pipeline contract",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-09",
+    "summary": "Chinese energy company Sinopec has issued an engineering, procurement, and construction contract for the Weizhou oilfield expansion located in the Beibu Gulf. The project scope includes the construction of a new offshore processing facility, along with associated subsea pipelines and fibre-optic cables. The contract was secured by a joint venture consisting of Sinopec Petroleum Engineering Design and Sinopec Shengli Oil Construction. This initiative encompasses detailed engineering and procurement operations to support regional energy production infrastructure.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/sinopec-awards-offshore-platform-and-pipeline-contract-in-china/"
+  },
+  {
+    "headline": "A.E. Nomikos orders new kamsarmax vessel from Oshima",
+    "continent": "Europe",
+    "country": "Greece",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Greek dry bulk shipping operator A.E. Nomikos Shipping Investments has contracted Japan-based Oshima Shipbuilding for a new kamsarmax vessel, with brokerage involvement from Sumisho Marine. The agreement advances the Piraeus-headquartered company's ongoing fleet modernization strategy. Delivery of the newly ordered bulk carrier is anticipated by the end of the decade, strengthening the firm's dry cargo transport capabilities as part of its long-term asset management initiatives.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/a-e-nomikos-adds-oshima-kamsarmax-to-fleet-renewal-drive/"
+  },
+  {
+    "headline": "A2B-online orders two methanol-ready container vessels in China",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Dutch shortsea container operator A2B-online has contracted China Merchants Industry Weihai Shipyard to build two additional methanol-capable boxships, expanding its ongoing fleet renewal initiative to a total of four vessels. This new agreement represents a shift in construction location for the company, following its initial order of two similar ships at a Turkish shipyard in the previous year. The newly commissioned vessels will be equipped with multi-fuel methanol propulsion systems to support lower-emission maritime transport operations.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/a2b-online-turns-to-china-for-methanol-ready-boxship-pair/"
+  },
+  {
+    "headline": "Boluda Acquires Dutch Towage Firm Muller Dordrecht",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Spanish maritime towage leader Boluda has completed the acquisition of Dutch offshore towage and heavy transport provider Muller Dordrecht, securing full ownership of the family-run enterprise. The deal integrates 16 tugboats and eight barges into the acquirer's international operations, expanding its capacity for complex maritime transport, rig relocations, anchor handling, and support for offshore wind energy projects. This strategic expansion strengthens Boluda's footprint in the European maritime logistics and offshore support sector.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/"
+  },
+  {
+    "headline": "Gulftainer launches Fujairah-Sharjah bonded logistics corridor",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "storage_distribution",
+    "date": "2026-11-09",
+    "summary": "Gulftainer has established a new bonded logistics route connecting the Fujairah Terminal to Sharjah Dry Ports located in Sajaa, United Arab Emirates. This service facilitates the movement of freight under a customs bond between the two facilities, enabling customs clearance to be performed at the destination. The initiative is intended to streamline inland cargo transportation and expand routing alternatives for shippers operating within the region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/gulftainer-launches-bonded-corridor-linking-fujairah-and-sharjah/"
+  },
+  {
+    "headline": "Global Container Fleet Capacity Set to Surge by 2030",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Analysis from Sea-Intelligence indicates that the global container fleet is expanding at an unprecedented rate. Total capacity is projected to increase from 34 million TEU to 40 million TEU by the middle of 2028, and further accelerate to reach 50 million TEU by the third quarter of 2030. This significant influx of new vessels is anticipated to create a container glut, which is expected to alter the balance of power within the maritime shipping industry.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/how-the-container-glut-will-reshape-shippings-balance-of-power/"
+  },
+  {
+    "headline": "MSC Baltic III wreck removal reaches final stage",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Salvage operations to clear the grounded container vessel MSC Baltic III from Cedar Cove in Newfoundland and Labrador have achieved 84% completion. The Canadian Coast Guard reported that dismantle work is entering its final phases, with approximately 9,282 tonnes of material removed so far. The ship's bow section has been entirely brought ashore and dismantled as the cleanup project progresses toward a conclusion.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/msc-baltic-iii-wreck-removal-reaches-84/"
+  },
+  {
+    "headline": "SOHAR Freezone Secures Six New Investment Agreements",
+    "continent": "Middle East",
+    "country": "Oman",
+    "category": "storage_distribution",
+    "date": "2026-11-09",
+    "summary": "SOHAR Freezone has finalized six land-lease agreements representing over $163 million in planned investments across 440,000 square meters. The deals encompass various sectors, including automotive and advanced industries, transformer manufacturing, medical devices, textile reuse, and specialized logistics operations. These developments aim to expand the industrial and logistics footprint within the region, bolstering manufacturing capabilities and specialized supply chain infrastructure to attract further commercial growth and economic diversification.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/sohar-freezone-signs-six-land-lease-agreements/"
+  },
+  {
+    "headline": "chainPORT annual meeting addresses scaling AI in port operations",
+    "continent": "Africa",
+    "country": "Morocco",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Delegates from major global ports convened in Tangier for the eleventh annual chainPORT meeting to discuss the transition of artificial intelligence from experimental pilots to fully scaled deployment within port ecosystems. Hosted by Tanger Med, the gathering brought together representatives from international hubs including Los Angeles, Singapore, Rotterdam, Shanghai, and Hamburg to collaborate on digital transformation strategies, operational efficiency improvements, and the practical implementation of emerging technologies across worldwide maritime distribution networks.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/chainport-focuses-on-moving-ai-from-pilot-projects-to-scaled-port-deployment/"
+  },
+  {
+    "headline": "Sharjah Dry Ports Rebrands and Sets TEU Record",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "storage_distribution",
+    "date": "2026-11-09",
+    "summary": "Gulftainer has renamed its key inland facility in Sajaa to Sharjah Dry Ports to better highlight its expanded function as a primary trade gateway for the Northern Emirates. The logistics hub connects regional manufacturing zones and distribution centers with major regional trade corridors, providing essential last-mile transport links to Sharjah and Khorfakkan Port. Alongside the rebranding, the facility achieved a milestone by handling a record volume of twenty-foot equivalent units in a single month, demonstrating strong regional cargo demand.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/sharjah-dry-ports-reports-record-teus-in-a-single-month/"
+  },
+  {
+    "headline": "Lloyd's Register and MAWANI partner on Saudi port development",
+    "continent": "Middle East",
+    "country": "Saudi Arabia",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Lloyd's Register and the Saudi Ports Authority have established a three-year memorandum of understanding to advance the nation's maritime infrastructure and port operations. The partnership targets key areas including digitalization, sustainability practices, safety standards, and workforce development. By combining expertise, the organizations aim to optimize port management capabilities and enhance maritime services throughout the region over the coming years.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/lloyds-register-and-mawani-sign-agreement-on-saudi-port-development/"
+  },
+  {
+    "headline": "Maersk Invests in 26 New Ships to Expand Corridor Coverage",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Ocean carrier Maersk has announced a significant investment in twenty-six new vessels, translating recent earnings from a turbulent market into long-term infrastructure. This strategic fleet expansion is designed to secure capacity across multiple trade routes, ensuring the shipping group can maintain robust operations and outlast ongoing disruptions in the global maritime transport network.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/explainer-maersks-bet-on-every-corridor/"
+  },
+  {
+    "headline": "VIKING secures contract to build patrol vessels for Greece",
+    "continent": "Europe",
+    "country": "Greece",
+    "category": "manufacturing",
+    "date": "2026-11-09",
+    "summary": "VIKING Life-Saving Equipment has finalized a €23.8 million agreement via its Greek subsidiary to construct seven high-speed patrol vessels for the Hellenic Coast Guard. The deal was officially formalized during a ceremony hosted at the Ministry of Maritime Affairs and Insular Policy in Athens, featuring the participation of Maritime Affairs Minister Vassilis Kikilias. This manufacturing initiative will bolster the operational fleet of the Hellenic Coast Guard, highlighting a notable defense and maritime manufacturing engagement within the European region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/viking-wins-e23-8-million-contract-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/"
+  },
+  {
+    "headline": "Ocean Network Express Appoints New Agent in Syria",
+    "continent": "Middle East",
+    "country": "Syria",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Ocean Network Express has named Seanautics Maritime Services LLC as its official agent in Syria to address rising regional demand and expand coverage in the Levant. This move extends an existing partnership between the two companies from Lebanon into the Syrian market. The newly appointed agent operates offices in Damascus and Latakia, strengthening regional logistics networks and enhancing maritime service capabilities for shipping operations across the country.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/one-extends-presence-in-the-levant-region-with-new-agency-appointment-in-syria/"
+  },
+  {
+    "headline": "US military strikes cargo ship breaching Iran blockade",
+    "continent": "Middle East",
+    "country": "Iran",
+    "category": "international_relations",
+    "date": "2026-11-09",
+    "summary": "The United States military targeted a commercial cargo vessel using precision munitions after the ship attempted to exit regional waters following a visit to an Iranian port. The incident occurred as part of an enforcement action involving a naval blockade. The strike impacted the stern of the vessel, marking a significant escalation in maritime security operations and commercial shipping risks within the critical Middle Eastern trade corridor, which is vital for international logistics and energy transport.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/iran-us-strikes-ship-after-hormuz-blockade-breach/"
+  },
+  {
+    "headline": "China Iron Ore Futures Consolidate Amid Rising Port Arrivals",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-09",
+    "summary": "Iron ore futures showed little movement, closing nearly flat as the market consolidated following recent highs. Data revealed a significant thirty percent month-over-month increase in arrivals at ports, yet spot prices at Qingdao Port experienced a slight average decline. Trading activity among intermediaries remained moderate, and inquiries from steel mills were constrained, leading to subdued overall transaction volumes in the spot market as buyers assessed current inventory levels and pricing trends.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/china-arrivals-up-30-mom-iron-ore-futures-move-sideways-and-consolidate-at-highs/"
+  },
+  {
+    "headline": "Red Sea ports process 10000 tons of cargo and vehicles",
+    "continent": "Africa",
+    "country": "Egypt",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The Red Sea Ports Authority reported a daily volume of 10,000 tons of general and miscellaneous cargo, alongside 500 trucks and 120 cars, handled across its regional facilities. Operational traffic for the day involved ten arriving and departing vessels, in addition to processing 965 passengers traveling through the port network.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/red-sea-ports-handle-10000-tons-of-general-miscellaneous-cargo/"
+  },
+  {
+    "headline": "Baltic Dry Index Rises to 2854 Points",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The Baltic Dry Index advanced by 49 points to reach 2854 points. Compiled daily by the London-based Baltic Exchange through a global survey of agents, the benchmark tracks shipping costs for major dry bulk commodities, including coal, grain, and iron ore. This movement reflects shifts in global maritime freight pricing and demand for raw materials across international shipping routes.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2854-up-49-points/"
+  },
+  {
+    "headline": "HMM Platinum declares general average following vessel fire",
+    "continent": "Africa",
+    "country": "South Africa",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The carrier of the container ship HMM Platinum has declared general average after a fire broke out onboard, creating significant complications for cargo owners. The 5,593 teu vessel has remained anchored off the coast of South Africa for a month while the operator continues to search for an appropriate port of refuge. Specialized adjusters and surveyors have been designated to manage the complex financial and cargo claims process, compounding ongoing supply chain disruptions for shippers relying on this route.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/hmm-platinum-general-average-adds-to-cargo-woes-as-search-for-refuge-drags-on/"
+  },
+  {
+    "headline": "Bangkok cargo warehouse congestion disrupts regional freight",
+    "continent": "Asia",
+    "country": "Thailand",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "A severe cargo backlog at Bangkok Suvarnabhumi airport is disrupting both inbound and outbound shipments, leading carriers to limit freight bound for the location. Thousands of cargo lots and pallets remain unprocessed at the facility, causing delays across supply chains. Airport authorities have designated an additional warehouse zone to handle oversized freight, though official confirmation regarding the full extent of the disruption or a timeline for recovery has not been provided by the primary handlers.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/bangkok-cargo-backlog-spreads-to-exports-as-airlines-restrict-inbound-freight/"
+  },
+  {
+    "headline": "Zipline Raises $1.5B for US Drone Network Expansion",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Delivery startup Zipline has secured $1.5 billion in new funding to support the nationwide expansion of its automated drone logistics network. The company plans to scale its domestic manufacturing operations to meet rising demand. Recent agreements with major retail and delivery partners, including Walmart and Uber, will facilitate the rollout of new drone fulfillment sites across the country, further integrating aerial delivery into last-mile supply chain operations.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/"
+  },
+  {
+    "headline": "Cosco Reports 81% Profit Surge on Strong Q3 Ocean Freight Revenue",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Cosco experienced a significant 81 percent surge in profit during the third quarter, driven by robust ocean freight revenues bolstered by stronger trans-Pacific trade volumes. Despite these strong financial results for the first nine months of the year, ongoing geopolitical disruptions continue to create uncertainty regarding the company's future market outlook.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cosco-profit-rockets-81-as-ocean-freight-revenue-climbs-in-q3"
+  },
+  {
+    "headline": "Asia-U.S. West Coast Container Rates Surge 343% Amid Conflict",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Ocean container spot rates from Asia to the U.S. West Coast have experienced a massive 343% increase since the onset of the conflict involving Iran. Market analysts note that while the introduction of new vessels and potential normalization of Red Sea shipping routes could eventually alleviate high freight expenses, ongoing geopolitical instability and low schedule reliability continue to pose significant risks to maritime supply chain stability and outlooks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/asia-u-s-west-coast-ocean-container-spot-rates-up-343-since-start-of-iran-war-says-xeneta"
+  },
+  {
+    "headline": "DHL reports Q3 profit growth driven by air cargo demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "DHL Group experienced a significant financial boost during the third quarter, registering a sixteen percent increase in overall profits. The strong quarterly performance was primarily propelled by the robust contribution of the company's air cargo operations, reflecting continued positive momentum in global logistics and freight markets. These financial results highlight the ongoing strength of air transport sectors within major international shipping and delivery networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dhl-calls-out-air-cargo-contribution-to-16-q3-profit-gain"
+  },
+  {
+    "headline": "Bangkok Airport IT Outage Causes Air Cargo Backlog",
+    "continent": "Asia",
+    "country": "Thailand",
+    "category": "storage_distribution",
+    "date": "2026-11-09",
+    "summary": "An unforeseen technical failure affecting multiple warehouse systems at Bangkok's main airport has led to severe disruptions in the local air logistics network. Freight forwarders are experiencing significant bottlenecks and operational delays as cargo processing slows down. The incident highlights vulnerabilities in airport-level digital infrastructure and the immediate impact of software malfunctions on time-sensitive supply chains.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/bangkok-airport-cargo-congestion-frustrates-freight-forwarders"
+  },
+  {
     "headline": "Chili's Supply Chain Overhaul Drives Menu Consistency",
     "continent": "North America",
     "country": "United States",
@@ -2998,5 +3278,35 @@
     "summary": "Freight software platform SONAR has introduced expanded data tools for logistics operators, including insights into secondary routing guide rates and what shippers pay carriers when initial freight tenders are rejected. Additionally, the platform has upgraded its SearchCarriers feature to include enhanced watchlist and alert capabilities. These additions aim to provide supply chain professionals with deeper visibility into market pricing dynamics and carrier performance tracking across freight networks.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/sonar-launches-new-routing-guide-and-contract-rate-data-plus-expanded-searchcarriers-monitoring"
+  },
+  {
+    "headline": "How Manufacturing Leaders Drive Success Through AI Maturity",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2025-08-09",
+    "summary": "Artificial intelligence adoption provides industrial firms with a competitive advantage by fundamentally reshaping infrastructure, day-to-day operations, organizational governance, and workforce talent strategies. Leading companies successfully integrating advanced technologies are demonstrating how systematic digital transformation optimizes processes across the entire manufacturing sector. These organizations offer key insights into building robust digital capabilities that enhance overall operational efficiency and strategic resilience.",
+    "sourceName": "IMD Business School",
+    "sourceUrl": "https://www.imd.org/ibyimd/artificial-intelligence/ai-maturity-in-manufacturing-lessons-from-the-most-successful-firms/"
+  },
+  {
+    "headline": "G7 Leaders Set to Issue Critique of Chinese Trade Practices",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2024-06-13",
+    "summary": "During the upcoming summit, leaders from the Group of Seven nations are preparing to release a sharp critique targeting China's international trade practices. Analysts suggest that despite the strong rhetoric, the diplomatic warnings will likely lack substantive enforcement measures or immediate policy shifts. The discussions highlight ongoing geopolitical tensions surrounding global trade routes, manufacturing dominance, and market access, while emphasizing the complex economic interdependence between Western economies and Chinese industrial supply chains.",
+    "sourceName": "IMD Business School",
+    "sourceUrl": "https://www.imd.org/ibyimd/competitiveness/the-g7-gangs-up-on-china/"
+  },
+  {
+    "headline": "Lionheart Agrotech pioneers sustainable coconut farming",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2024-03-19",
+    "summary": "Agribusiness firm Lionheart Agrotech is transforming the coconut farming sector by implementing environmentally and socially sustainable practices. The company's innovative root-and-branch approach serves as a blueprint for improving agricultural supply chains, focusing on ecological responsibility and social equity from production to market. This operational model highlights key lessons for integrating sustainability into upstream agricultural sourcing and production networks, addressing growing consumer and regulatory demands for responsible farming methods.",
+    "sourceName": "IMD Business School",
+    "sourceUrl": "https://www.imd.org/ibyimd/management/root-and-branch-how-lionheart-agrotech-is-changing-agribusiness-from-the-ground-up/"
   }
 ]
