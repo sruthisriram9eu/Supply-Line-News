@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Global Shipbuilding Crunch Highlights US and China Capacity Gap",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-11-09",
+    "summary": "The global shipbuilding orderbook has expanded to three and a half times its size from 2020, while overall shipyard capacity has experienced a growth of only thirty percent. This massive disparity has created a looming delivery crunch that underscores the differing maritime strategies between the United States and China, highlighting structural challenges in meeting surging demand for commercial and strategic vessels within existing yard limitations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/why-the-coming-shipbuilding-delivery-crunch-favors-chinas-strategy-over-americas/"
+  },
+  {
+    "headline": "LNG Shipping Rates Rise on Increased Eastern Fixing Activity",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The liquefied natural gas shipping market strengthened over the week due to elevated fixing activity east of Suez, which tightened available vessel capacity. Meanwhile, the Atlantic basin experienced a modest recovery in spot rates despite restrained cargo demand and an ongoing heavy tonnage list that capped further market gains. Specific regional metrics, such as the Australia-Japan route, registered notable week-on-week rate increases as maritime logistics adjust to regional demand shifts.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/lng-shipping-market-posts-weekly-gains/"
+  },
+  {
+    "headline": "Black Sea Grain Exports Face Severe Backlogs and Disruptions",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-09",
+    "summary": "Grain markets face mounting pressures as Black Sea export routes experience significant bottlenecks. Ships remain anchored offshore while waiting to access the Danube for loading, severely limiting agricultural shipments from key Ukrainian ports. These ongoing regional transit challenges are forcing global importers to adapt their supply chains and shift routing strategies. At the same time, environmental factors such as El Nino are adding further complexity to international grain distribution networks and trade flows.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-routes-importer-shifts-and-el-nino-test-grain-markets/"
+  },
+  {
+    "headline": "Ports group urges updates to global maritime security code",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-09",
+    "summary": "Industry representatives have urged the International Maritime Organization to overhaul its primary maritime security framework. The push comes as escalating attacks on commercial vessels and evolving technological vulnerabilities reveal significant weaknesses in international regulations that have remained largely unaltered for over twenty years, highlighting the urgent need for enhanced protective measures across global shipping routes.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/imo-faces-calls-to-enhance-maritime-security-code-amid-rising-threats/"
+  },
+  {
+    "headline": "Maersk Updates Asia-Europe Gemini Network for November 2026",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Maersk has announced upcoming enhancements to its Gemini network, introducing new port coverage and routing options for Asia-Europe trade lanes. Scheduled to take effect in November, these adjustments aim to optimize supply chain connectivity across key European and Mediterranean gateway ports, providing shippers with alternative routing solutions and improved schedule reliability for regional cargo movements.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/maersk-asia-pacific-market-update-november-2026/"
+  },
+  {
+    "headline": "Xeneta Unveils AI-Powered Freight Tender and Transshipment Tools",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Xeneta introduced a major suite of artificial intelligence capabilities during its annual summit in Munich, aiming to transform freight procurement and market visibility. The platform updates feature an AI tender product, an MCP connector, enhanced air freight tools, and the sector's initial visibility into transshipment operations. Designed for shippers, carriers, and forwarders, the innovations seek to improve supply chain decision-making by delivering advanced data insights for global ocean and air transportation networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/xeneta-announces-new-ai-native-capabilities-with-a-tender-product-and-an-mcp-connector-new-air-and-the-industrys-first-view-of-transshipment/"
+  },
+  {
+    "headline": "HD Korea Shipbuilding Secures African Order for Two LNGCs",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "manufacturing",
+    "date": "2026-11-09",
+    "summary": "HD Korea Shipbuilding and Offshore Engineering secured a contract valued at over 600 billion South Korean won to construct two liquefied natural gas carriers. The vessels will be built by its subsidiary, HD Hyundai, following an agreement finalized with an undisclosed shipping enterprise located in the African region. This commercial maritime manufacturing deal highlights ongoing global demand for specialized gas transport vessels and reinforces the shipbuilder's position within international maritime supply chains.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/hd-korea-shipbuilding-offshore-engineering-receives-order-for-lngc-duo/"
+  },
+  {
+    "headline": "SONAR Expands National Insights Dashboard With LTL and Flatbed Data",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The logistics intelligence platform has updated its Truckload National Insights dashboard to incorporate blended datasets, introducing dedicated tabs for less-than-truckload and flatbed shipping modes. Users can now access critical market metrics including rates, tender rejections, freight volumes, and key market movers across these expanded transportation sectors, enhancing visibility into broader domestic freight trends and capacity shifts.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/sonar-national-insights-expands-with-flatbed-and-ltl-data"
+  },
+  {
     "headline": "COSCO Shipping Launches Massive $1.42B Supertanker Expansion",
     "continent": "Asia",
     "country": "China",
@@ -420,6 +500,16 @@
     "sourceUrl": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report"
   },
   {
+    "headline": "Union Pacific CEO claims leaked video rate threat was a joke",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-06",
+    "summary": "The leader of a major North American railroad network clarified that a controversial recorded statement regarding potential freight rate increases for shippers was intended as a joke. The leaked footage sparked concern among logistics customers and industry observers who rely on the carrier for rail freight transportation. The executive defended the remark while addressing the fallout from the circulating video.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat"
+  },
+  {
     "headline": "North America Container Imports Jump 9% Amid Rising Freight Costs",
     "continent": "North America",
     "country": "United States",
@@ -638,6 +728,16 @@
     "summary": "Hong Kong transport authorities are examining permit fees levied on river trade vessels to preserve the port's competitive standing against nearby mainland Chinese facilities in Shenzhen and Guangzhou. These domestic vessels transport containers through the Pearl River Delta to Hong Kong terminals for subsequent transfer onto ocean-going vessels. The fee assessment comes in response to regional pressures as rival mainland ports increasingly attract cargo traffic away from the territory.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/hong-kong-reviews-river-fees-as-mainland-ports-lure-cargo-away/"
+  },
+  {
+    "headline": "Super El Niño tests enterprise freight preparedness",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-05",
+    "summary": "Severe winter weather driven by a strong El Niño is highlighting the gap between reactive freight operations and those with proactive network planning. Many companies still rely on broad, generalized storm warnings rather than granular visibility into specific vulnerable lanes, distribution centers, and customer delivery commitments. This lack of predictive planning exposes supply chains to unexpected disruptions and fulfillment delays as winter conditions intensify across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/a-super-el-nino-is-about-to-test-which-freight-enterprises-plan-for-impact-and-which-only-react"
   },
   {
     "headline": "Transporting the US Capitol Christmas Tree 2,000 Miles",

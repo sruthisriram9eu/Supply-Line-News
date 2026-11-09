@@ -120,6 +120,18 @@
     "sourceUrl": "https://arxiv.org/abs/2611.01329v1"
   },
   {
+    "headline": "Waymo partners with Toyota to test robotaxis in Japan and UK",
+    "continent": "Asia",
+    "country": "Japan",
+    "kind": "use_case",
+    "status": "news",
+    "date": "2026-10-30",
+    "summary": "Autonomous vehicle developer Waymo has teamed up with Toyota to test self-driving versions of the automaker's electric bZ4X vehicles. Testing is scheduled to begin in Japan next year as part of a broader partnership between the two companies, which will also eventually extend to the United Kingdom.",
+    "whyItMatters": "This early-stage vehicle testing partnership could eventually expand autonomous passenger transport and delivery fleet options into new international markets.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+  },
+  {
     "headline": "How supply chains face a Kessler syndrome of cascading failures",
     "continent": "Middle East",
     "country": "Multiple",
