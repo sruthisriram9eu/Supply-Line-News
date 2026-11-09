@@ -1,108 +1,206 @@
 """
-Supply Line — fetch & summarize pipeline.
+Supply Line - fetch & summarize pipeline (version 3).
 
-What this does, step by step:
-  1. Reads a list of RSS feeds (FEEDS below) from real supply chain news sites.
-  2. Skips any article already saved (matched by its URL).
-  3. Sends new article titles/snippets to Claude, asking it to:
-       - decide if it's really supply-chain relevant, and if not, skip it
-       - rewrite it into a 60-100 word paragraph in Claude's own words
-       - tag it with one of the 8 categories and a continent/country
-  4. Saves everything to data/news.json, newest first, capped at MAX_ITEMS.
+What this does on every scheduled run:
+  1. NEWS: reads supply chain news feeds (RSS), asks Gemini to judge relevance,
+     rewrite each story in 60-100 words, and tag category / continent / country.
+     Saved to news.json.
+  2. FUTURE WATCH: reads technology and research feeds (including recent
+     supply chain papers from arXiv) and saves short plain-language write-ups,
+     each with a "why it matters" line. Saved to innovation.json.
+  3. REMEMBERS articles it already rejected (rejected.json) so it does not
+     spend free-tier quota re-judging the same off-topic articles every run.
 
-You should not need to edit this file to get started. The one thing you
-WILL want to do over time is add more feeds to the FEEDS list below —
-just copy the pattern of an existing line.
-
-This version uses Google's Gemini API, which has a real, ongoing free tier
-(no credit card, no trial that runs out) — see the README for how to get
-a free key. If you'd rather use Anthropic's Claude API instead, the
-call_llm() function below is the only thing you'd need to swap out.
+To add a source, add one line to NEWS_FEEDS or INNOVATION_FEEDS below.
+Each run prints a line per feed, so open the Actions log to see which feeds
+work. A feed that prints "[warn] 0 entries" has a wrong address or is
+blocking us.
 
 Environment variable required: GEMINI_API_KEY
 """
 
 import os
 import re
+import sys
 import json
 import time
-import hashlib
+import html
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 import feedparser
 
-# ---------------------------------------------------------------------------
-# 1. CONFIG — feel free to add/remove feeds here. Each is (rss_url, display_name).
-# Only add feeds you've confirmed are public RSS feeds meant for subscribing.
-# ---------------------------------------------------------------------------
-FEEDS = [
-    ("https://www.supplychaindive.com/feeds/news/", "Supply Chain Dive"),
-    ("https://www.freightwaves.com/feed", "FreightWaves"),
-    ("https://www.aircargonews.net/feed", "Air Cargo News"),
-    ("https://theloadstar.com/feed/", "The Loadstar"),
-    ("https://www.scdigest.com/rss/scdigest_headlines.xml", "Supply Chain Digest"),
-    ("https://www.imd.org/ibyimd/tag/manufacturing/feed/", "IMD Business School"),
-]
+HERE = Path(__file__).resolve().parent
+NEWS_PATH = HERE / "news.json"
+INNOVATION_PATH = HERE / "innovation.json"
+REJECTED_PATH = HERE / "rejected.json"
 
-MAX_NEW_PER_FEED_PER_RUN = 10   # keeps this comfortably inside the free daily quota
-MAX_ITEMS_TOTAL = 300          # oldest stories drop off past this
-DATA_PATH = Path(__file__).resolve().parent / "news.json" 
-
-CATEGORIES = [
-    "strategy", "procurement", "manufacturing", "logistics",
-    "storage_distribution", "international_relations", "sustainability", "crm"
-]
-
-# Gemini 2.5 Flash-Lite is the most generous free-tier model as of when this
-# was written (roughly 15 requests/minute, 1000/day, no billing required).
-# If Google renames or retires it, check https://aistudio.google.com for the
-# current free-tier model list and update the line below.
+# "-latest" is a Google-maintained alias, so this keeps working when Google
+# retires specific model versions.
 MODEL = "gemini-flash-lite-latest"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 API_KEY = os.environ.get("GEMINI_API_KEY")
 
-SYSTEM_PROMPT = f"""You are helping build a supply chain news aggregator.
-You will be given an article's title and a short snippet/description.
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; SupplyLineBot/1.0; "
+                  "+https://sruthisriram9eu.github.io/Supply-Line-News/)"
+}
 
-Decide first whether this article is genuinely about supply chain management —
-topics like strategy, procurement/sourcing, manufacturing/lean, logistics/freight,
-warehousing/distribution, international trade/tariffs/geopolitics affecting trade,
-sustainability in supply chains, or customer-facing supply chain operations.
-If it is NOT (e.g. it's a podcast recap, a generic company ad, an event listing,
-a listicle with no news content, or off-topic), respond with exactly: {{"skip": true}}
+PAUSE_SECONDS = 4.5          # keeps us under the free tier's per-minute limit
+MAX_NEWS_ITEMS = 400         # oldest stories drop off past this
+MAX_INNOVATION_ITEMS = 120
+MAX_REJECTED_REMEMBERED = 4000
 
-If it IS relevant, respond with ONLY a JSON object, no markdown fences, no preamble:
-{{
-  "headline": "a clear, specific headline, rewritten in your own words, under 90 characters",
-  "summary": "60 to 100 words, fully in your own words (never copy phrasing from the source), factual, neutral tone, no marketing language",
-  "category": "one of: {', '.join(CATEGORIES)}",
-  "continent": "one of: North America, South America, Europe, Asia, Middle East, Africa, Oceania, Global",
-  "country": "the single most relevant country name, or 'Multiple' if it's not country-specific"
-}}
+# ---------------------------------------------------------------------------
+# NEWS FEEDS: (rss_address, display_name, max_new_stories_per_run)
+# The per-run number is how Asia and Europe get more room than North America.
+# ---------------------------------------------------------------------------
+NEWS_FEEDS = [
+    # Strong Asia coverage
+    ("https://splash247.com/feed/", "Splash247", 8),
+    ("https://container-news.com/feed/", "Container News", 8),
+    ("https://www.hellenicshippingnews.com/feed/", "Hellenic Shipping News", 6),
+    # Strong Europe coverage
+    ("https://theloadstar.com/feed/", "The Loadstar", 8),
+    ("https://www.porttechnology.org/feed/", "Port Technology International", 6),
+    ("https://www.railfreight.com/feed/", "RailFreight.com", 6),
+    ("https://www.imd.org/ibyimd/tag/manufacturing/feed/", "IMD Business School", 4),
+    # Global / North America, kept smaller on purpose
+    ("https://www.supplychaindive.com/feeds/news/", "Supply Chain Dive", 4),
+    ("https://www.freightwaves.com/feed", "FreightWaves", 4),
+    ("https://www.aircargonews.net/feed", "Air Cargo News", 4),
+    ("https://www.scdigest.com/rss/scdigest_headlines.xml", "Supply Chain Digest", 3),
+]
 
-Never quote the source text directly. Never fabricate facts not present in the input.
-"""
+# ---------------------------------------------------------------------------
+# FUTURE WATCH FEEDS: (address, display_name, status, max_new_per_run)
+# status "preprint" = research paper not yet peer reviewed (shown as a badge).
+# ---------------------------------------------------------------------------
+INNOVATION_FEEDS = [
+    ("https://export.arxiv.org/api/query?search_query=all:%22supply+chain%22"
+     "&sortBy=submittedDate&sortOrder=descending&max_results=20",
+     "arXiv", "preprint", 6),
+    ("https://www.therobotreport.com/feed/", "The Robot Report", "news", 6),
+    ("https://techcrunch.com/category/transportation/feed/", "TechCrunch", "news", 5),
+    ("https://www.technologyreview.com/feed/", "MIT Technology Review", "news", 5),
+]
 
-def call_llm(title, snippet, retries=3):
-    if not API_KEY:
-        raise RuntimeError("GEMINI_API_KEY environment variable is not set.")
+CATEGORIES = [
+    "strategy", "procurement", "manufacturing", "logistics",
+    "storage_distribution", "international_relations", "sustainability", "crm",
+]
+CONTINENTS = [
+    "North America", "South America", "Europe", "Asia",
+    "Middle East", "Africa", "Oceania", "Global",
+]
+KINDS = ["research", "technology", "use_case"]
+
+NEWS_PROMPT = """You are helping build a supply chain news aggregator.
+You will be given an article's title and a short snippet.
+
+First decide whether it is genuinely about supply chain management: strategy,
+procurement and sourcing, manufacturing and lean, logistics and freight,
+warehousing and distribution, international trade, tariffs or geopolitics
+affecting trade, sustainability in supply chains, or customer-facing supply
+chain operations. Respond with exactly {"skip": true} if it is NOT, including:
+podcast recaps, event listings, ads, job moves with no strategic signal,
+and stories that are only about local trucking enforcement, crime, arrests or
+individual court cases.
+
+If it IS relevant, respond with ONLY a JSON object (no markdown, no preamble):
+{
+  "headline": "clear specific headline in your own words, under 90 characters",
+  "summary": "60 to 100 words in your own words (never copy phrasing), factual, neutral",
+  "category": "one of: __CATEGORIES__",
+  "continent": "one of: __CONTINENTS__ (where the news actually happens)",
+  "country": "the single most relevant country, or 'Multiple' if not country-specific"
+}
+Never quote the source. Never invent facts that are not in the input."""
+
+INNOVATION_PROMPT = """You write the "Future Watch" section of a supply chain
+news site: new technology, inventions, new use cases and research that could
+shape the future of supply chains, logistics, manufacturing, warehousing,
+ports, procurement or trade.
+
+You will be given a title and a snippet or abstract. If it is NOT clearly
+relevant to supply chains, logistics, warehouses, ports, freight, manufacturing
+or trade technology, respond with exactly {"skip": true}.
+
+Otherwise respond with ONLY a JSON object (no markdown, no preamble):
+{
+  "headline": "plain-language headline under 90 characters, in your own words",
+  "summary": "60 to 100 words in plain language for a non-specialist: what was built or found, and how. Your own words, no hype.",
+  "why_it_matters": "ONE sentence, maximum 25 words, on what this could mean for supply chains. Be modest: say 'early-stage' or 'could' where the input is a research paper or a pilot.",
+  "kind": "one of: research (a study or paper), technology (a new product, tool or invention), use_case (a real company or deployment applying technology)",
+  "continent": "one of: __CONTINENTS__",
+  "country": "single most relevant country, or 'Multiple'"
+}
+Never invent results, numbers or claims that are not in the input."""
+
+NEWS_PROMPT = (NEWS_PROMPT
+               .replace("__CATEGORIES__", ", ".join(CATEGORIES))
+               .replace("__CONTINENTS__", ", ".join(CONTINENTS)))
+INNOVATION_PROMPT = INNOVATION_PROMPT.replace("__CONTINENTS__", ", ".join(CONTINENTS))
+
+
+# ---------------------------------------------------------------------------
+# helpers
+# ---------------------------------------------------------------------------
+def load_json(path, default):
+    if path.exists():
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            print(f"[warn] {path.name} could not be read, starting it fresh")
+    return default
+
+
+def save_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def clean(text, limit):
+    text = html.unescape(text or "")
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:limit]
+
+
+def entry_date(entry):
+    stamp = entry.get("published_parsed") or entry.get("updated_parsed")
+    if stamp:
+        return datetime(*stamp[:6], tzinfo=timezone.utc).strftime("%Y-%m-%d")
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def fetch_entries(url):
+    """Download a feed with a normal browser-style header, then parse it."""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  [error] could not download this feed: {e}")
+        return []
+    entries = feedparser.parse(resp.content).entries
+    if not entries:
+        print("  [warn] 0 entries - wrong address, or the site is blocking us")
+    return entries
+
+
+def call_llm(system_prompt, user_text, retries=3):
     payload = {
-        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
-        "contents": [
-            {"parts": [{"text": f"Title: {title}\n\nSnippet: {snippet}"}]}
-        ],
-        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 500},
+        "system_instruction": {"parts": [{"text": system_prompt}]},
+        "contents": [{"parts": [{"text": user_text}]}],
+        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 700},
     }
-    headers = {"content-type": "application/json"}
-
     for attempt in range(retries):
-        resp = requests.post(
-            API_URL, headers=headers, params={"key": API_KEY}, json=payload, timeout=60
-        )
+        resp = requests.post(API_URL, headers={"content-type": "application/json"},
+                             params={"key": API_KEY}, json=payload, timeout=60)
         if resp.status_code == 429:
-            wait = 10 * (attempt + 1)
+            wait = 15 * (attempt + 1)
             print(f"  [rate limit] waiting {wait}s before retrying...")
             time.sleep(wait)
             continue
@@ -111,109 +209,125 @@ def call_llm(title, snippet, retries=3):
         try:
             text = data["candidates"][0]["content"]["parts"][0]["text"]
         except (KeyError, IndexError):
-            print(f"  [warn] unexpected response shape, skipping: {data}")
+            print(f"  [warn] unexpected response shape, skipping: {str(data)[:200]}")
             return {"skip": True}
         text = re.sub(r"^```json|```$", "", text.strip(), flags=re.MULTILINE).strip()
         try:
             return json.loads(text)
         except json.JSONDecodeError:
-            print(f"  [warn] could not parse model output, skipping: {text[:200]}")
+            print(f"  [warn] could not parse model output, skipping: {text[:150]}")
             return {"skip": True}
-
-    print("  [warn] gave up after repeated rate limiting")
-    return {"skip": True}
+    raise RuntimeError("rate limited repeatedly")
 
 
-def load_existing():
-    if DATA_PATH.exists():
-        with open(DATA_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
+def good_text(value, min_words=1):
+    return isinstance(value, str) and len(value.split()) >= min_words
 
 
-def save_items(items):
-    DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with open(DATA_PATH, "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
+def run_feeds(feeds, existing, rejected, prompt, build_item, label):
+    """Shared loop for both pipelines. Returns the list of newly built items."""
+    seen = {i.get("sourceUrl") for i in existing} | rejected
+    new_items = []
+    for feed in feeds:
+        url, name, cap = feed[0], feed[1], feed[-1]
+        print(f"[{label}] Checking {name} ...")
+        added = 0
+        attempts = 0
+        for entry in fetch_entries(url):
+            if added >= cap or attempts >= cap * 3:
+                break
+            link = entry.get("link")
+            title = clean(entry.get("title"), 300)
+            if not link or not title or link in seen:
+                continue
+            snippet = clean(entry.get("summary") or entry.get("description"), 1200)
+            attempts += 1
+            try:
+                result = call_llm(prompt, f"Title: {title}\n\nSnippet: {snippet}")
+            except Exception as e:
+                print(f"  [error] model call failed for '{title[:60]}': {e}")
+                time.sleep(PAUSE_SECONDS)
+                continue
+            time.sleep(PAUSE_SECONDS)
+            seen.add(link)
+            item = None if result.get("skip") else build_item(result, entry, feed, link)
+            if item is None:
+                rejected.add(link)
+                continue
+            new_items.append(item)
+            added += 1
+            print(f"  + {item['headline']}")
+    return new_items
 
 
-def url_hash(url):
-    return hashlib.sha256(url.encode("utf-8")).hexdigest()
+def build_news_item(result, entry, feed, link):
+    if result.get("category") not in CATEGORIES:
+        return None
+    if not (good_text(result.get("headline")) and good_text(result.get("summary"), 25)):
+        return None
+    continent = result.get("continent")
+    return {
+        "headline": result["headline"].strip(),
+        "continent": continent if continent in CONTINENTS else "Global",
+        "country": str(result.get("country") or "Multiple"),
+        "category": result["category"],
+        "date": entry_date(entry),
+        "summary": result["summary"].strip(),
+        "sourceName": feed[1],
+        "sourceUrl": link,
+    }
+
+
+def build_innovation_item(result, entry, feed, link):
+    if result.get("kind") not in KINDS:
+        return None
+    if not (good_text(result.get("headline")) and good_text(result.get("summary"), 25)
+            and good_text(result.get("why_it_matters"), 4)):
+        return None
+    continent = result.get("continent")
+    return {
+        "headline": result["headline"].strip(),
+        "continent": continent if continent in CONTINENTS else "Global",
+        "country": str(result.get("country") or "Multiple"),
+        "kind": result["kind"],
+        "status": feed[2],
+        "date": entry_date(entry),
+        "summary": result["summary"].strip(),
+        "whyItMatters": result["why_it_matters"].strip(),
+        "sourceName": feed[1],
+        "sourceUrl": link,
+    }
+
+
+def merge(existing, new_items, limit):
+    combined = new_items + existing
+    combined.sort(key=lambda i: i["date"], reverse=True)
+    return combined[:limit]
 
 
 def main():
-    existing = load_existing()
-    seen_urls = {i.get("sourceUrl") for i in existing}
-    new_items = []
+    if not API_KEY:
+        print("ERROR: GEMINI_API_KEY is not set. Add it under Settings > Secrets and variables > Actions.")
+        sys.exit(1)
 
-    for feed_url, source_name in FEEDS:
-        print(f"Checking {source_name} ({feed_url})...")
-        try:
-            parsed = feedparser.parse(feed_url)
-        except Exception as e:
-            print(f"  [error] could not fetch feed: {e}")
-            continue
+    news = load_json(NEWS_PATH, [])
+    innovation = load_json(INNOVATION_PATH, [])
+    rejected = set(load_json(REJECTED_PATH, []))
 
-        added_this_feed = 0
-        for entry in parsed.entries:
-            if added_this_feed >= MAX_NEW_PER_FEED_PER_RUN:
-                break
-            link = entry.get("link")
-            if not link or link in seen_urls:
-                continue
+    new_news = run_feeds(NEWS_FEEDS, news, rejected, NEWS_PROMPT, build_news_item, "news")
+    new_innovation = run_feeds(INNOVATION_FEEDS, innovation, rejected,
+                               INNOVATION_PROMPT, build_innovation_item, "future")
 
-            title = entry.get("title", "").strip()
-            snippet = entry.get("summary", entry.get("description", "")).strip()
-            snippet = re.sub(r"<[^>]+>", " ", snippet)[:600]  # strip HTML, cap length
+    if new_news:
+        news = merge(news, new_news, MAX_NEWS_ITEMS)
+        save_json(NEWS_PATH, news)
+    if new_innovation or not INNOVATION_PATH.exists():
+        innovation = merge(innovation, new_innovation, MAX_INNOVATION_ITEMS)
+        save_json(INNOVATION_PATH, innovation)
+    save_json(REJECTED_PATH, sorted(rejected)[-MAX_REJECTED_REMEMBERED:])
 
-            if not title:
-                continue
-
-            try:
-                result = call_llm(title, snippet)
-            except Exception as e:
-                print(f"  [error] Gemini call failed for '{title}': {e}")
-                continue
-
-            time.sleep(4.5)  # stay comfortably under the free tier's per-minute limit
-
-            if result.get("skip"):
-                continue
-            if result.get("category") not in CATEGORIES:
-                print(f"  [warn] unexpected category from model, skipping: {result}")
-                continue
-
-            pub_date = entry.get("published_parsed") or entry.get("updated_parsed")
-            if pub_date:
-                date_str = datetime(*pub_date[:6], tzinfo=timezone.utc).strftime("%Y-%m-%d")
-            else:
-                date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-            item = {
-                "headline": result["headline"],
-                "continent": result["continent"],
-                "country": result["country"],
-                "category": result["category"],
-                "date": date_str,
-                "summary": result["summary"],
-                "sourceName": source_name,
-                "sourceUrl": link,
-            }
-            new_items.append(item)
-            seen_urls.add(link)
-            added_this_feed += 1
-            print(f"  + {item['headline']}")
-
-    if not new_items:
-        print("No new items this run.")
-        return
-
-    combined = new_items + existing
-    combined.sort(key=lambda i: i["date"], reverse=True)
-    combined = combined[:MAX_ITEMS_TOTAL]
-
-    save_items(combined)
-    print(f"Saved {len(new_items)} new items. Total items: {len(combined)}.")
+    print(f"Done. New news: {len(new_news)} (total {len(news)}). "
+          f"New Future Watch: {len(new_innovation)} (total {len(innovation)}).")
 
 
 if __name__ == "__main__":
