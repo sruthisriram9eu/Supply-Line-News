@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Indian Ocean relay hubs capture gains from Hormuz shifts",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-10",
+    "summary": "Escalating tensions in the Strait of Hormuz are altering global trade routes, shifting structural advantages away from traditional Gulf states toward alternative Indian Ocean relay hubs. As shipping lanes adapt to these ongoing disruptions, the development of new trade corridors highlights a strategic realignment in maritime logistics and regional freight distribution, benefiting ports situated outside the immediate conflict zone as operators seek more secure pathways for international commerce.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/why-hormuzs-winners-sit-outside-the-gulf/"
+  },
+  {
+    "headline": "Maersk adds Rhine terminal surcharges due to low water",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Maersk has reintroduced contingency surcharges for freight moving through specific inland terminals along the Rhine river, including Bonn and Andernach, following renewed low water levels that are impacting barge transportation. Additionally, the carrier has revised its Low Water Surcharge for barge services operating at designated inland facilities within the Netherlands. These operational cost adjustments take effect for applicable inland transport movements starting early November, responding directly to seasonal disruptions in European inland waterway logistics and barge availability.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-reinstates-rhine-terminal-charges-amid-renewed-low-water/"
+  },
+  {
+    "headline": "Baltic Dry Index Rises for Fourth Consecutive Day",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The global dry bulk freight benchmark saw continued gains, climbing 1.8 percent to reach its highest level since early October. This upward movement was driven by strong performance in the capesize segment, which manages large shipments of essential industrial raw materials such as coal and iron ore. The steady increase reflects ongoing shifts in maritime shipping costs and demand for vital dry commodities across international trade routes.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-advances-for-4th-day/"
+  },
+  {
+    "headline": "Thermal Coal Demand Boosts Dry Bulk Shipping Markets",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Dry bulk shipping demand is experiencing an upward trend driven by the winter heating season and rising thermal coal consumption. High natural gas prices have enhanced the cost competitiveness of coal for power generation. Additionally, constrained liquefied natural gas volumes from Qatar are shifting energy reliance toward coal. Shipbrokers report that these market dynamics are providing renewed momentum for bulk carriers as energy generators secure fuel supplies to meet seasonal heating requirements.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/dry-bulk-shipping-thermal-coal-market-heating-up/"
+  },
+  {
+    "headline": "China 2026 Thermal Coal Imports Projected Near 295 Mt",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-09",
+    "summary": "China is projected to import between 285 million and 310 million tonnes of seaborne thermal coal in 2026, with a conditional central estimate of 295 million tonnes. Current arrival rates track toward 288.96 million tonnes based on October figures. Achieving the central target depends on whether upcoming winter restocking activity drives sufficient additional procurement volume to close the remaining gap. Procurement data evaluated at the beginning of November had not yet confirmed these extra volumes.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/chinas-2026-thermal-coal-imports-295-mt-hinges-on-winter-restocking/"
+  },
+  {
+    "headline": "Somali Piracy Resurgence Threatens Commercial Shipping",
+    "continent": "Africa",
+    "country": "Somalia",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Commercial shipping operations face growing disruptions following a resurgence of piracy in the Gulf of Aden, the Bab el-Mandeb Strait, and the Somali Basin. After more than a decade of minimal incidents between 2012 and 2024, maritime attacks have begun climbing steadily since 2024, accelerating further recently. This rising threat presents significant risks to vessel safety, transit times, and maritime logistics routes connecting key global trade corridors, forcing operators to reassess security measures and navigate heightened navigational hazards in the region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/somali-piracy-resurgence-understanding-the-risk-to-commercial-shipping/"
+  },
+  {
+    "headline": "Global LNG Bunker Prices Fall Amid Middle East Peace Hopes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "Liquefied natural gas bunker prices experienced significant declines across major global hubs, driven by growing optimism regarding peace developments in the Middle East. Prices dropped sharply in European regions such as ARA and the Baltics, while also seeing a notable decrease in Singapore. Rotterdam's bunker premium over front-month TTF narrowed as regional prices fell at a faster rate than the broader benchmark, reflecting shifting energy cost dynamics for maritime logistics and international shipping operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-european-lng-prices-slump-235-mt-on-middle-east-peace-hopes/"
+  },
+  {
+    "headline": "New ConTex Container Ship Index Rises in Week 45",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-11-09",
+    "summary": "The New ConTex container ship time charter assessment index saw a modest increase in week 45, climbing five points to reach 1,687 points. This upward movement indicates that the maritime charter market maintains a stable and firm foundation. Industry assessments reflect steady conditions across container shipping sectors without significant disruptions, supporting ongoing ocean freight operations and vessel deployment strategies globally.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-45-3/"
+  },
+  {
+    "headline": "Forward Air Halts Intermodal Division Sale",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-09",
+    "summary": "Forward Air has suspended its planned divestiture of its intermodal business unit. Leadership decided to pause the transaction as operational metrics recover toward target performance levels. Despite halting the immediate process, the company indicated it remains willing to evaluate future acquisition proposals if they reflect appropriate fair market value for the segment.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/forward-air-pauses-sale-of-intermodal-unit"
+  },
+  {
     "headline": "Hapag-Lloyd partners with Inmarsat for connected shipping",
     "continent": "Global",
     "country": "Multiple",
@@ -1090,16 +1180,6 @@
     "sourceUrl": "https://www.supplychaindive.com/news/defense-tech-company-aims-to-build-us-supply-chain-for-new-laptop-line/873658/"
   },
   {
-    "headline": "Class 8 Truck Orders Drop 36% Amid Regulatory and Cost Pressures",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-04",
-    "summary": "North American demand for heavy-duty commercial vehicles experienced a steep year-over-year decline in October. Industry data indicates that looming regulatory changes by the environmental agency, combined with elevated vehicle acquisition costs and constrained operating budgets, are causing fleet operators to delay capital investments and equipment replacements. This downturn highlights growing hesitation within the freight sector as businesses navigate evolving compliance standards and financial headwinds.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-as-epa-uncertainty-rattles-fleets"
-  },
-  {
     "headline": "GXO reports Q3 contract growth alongside rising onboarding costs",
     "continent": "Global",
     "country": "Multiple",
@@ -1570,26 +1650,6 @@
     "sourceUrl": "https://theloadstar.com/boluda-acquires-samskip/"
   },
   {
-    "headline": "Coty cuts air cargo to lower supply chain emissions",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-28",
-    "summary": "Beauty products manufacturer Coty has significantly reduced its reliance on air freight since 2019, achieving a 48 percent decrease. The company is actively shifting its distribution network toward more sustainable freight modes, specifically increasing its use of ocean shipping and rail transport. This operational transition is designed to lower the carbon footprint associated with moving its goods globally, aligning with broader corporate environmental and sustainability objectives within its distribution network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/coty-pursues-less-air-freight-more-ocean-and-rail-transport/873024/"
-  },
-  {
-    "headline": "Nvidia Secures Supplier Pacts to Scale AI Chip Output",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-10-28",
-    "summary": "To address surging demand for artificial intelligence hardware, the semiconductor firm has entered into agreements with six key manufacturing partners. These contracts aim to dramatically scale production capacity for essential components, potentially multiplying output up to fifteen times. This strategic move is designed to alleviate ongoing supply bottlenecks and support the rapid expansion of the artificial intelligence infrastructure market worldwide.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/nvidia-forges-supplier-agreements-to-expand-capacity-for-ai/872780/"
-  },
-  {
     "headline": "UK Logistics Sector Relieved by Budget Fuel Duty Freeze",
     "continent": "Europe",
     "country": "United Kingdom",
@@ -1598,16 +1658,6 @@
     "summary": "British transport and logistics operators have expressed relief following the latest government budget, which chose to maintain the existing five-pence-per-litre reduction on fuel duty and prevent scheduled tax increases. Additionally, the policy announcement ensured that commercial warehouse property rates will not increase. Industry representatives welcomed the measures as vital temporary relief for operators navigating challenging financial conditions, though sector leaders caution that broader macroeconomic cost pressures still threaten profitability and ongoing operational stability across the domestic supply chain network.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/under-pressure-uk-transport-and-logistics-firms-dodge-budget-bullet/"
-  },
-  {
-    "headline": "Global Containership Orderbook Nears 16 Million TEU",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-28",
-    "summary": "The worldwide backlog for new container vessels is projected to approach sixteen million TEU by the conclusion of the year, driven by upcoming and recently executed megamax contracts from major ocean carriers. Industry analysis indicates that additional orders from prominent shipping lines will significantly expand current maritime fleet capacity as carriers continue to invest heavily in new tonnage despite existing market conditions.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/container-newbuilding-fleet-closing-in-on-16m-teu-by-year-end/"
   },
   {
     "headline": "Seko Urges Early Planning for 2027 Chinese New Year Shipping",
