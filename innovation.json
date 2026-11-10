@@ -24,6 +24,18 @@
     "sourceUrl": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots/"
   },
   {
+    "headline": "New AI model optimizes thousands of supply chain policies at once",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-07",
+    "summary": "Researchers have developed a differentiable agent-based modeling framework designed to handle the complexity of multi-echelon inventory management. By running simulations through differentiable tensor operations, the system allows direct gradient-based optimization rather than relying on traditional trial-and-error reinforcement learning. In tests, the approach simultaneously optimized 10,000 distinct agent policies in seconds, significantly lowering operating costs compared to standard baseline methods. Additionally, the tool uses gradient sensitivity analysis to map causal relationships and trace lead-time delays within complex distribution networks.",
+    "whyItMatters": "This early-stage research could enable digital twins to self-correct and optimize massive supply chain networks in seconds instead of hours.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.10999v1"
+  },
+  {
     "headline": "High-precision GPS turns outdoor spaces into robotics platforms",
     "continent": "North America",
     "country": "United States",

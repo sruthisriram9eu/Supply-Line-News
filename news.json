@@ -1,5 +1,235 @@
 [
   {
+    "headline": "UK offshore energy supply chain shifts focus overseas",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "strategy",
+    "date": "2026-11-10",
+    "summary": "The United Kingdom's offshore energy supply chain is pivoting toward international markets for growth as domestic project uncertainty jeopardizes local investments, employment, and engineering capabilities. Recent industry research reveals that only 35 percent of surveyed companies express confidence regarding their domestic business outlook over the coming year. This domestic hesitation risks eroding specialized engineering capacity within the region, prompting firms to seek new opportunities abroad to sustain operations and secure future revenue streams amidst an increasingly unpredictable local regulatory and economic environment.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/uk-offshore-supply-chain-looks-overseas-for-growth/"
+  },
+  {
+    "headline": "Maersk container vessel strikes and topples Yantian port crane",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "A large Maersk containership collided with a ship-to-shore crane while berthing at China's Yantian port, causing the heavy structure to collapse. The accident occurred at berth 12 of the Shenzhen terminal and involved a 15,516 TEU vessel. Visuals of the incident circulated widely on social media platforms shortly after the midday collision. The structural damage at one of the region's major shipping hubs raises immediate concerns regarding potential operational disruptions, berth availability, and localized logistics delays for cargo movement through the terminal.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/maersk-boxship-knocks-down-crane-at-yantian/"
+  },
+  {
+    "headline": "MSC car carrier unit orders four more LNG dual-fuel vessels",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Global Car Carriers, controlled by MSC, has expanded its ongoing fleet renewal initiative by ordering four additional 8,600 ceu LNG dual-fuel car carriers at a Chinese shipyard. This latest addition brings the Oslo-based owner's total newbuilding program to 26 vessels, reflecting a major push to modernize and expand its maritime transport capacity for finished vehicles.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/mscs-car-carrier-arm-adds-four-newbuilds-in-china/"
+  },
+  {
+    "headline": "Pelagic Credit Enters Crude Tanker Market with Suezmax Financing",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "A shipping investment firm based in Cyprus has expanded its portfolio into the crude tanker sector by committing thirty million dollars in mezzanine financing. The eighteen-month loan facility supports two suezmax vessels secured through charter employment with a commodity trading enterprise located in Geneva. This transaction marks the company's initial entry into crude oil maritime logistics and is anticipated to yield significant distributable earnings over the funding period.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/pelagic-credit-makes-crude-tanker-debut-with-30m-suezmax-deal/"
+  },
+  {
+    "headline": "China Energy Engineering Secures Offshore Wind EPC Contract",
+    "continent": "Asia",
+    "country": "China",
+    "category": "manufacturing",
+    "date": "2026-11-10",
+    "summary": "A division of China Energy Engineering has secured an engineering, procurement, and construction contract to build offshore electrical infrastructure for two wind farms near Guangdong province. Awarded by the National Energy Group, the agreement covers the Jiangmen Chuandao I and II offshore wind developments, which have a combined planned capacity of 800 megawatts. This project highlights ongoing infrastructure investments within the renewable energy sector and strengthens regional clean energy generation capabilities.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/china-energy-engineering-wins-offshore-wind-epc-contract/"
+  },
+  {
+    "headline": "Suez Canal returns to pressure November container freight rates",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Container shipping lines face challenges implementing planned November rate increases due to expanding vessel capacity returning to the Asia-Europe trade route via the Suez Canal. An analysis from Italian logistics provider Sogese indicates a widening gap between carrier-announced price hikes and actual market conditions. As more ships resume transits through the canal, the additional capacity is expected to exert downward pressure on spot rates and limit the effectiveness of carrier pricing strategies across the major trade lane.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/suez-return-could-limit-november-freight-rate-increases-sogese-warns/"
+  },
+  {
+    "headline": "Asia-Mediterranean freight rates shift with new tariffs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Asia to Mediterranean shipping lanes are experiencing a cost adjustment period as major ocean carriers introduce higher published tariffs and additional surcharges. Leading shipping lines have begun implementing distinct pricing strategies for Freight All Kinds rates heading into November. These changes increase complexity for cargo owners and freight forwarders attempting to calculate true transportation expenses beyond standard headline rates, signaling shifting pricing dynamics across this major international trade corridor.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/asia-mediterranean-freight-pricing-the-costs-beyond-headline-rates/"
+  },
+  {
+    "headline": "Hapag-Lloyd Announces North Europe to South Asia Rate Increases",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Ocean carrier Hapag-Lloyd has announced upcoming tariff rate adjustments for cargo moving from North Europe to destinations in South-East India, Sri Lanka, and Bangladesh. The pricing changes will impact shipments utilizing dry containers and are scheduled to take effect for sailings commencing in December 2026. The revised tariffs apply to major regional hub ports including Ennore, Chittagong, and Colombo, and will remain in place until further notice as part of the carrier's ongoing pricing strategy for the maritime trade lane.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/hapag-lloyd-raises-north-europe-south-asia-tariff-rates/"
+  },
+  {
+    "headline": "Ocean Network Express Appoints New Syrian Shipping Agent",
+    "continent": "Middle East",
+    "country": "Syria",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Ocean Network Express has named Seanautics Maritime Services its official shipping agent in Syria, scheduled to begin operations in January 2027. This partnership deepens the carrier's footprint in the Levant area while building upon an existing operational relationship in Lebanon. Seanautics will manage customer support activities utilizing its established office locations within Damascus, thereby enhancing regional trade connectivity and service capabilities for the shipping line.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/one-expands-levant-presence-with-new-shipping-agent-in-syria/"
+  },
+  {
+    "headline": "Global container freight rates decline further across major indices",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Container shipping costs experienced additional downward pressure in recent weekly assessments. Major global benchmarks, including Drewry's World Container Index and the Freightos Baltic Index, registered continued decreases in spot rates per forty-foot equivalent unit. While overall global averages trended downward, individual trade lanes and domestic Chinese benchmarks demonstrated divergent movements, reflecting ongoing volatility in maritime logistics pricing and fluctuating demand across international shipping corridors.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/container-freight-rates-weaken-as-wci-and-fbx-extend-declines/"
+  },
+  {
+    "headline": "Norway proposes IMO Net-Zero Framework redesign for shipping",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-10",
+    "summary": "Norway has introduced a significant redesign proposal for the International Maritime Organization Net-Zero Framework. The initiative combines new Surplus Units dedicated to zero and near-zero emission fuels alongside five-year banking provisions and expanded use of surplus across compliance tiers. While designed as a balanced compromise, industry experts question whether this updated surplus market structure can successfully balance affordable compliance costs with the financial incentives required to drive alternative fuel investments within the global maritime sector.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/norways-imo-proposal-will-more-flexibility-create-a-functioning-surplus-market/"
+  },
+  {
+    "headline": "Latin America urged to capitalize on global supply shocks",
+    "continent": "South America",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-10",
+    "summary": "Latin America has a strategic opportunity to position itself as a dependable supplier of energy and petrochemicals amid international trade disruptions and geopolitical instability in the Strait of Hormuz. The leader of the region's chemical and petrochemical association emphasizes that regional producers should leverage these global shocks to strengthen local supply chains and attract international buyers seeking reliable alternatives for critical industrial inputs.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/hormuz-global-shocks-open-door-for-latin-america-as-reliable-supplier-apla/"
+  },
+  {
+    "headline": "Rotterdam LNG prices fall below diesel marine fuel",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Liquefied natural gas and liquefied biomethane used in diesel slow speed engines have shifted from trading at a significant premium to offering a distinct discount compared to low sulfur marine gas oil in Rotterdam. Falling regional gas prices combined with a minor dip in marine gas oil costs have driven this fuel switch dynamic, altering operating cost considerations for maritime freight and logistics operators utilizing dual fuel engines.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/fuel-switch-snapshot-gas-fuels-slip-under-lsmgo-for-diesel-ss-engines/"
+  },
+  {
+    "headline": "Oslo shipping index surges as new maritime listings prepare",
+    "continent": "Europe",
+    "country": "Norway",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "The shipping index on the Oslo Stock Exchange has experienced significant growth, doubling over the course of the year and generating substantial value over the past half-decade. Driven by this strong sector performance, multiple shipping firms are actively preparing for public listings. Five maritime companies have already completed their initial public offerings on the exchange this year, highlighting robust investor interest and capital market activity within the global freight and maritime transportation sector.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/shipping-boom-on-oslo-stock-exchange-more-shipping-companies-set-to-list/"
+  },
+  {
+    "headline": "U.S. Midterm Results Threaten Korean LNG Carrier Orders",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "international_relations",
+    "date": "2026-11-10",
+    "summary": "Recent political shifts in the United States have heightened risks for South Korea's shipbuilding sector, specifically concerning liquefied natural gas carrier orders. Analysts suggest that stricter federal licensing and permitting processes for domestic LNG export terminals could stall upcoming energy infrastructure projects. This regulatory friction threatens to dampen future demand for specialized transport vessels, potentially impacting the revenue streams of major shipbuilders reliant on American energy export expansion.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/u-s-midterm-results-raise-lng-carrier-order-risks-for-korean-shipbuilders/"
+  },
+  {
+    "headline": "GT LINES expands UAE-China partnerships for trade connectivity",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "category": "international_relations",
+    "date": "2026-11-10",
+    "summary": "GT LINES, the container shipping division of Gulftainer Group, has forged strategic alliances with prominent Chinese shipping companies. This collaboration aims to enhance supply chain continuity and bolster trade connectivity linking Asia and the Middle East. By uniting regional expertise with key Chinese maritime operators, the initiative supports integrated trade infrastructure and strengthens bilateral economic ties, ensuring more resilient global supply chain networks across these vital commercial corridors.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/gt-lines-strengthens-uae-china-partnership-to-support-global-supply-chains/"
+  },
+  {
+    "headline": "Shenzhen cargo restrictions threaten peak-season bottlenecks",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "International belly-cargo operations and freighter slots at Shenzhen's major airport are facing temporary suspensions and severe reductions due to upcoming APEC summit security measures. Industry forwarders warn that these restrictions will likely divert significant import and export volumes to neighboring regional gateways, creating severe capacity constraints, congestion, and elevated shipping rates during the peak season. Additionally, ongoing cargo congestion in Taiwan is projected to cause persistent freighter delays extending throughout the fourth quarter.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/shenzhen-air-cargo-restrictions-ahead-of-apec-threaten-peak-shipments/"
+  },
+  {
+    "headline": "UPS Sues US Customs to Recover Unlawful Tariff Payments",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-10",
+    "summary": "UPS has initiated legal proceedings against US Customs and Border Protection at the US Court of International Trade to secure refunds and accrued interest for tariff payments previously determined to be unlawful under the International Emergency Economic Powers Act. The carrier is seeking court orders to compel the regulatory agency to re-liquidate entry records and disburse the owed funds, building on hundreds of millions of dollars already recovered through prior claims.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/ups-in-court-bid-to-recover-tariff-payments-ruled-unlawful/"
+  },
+  {
+    "headline": "Asian Carriers Expand Capacity on India Ocean Routes",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Ocean carriers are increasing container capacity on shipping routes originating from India to meet rising regional freight demand. Major shipping lines, including OOCL, HMM, and Emirates Shipping, have recently reinforced their Indian operations through new service launches and enhanced network connections. This includes a new shuttle loop by OOCL linking Indian east coast ports to Malaysia, highlighting growing confidence in the region's maritime trade volume and export potential.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/carriers-sense-growth-and-pour-capacity-into-ex-india-ocean-trades/"
+  },
+  {
+    "headline": "Major ocean carriers eye Geodis acquisition amid surplus cash",
+    "continent": "Europe",
+    "country": "France",
+    "category": "strategy",
+    "date": "2026-11-10",
+    "summary": "Major container shipping lines including MSC, Maersk, and CMA CGM are reportedly focusing their substantial capital reserves on potential logistics acquisitions. Industry speculation highlights Geodis as a primary target for these carriers as they seek to expand their end-to-end supply chain capabilities and deploy accumulated financial resources from recent profitable years into broader freight and distribution infrastructure.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/geodis-the-last-chunky-logistics-target/"
+  },
+  {
+    "headline": "Amazon and Alternative Carriers Gain Parcel Market Share",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "During the first half of the year, Amazon and various alternative carriers continued to expand their parcel delivery volumes and market share. This growth was driven by the e-commerce giant scaling back its reliance on traditional logistics providers like UPS while simultaneously extending its own delivery network reach across the market.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-alternative-carriers-gained-parcel-volume-in-2026s-first-half/873932/"
+  },
+  {
+    "headline": "U.S. Retail Imports Projected to Remain High Through 2026",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Following a significant peak season in September, United States port imports are anticipated to moderate temporarily toward the conclusion of the year. Despite this near-term easing, retail industry projections indicate that import volumes will maintain elevated levels extending all the way through 2026. This ongoing demand highlights sustained momentum in inbound supply chain flows and ocean freight volumes, reflecting broader consumer spending patterns and inventory management strategies across the retail sector as supply chain stakeholders adapt to prolonged high-volume trading conditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/retailers-forecast-u-s-imports-to-stay-elevated-through-2026-after-breakout-peak-season"
+  },
+  {
+    "headline": "Wing Invests $125M in New Drone Manufacturing Facility",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-10",
+    "summary": "Drone delivery provider Wing is committing $125 million to construct a dedicated aircraft manufacturing plant. The new production facility aims to fulfill growing commercial demand from major retail partners, including Walmart, as the company scales its autonomous delivery operations. This capital investment highlights the ongoing expansion of advanced aerial logistics infrastructure to support last-mile fulfillment networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/wing-to-invest-125m-in-drone-manufacturing-plant"
+  },
+  {
     "headline": "Indian Ocean relay hubs capture gains from Hormuz shifts",
     "continent": "Asia",
     "country": "Multiple",
@@ -8,6 +238,16 @@
     "summary": "Escalating tensions in the Strait of Hormuz are altering global trade routes, shifting structural advantages away from traditional Gulf states toward alternative Indian Ocean relay hubs. As shipping lanes adapt to these ongoing disruptions, the development of new trade corridors highlights a strategic realignment in maritime logistics and regional freight distribution, benefiting ports situated outside the immediate conflict zone as operators seek more secure pathways for international commerce.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/why-hormuzs-winners-sit-outside-the-gulf/"
+  },
+  {
+    "headline": "US and China Extend Trade War Truce by Two Months",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-09",
+    "summary": "The United States and China have formally agreed to prolong their ongoing trade truce for an additional two months. Under this updated arrangement, both nations will preserve existing tariff cuts and maintain a freeze on supplementary trade measures through January 10, 2027. This decision formalizes and extends a bilateral agreement originally established in September, offering temporary stability for global supply chains and international trade relations between the two economic powers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/us-china-officially-extend-trade-war-truce-by-2-months/874107/"
   },
   {
     "headline": "Maersk adds Rhine terminal surcharges due to low water",
@@ -1120,16 +1360,6 @@
     "sourceUrl": "https://theloadstar.com/gxo-logistics-its-all-about-margins-stupid/"
   },
   {
-    "headline": "Thousands of Truckers Sidelined in US Highway Inspections",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-05",
-    "summary": "Recent commercial vehicle enforcement operations in Arkansas and Virginia uncovered numerous safety violations. Federal transportation authorities report that tens of thousands of truck drivers nationwide have been placed out of service due to failures regarding English language proficiency requirements. These regulatory crackdowns aim to enforce compliance and improve safety standards across major freight corridors, though the removal of numerous drivers risks tightening capacity further within the domestic trucking and logistics network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/33000-truckers-sidelined-over-violations-as-highway-blitzes-hit-arkansas-virginia"
-  },
-  {
     "headline": "Overcoming Data Gaps in Autonomous Trucking Safety",
     "continent": "Global",
     "country": "Multiple",
@@ -1140,16 +1370,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/the-hidden-data-challenges-for-autonomous-trucking-safety"
   },
   {
-    "headline": "Groups Urge USTR to Drop China-Linked Vessel Fees",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-04",
-    "summary": "Major industry associations, including the National Retail Federation and the World Shipping Council, are formally requesting that trade officials permanently drop proposed fees targeting vessels tied to China. Stakeholders warn that these additional levies threaten to introduce further financial strain into an already fragile global transportation and freight network, potentially driving up operational expenses for shippers and consumers alike as the industry navigates persistent supply chain pressures.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/"
-  },
-  {
     "headline": "Amazon rolls out smart glasses to speed up last-mile delivery",
     "continent": "Global",
     "country": "Multiple",
@@ -1158,26 +1378,6 @@
     "summary": "Amazon is outfitting thousands of delivery drivers with specialized smart glasses designed to enhance routing efficiency. These wearable devices project real-time navigation prompts and delivery instructions directly into the user's field of vision, streamlining the final stages of the fulfillment process. The initiative forms part of a broader corporate strategy to optimize last-mile distribution operations and reduce fulfillment times across the delivery network.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/"
-  },
-  {
-    "headline": "US Energy Department Launches Battery Manufacturing Accelerator",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-04",
-    "summary": "The United States Department of Energy has introduced the Battery Manufacturing Accelerator initiative to address domestic supply chain vulnerabilities. As national demand for batteries is projected to quadruple in the coming years, the program focuses on closing critical gaps in the sourcing of raw materials and essential components within the country to build a resilient manufacturing base.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873699/"
-  },
-  {
-    "headline": "Anduril develops domestic supply chain for new laptop line",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-04",
-    "summary": "Defense technology manufacturer Anduril is working to establish a domestic supply chain for its new BlueChip laptop series. The company is handling circuit board assembly internally and collaborating with Qualcomm to source the primary processor chip. To complete the production process, Anduril is actively seeking local suppliers within the United States to provide the remaining hardware components required for the computer line.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/defense-tech-company-aims-to-build-us-supply-chain-for-new-laptop-line/873658/"
   },
   {
     "headline": "GXO reports Q3 contract growth alongside rising onboarding costs",
@@ -1550,36 +1750,6 @@
     "sourceUrl": "https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/"
   },
   {
-    "headline": "FedEx attracts parcel shippers to air cargo amid AI growth",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-29",
-    "summary": "FedEx is experiencing increased air freight demand from customers who typically rely on parcel shipping. The carrier is actively pursuing business in high-value sectors, including artificial intelligence and data center infrastructure. This shift reflects broader supply chain adjustments as logistics providers target specialized, time-sensitive technology markets to capture new revenue streams and adapt to changing industrial demands.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/"
-  },
-  {
-    "headline": "Wella Company Names New Chief Supply Chain Officer",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-10-29",
-    "summary": "The beauty enterprise owning brands such as OPI and Nioxin has announced the appointment of a new supply chain head. Effective December first, the incoming executive will direct global manufacturing operations, supplier sourcing networks, and logistics infrastructure to streamline product fulfillment and distribution processes across the organization's international markets.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/opi-nioxin-owner-appoints-chief-supply-chain-officer/872796/"
-  },
-  {
-    "headline": "Container Freight Rates Rise Despite Cooling Demand",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-29",
-    "summary": "Ocean shipping freight rates are experiencing upward pressure along major maritime trade lanes connecting Asia to Europe and crossing the trans-Pacific corridor. This price increase occurs concurrently with observable indicators showing a softening in overall shipping demand. Market analysts are monitoring this unusual divergence between freight pricing trends and cargo volume demand across key global shipping lanes, as carriers continue to navigate shifting operational dynamics and capacity management strategies.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand"
-  },
-  {
     "headline": "Former SeaLead Executives Launch Jade Pacific Line",
     "continent": "Asia",
     "country": "Multiple",
@@ -1618,26 +1788,6 @@
     "summary": "Maritime operators must prepare for upcoming regulatory requirements under the UK Emissions Trading Scheme, which expands to include offshore vessels starting in January. Large ships exceeding 5,000 gross tonnes will face strict monitoring, reporting, and allowance-surrender obligations. Non-compliance will result in significant financial penalties, with a charge of £100 for each missing allowance. This regulatory shift introduces additional operational and financial pressures for shipping companies navigating the evolving environmental compliance landscape in the region.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/vessel-operators-need-to-prepare-for-compliance-as-uk-ets-looms/"
-  },
-  {
-    "headline": "Surging fuel costs squeeze air cargo profit margins",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-29",
-    "summary": "Steep fuel price increases are outpacing airfreight yield growth, putting financial pressure on cargo airline operations despite steady market demand. Industry data reveals that profitability varies significantly across different global trade routes and operating directions. While overall volumes remain robust, rising operational expenses are creating distinct economic challenges for dedicated freighter operators across the international network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/"
-  },
-  {
-    "headline": "Scan Global Acquires OIA Global in Record Deal",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-29",
-    "summary": "Danish logistics provider Scan Global has completed the acquisition of Portland-based OIA Global. This transaction represents the largest investment in the history of Scan Global. Market observers had previously anticipated the deal following speculation regarding the potential sale of the United States-based logistics and supply chain services firm. The purchase expands Scan Global's operational capabilities and footprint within the global freight and forwarding market.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/as-previously-rumoured-scan-global-acquires-oia-global-its-largest-ever-investment/"
   },
   {
     "headline": "Boluda Shipping Agrees to Acquire Samskip",
