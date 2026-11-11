@@ -1,5 +1,125 @@
 [
   {
+    "headline": "US-China trade truce extended amid rising geopolitical tensions",
+    "continent": "Asia",
+    "country": "China",
+    "category": "international_relations",
+    "date": "2026-11-11",
+    "summary": "Beijing has formally extended its trade truce with Washington until January 2027. This development underscores three critical shifts defining the ongoing economic conflict between the two global powers: an increasing reliance on regulatory and legal warfare, the strengthening of Chinese economic leverage, and a progressively shortening lifespan for bilateral trade truces. These dynamics highlight the fragile state of international trade relations and strategic maneuvering between the nations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/lawfare-leverage-and-the-shrinking-us-china-truce/"
+  },
+  {
+    "headline": "Konecranes secures first overseas ESP.4 crane order for Bermuda",
+    "continent": "North America",
+    "country": "Bermuda",
+    "category": "storage_distribution",
+    "date": "2026-11-11",
+    "summary": "Konecranes has finalized an agreement to supply a Gottwald ESP.4 Mobile Harbor Crane to Stevedoring Services Limited in Bermuda. This transaction marks the initial deployment of the specific crane model outside of the European market. The order was officially booked during the third quarter of 2026, with the physical delivery of the equipment scheduled for the third quarter of 2027 to support local port operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/konecranes-secures-first-overseas-esp-4-crane-order-in-bermuda/"
+  },
+  {
+    "headline": "Drewry and Cargoo Integrate Freight Benchmarks into Platform",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-11-11",
+    "summary": "Drewry Shipping Consultants has teamed up with ocean freight management platform Cargoo to embed freight benchmarking data directly into its digital procurement software. This collaboration enables mutual users belonging to the Drewry Benchmarking Club to access market rate information seamlessly within the platform. By connecting real-time market data with daily procurement and carrier negotiation workflows, the integration aims to streamline decision-making and improve cost efficiency for shippers managing ocean freight operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/drewry-and-cargoo-integrate-freight-benchmarks-into-procurement-platform/"
+  },
+  {
+    "headline": "DHL Express and TotalEnergies Agree to SAF Supply at Paris CDG",
+    "continent": "Europe",
+    "country": "France",
+    "category": "sustainability",
+    "date": "2026-11-10",
+    "summary": "DHL Express has secured a sustainable aviation fuel supply agreement with TotalEnergies to support air cargo operations at Paris Charles de Gaulle Airport. The one-year contract covers five million liters of renewable fuel, representing the first adoption of alternative aviation fuel by the express carrier in France. This partnership advances green initiatives within the company's international logistics network by lowering carbon emissions associated with its European freight transport operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/dhl-express-signs-saf-supply-agreement-with-totalenergies-at-paris-cdg/"
+  },
+  {
+    "headline": "Russian crude exports drop as Greek tankers seek better earnings",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Russian crude shipments utilizing G7-compliant tankers saw a sharp decline in October. Maritime data indicates that Greek operators actively redirected their vessels away from Black Sea conflict zones in pursuit of more lucrative earnings opportunities in other global shipping markets. This shift highlights how regional security risks and competitive freight rates elsewhere continue to reshape global petroleum transport patterns and trade flows involving Russian energy supplies.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/russian-crude-exports-fall-on-g7-tankers-as-greek-operators-flee-for-better-earnings/"
+  },
+  {
+    "headline": "Korean shipbuilders face LNG carrier price squeeze and cooling demand",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "manufacturing",
+    "date": "2026-11-10",
+    "summary": "South Korean shipbuilders are encountering downward pressure on liquefied natural gas carrier prices and a cooling market as freight rates decline and Chinese competition intensifies. While upcoming orders from North America are anticipated next year, these high-margin vessels are seeing reduced new order pricing. This shift presents challenges for domestic yards that have historically dominated the flagship sector, raising concerns that the lucrative market may have peaked.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/korea-shipbuilders-face-lng-carrier-price-squeeze-as-north-america-orders-seen-next-year/"
+  },
+  {
+    "headline": "East of Suez bunker fuel supply tightens across major hubs",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Bunker fuel availability in Singapore and Malaysia has tightened significantly for prompt deliveries, affecting all three primary grades. Very Low Sulphur Fuel Oil is experiencing extended supply constraints stretching further out on the delivery schedule. Industry suppliers advise maritime operators to plan ahead by providing increased lead times for fuel procurement. Specifically, recommended notice periods have expanded for VLSFO and HSFO, while lead times for Low Sulphur Marine Gas Oil have experienced a minor ease, reflecting ongoing tightness across key Asian refueling locations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-209/"
+  },
+  {
+    "headline": "Drewry Benchmarking Club integrates data into Cargoo platform",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Maritime research firm Drewry Shipping Consultants has partnered with ocean freight management platform Cargoo to integrate its Benchmarking Club data. Members of the Drewry Benchmarking Club who also utilize Cargoo can now access this proprietary benchmarking data directly within the freight management interface to optimize their shipping operations, evaluate market rates, and enhance decision-making capabilities across their supply chain networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/drewry-benchmarking-club-data-now-available-on-cargoos-ocean-freight-management-platform-for-club-members/"
+  },
+  {
+    "headline": "Auramarine to Provide Methanol Fuel Systems for New Vessels",
+    "continent": "Europe",
+    "country": "Spain",
+    "category": "manufacturing",
+    "date": "2026-11-10",
+    "summary": "Auramarine has reached an agreement with GONDAN Shipbuilders to provide methanol fuel supply systems for a pair of new hydrographic research vessels, named Wega and Deneb. The ships are currently under construction in Spain for the federal maritime safety and nautical cartography agency of Germany, the Bundesamt für Seeschifffahrt und Hydrographie. This partnership highlights the ongoing integration of alternative marine fuels and sustainable propulsion technologies within European ship manufacturing and supply chain operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/auramarine-secures-deal-with-gondan-shipbuilders-for-the-delivery-of-methanol-fuel-supply-systems-for-two-new-hydrographic-research-vessels/"
+  },
+  {
+    "headline": "LA and Long Beach Ports Extend Watchmen Contract",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Labor negotiations at the West Coast ports of Los Angeles and Long Beach have been extended as the International Longshore and Warehouse Union Local 26 and port management agreed to push the current contract deadline to November 20. The extension involves approximately 250 port watchmen and aims to prevent potential operational disruptions and work stoppages while discussions toward a finalized agreement continue.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/ports-of-la-lb-watchmen-extend-contract-through-20-november-as-negotiations-continue/"
+  },
+  {
+    "headline": "AI Data Security Risks Surface in Supply Chain Operations",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-10",
+    "summary": "A recent industry survey reveals that a significant portion of supply chain professionals have encountered security incidents where sensitive customer or supplier information was compromised via artificial intelligence applications. This finding underscores mounting worries regarding data protection and governance as enterprises accelerate their adoption of advanced digital tools across operational networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/1-in-6-supply-chain-professionals-report-ai-related-data-exposure-survey-finds"
+  },
+  {
+    "headline": "AI Demand Drives 30% Year-Over-Year Surge in Air Cargo Rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-10",
+    "summary": "Artificial intelligence equipment demand and global supply chain disruptions have sparked an unexpected boom in the air cargo sector, averting a forecasted market recession. Industry data reveals a 30 percent increase in freight rates year-over-year alongside a 6 percent rise in overall cargo volumes. Meanwhile, prominent drone delivery operators are accelerating their commercial expansion by scaling up strategic partnerships with major retail giants.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ai-saved-air-cargo-rates-up-30-yoy"
+  },
+  {
     "headline": "MSM Shifts Focus to Trust Over Scale in Shipmanagement",
     "continent": "Global",
     "country": "Multiple",
@@ -1460,36 +1580,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/maersk-raises-profit-outlook-as-earnings-surge-but-shares-slide-on-expectations-miss"
   },
   {
-    "headline": "LA and Long Beach Port Strike Postponed Amid Ongoing Labor Talks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-05",
-    "summary": "Labor negotiations between longshore union representatives and terminal employers at the major West Coast container hubs of Los Angeles and Long Beach have resulted in the postponement of a potential work stoppage. Both sides are actively continuing discussions to reach a new collective bargaining agreement, temporarily averting disruptions to vital maritime freight movement and container terminal operations at the busiest gateway complex in the United States.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
-  },
-  {
-    "headline": "US Rail Regulators Probe Allegations of Shipper Intimidation",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-05",
-    "summary": "Federal transport regulators are investigating whether Union Pacific retaliated against or intimidated freight customers during proceedings regarding a major merger proposal. The Surface Transportation Board ordered the railway to submit internal records, including executive conference footage, to determine if shipper feedback was suppressed. Union Pacific has strongly denied any wrongdoing. The outcome of this inquiry could influence the continuation and evaluation of the historic railroad consolidation review.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/stb-turns-up-ns-merger-fight-into-inquiry-over-shipper-intimidation/"
-  },
-  {
-    "headline": "FMC Investigates Effectiveness of Demurrage Penalties",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-05",
-    "summary": "The United States Federal Maritime Commission is examining whether steep demurrage and detention charges effectively accelerate cargo flow when freight is actually immobilized due to port constraints rather than shipper inaction. Industry stakeholders emphasize a clear difference between preventable delays where financial penalties might influence behavior, and systemic bottlenecks outside importer control where higher fees merely penalize supply chain participants without resolving underlying logistical hurdles.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/detention-fees-have-a-simple-problem-a-bigger-bill-cannot-move-a-box-that-cannot-move/"
-  },
-  {
     "headline": "Maersk Q3 Revenue Surges on High Freight Rates Despite Lower Volumes",
     "continent": "Europe",
     "country": "Denmark",
@@ -1730,16 +1820,6 @@
     "sourceUrl": "https://www.supplychaindive.com/news/is-warehouse-demand-shifting-toward-inland-markets/872921/"
   },
   {
-    "headline": "Diesel Prices Suffer Extreme Volatility Amid Low Inventories",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-03",
-    "summary": "Diesel markets face severe instability, marked by steep declines followed by rapid recoveries driven by shifting geopolitical events. Tight fuel inventories and constrained refining capabilities continue to threaten the market with sudden price surges. Industry analysts highlight that heating oil demand and underlying supply constraints leave freight operations vulnerable to ongoing cost fluctuations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/diesel-prices-collapse-then-rebound-whats-driving-volatility"
-  },
-  {
     "headline": "Latam Cargo Transports Popemobiles to Peru",
     "continent": "South America",
     "country": "Peru",
@@ -1760,16 +1840,6 @@
     "sourceUrl": "https://theloadstar.com/ecommerce-growth-leaves-latin-americas-air-cargo-imbalance-unresolved/"
   },
   {
-    "headline": "Major container lines plan to resume Suez Canal transit routes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-03",
-    "summary": "Ocean shipping operators are preparing to bring their Asia to Europe and Mediterranean services back through the Suez Canal. Major carriers including Evergreen, Yang Ming, and HMM are scheduling vessel transits through the waterway following months of security-related diversions around Africa. This shift marks a significant return to traditional routing for major shipping alliances, which is expected to impact transit times and capacity management on critical maritime trade corridors connecting Asian manufacturing hubs with European consumer markets.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/major-liners-set-to-resume-all-asia-europe-services-through-suez/"
-  },
-  {
     "headline": "Adani Ports Bids $3.3 Billion for European Terminal Operator EVOS",
     "continent": "Europe",
     "country": "Multiple",
@@ -1778,16 +1848,6 @@
     "summary": "Indian infrastructure operator Adani Ports has submitted a binding financial offer valued at approximately $3.3 billion to acquire European liquid bulk storage provider EVOS. This move aligns with the company's broader strategy to expand its operational footprint outside of India. Having recently upgraded its growth projections, the firm continues to pursue international maritime and logistics assets, evidenced by prior acquisition interest in the UK and new operational ventures in Oman, while balancing its capital allocation strategy between generating financial returns and pursuing large-scale expansion.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/adani-ports-bidding-for-europes-tank-terminals-the-test-is-whether-it-pays-for-returns-or-size/"
-  },
-  {
-    "headline": "Boeing Awarded 767 Freighter Conversion Contract by Icelease",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "manufacturing",
-    "date": "2026-11-02",
-    "summary": "Aircraft manufacturer Boeing has entered into an agreement with lessor Icelease to convert a passenger 767-300 jet into a dedicated cargo aircraft. The deal includes options for the leasing company to commission up to two additional conversions in the future. Scheduled production for the initial aircraft is set to begin in early 2027, as Icelease seeks to expand its overall cargo fleet capacity to meet ongoing market demand for dedicated freight transport solutions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion"
   },
   {
     "headline": "Ocean Line Acquisition Expands European Logistics for US Shippers",
