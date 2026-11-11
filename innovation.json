@@ -1,5 +1,41 @@
 [
   {
+    "headline": "Serve Robotics opens robot fleet via delivery API",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-11",
+    "summary": "Serve Robotics has launched an on-demand delivery API that allows third-party developers to build new delivery services on top of its existing fleet of over 2,000 sidewalk robots. By opening up its network infrastructure, the company enables external partners to utilize its autonomous hardware for various last-mile fulfillment use cases, expanding how the sidewalk delivery robots can be deployed across urban environments.",
+    "whyItMatters": "This early-stage approach could give logistics providers scalable access to sidewalk automation without needing to build proprietary robot fleets.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/"
+  },
+  {
+    "headline": "Memories.ai develops video pipeline for robot training data",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-11",
+    "summary": "Memories.ai has built a standardized pipeline for collecting egocentric, or first-person, video and using artificial intelligence to annotate it. This system is designed to create training data infrastructure for robotics, helping machines learn from human perspectives. By streamlining how video data is gathered and labeled, the platform aims to provide the foundational data needed to train autonomous systems for physical tasks.",
+    "whyItMatters": "This early-stage tool could accelerate how warehouse robots learn human tasks by improving the quality of their training data.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/"
+  },
+  {
+    "headline": "AI Agents Program Industrial Robots Without Training Data",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "research",
+    "status": "news",
+    "date": "2026-11-11",
+    "summary": "Researchers at UC Berkeley and NVIDIA have released open-source tools that enable teams of AI coding agents to write, simulate, and refine readable robot programs. Instead of relying on traditional training data, this system uses AI agents to generate and test code autonomously, aiming to simplify how industrial robots are programmed for various tasks.",
+    "whyItMatters": "This early-stage research could eventually reduce the time and engineering effort required to program factory and warehouse robots.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/"
+  },
+  {
     "headline": "Boston Dynamics adds wheels to Atlas humanoid robot",
     "continent": "North America",
     "country": "United States",
