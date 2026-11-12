@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Nvidia confirms technical feasibility of chip-tracking for anti-smuggling",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-12",
+    "summary": "Representatives from Nvidia privately informed a U.S. lawmaker that it is technically possible to implement anti-smuggling measures for microchips, contradicting public claims from an industry group that such tracking would be infeasible. The discussion centered around proposals in the Chip Security Act, which aims to monitor semiconductor distribution and prevent unauthorized diversions. While industry groups had raised concerns about the practicality of these measures, Nvidia's acknowledgment suggests that hardware tracking mechanisms could be developed to secure the high-tech supply chain.",
+    "whyItMatters": "This early-stage legislative proposal could eventually introduce mandatory tracking standards to improve transparency and security across the semiconductor supply chain.",
+    "sourceName": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+  },
+  {
     "headline": "Viam Launchpad speeds up commercial robot deployments",
     "continent": "North America",
     "country": "United States",
