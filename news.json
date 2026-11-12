@@ -1,5 +1,255 @@
 [
   {
+    "headline": "Maersk reports data breach in legacy IT system",
+    "continent": "Europe",
+    "country": "Denmark",
+    "category": "strategy",
+    "date": "2026-11-11",
+    "summary": "Danish shipping company AP Moller-Maersk confirmed a cybersecurity incident after unauthorized individuals accessed a legacy IT system inherited from a previous acquisition and extracted data. The breach occurred years after the company suffered significant financial losses from the NotPetya ransomware attack. Representatives stated that the recent event involved a localized system rather than core operational infrastructure, though the security compromise highlights ongoing vulnerabilities in legacy enterprise technology integration.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/maersk-hit-by-fresh-cyber-breach/"
+  },
+  {
+    "headline": "Flex LNG secures $145.5m leaseback deal for refinancing",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Flex LNG has finalized a significant sale-and-leaseback agreement valued at $145.5 million for one of its modern liquefied natural gas carriers with an undisclosed Asian lessor. This financial transaction is part of an ongoing fleet refinancing initiative by the New York-listed maritime operator, which aims to generate approximately $34 million in net cash proceeds. The agreement specifically involves the 2018-built Flex Enterprise, a vessel with a 173,400 cubic meter capacity, as detailed in the company's recent third-quarter financial results.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/flex-lng-lines-up-145-5m-leaseback/"
+  },
+  {
+    "headline": "Volare Shipping acquires $210m VLCC in Trafigura-linked deal",
+    "continent": "Europe",
+    "country": "Norway",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Volare Shipping, a tanker owner backed by Trafigura, has agreed to purchase a scrubber-equipped very large crude carrier for $210 million from an affiliate of its controlling shareholder. The acquisition of the supertanker, named Veni Vidi Vici, expands the fleet of the newly listed company shortly after its debut on the Oslo market.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/volare-snaps-up-210m-vlcc-in-trafigura-linked-deal/"
+  },
+  {
+    "headline": "Canada reinstates trade sanctions on Iranian oil tanker giant",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "international_relations",
+    "date": "2026-11-11",
+    "summary": "Canada has re-imposed economic sanctions on the National Iranian Tanker Company, alongside several other major energy and financial entities in Tehran. This policy shift rolls back previous exemptions that had been granted ten years ago following an international nuclear accord. The targeted measures encompass vital components of the nation's petroleum export infrastructure, potentially disrupting maritime logistics, trade flows, and fuel procurement networks connected to these sanctioned operators on the global market.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/"
+  },
+  {
+    "headline": "Yangzijiang linked to Torm LR2 tanker joint venture",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Singapore-listed Yangzijiang Maritime Development has been identified as the undisclosed partner in a recent eight-vessel LR2 newbuilding initiative by Danish tanker operator Torm. According to shipbuilding sources, the two companies established a fifty-fifty joint venture to oversee the construction of the new ships. This partnership highlights strategic capital allocation and capacity expansion within the maritime transport sector, directly impacting global shipping supply chains and tanker fleet availability as the companies coordinate the large-scale shipbuilding program.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/yangzijiang-tied-to-torms-lr2-newbuild-push/"
+  },
+  {
+    "headline": "MOL Containership Profits Triple on Strong ONE Earnings",
+    "continent": "Asia",
+    "country": "Japan",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Mitsui O.S.K. Lines experienced a threefold surge in containership earnings for the first half of its 2026 fiscal year. This financial growth was primarily driven by enhanced profitability from Ocean Network Express, alongside high freight rates and persistent capacity limitations affecting primary container shipping routes. The Japanese shipping enterprise recorded an ordinary profit of 73.4 billion yen for the segment, reflecting robust market conditions across global maritime corridors.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/mol-containership-profit-triples-as-one-earnings-strengthen/"
+  },
+  {
+    "headline": "US Election Shift and LA/LB Strike Deadline Impact Trade",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-11",
+    "summary": "Recent midterm election results in the United States have introduced new trade uncertainties as control of Congress shifts. Voter anxiety regarding inflation, energy costs, and existing tariffs may influence the administration to hold off on implementing new trade levies. Meanwhile, the deadline for potential labor disruptions at the crucial Los Angeles and Long Beach port complex has been extended, providing temporary relief for ocean freight operations and supply chain stakeholders navigating ongoing cargo flow vulnerabilities.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/freightos-weekly-update-la-lb-strike-deadline-extended-dem-win-increasing-trade-uncertainty/"
+  },
+  {
+    "headline": "Houthi Attacks Disrupted Suez Canal Trade Route",
+    "continent": "Middle East",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-11",
+    "summary": "Continuous disruptions originating from the Red Sea region have fundamentally altered maritime trade patterns between Asia and Europe. Three years following the initial vessel seizure by Houthi forces, the critical waterway has lost its status as the primary shipping corridor for global supply chains, forcing carriers to seek alternative routes and significantly impacting international logistics operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/explainer-suez-canal-held-hostage-on-a-budget/"
+  },
+  {
+    "headline": "Maersk Launches New Logistics Facility in Indonesia",
+    "continent": "Asia",
+    "country": "Indonesia",
+    "category": "storage_distribution",
+    "date": "2026-11-11",
+    "summary": "Maersk has expanded its warehousing and cargo handling infrastructure in Central Java by opening a new consolidation centre in Semarang, Indonesia. Spanning over 16,000 square metres, the facility offers substantial storage capacity with thousands of pallet positions designed to support the growing manufacturing and export activities in the region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-opens-new-logistics-consolidation-centre-in-indonesia/"
+  },
+  {
+    "headline": "RCL Expands Fleet with New Vessels for Asia-India Route",
+    "continent": "Asia",
+    "country": "Thailand",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Regional Container Lines has announced plans to integrate two new 7,000-TEU container ships into its maritime network, targeting deployment on the Asia-India trade lane. The vessels, named KITIYA BHUM and LAKANA BHUM, recently completed naming ceremonies in Shanghai, China. Scheduled for official delivery in January 2027, the additions form a central component of the Thai carrier's ongoing fleet renewal strategy designed to enhance capacity and operational efficiency across its key regional shipping routes.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/rcl-to-deploy-two-new-7000-teu-vessels-on-asia-india-service/"
+  },
+  {
+    "headline": "Georgia Grows as Automotive Manufacturing Hub",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-11",
+    "summary": "State port officials highlighted significant growth in the automotive manufacturing and logistics sectors during an annual port address. Recent major investments by global automakers, including a new Audi factory and Hyundai's Metaplant, have solidified the region as a primary center of excellence for vehicle production and supply chain integration. Leadership emphasized ongoing regional developments designed to support expanding manufacturing operations and strengthen regional automotive supply chains moving forward.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/georgia-emerges-as-a-centre-of-excellence-for-automotive-manufacturing-and-logistics/"
+  },
+  {
+    "headline": "Eimskip Reports Strong Q3 Growth on Volumes and Rates",
+    "continent": "Europe",
+    "country": "Iceland",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Icelandic logistics provider Eimskip delivered significant year-on-year financial gains for the third quarter of 2026, driven by increased cargo volumes, elevated freight rates, and internal efficiency initiatives. Despite facing substantial increases in fuel expenses, the shipping company posted a sharp rise in quarterly revenue and a strong jump in EBITDA compared to the same period in the previous year, demonstrating resilient performance across its operating network.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/eimskip-posts-43-6-ebitda-growth-in-third-quarter/"
+  },
+  {
+    "headline": "CMA CGM introduces new peak season surcharges for Asia routes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Container shipping line CMA CGM has announced upcoming peak season surcharges targeting shipments originating in Asia and heading toward the Mediterranean, North Africa, and Mauritius. Scheduled to take effect in late 2026, the additional fees will reach as high as $1,600 for a standard 40-foot container on specific routes. These adjustments reflect ongoing capacity and demand dynamics managed by the carrier across major international trade lanes, impacting shippers and logistics providers operating between Asian manufacturing hubs and these regional destinations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cma-cgm-announces-new-surcharges-for-mediterranean-and-mauritius-trades/"
+  },
+  {
+    "headline": "Yang Ming Posts Strong Q3 Profit on Higher Freight Rates",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Yang Ming Marine Transport Corporation announced a robust after-tax net profit for the third quarter of 2026, driven by elevated freight rates, healthy cargo demand, and ongoing capacity limitations on major maritime trade lanes. The Taiwanese ocean carrier recorded substantial consolidated revenue for the period, reflecting favorable market conditions across its global container shipping network despite persistent logistical hurdles.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/yang-ming-reports-strong-q3-profit-amid-higher-freight-rates/"
+  },
+  {
+    "headline": "US Treasury may permit acquisition of sanctioned vessels",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-11",
+    "summary": "The United States Treasury Department is considering a policy that would permit approved companies to purchase sanctioned shadow fleet shipping vessels on an individual basis. Under this potential approach, legitimate maritime operators could acquire these vessels and reintegrate them back into authorized, licit shipping networks, aiming to address fleet capacity and oversight concerns within the broader maritime transportation sector.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/us-treasury-may-allow-purchase-of-sanctioned-tankers-on-case-basis/"
+  },
+  {
+    "headline": "Tanker Demand Surges in October Secondhand Market",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "The secondhand maritime vessel market saw a notable shift toward tankers in October, even as total transaction volumes remained relatively stable compared to the previous year. Tanker sales surged significantly, capturing nearly half of all vessel transactions. In contrast, dry bulk sales experienced a sharp decline over the same period. This divergence highlights shifting capacity trends and market demand within maritime logistics and global freight transport sectors as operators adjust their fleets.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/tankers-in-high-demand-during-october/"
+  },
+  {
+    "headline": "Baltic Dry Index Extends Gains for Sixth Consecutive Session",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "The primary shipping rate benchmark for dry bulk commodities increased by 3.4 percent, reaching its highest level since early October and marking a sixth straight day of gains. The upward movement was driven largely by the capesize segment, which tracks large vessels typically used to transport major industrial commodities such as coal and iron ore. This continuous climb reflects shifting conditions in maritime freight markets and international raw material transportation.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-6th-day/"
+  },
+  {
+    "headline": "Maritime industry launches AI maturity benchmark for shipping",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "A major classification society has updated its digital benchmarking platform to include artificial intelligence readiness assessments for shipowners and operators. Announced at an industry event in Singapore, the expanded tool helps maritime businesses evaluate their adoption capabilities and operational readiness for emerging digital technologies. This initiative aims to guide companies through the integration of automated systems within their logistics and fleet management networks as digital transformation accelerates globally.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/shipping-puts-ai-readiness-to-the-test-with-new-maturity-benchmark/"
+  },
+  {
+    "headline": "Europe Bunker Fuel Tightness and Lead Times",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Bunker fuel availability in Northwest Europe remains constrained, particularly within the Amsterdam-Rotterdam-Antwerp trading hub for immediate delivery dates. Industry participants advise buyers to plan ahead with lead times of five to seven days to ensure adequate supplier coverage and obtain competitive pricing. Meanwhile, independently held fuel oil inventories in the region have experienced a modest two percent increase on average during the month of November, indicating stable overall reserves despite short-term procurement challenges for maritime operators.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-207/"
+  },
+  {
+    "headline": "Fujairah Oil Inventories Drop Sharply After Four-Week Rise",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "storage_distribution",
+    "date": "2026-11-11",
+    "summary": "Inventories of refined oil products at the United Arab Emirates bunker hub fell significantly in early November, reversing four consecutive weeks of gains. The reduction was driven primarily by a steep drop in heavy distillates, which are widely utilized for power generation and marine bunker fuel. Total regional stockpiles decreased to just over ten million barrels, signaling shifting supply and demand dynamics for energy logistics and maritime fuel availability in the Middle East.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/fujairah-data-oil-product-stockpiles-drop-for-first-time-in-four-weeks/"
+  },
+  {
+    "headline": "European road freight rates hit records amid severe haulier pressures",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Despite record-high contract and spot freight rates across Europe, road transport operators face a critical financial squeeze. Soaring fuel and operational expenses are severely eroding profit margins, while hauliers find it increasingly difficult to pass these escalating costs onto shippers. Industry benchmark data highlights the widening gap between surging carrier expenses and actual earnings, threatening the stability of the region's road transport network and raising concerns for broader supply chain continuity as operators struggle to sustain operations.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/record-rates-mask-dire-situation-for-hauliers-as-costs-outstrip-earnings/"
+  },
+  {
+    "headline": "Air Cargo Peak Season Hopes Fade Amid Flat October Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "Expectations for a traditional end-of-year volume surge in the air cargo sector have diminished. According to Xeneta, overall market growth continues at a steady pace, but October failed to show the usual capacity pressures and demand signals that typically precede a late-year shipping rush. Without these indicators, carriers and forwarders are confronting a more subdued peak season than anticipated, reflecting broader cooling trends in global air freight volumes as capacity management remains a central focus for the industry.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/"
+  },
+  {
+    "headline": "BMW Secures Battery Supply Deals for US and Europe",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-11-11",
+    "summary": "The automotive manufacturer has finalized agreements with cell producers Samsung SDI and LG Energy Solution. These contracts support the company's objective to establish localized supply networks for its upcoming electric vehicle production lines in both European and North American markets, reducing reliance on distant suppliers and mitigating transportation vulnerabilities.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/bmw-announces-new-battery-supply-deals-for-the-us-europe/874409/"
+  },
+  {
+    "headline": "Freight sector faces severe distress with layoffs and bankruptcies",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "The freight and logistics industry is experiencing mounting financial pressures, evidenced by more than 1,000 workforce reductions and fifteen bankruptcy filings occurring over recent weeks. This downturn highlights persistent economic challenges and strain within the broader transportation and supply chain sector as companies struggle with operational viability amidst unfavorable market conditions.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-distress-persists-as-logistics-layoffs-top-1000-bankruptcies-mount"
+  },
+  {
+    "headline": "North American Intermodal Rail Freight Hits All-Time Highs",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "North American rail traffic experienced its strongest three-month period in history, culminating in record-breaking intermodal volumes in October. This unprecedented growth reflects a healthy industrial economy and extends beyond mere market share gains from the trucking sector. Even amid prevailing economic pressures such as inflation and elevated interest rates, projections indicate that rail freight volumes will maintain their positive momentum moving forward.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/intermodal-booms-best-3-months-ever-for-rail-freight"
+  },
+  {
     "headline": "Monjasa expands fleet with acquisition of five product tankers",
     "continent": "Europe",
     "country": "Denmark",
@@ -1650,26 +1900,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/conlio-funding-freight-document-checks"
   },
   {
-    "headline": "US Truck Transportation Employment Flat in October",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-06",
-    "summary": "Employment levels within the American trucking sector remained steady between September and October, according to data published by the Bureau of Labor Statistics. While the agency adjusted the previous month's employment figures slightly downward, subsequent hiring balanced the total count for the industry. This flat growth reflects a stabilizing labor market for freight carriers following earlier fluctuations in workforce numbers, indicating consistent demand for drivers and logistics personnel nationwide.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/october-truck-transportation-jobs-september-truck-transportation-jobs"
-  },
-  {
-    "headline": "Mexico Expands US Trade Lead With Record September",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-11-06",
-    "summary": "Mexico reinforced its standing as the leading trade partner of the United States by achieving a record-breaking volume in September. Cross-border commercial exchange reached a significant financial milestone, outpacing other trading counterparts. This surge highlights the deepening economic ties and the ongoing integration of supply chains within the North American region, reflecting sustained high demand for manufactured goods and cross-border freight movement between the two neighboring nations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mexico-widens-us-trade-lead-with-record-96-3b-september"
-  },
-  {
     "headline": "Maersk Invests in Over 50 Global Port Terminals",
     "continent": "Global",
     "country": "Multiple",
@@ -1678,16 +1908,6 @@
     "summary": "The corporate parent's investment division of shipping giant Maersk is actively broadening its global maritime infrastructure network. Through strategic agreements spanning across Europe and Asia, the company aims to secure operations in more than 50 terminal facilities. This expansion initiative is designed to strengthen the organization's international footprint in port operations, enhancing its capacity to manage ocean freight flows and streamline global trade routes amid evolving industry demands.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/maersk-eyes-trade-in-deals-for-more-than-50-terminals"
-  },
-  {
-    "headline": "Ryder Expands Fleet Management Operations via East Coast Buyout",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-06",
-    "summary": "Ryder System has expanded its Fleet Management Systems division through the acquisition of Efficiency Enterprises, a regional supplier of commercial truck, trailer, and material handling equipment services. The transaction strengthens Ryder's maintenance and leasing footprint along the East Coast, integrating a business model that closely mirrors its own service offerings. This strategic purchase enables the company to broaden its service capacity and deepen its regional market presence for enterprise fleet operations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ryder-grows-its-fms-business-with-east-coast-acquisition"
   },
   {
     "headline": "Container spot rates stabilize as capacity constraints ease",
@@ -1730,16 +1950,6 @@
     "sourceUrl": "https://theloadstar.com/carrier-selection-matters-when-it-comes-to-getting-your-goods-on-time/"
   },
   {
-    "headline": "North American Cargo Crime Losses Rise Despite Fewer Incidents",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-06",
-    "summary": "Data from Verisk CargoNet indicates that total supply chain crime incidents across the United States and Canada decreased by twenty-five percent during the first three quarters of the year compared to the same timeframe previously. However, total financial losses escalated by thirty-nine percent year over year. Criminal organizations are increasingly utilizing sophisticated tactics such as identity fraud, carrier impersonation, and vulnerabilities within freight verification systems to target high-value shipments and bypass traditional security measures.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/cargo-crime-in-north-america-down-in-q3-but-losses-are-mounting/"
-  },
-  {
     "headline": "Hong Kong evaluates river vessel fees amid mainland port competition",
     "continent": "Asia",
     "country": "China",
@@ -1748,26 +1958,6 @@
     "summary": "Hong Kong transport authorities are examining permit fees levied on river trade vessels to preserve the port's competitive standing against nearby mainland Chinese facilities in Shenzhen and Guangzhou. These domestic vessels transport containers through the Pearl River Delta to Hong Kong terminals for subsequent transfer onto ocean-going vessels. The fee assessment comes in response to regional pressures as rival mainland ports increasingly attract cargo traffic away from the territory.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/hong-kong-reviews-river-fees-as-mainland-ports-lure-cargo-away/"
-  },
-  {
-    "headline": "Super El Niño tests enterprise freight preparedness",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-05",
-    "summary": "Severe winter weather driven by a strong El Niño is highlighting the gap between reactive freight operations and those with proactive network planning. Many companies still rely on broad, generalized storm warnings rather than granular visibility into specific vulnerable lanes, distribution centers, and customer delivery commitments. This lack of predictive planning exposes supply chains to unexpected disruptions and fulfillment delays as winter conditions intensify across the country.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/a-super-el-nino-is-about-to-test-which-freight-enterprises-plan-for-impact-and-which-only-react"
-  },
-  {
-    "headline": "Transporting the US Capitol Christmas Tree 2,000 Miles",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-05",
-    "summary": "Hauling the official U.S. Capitol Christmas Tree requires a complex long-distance freight operation spanning over two thousand miles. A specialized Kenworth commercial truck and a rotating team of four professional drivers manage the intricate over-the-road transport of the massive evergreen from its origin to the West Lawn in Washington, D.C., highlighting the critical role long-haul logistics plays in national holiday traditions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off"
   },
   {
     "headline": "Unilever Increases Prices to Counter Rising Material Costs",
@@ -1838,66 +2028,6 @@
     "summary": "Recent financial reporting from DHL highlights expanding revenue streams outside of its core express delivery division. The global forwarding segment successfully captured increased air freight market share amidst tightening capacity constraints. Additionally, contract logistics operations experienced a significant surge in new business wins over the year, driven by expanding sectors such as data center infrastructure development. This diversification indicates a broader distribution of profitability and operational momentum across the organization's global logistics network.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/dhls-growth-broadening-beyond-express-global-forwarding-sparkles/"
-  },
-  {
-    "headline": "GXO Logistics Reports Strong Organic Growth and Wincanton Integration",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-11-05",
-    "summary": "Contract logistics provider GXO Logistics achieved its fastest organic growth rate in over three years, while advancing the integration of recently acquired Wincanton. Despite near-term pressures on profit margins caused by elevated start-up expenses and operational investments, the company boosted share buybacks. Market reaction was positive following the earnings announcement, sending company shares higher by nearly ten percent as investors responded favorably to the underlying growth metrics and progress on structural expansion.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/gxo-logistics-its-all-about-margins-stupid/"
-  },
-  {
-    "headline": "Overcoming Data Gaps in Autonomous Trucking Safety",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-04",
-    "summary": "The autonomous trucking industry faces significant hurdles regarding safety data collection, as high test mileage alone proves insufficient for validating self-driving systems. Industry experts emphasize that traditional testing methods often miss critical, unpredictable real-world scenarios. To achieve true reliability, autonomous vehicle developers must shift focus toward capturing rare and dangerous edge cases during road tests. This targeted approach to data gathering and validation aims to improve how commercial robo-taxis and freight trucks navigate complex and hazardous environments safely.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/the-hidden-data-challenges-for-autonomous-trucking-safety"
-  },
-  {
-    "headline": "Amazon rolls out smart glasses to speed up last-mile delivery",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-11-04",
-    "summary": "Amazon is outfitting thousands of delivery drivers with specialized smart glasses designed to enhance routing efficiency. These wearable devices project real-time navigation prompts and delivery instructions directly into the user's field of vision, streamlining the final stages of the fulfillment process. The initiative forms part of a broader corporate strategy to optimize last-mile distribution operations and reduce fulfillment times across the delivery network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/"
-  },
-  {
-    "headline": "GXO reports Q3 contract growth alongside rising onboarding costs",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-11-04",
-    "summary": "Third-quarter contract wins for logistics provider GXO increased significantly by 34 percent, totaling $375 million in new business. However, accelerating the integration and onboarding processes for these new customers resulted in short-term financial headwinds and increased cost pressures, despite overall gains in revenue and corporate earnings for the period.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/gxos-contract-wins-surge-34-but-growth-comes-amid-cost-pressures"
-  },
-  {
-    "headline": "Emirates Launches New Air Cargo Service for Data Centers",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-04",
-    "summary": "Emirates has introduced a specialized air cargo service designed specifically to meet the logistical requirements of data center operators and their supply chain partners. This initiative aims to capture a larger share of the fast-growing transport market driven by massive infrastructure expansion and the increasing global demand for advanced computing hardware. By tailoring its freight capabilities to high-tech logistics, the airline seeks to provide more reliable and targeted delivery solutions for sensitive technological components.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators"
-  },
-  {
-    "headline": "Asia-US Container Rates Hold Firm Amid Planned November Hikes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-04",
-    "summary": "Maritime shipping costs from Asia to the United States are holding steady despite softening market demand, as ocean carriers push for upcoming price increases. The situation is further complicated by potential labor disruptions at the crucial Los Angeles and Long Beach port complex, which continues to introduce operational uncertainty for importers and logistics providers navigating the transpacific trade lanes as the peak shipping season progresses.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/asia-us-container-rates-hold-as-carriers-seek-3000-november-rate-hikes"
   },
   {
     "headline": "Trimble Lowers Forecast Amid European Freight Slowdown",
