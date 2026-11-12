@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Viam Launchpad speeds up commercial robot deployments",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-12",
+    "summary": "Viam has introduced Launchpad, a new offering designed to supply startups with the software and engineering infrastructure needed to transition robots from development to commercial deployment. By providing foundational tools, the platform aims to reduce the technical barriers and time required to bring new robotic systems into real-world operational environments.",
+    "whyItMatters": "This infrastructure could eventually help warehouses and logistics facilities adopt automation technology more quickly.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/"
+  },
+  {
     "headline": "Serve Robotics opens robot fleet via delivery API",
     "continent": "North America",
     "country": "United States",
