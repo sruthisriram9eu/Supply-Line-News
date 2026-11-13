@@ -1,5 +1,17 @@
 [
   {
+    "headline": "AGIBOT G2 Robots Complete 24-Hour Shanghai Convenience Store Trial",
+    "continent": "Asia",
+    "country": "China",
+    "kind": "use_case",
+    "status": "news",
+    "date": "2026-11-13",
+    "summary": "Six AGIBOT G2 humanoid robots successfully completed 1,730 tasks during a 24-hour trial inside a working Shanghai convenience store. Four of the six robots passed a performance assessment that evaluated their embodied AI capabilities, customer service skills, and retail operations in a real-world environment.",
+    "whyItMatters": "This early-stage trial demonstrates how humanoid robots could soon handle routine retail tasks and store operations autonomously.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/"
+  },
+  {
     "headline": "New mathematical model helps supply chains survive demand shocks",
     "continent": "Global",
     "country": "Multiple",

@@ -1,5 +1,195 @@
 [
   {
+    "headline": "King Ocean streamlines Haiti shipping routes and cuts vessels",
+    "continent": "North America",
+    "country": "Haiti",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "King Ocean Services has combined its two weekly container shipping routes linking Port Everglades in Florida with Haiti into one streamlined rotation. The operational adjustment cuts the active fleet on this maritime trade lane from two vessels down to one. While Port-au-Prince maintains its regular weekly connection to Florida, port calls to Cap-Haïtien are being scaled back under the new schedule.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/king-ocean-consolidates-haiti-services-reduces-cap-haitien-calls/"
+  },
+  {
+    "headline": "DP World Accelerates Fujairah Port Expansion Projects",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "DP World is investing AED 2.5 billion to fast-track the development of two ports in Fujairah, aiming to begin phased operations within 18 to 24 months. The project is part of the United Arab Emirates' strategy to establish alternative shipping routes and maintain continuous trade flows amid ongoing disruptions in the Strait of Hormuz.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/dp-world-fast-tracks-developments-in-fujairah/"
+  },
+  {
+    "headline": "Tropical Shipping Expands Canada Express Route to St. Croix",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Tropical Shipping has enhanced its Canada Express container service by integrating St. Croix into the route network within the US Virgin Islands. Operated by two container ships with an approximate capacity of 1,100 TEU each, the updated maritime service connects Halifax and Palm Beach to key Caribbean destinations. This expansion broadens geographical reach and freight options for shippers moving goods between Canada, Florida, and the region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/tropical-shipping-adds-st-croix-to-canada-express-service/"
+  },
+  {
+    "headline": "Port of Hamburg sees slight cargo throughput decline in 2026",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Germany's largest seaport reported a 2.6 percent decrease in total cargo throughput for the first nine months of 2026, reaching 84.5 million tonnes. Despite steadying operations during the third quarter to partially offset earlier losses, the port's overall volume was impacted by weather-related disruptions experienced earlier in the year.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/port-of-hamburg-records-slight-decline/"
+  },
+  {
+    "headline": "Neptune Pacific boosts Pacific cargo capacity before peak season",
+    "continent": "Oceania",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Neptune Pacific has accelerated vessel deployments across its Central Pacific trade routes to increase cargo capacity ahead of the peak shipping season. The carrier has brought forward the deployment of the ICS Silver Lining on the MICROPAC route and rescheduled the Southern Pearl for the INTRAPAC service. These schedule adjustments aim to enhance service reliability and accommodate higher cargo volumes for regional shippers during the busy trading period.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/neptune-pacific-advances-vessel-deployments-on-micropac-and-intrapac-services/"
+  },
+  {
+    "headline": "Maersk announces new Asia-Europe peak season surcharges",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Ocean carrier Maersk has announced the implementation of a new peak season surcharge for cargo moving from Far East Asia to Northern Europe, scheduled to take effect in December 2026. Additionally, the company is adjusting existing surcharge rates for specific shipping lanes originating from the Indian Subcontinent and heading toward North America. These pricing modifications reflect ongoing capacity management and cost adjustments across major global trade corridors.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-introduces-new-asia-europe-pss-and-revises-north-america-charges/"
+  },
+  {
+    "headline": "Premier Alliance to Move PS6 Transpacific Service to Long Beach",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "The Premier Alliance plans to relocate the Southern California port call for its transpacific PS6 service from the Port of Los Angeles to the Port of Long Beach in January 2027. Operated by HMM in collaboration with Ocean Network Express and Yang Ming, this maritime trade route connects key ports in China and South Korea with the United States market, marking a strategic shift in regional container shipping operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/premier-alliance-ps6-to-return-to-long-beach-in-january-2027/"
+  },
+  {
+    "headline": "ADNOC L&S Reports Q3 Profit Surge and Raises 2026 Outlook",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "ADNOC Logistics & Services saw a significant increase in third-quarter earnings, driven by heightened global shipping rates and robust demand for energy transportation. The Abu Dhabi-based enterprise achieved a net profit of $887 million, marking a 321% rise compared to the same period previously, while overall revenue grew by 149%. This strong financial performance prompted the company to elevate its outlook for 2026.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/adnoc-ls-reports-sharp-profit-growth-and-raises-2026-outlook/"
+  },
+  {
+    "headline": "Maritime sector backs IMO climate deal despite policy friction",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-13",
+    "summary": "A recent analysis indicates widespread backing from the shipping and fuel industries for a comprehensive climate agreement through the International Maritime Organization. Despite this high-level consensus, stakeholders remain divided on critical elements of the regulatory framework. Disagreements persist regarding the structure of carbon pricing, specific fuel standards, and the methodologies used to calculate emissions. These conflicting advocacy positions threaten to stall progress on the final implementation of the global environmental strategy for maritime logistics and freight operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/shipping-sector-backs-an-international-maritime-organization-imo-climate-deal-but-not-all-of-the-details/"
+  },
+  {
+    "headline": "October Tanker Freight Rates Surge on Tight Supply",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Dirty tanker spot freight rates experienced a significant surge in October, driven by record-high Very Large Crude Carrier rates that lifted Suezmax and Aframax pricing as well. According to a monthly report from OPEC, tanker availability remained severely constrained due to disrupted volumes returning to the market, persistent trade route dislocations, export inefficiencies, and increasingly longer voyage distances. Consequently, VLCC rates climbed to more than ten times higher than their levels from the previous year.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/tanker-market-surged-in-october/"
+  },
+  {
+    "headline": "Shipping markets experience historic earnings boom amid buyer caution",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Global maritime shipping markets are currently experiencing their longest and strongest earnings boom in over twenty years. Despite these soaring financial returns, prospective asset buyers are maintaining a cautious stance regarding the long-term outlook of the industry. This notable disconnect between current high freight earnings and restrained vessel valuations highlights a widespread market belief that prevailing conditions may not represent a permanent baseline, prompting strategic hesitation among investors in maritime logistics capacity.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/resistance-for-shippings-record-rally/"
+  },
+  {
+    "headline": "IMO considers alternative net-zero framework for shipping",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-13",
+    "summary": "The International Maritime Organization is preparing to discuss an alternative Net-Zero Framework during upcoming sessions, with final text codification expected in 2027. United States Federal Maritime Commission officials highlighted the ongoing discussions as member states work toward forming a consensus on new environmental regulations for the maritime sector. These upcoming meetings represent a crucial step in shaping global shipping sustainability policies and alternative bunker fuel rules over the coming years.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/imo-may-codify-alternative-net-zero-bunker-rules-in-2027-us-fmc-2/"
+  },
+  {
+    "headline": "Global ocean schedule reliability drops to 24 percent",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Global maritime schedule reliability has declined, with less than a quarter of vessels arriving on time according to the latest performance tracking data. Performance metrics indicate a slight decrease from previous estimates due to late-month arrival adjustments. Additionally, a major carrier alliance has lost its previous reliability advantage on key trade routes connecting the Far East to Europe. The analysis highlights ongoing volatility and congestion challenges impacting international maritime freight schedules across major global shipping lanes.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/xeneta-schedule-reliability-scorecard-october-2026-less-than-a-quarter-of-global-vessels-arrive-on-time-and-geminis-lead-disappears-on-asian-trades/"
+  },
+  {
+    "headline": "Drewry World Container Index Drops 2 Percent",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Global container freight benchmark rates experienced a downward trend last week, declining by two percent according to the latest assessments. Procurement and logistics teams widely utilize the World Container Index as an independent reference for managing index-linked shipping contracts across major international trade lanes. This recent movement reflects ongoing adjustments in global ocean freight pricing and market conditions.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-2-last-week-8/"
+  },
+  {
+    "headline": "CMA CGM Reports Strong Q3 Ocean Volume Growth",
+    "continent": "Europe",
+    "country": "France",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "French container shipping giant CMA CGM released its financial performance update for the third quarter, highlighting robust ocean shipping volume growth that outpaced major European competitors. The carrier reported a 5.5 percent year-on-year increase in transported volumes, reaching 6.5 million TEUs. Meanwhile, performance across its logistics subsidiary, Ceva, presented a more mixed outcome. The results reflect ongoing strategic adaptations within the carrier network amidst broader global market conditions and shifting competitive dynamics among major ocean shipping alliances.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cma-cgm-q3-26-update-out-ocean-outperforms-ceva-a-mixed-bag/"
+  },
+  {
+    "headline": "Port of Los Angeles faces mounting rail container dwell times",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Rail dwell times for idle containers waiting for transport at the Port of Los Angeles have surged beyond nine days, according to Executive Director Gene Seroka. This buildup points to emerging bottlenecks in intermodal operations at North America's busiest container gateway. Elevated dwell times often signal congestion issues that can ripple through domestic supply chains, impacting cargo velocity and equipment availability for shippers relying on seamless transitions between maritime and rail freight networks.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/"
+  },
+  {
+    "headline": "JD Sports adopts Zebra technology to enhance inventory speed",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-13",
+    "summary": "Sportswear retailer JD Sports is collaborating with Zebra Technologies to improve inventory tracking throughout its omnichannel retail network. By implementing these digital tools, the company aims to achieve continuous stock visibility across its operations. The initiative is designed to support rapid product replenishment and maintain high product availability rates for customers shopping across digital and physical channels.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/"
+  },
+  {
+    "headline": "Appellate Court Overturns DOT Funding Denial to New York Over CDLs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "A federal appeals court has unanimously ruled in favor of New York State in its legal challenge against the Department of Transportation. The dispute centered on federal funding withheld from the state regarding the validity period of non-domiciled commercial driver's licenses. The three-judge panel on the U.S. Court of Appeals for the Second Circuit agreed with the state's position, effectively reversing the federal agency's funding penalty over CDL regulations.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/denial-of-funds-to-ny-over-non-domiciled-cdls-overturned-appellate-court"
+  },
+  {
+    "headline": "Carriers leverage trailer rentals and tech to cut costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Carriers are increasingly utilizing trailer rentals as a strategic growth tool to reduce equipment expenses and explore new operating lanes without capital investments. By leveraging specialized optimization platforms, fleets can transform costly and inefficient asset repositioning operations into revenue-generating activities. This approach allows transport companies to maximize asset utilization, enhance operational flexibility, and adapt more dynamically to shifting market demand without the financial burden of permanent fleet expansion.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trailer-flexibility-is-becoming-a-growth-strategy-for-carriers"
+  },
+  {
     "headline": "BW LPG sells very large gas carrier for over $100m",
     "continent": "Global",
     "country": "Multiple",
@@ -1830,26 +2020,6 @@
     "sourceUrl": "https://container-news.com/suez-return-could-limit-november-freight-rate-increases-sogese-warns/"
   },
   {
-    "headline": "Asia-Mediterranean freight rates shift with new tariffs",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Asia to Mediterranean shipping lanes are experiencing a cost adjustment period as major ocean carriers introduce higher published tariffs and additional surcharges. Leading shipping lines have begun implementing distinct pricing strategies for Freight All Kinds rates heading into November. These changes increase complexity for cargo owners and freight forwarders attempting to calculate true transportation expenses beyond standard headline rates, signaling shifting pricing dynamics across this major international trade corridor.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/asia-mediterranean-freight-pricing-the-costs-beyond-headline-rates/"
-  },
-  {
-    "headline": "Hapag-Lloyd Announces North Europe to South Asia Rate Increases",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Ocean carrier Hapag-Lloyd has announced upcoming tariff rate adjustments for cargo moving from North Europe to destinations in South-East India, Sri Lanka, and Bangladesh. The pricing changes will impact shipments utilizing dry containers and are scheduled to take effect for sailings commencing in December 2026. The revised tariffs apply to major regional hub ports including Ennore, Chittagong, and Colombo, and will remain in place until further notice as part of the carrier's ongoing pricing strategy for the maritime trade lane.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/hapag-lloyd-raises-north-europe-south-asia-tariff-rates/"
-  },
-  {
     "headline": "Ocean Network Express Appoints New Syrian Shipping Agent",
     "continent": "Middle East",
     "country": "Syria",
@@ -1858,26 +2028,6 @@
     "summary": "Ocean Network Express has named Seanautics Maritime Services its official shipping agent in Syria, scheduled to begin operations in January 2027. This partnership deepens the carrier's footprint in the Levant area while building upon an existing operational relationship in Lebanon. Seanautics will manage customer support activities utilizing its established office locations within Damascus, thereby enhancing regional trade connectivity and service capabilities for the shipping line.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/one-expands-levant-presence-with-new-shipping-agent-in-syria/"
-  },
-  {
-    "headline": "Global container freight rates decline further across major indices",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Container shipping costs experienced additional downward pressure in recent weekly assessments. Major global benchmarks, including Drewry's World Container Index and the Freightos Baltic Index, registered continued decreases in spot rates per forty-foot equivalent unit. While overall global averages trended downward, individual trade lanes and domestic Chinese benchmarks demonstrated divergent movements, reflecting ongoing volatility in maritime logistics pricing and fluctuating demand across international shipping corridors.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/container-freight-rates-weaken-as-wci-and-fbx-extend-declines/"
-  },
-  {
-    "headline": "Norway proposes IMO Net-Zero Framework redesign for shipping",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-10",
-    "summary": "Norway has introduced a significant redesign proposal for the International Maritime Organization Net-Zero Framework. The initiative combines new Surplus Units dedicated to zero and near-zero emission fuels alongside five-year banking provisions and expanded use of surplus across compliance tiers. While designed as a balanced compromise, industry experts question whether this updated surplus market structure can successfully balance affordable compliance costs with the financial incentives required to drive alternative fuel investments within the global maritime sector.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/norways-imo-proposal-will-more-flexibility-create-a-functioning-surplus-market/"
   },
   {
     "headline": "Latin America urged to capitalize on global supply shocks",
@@ -2010,16 +2160,6 @@
     "sourceUrl": "https://container-news.com/why-hormuzs-winners-sit-outside-the-gulf/"
   },
   {
-    "headline": "US and China Extend Trade War Truce by Two Months",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-09",
-    "summary": "The United States and China have formally agreed to prolong their ongoing trade truce for an additional two months. Under this updated arrangement, both nations will preserve existing tariff cuts and maintain a freeze on supplementary trade measures through January 10, 2027. This decision formalizes and extends a bilateral agreement originally established in September, offering temporary stability for global supply chains and international trade relations between the two economic powers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/us-china-officially-extend-trade-war-truce-by-2-months/874107/"
-  },
-  {
     "headline": "Maersk adds Rhine terminal surcharges due to low water",
     "continent": "Europe",
     "country": "Germany",
@@ -2028,26 +2168,6 @@
     "summary": "Maersk has reintroduced contingency surcharges for freight moving through specific inland terminals along the Rhine river, including Bonn and Andernach, following renewed low water levels that are impacting barge transportation. Additionally, the carrier has revised its Low Water Surcharge for barge services operating at designated inland facilities within the Netherlands. These operational cost adjustments take effect for applicable inland transport movements starting early November, responding directly to seasonal disruptions in European inland waterway logistics and barge availability.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/maersk-reinstates-rhine-terminal-charges-amid-renewed-low-water/"
-  },
-  {
-    "headline": "Baltic Dry Index Rises for Fourth Consecutive Day",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "The global dry bulk freight benchmark saw continued gains, climbing 1.8 percent to reach its highest level since early October. This upward movement was driven by strong performance in the capesize segment, which manages large shipments of essential industrial raw materials such as coal and iron ore. The steady increase reflects ongoing shifts in maritime shipping costs and demand for vital dry commodities across international trade routes.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-advances-for-4th-day/"
-  },
-  {
-    "headline": "Thermal Coal Demand Boosts Dry Bulk Shipping Markets",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Dry bulk shipping demand is experiencing an upward trend driven by the winter heating season and rising thermal coal consumption. High natural gas prices have enhanced the cost competitiveness of coal for power generation. Additionally, constrained liquefied natural gas volumes from Qatar are shifting energy reliance toward coal. Shipbrokers report that these market dynamics are providing renewed momentum for bulk carriers as energy generators secure fuel supplies to meet seasonal heating requirements.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/dry-bulk-shipping-thermal-coal-market-heating-up/"
   },
   {
     "headline": "China 2026 Thermal Coal Imports Projected Near 295 Mt",
@@ -2070,16 +2190,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/somali-piracy-resurgence-understanding-the-risk-to-commercial-shipping/"
   },
   {
-    "headline": "Global LNG Bunker Prices Fall Amid Middle East Peace Hopes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Liquefied natural gas bunker prices experienced significant declines across major global hubs, driven by growing optimism regarding peace developments in the Middle East. Prices dropped sharply in European regions such as ARA and the Baltics, while also seeing a notable decrease in Singapore. Rotterdam's bunker premium over front-month TTF narrowed as regional prices fell at a faster rate than the broader benchmark, reflecting shifting energy cost dynamics for maritime logistics and international shipping operations.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-european-lng-prices-slump-235-mt-on-middle-east-peace-hopes/"
-  },
-  {
     "headline": "New ConTex Container Ship Index Rises in Week 45",
     "continent": "Europe",
     "country": "Germany",
@@ -2088,16 +2198,6 @@
     "summary": "The New ConTex container ship time charter assessment index saw a modest increase in week 45, climbing five points to reach 1,687 points. This upward movement indicates that the maritime charter market maintains a stable and firm foundation. Industry assessments reflect steady conditions across container shipping sectors without significant disruptions, supporting ongoing ocean freight operations and vessel deployment strategies globally.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-45-3/"
-  },
-  {
-    "headline": "Forward Air Halts Intermodal Division Sale",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-09",
-    "summary": "Forward Air has suspended its planned divestiture of its intermodal business unit. Leadership decided to pause the transaction as operational metrics recover toward target performance levels. Despite halting the immediate process, the company indicated it remains willing to evaluate future acquisition proposals if they reflect appropriate fair market value for the segment.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/forward-air-pauses-sale-of-intermodal-unit"
   },
   {
     "headline": "Iron Ore Prices Show Mixed Movement at Chinese Ports",
@@ -2148,16 +2248,6 @@
     "summary": "HD Korea Shipbuilding and Offshore Engineering secured a contract valued at over 600 billion South Korean won to construct two liquefied natural gas carriers. The vessels will be built by its subsidiary, HD Hyundai, following an agreement finalized with an undisclosed shipping enterprise located in the African region. This commercial maritime manufacturing deal highlights ongoing global demand for specialized gas transport vessels and reinforces the shipbuilder's position within international maritime supply chains.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/hd-korea-shipbuilding-offshore-engineering-receives-order-for-lngc-duo/"
-  },
-  {
-    "headline": "SONAR Expands National Insights Dashboard With LTL and Flatbed Data",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "The logistics intelligence platform has updated its Truckload National Insights dashboard to incorporate blended datasets, introducing dedicated tabs for less-than-truckload and flatbed shipping modes. Users can now access critical market metrics including rates, tender rejections, freight volumes, and key market movers across these expanded transportation sectors, enhancing visibility into broader domestic freight trends and capacity shifts.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/sonar-national-insights-expands-with-flatbed-and-ltl-data"
   },
   {
     "headline": "COSCO Shipping Launches Massive $1.42B Supertanker Expansion",
@@ -2238,16 +2328,6 @@
     "summary": "Gulftainer has established a new bonded logistics route connecting the Fujairah Terminal to Sharjah Dry Ports located in Sajaa, United Arab Emirates. This service facilitates the movement of freight under a customs bond between the two facilities, enabling customs clearance to be performed at the destination. The initiative is intended to streamline inland cargo transportation and expand routing alternatives for shippers operating within the region.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/gulftainer-launches-bonded-corridor-linking-fujairah-and-sharjah/"
-  },
-  {
-    "headline": "MSC Baltic III wreck removal reaches final stage",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Salvage operations to clear the grounded container vessel MSC Baltic III from Cedar Cove in Newfoundland and Labrador have achieved 84% completion. The Canadian Coast Guard reported that dismantle work is entering its final phases, with approximately 9,282 tonnes of material removed so far. The ship's bow section has been entirely brought ashore and dismantled as the cleanup project progresses toward a conclusion.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/msc-baltic-iii-wreck-removal-reaches-84/"
   },
   {
     "headline": "SOHAR Freezone Secures Six New Investment Agreements",
@@ -2360,16 +2440,6 @@
     "sourceUrl": "https://theloadstar.com/bangkok-cargo-backlog-spreads-to-exports-as-airlines-restrict-inbound-freight/"
   },
   {
-    "headline": "Zipline Raises $1.5B for US Drone Network Expansion",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Delivery startup Zipline has secured $1.5 billion in new funding to support the nationwide expansion of its automated drone logistics network. The company plans to scale its domestic manufacturing operations to meet rising demand. Recent agreements with major retail and delivery partners, including Walmart and Uber, will facilitate the rollout of new drone fulfillment sites across the country, further integrating aerial delivery into last-mile supply chain operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/"
-  },
-  {
     "headline": "Bangkok Airport IT Outage Causes Air Cargo Backlog",
     "continent": "Asia",
     "country": "Thailand",
@@ -2380,16 +2450,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/bangkok-airport-cargo-congestion-frustrates-freight-forwarders"
   },
   {
-    "headline": "Chili's Supply Chain Overhaul Drives Menu Consistency",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-09",
-    "summary": "Chili's supply chain strategy has undergone significant restructuring to prioritize customer experience and operational execution. By realigning procurement and distribution priorities, the restaurant chain achieved improved menu consistency across locations, which subsequently contributed to sales growth for both the enterprise and its supplier network. This operational shift demonstrates how aligning upstream supplier performance with downstream customer needs can enhance overall business performance in the restaurant sector.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/how-chilis-supply-chain-improvements-are-helping-menu-consistency/874109/"
-  },
-  {
     "headline": "Latam Airlines Deploys Passenger Aircraft for Cargo Operations",
     "continent": "South America",
     "country": "Multiple",
@@ -2398,16 +2458,6 @@
     "summary": "Latam Airlines repurposed a passenger aircraft to execute a dedicated freight transport mission, reviving an operational strategy initially developed during the pandemic. This approach enables carriers to increase cargo capacity and maintain freight flows by utilizing passenger cabins for transport when additional logistic capabilities are required. The deployment highlights ongoing adaptability in air freight management to address capacity constraints and meet fluctuating transport demands.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/latam-airlines-dusts-off-covid-playbook-to-move-cargo-in-passenger-cabin"
-  },
-  {
-    "headline": "LA-Long Beach Port Strike Delayed Amid Ongoing Union Negotiations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Labor negotiations at the ports of Los Angeles and Long Beach have averted an immediate work stoppage as representatives from both sides agreed to push back the strike deadline. Bargaining sessions remain active as terminal watchmen and employers continue working toward a renewed contract agreement. This extension prevents near-term disruptions at two of the nation's busiest maritime gateways, keeping cargo moving smoothly while discussions proceed.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/strike-at-los-angeles-long-beach-port-delayed-as-union-contract-talks-continue"
   },
   {
     "headline": "Indian Brokers Threaten Cargo Boycott Over Container Fees",
