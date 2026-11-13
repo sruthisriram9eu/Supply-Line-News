@@ -24,6 +24,18 @@
     "sourceUrl": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/"
   },
   {
+    "headline": "Evaluating Explainable AI for Freight Mode Classification",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-11",
+    "summary": "Researchers investigated the reliability and trustworthiness of explainable machine learning models used to classify freight transportation modes, such as air versus truck or ocean shipping. Analyzing nearly 6,000 shipment records from a global health supply chain dataset, the study compared neural networks, logistic regression, random forests, and gradient boosting models. The team evaluated model performance alongside the stability and faithfulness of popular explanation methods like SHAP and LIME. Results indicate that tree-based ensemble models outperformed neural and linear models, providing insights into how AI decision-making tools can be better validated for supply chain logistics.",
+    "whyItMatters": "This early-stage research could help logistics teams build more reliable and transparent AI tools for routing and freight selection.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.15716v1"
+  },
+  {
     "headline": "Serve Robotics opens robot fleet via delivery API",
     "continent": "North America",
     "country": "United States",

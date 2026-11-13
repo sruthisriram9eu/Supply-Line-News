@@ -1,5 +1,145 @@
 [
   {
+    "headline": "Cargo Ship Collision Closes Bridge on Delaware River",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "A Singapore-flagged bulk carrier collided with the Tacony-Palmyra Bridge, which spans the Delaware River between Philadelphia and New Jersey. The incident resulted in the immediate closure of the bridge and has sparked renewed scrutiny regarding the safety and vulnerability of critical American infrastructure to marine vessel strikes. This disruption impacts regional logistics and freight movement along an important transport corridor, highlighting ongoing risks to supply chain continuity tied to physical infrastructure vulnerabilities.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/singapore-flagged-cargo-ship-strikes-us-bridge/"
+  },
+  {
+    "headline": "Secondhand Vessel Cybersecurity Risks Highlighted by Breach",
+    "continent": "Europe",
+    "country": "Greece",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Recent cyber intrusions at a major ocean carrier reveal critical vulnerabilities associated with acquiring secondhand vessels. Inherited legacy systems and undocumented digital doors present significant operational hazards for maritime fleet operators. Experts emphasize that vessel acquisitions routinely bypass thorough digital audits at the time of delivery, leaving organizations exposed to threat actors. This oversight underscores the urgent need for comprehensive cybersecurity assessments during vessel transactions to protect global maritime supply chains from escalating digital threats.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/maersks-cyber-breach-is-a-warning-for-every-secondhand-ship-sale/"
+  },
+  {
+    "headline": "How a Taiwan Crisis Could Paralyze Western Ports",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-13",
+    "summary": "Recent maritime risk analyses highlight that control over critical trade corridors is increasingly shifting toward legal measures, insurance regulations, and authorization requirements rather than direct military blockades. This evolving landscape suggests that potential geopolitical tensions in the Taiwan Strait could severely disrupt and paralyze Western port operations globally without requiring a single military engagement. Experts emphasize that the vulnerability of international supply chains extends far beyond physical chokepoints, as administrative and legal interventions can effectively halt maritime trade flows and impact logistics networks worldwide.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/how-a-taiwan-crisis-could-paralyze-western-ports-without-a-single-warship/"
+  },
+  {
+    "headline": "Kalmar to supply 21 hybrid straddle carriers to TTI Algeciras",
+    "continent": "Europe",
+    "country": "Spain",
+    "category": "storage_distribution",
+    "date": "2026-11-13",
+    "summary": "Kalmar has received an order from Total Terminal International Algeciras for twenty-one hybrid straddle carriers to enhance shuttle operations at its Spanish container terminal. Booked into Kalmar's fourth-quarter order intake, the delivery of the new equipment is scheduled for completion by the final quarter of 2027.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/kalmar-secures-order-for-21-hybrid-straddle-carriers-at-tti-algeciras/"
+  },
+  {
+    "headline": "Singapore Opens Applications for LNG Floating Storage Licences",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "The Maritime and Port Authority of Singapore is accepting applications for up to two liquefied natural gas floating storage unit licences to operate within local anchorages. This initiative follows the recent award of eight new LNG bunker supplier licences. The new floating storage units are designed to support the growing supplier base by enhancing storage diversification and reloading capabilities, thereby strengthening regional bunkering infrastructure and supply chain operations for maritime fuel.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
+  },
+  {
+    "headline": "IMO Urges Strict Maritime Enforcement in Strait of Hormuz",
+    "continent": "Middle East",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "The leader of the International Maritime Organization is urging member countries to rigorously apply maritime safety and security laws within the Strait of Hormuz. This appeal comes in response to an ongoing series of attacks targeting commercial vessels navigating the vital shipping corridor. Officials emphasize the critical need to utilize established technical and operational protocols to safeguard merchant vessels and crews operating in the volatile region, ensuring uninterrupted global maritime trade and freight movement through the strategic chokepoint.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/imo-secretary-general-calls-on-states-to-enforce-maritime-rules-in-the-strait-of-hormuz/"
+  },
+  {
+    "headline": "Korean maritime carbon capture proposal chosen by IMO",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "sustainability",
+    "date": "2026-11-12",
+    "summary": "A public-private consortium of ten maritime organizations in South Korea has achieved a significant milestone after the International Maritime Organization selected its onboard carbon capture and storage proposal as the foundational document for upcoming international safety regulations. The framework will guide the safe integration of carbon capture technologies on vessels, supporting global efforts to reduce emissions across maritime logistics and shipping operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/korean-partnerships-carbon-capture-proposal-selected-as-basis-for-imos-future-safety-guidelines/"
+  },
+  {
+    "headline": "Houston Bunker Fuel Tightens Amid Strong Demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Bunker fuel availability in Houston has experienced notable tightness, particularly for high-sulfur fuel oil and very low-sulfur variants, driven by steady regional demand. Market suppliers advise maritime operators to plan ahead with extended lead times ranging from six to ten days depending on the specific fuel grade. This tightening supply dynamic reflects ongoing logistical pressures within North American maritime fueling hubs, potentially impacting vessel scheduling and operational costs for carriers navigating the region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/engine-americas-bunker-fuel-availability-outlook-126/"
+  },
+  {
+    "headline": "Hapag-Lloyd Reports Strong Financial Results in Third Quarter",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Ocean carrier Hapag-Lloyd finished the third quarter of 2026 with a substantial increase in profitability, driven by strong market conditions. The company generated a Group EBITDA of USD 1.7 billion, up significantly from the same timeframe in the prior year. Group EBIT rose to USD 1.1 billion, while overall Group profit reached USD 1.0 billion. These robust financial outcomes highlight the carrier's continued operational success and favorable demand dynamics within the global container shipping and logistics sector.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/hapag-lloyd-with-a-strong-third-quarter/"
+  },
+  {
+    "headline": "Ernst Russ Expands Fleet with New Tankers Amid Strong Financials",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Ernst Russ announced its financial results for the first nine months of the year, reporting revenues of EUR 118.8 million and an EBIT of EUR 47.9 million. The Hamburg-based shipping company also advanced its fleet expansion strategy by entering the tanker segment, integrating two new product and chemical tankers into active operations. This fleet growth contributed to a significant 38% increase in the company's overall charter backlog, reflecting positive momentum in its maritime logistics operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/ernst-russ-reports-revenues-of-eur-118-8-million-and-ebit-of-eur-47-9-million-in-the-first-nine-months-of-2026/"
+  },
+  {
+    "headline": "Port of Gothenburg installs storage tank for new biogas plant",
+    "continent": "Europe",
+    "country": "Sweden",
+    "category": "sustainability",
+    "date": "2026-11-12",
+    "summary": "Construction of a new liquefied biogas facility at the Port of Gothenburg has reached a key milestone following the installation of its main storage tank. Developed and owned by Nordion Energi, the plant is on track to be completed by the second quarter of 2027. Once operational, the facility will enable large-scale bunkering of liquefied biogas, supporting maritime sustainability and cleaner shipping operations by providing alternative green fuel options for vessels calling at the major Swedish port.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/large-scale-liquefied-biogas-bunkering-to-become-possible-in-the-port-of-gothenburg-in-2027/"
+  },
+  {
+    "headline": "US Lawmakers Push Bills to Restrict Presidential Tariff Authority",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-12",
+    "summary": "Legislative efforts in the United States Congress aim to curtail executive trade powers through three distinct proposed bills. Industry experts note a growing political appetite for reforming national trade policies and placing stricter congressional oversight on the implementation of tariffs. If enacted, these measures could alter the country's approach to international trade and trade-related geopolitics by limiting unilateral tariff decisions by the executive branch.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/"
+  },
+  {
+    "headline": "Trump Threatens to Double Tariffs on Mexican Imports",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "international_relations",
+    "date": "2026-11-12",
+    "summary": "The administration has issued a warning to increase tariffs on goods imported from Mexico, linking trade policy directly to border enforcement and migration issues. This potential escalation threatens to disrupt cross-border supply chains, manufacturing operations, and international trade stability between the two nations, introducing significant cost pressures and regulatory uncertainty for businesses reliant on North American shipping routes and integrated production networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trump-threatens-to-double-mexico-tariffs-over-alleged-migrant-influx"
+  },
+  {
+    "headline": "BLET Ends Wheeling & Lake Erie Strike After Agreement",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "The Brotherhood of Locomotive Engineers and Trainmen has concluded its strike against the Wheeling & Lake Erie Railway. The labor action ended following the successful negotiation of a new agreement designed to protect the professional scope and work assignments of union conductors. This resolution restores normal operational continuity for the regional rail carrier, averting further freight transportation disruptions in the affected service network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/blet-ends-wheeling-lake-erie-strike"
+  },
+  {
     "headline": "Seanergy Maritime expands fleet with $264m bulk carrier acquisitions",
     "continent": "Europe",
     "country": "Greece",
@@ -1990,16 +2130,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/red-sea-ports-handle-10000-tons-of-general-miscellaneous-cargo/"
   },
   {
-    "headline": "Baltic Dry Index Rises to 2854 Points",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "The Baltic Dry Index advanced by 49 points to reach 2854 points. Compiled daily by the London-based Baltic Exchange through a global survey of agents, the benchmark tracks shipping costs for major dry bulk commodities, including coal, grain, and iron ore. This movement reflects shifts in global maritime freight pricing and demand for raw materials across international shipping routes.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2854-up-49-points/"
-  },
-  {
     "headline": "HMM Platinum declares general average following vessel fire",
     "continent": "Africa",
     "country": "South Africa",
@@ -2028,16 +2158,6 @@
     "summary": "Delivery startup Zipline has secured $1.5 billion in new funding to support the nationwide expansion of its automated drone logistics network. The company plans to scale its domestic manufacturing operations to meet rising demand. Recent agreements with major retail and delivery partners, including Walmart and Uber, will facilitate the rollout of new drone fulfillment sites across the country, further integrating aerial delivery into last-mile supply chain operations.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/"
-  },
-  {
-    "headline": "Cosco Reports 81% Profit Surge on Strong Q3 Ocean Freight Revenue",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Cosco experienced a significant 81 percent surge in profit during the third quarter, driven by robust ocean freight revenues bolstered by stronger trans-Pacific trade volumes. Despite these strong financial results for the first nine months of the year, ongoing geopolitical disruptions continue to create uncertainty regarding the company's future market outlook.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/cosco-profit-rockets-81-as-ocean-freight-revenue-climbs-in-q3"
   },
   {
     "headline": "Bangkok Airport IT Outage Causes Air Cargo Backlog",
@@ -2138,56 +2258,6 @@
     "summary": "Intermodal contract rates are experiencing upward pressure this autumn season, primarily driven by rising fuel surcharges rather than base shipping demand. Industry analysts are evaluating whether these elevated freight costs will persist through the remainder of the year as diesel and energy markets fluctuate, impacting overall transportation budgets for shippers utilizing combined rail and truck networks across domestic freight corridors.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven"
-  },
-  {
-    "headline": "Major carriers continue enforcement of non-domiciled CDL rules",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-07",
-    "summary": "Large trucking companies are maintaining regulatory pressure regarding non-domiciled commercial driver's license holders, a factor industry leaders blame for prolonged freight market downturns. According to sector analysts, this strict enforcement by major operators is expected to persist regardless of upcoming political shifts or administrative changes in Washington, signaling a lasting impact on freight capacity and driver availability across the national transportation network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/fuller-big-carriers-fmcsa-crackdown-permanent"
-  },
-  {
-    "headline": "Freight Fraud Report Links Compromised Communications to 40% of Stolen Loads",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-07",
-    "summary": "A recent industry report highlights that compromised communications are tied to nearly half of all direct cargo theft incidents. The analysis also reveals a dramatic escalation in fraudulent phone calls, which jumped by ninety percent, alongside a more than twofold increase in suspicious carrier ownership changes. These findings point to growing vulnerabilities and evolving tactics within freight transportation networks, emphasizing the urgent need for enhanced verification measures across the supply chain to safeguard shipments and secure logistics operations against sophisticated criminal activities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report"
-  },
-  {
-    "headline": "Union Pacific CEO claims leaked video rate threat was a joke",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-06",
-    "summary": "The leader of a major North American railroad network clarified that a controversial recorded statement regarding potential freight rate increases for shippers was intended as a joke. The leaked footage sparked concern among logistics customers and industry observers who rely on the carrier for rail freight transportation. The executive defended the remark while addressing the fallout from the circulating video.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat"
-  },
-  {
-    "headline": "North America Container Imports Jump 9% Amid Rising Freight Costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-06",
-    "summary": "Container volumes heading into North America grew by nine percent over the month of September. This increase occurred despite ongoing logistical disruptions and escalating pricing pressures within the global freight market. Industry data highlights a continued surge in international shipping volumes even as supply chain operators face tightening capacity constraints and elevated transportation expenses.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/north-america-container-imports-rise-9-as-as-freight-pricing-pressures-mount"
-  },
-  {
-    "headline": "Union Pacific Chief's Merger Remarks Dismissed as Offhand",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-06",
-    "summary": "Railroad executives have downplayed recent comments from a major freight leader regarding potential shipping price hikes aimed at opponents of an ongoing industry merger. The remarks surfaced during discussions surrounding corporate consolidation within the freight rail sector, prompting the company to characterize the statement as casual rather than a formal business policy. Regulatory bodies and industry stakeholders continue to monitor the consolidation process closely as carrier partnerships face heightened scrutiny over potential impacts on service pricing and market competition.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/"
   },
   {
     "headline": "Conlio Secures €6.4M to Automate Freight Documentation",
