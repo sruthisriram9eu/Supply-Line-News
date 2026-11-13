@@ -1,5 +1,17 @@
 [
   {
+    "headline": "New mathematical model helps supply chains survive demand shocks",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-12",
+    "summary": "Researchers have developed a mathematical method to calculate how long a serial supply chain can survive when customer demand exceeds maximum production capacity. By analyzing inventory distribution, transportation delays, and flow constraints, the approach defines conditions to guarantee a minimum operational lifespan during severe shocks. The team used these findings to create a dual-mode controller that stockpiles inventory during normal periods and safely depletes those reserves when a shock hits, testing the concept through simulations.",
+    "whyItMatters": "This early-stage research could help planners optimize inventory buffers to prevent stockouts during severe, unexpected demand surges.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.16951v1"
+  },
+  {
     "headline": "Nvidia confirms technical feasibility of chip-tracking for anti-smuggling",
     "continent": "North America",
     "country": "United States",
