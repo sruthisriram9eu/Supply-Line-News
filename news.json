@@ -1,5 +1,65 @@
 [
   {
+    "headline": "KMTC to launch independent South Korea-Vietnam container route",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Korean Maritme Transport Co is set to introduce a proprietary container shipping route linking South Korea, Vietnam, and China starting in December 2026. This new service, designated as IPH, transitions the carrier away from its current slot-chartering arrangement on the trade lane. Operations will feature two container ships, each with a capacity of roughly one thousand TEU, enhancing the company's direct maritime logistics footprint across these key Asian export markets.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/kmtc-to-launch-own-south-korea-vietnam-container-service-in-december/"
+  },
+  {
+    "headline": "Hai An expands fleet with new 2,702 TEU container vessel",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Vietnamese shipping operator Hai An Transport and Stevedoring has received a new 2,702 TEU container ship named Green View. Delivered to its affiliate, Hai An Green Shipping Lines Company Limited, the addition brings the company's total active fleet to 21 vessels. This expansion increases the organization's combined carrying capacity to 35,700 TEU, supporting its regional maritime transport operations and service capabilities.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/hai-an-takes-delivery-of-green-view/"
+  },
+  {
+    "headline": "Maersk Adjusts Truck Fuel Surcharges in Greece and Skopje",
+    "continent": "Europe",
+    "country": "Greece",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Container shipping major Maersk has revised its inland transport fuel surcharges for Greece and Skopje, effective November 16, 2026. The adjustments are driven by escalating fuel expenses resulting from ongoing geopolitical developments and disruptions in the Middle East. The updated policy sets the truck fuel surcharge at 12.5% for operations within Greece. These changes reflect carriers' ongoing efforts to manage volatile energy costs through localized inland logistics pricing adjustments.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-updates-fuel-surcharges-in-greece-and-skopje-2/"
+  },
+  {
+    "headline": "Kalmar to supply electric reachstacker to Polish terminal",
+    "continent": "Europe",
+    "country": "Poland",
+    "category": "storage_distribution",
+    "date": "2026-11-14",
+    "summary": "POK Zachod has placed an order with Kalmar for a customized electric reachstacker to be deployed at its logistics terminal in Wojkowice, Poland. The heavy-duty equipment is designated for container and steel handling operations at the facility. Booked during the third quarter of 2026, the delivery of the sustainable machinery is anticipated for the second quarter of 2027. The infrastructure initiative has also secured financial backing from the European Union, aiding regional terminal modernization and environmental transition efforts.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/kalmar-secures-electric-reachstacker-order-in-poland/"
+  },
+  {
+    "headline": "Summit Shipping Launches Weekly China-Red Sea Container Service",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Singapore-based carrier Summit Shipping Line has introduced a new weekly container shipping route connecting China with three major ports in the Red Sea region. Designated as the China Red Sea Service, the operation utilizes a fleet of eight dedicated container vessels, each boasting a capacity of around 2,000 TEU. This maritime logistics expansion enhances direct trade connectivity between East Asian manufacturing hubs and the critical Red Sea corridor, providing shippers with additional capacity options for regional cargo movement.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/summit-shipping-announces-new-china-red-sea-container-service/"
+  },
+  {
+    "headline": "Major 3PLs face strategic complexity despite strong earnings",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Recent financial results indicate strong profitability and rising expectations across major third-party logistics providers. However, industry analysis suggests that impressive fiscal performance masks underlying operational challenges. Many providers are currently struggling with integration hurdles and disruptive internal structural changes. This dynamic raises questions about whether the expansion of these logistics giants translates into genuinely improved service capabilities, or merely creates a more complicated operating environment for their customers navigating the supply chain landscape.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/the-3pl-reality-check-bigger-better-or-just-more-complicated/"
+  },
+  {
     "headline": "Tanker Collides with Cruise Ship on Mississippi River",
     "continent": "North America",
     "country": "United States",
@@ -48,6 +108,26 @@
     "summary": "The United Arab Emirates is establishing an alternative freight route combining east coast port expansion with a new land corridor through Oman. This infrastructure initiative is designed to maintain continuous cargo flows and bypass potential disruptions in the critical strait, securing the nation's supply chain operations against regional geopolitical and maritime shipping vulnerabilities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/explainer-emirates-two-shore-bridge/"
+  },
+  {
+    "headline": "Humble Robotics secures $51M Series A for autonomous freight",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Humble Robotics has successfully closed a $51 million Series A funding round to advance its autonomous electric freight vehicles. The company aims to transform short-haul logistics using an integrated chassis design that merges the tractor and trailer into a single, lighter unit. This unified autonomous system is specifically engineered to optimize repetitive, short-distance transportation routes, improving overall efficiency in the freight sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future"
+  },
+  {
+    "headline": "CMA CGM triples Q3 profit amid higher freight rates",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Container shipping giant CMA CGM reported a threefold increase in third-quarter profit driven by rising freight rates and higher cargo volumes. While the core shipping division significantly boosted earnings, the company's separate logistics segment experienced narrowing margins despite generating higher revenue overall during the same period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise"
   },
   {
     "headline": "CMA CGM Posts Strong Q3 2026 Results Amid Volatility",
@@ -1930,16 +2010,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/ai-saved-air-cargo-rates-up-30-yoy"
   },
   {
-    "headline": "MSM Shifts Focus to Trust Over Scale in Shipmanagement",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Shipmanagement firm MSM, formerly Maryam Shipmanagement, is transitioning into an international third-party management platform following a recent rebrand. According to the company's leadership, the ongoing consolidation wave in the maritime sector does not require shipmanagers to sacrifice close relationships with vessel owners, crew members, and ships in pursuit of sheer size. Instead, the organization is positioning relationship-building and trust as critical competitive advantages as it expands its footprint beyond group-focused operations into the broader global market.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/msm-shipmanagements-next-advantage-will-be-trust-not-size/"
-  },
-  {
     "headline": "Rubico expands MR tanker fleet with Chinese newbuild acquisition",
     "continent": "Asia",
     "country": "China",
@@ -2008,16 +2078,6 @@
     "summary": "According to the latest industry report from C.H. Robinson, United States container ports continue to experience significant inland transportation bottlenecks. Despite a moderation in overall import demand, persistent pressures affecting rail connections, terminal access, and chassis availability are disrupting container deliveries. While maritime vessel operations remain relatively steady, these landside friction points continue to strain domestic logistics and intermodal supply chain efficiency.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/c-h-robinson-warns-of-persistent-port-and-drayage-constraints/"
-  },
-  {
-    "headline": "Bureau Veritas Launches Upgraded Maritime Emissions Platform",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-10",
-    "summary": "Bureau Veritas Marine & Offshore has introduced an enhanced version of its VeriSTAR Green digital platform to assist shipping companies in tracking emissions and adhering to environmental regulations. The updated software centralizes fleet performance monitoring, compliance tracking, and data collection into a single system. Designed for shipowners, operators, managers, and charterers, the tool simplifies environmental reporting and operational assessment across maritime fleets, addressing increasing sustainability pressures in the global logistics sector.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/bureau-veritas-upgrades-veristar-green-emissions-platform/"
   },
   {
     "headline": "Two oil tankers on fire following explosions in Strait of Hormuz",
@@ -2108,16 +2168,6 @@
     "summary": "FreightWise has integrated two transportation management systems under the Kuebix AI platform, introducing artificial intelligence capabilities tailored for small and mid-sized shippers. The newly rebuilt system is designed to optimize multi-stop route planning, streamline enterprise integrations, and enhance freight audit processes, aiming to improve overall operational efficiency within supply chain logistics.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/inside-kuebix-ai-a-shipper-tms-rebuilt-around-executable-ai"
-  },
-  {
-    "headline": "Uber Freight Restructures Workforce to Boost Managed Transport",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-10",
-    "summary": "Uber Freight is restructuring its operations by eliminating around 80 positions while actively recruiting for nearly 300 new roles. This strategic workforce adjustment is designed to realign company resources and focus more heavily on the expansion of its managed transportation services. The shift highlights ongoing adaptations within the digital freight brokerage sector as companies pivot to meet changing market demands and optimize service delivery models.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/uber-freight-cuts-80-jobs-while-hiring-nearly-300-in-growth-push"
   },
   {
     "headline": "UK offshore energy supply chain shifts focus overseas",
