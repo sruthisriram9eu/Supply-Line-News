@@ -1,5 +1,55 @@
 [
   {
+    "headline": "Asean Seas Line alters China-Philippines service rotation",
+    "continent": "Asia",
+    "country": "Philippines",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Asean Seas Line has updated its China-Philippines SVP shipping route by eliminating Shekou as a regular port of call. The revised maritime service now connects two ports in China directly with Manila and Subic Bay within the Philippines. Operations for this updated route are maintained using a single container vessel possessing a capacity of approximately 1,100 TEU. This network adjustment impacts regional container shipping schedules and port connectivity between the two nations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/asean-seas-line-removes-shekou-from-china-philippines-service/"
+  },
+  {
+    "headline": "Tailwind updates Tiger Express route by adding Xiamen port",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Tailwind Shipping Lines is set to modify its fortnightly Tiger Express service starting in December 2026. The revised vessel rotation will incorporate a direct stop at the Chinese port of Xiamen while eliminating the previous call at Colombo in Sri Lanka. This operational adjustment alters the maritime connection linking Bangladesh, Malaysia, and Vietnam, integrating a key Chinese hub into the established regional network and shifting trade flow dynamics for the carrier's scheduled port itinerary.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/tailwind-replaces-colombo-with-xiamen-on-tiger-express-service/"
+  },
+  {
+    "headline": "Hapag-Lloyd and ZIM Expand Asia-South America Route",
+    "continent": "South America",
+    "country": "Brazil",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Carriers Hapag-Lloyd and ZIM have integrated a scheduled stop at the Brazilian port of Imbituba into their shared Asia to East Coast South America shipping route. Marketed under the designations AS3 and ZFS respectively, this adjustment broadens the ocean route's footprint along the southern coastline of Brazil, enhancing direct trade connectivity between Asian markets and South American ports.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/hapag-lloyd-and-zim-add-imbituba-to-asia-south-america-service/"
+  },
+  {
+    "headline": "Port of Long Beach Achieves Record-Low Emissions per Container",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-11-14",
+    "summary": "The Port of Long Beach has reported its lowest-ever emissions per container for 2025, despite processing a record volume of nearly 9.9 million TEUs. This environmental milestone is driven by targeted investments in zero-emission equipment, increased utilization of shore power, and a rise in visits from cleaner vessels. These operational improvements highlight significant progress in mitigating the environmental impact of major maritime logistics hubs while managing high cargo throughput.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/port-of-long-beach-records-lowest-emissions-per-container/"
+  },
+  {
+    "headline": "Maersk legacy system breach highlights maritime cybersecurity risks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-14",
+    "summary": "Global shipping leader Maersk recently confirmed a cyberattack involving unauthorized access to a legacy IT system, resulting in data theft. While contained, the incident underscores the growing vulnerabilities within logistics networks. Industry analysts view the breach as a significant signal regarding the evolving risk landscape in international shipping, where high consolidation levels, extensive logistics data sharing, and heightened digital warfare threats around critical trade chokepoints like the Strait of Hormuz create complex security challenges for major supply chain operators.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/why-maersks-latest-hack-matters-more-than-it-looks/"
+  },
+  {
     "headline": "KMTC to launch independent South Korea-Vietnam container route",
     "continent": "Asia",
     "country": "South Korea",
@@ -108,6 +158,16 @@
     "summary": "The United Arab Emirates is establishing an alternative freight route combining east coast port expansion with a new land corridor through Oman. This infrastructure initiative is designed to maintain continuous cargo flows and bypass potential disruptions in the critical strait, securing the nation's supply chain operations against regional geopolitical and maritime shipping vulnerabilities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/explainer-emirates-two-shore-bridge/"
+  },
+  {
+    "headline": "USPS Implements Permanent 11% Fuel Surcharge and Rate Hike",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "The United States Postal Service is introducing a permanent eleven percent fuel surcharge alongside an increase in parcel shipping rates. This pricing adjustment reflects a more aggressive approach by the postal agency toward securing revenue amid changing operational and economic pressures within the domestic freight and parcel delivery sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/usps-to-add-11-permanent-fuel-surcharge-along-with-parcel-rate-hike"
   },
   {
     "headline": "Humble Robotics secures $51M Series A for autonomous freight",
@@ -2000,16 +2060,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/1-in-6-supply-chain-professionals-report-ai-related-data-exposure-survey-finds"
   },
   {
-    "headline": "AI Demand Drives 30% Year-Over-Year Surge in Air Cargo Rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Artificial intelligence equipment demand and global supply chain disruptions have sparked an unexpected boom in the air cargo sector, averting a forecasted market recession. Industry data reveals a 30 percent increase in freight rates year-over-year alongside a 6 percent rise in overall cargo volumes. Meanwhile, prominent drone delivery operators are accelerating their commercial expansion by scaling up strategic partnerships with major retail giants.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/ai-saved-air-cargo-rates-up-30-yoy"
-  },
-  {
     "headline": "Rubico expands MR tanker fleet with Chinese newbuild acquisition",
     "continent": "Asia",
     "country": "China",
@@ -2148,26 +2198,6 @@
     "summary": "Canada Goose is planning to modify its pricing structure in the upcoming year to mitigate the financial impact of new import tariffs. Ahead of these duties taking effect in August, the Toronto-based luxury apparel manufacturer proactively accelerated shipments to secure inventory within the United States. This strategic inventory positioning, combined with the upcoming pricing adjustments, reflects how businesses are actively managing trade policy shifts and cost pressures within their cross-border supply chain operations.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/"
-  },
-  {
-    "headline": "OTAA expands US fulfillment in Texas to manage trade changes",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-10",
-    "summary": "Australian apparel brand OTAA has partnered with Cart.com to establish a domestic fulfillment operation in Longview, Texas. The move shifts the company's strategy for handling United States customer orders away from relying on cross-border shipments, positioning the business closer to its consumer base amid anticipated shifts in international trade policies concerning low-value shipments.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/apparel-shipper-expands-us-fulfillment-operations-to-skirt-de-minimis-end/874073/"
-  },
-  {
-    "headline": "FreightWise Launches Kuebix AI for Shipper TMS Platforms",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-10",
-    "summary": "FreightWise has integrated two transportation management systems under the Kuebix AI platform, introducing artificial intelligence capabilities tailored for small and mid-sized shippers. The newly rebuilt system is designed to optimize multi-stop route planning, streamline enterprise integrations, and enhance freight audit processes, aiming to improve overall operational efficiency within supply chain logistics.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/inside-kuebix-ai-a-shipper-tms-rebuilt-around-executable-ai"
   },
   {
     "headline": "UK offshore energy supply chain shifts focus overseas",
