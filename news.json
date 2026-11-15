@@ -1,5 +1,155 @@
 [
   {
+    "headline": "Hong Kong advances ambitious maritime strategy and reforms",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Hong Kong authorities are actively pursuing a comprehensive maritime strategy that encompasses ship registration, tax reform, green bunkering initiatives, and closer collaboration with Shanghai. While these policy commitments signal a strong ambition to boost the region's maritime sector, the primary challenge remains successfully translating these government goals into tangible, long-term commercial operations within the global shipping and logistics network.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/hong-kongs-five-year-clock/"
+  },
+  {
+    "headline": "US Extends Jones Act Waiver Through February",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Washington has approved a 90-day extension of the Jones Act waiver, permitting foreign-flagged ships to handle specific domestic cargo transport between domestic ports until February. The Department of Homeland Security authorized this third prolongation following the initial waiver introduced in March, ensuring continued flexibility for domestic maritime logistics and vessel routing amidst ongoing supply chain adjustments.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/us-extends-jones-act-waiver-into-february/"
+  },
+  {
+    "headline": "Naftomar orders four LPG carriers at HD Hyundai",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "manufacturing",
+    "date": "2026-11-15",
+    "summary": "Greek gas carrier operator Naftomar has commissioned four semi-refrigerated liquefied petroleum gas vessels from HD Hyundai's medium-sized shipbuilding division in South Korea. The order comprises 9,000 cubic meter carriers, with scheduled delivery dates ranging from December 2028 through September 2029. Financial terms regarding the contract pricing have not been disclosed by industry sources.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/naftomar-returns-to-south-korea-for-lpg-quartet/"
+  },
+  {
+    "headline": "India eases ship registration rules to boost national fleet",
+    "continent": "Asia",
+    "country": "India",
+    "category": "international_relations",
+    "date": "2026-11-15",
+    "summary": "India has modified its vessel registration policies to permit ships with majority domestic ownership to fly the national flag, thereby accommodating foreign minority stakes. The Ministry of Ports, Shipping and Waterways lowered the mandatory domestic ownership requirement from total control to over 50 percent. This policy adjustment is designed to attract investment and increase the overall tonnage capacity of the country's maritime fleet.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/india-eases-flag-rules-in-push-for-more-tonnage/"
+  },
+  {
+    "headline": "Shandong Marine launches new China–South Korea container shipping route",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Shandong Marine Corporation has introduced a new container shipping service linking Rizhao in China with Incheon in South Korea. Operating twice a week with a vessel capacity of approximately 1,100 TEU, the Rizhao–Incheon Express route aims to enhance maritime connectivity and trade logistics between the two neighboring nations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/shandong-marine-launches-new-china-south-korea-container-service/"
+  },
+  {
+    "headline": "Medkon Expands Turkey-North Africa Service with Algiers Call",
+    "continent": "Africa",
+    "country": "Algeria",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Medkon Lines has integrated Algiers into its Turkey-North Africa shipping route, broadening regional maritime coverage beyond its current Tunisian stops. The updated route is serviced by a single container vessel with a capacity of roughly 700 TEU, providing departures every twenty days. This adjustment enhances trade connectivity between Turkish ports and North African destinations, offering shippers regular maritime transport options within the Mediterranean basin.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/medkon-adds-algiers-to-turkey-north-africa-service/"
+  },
+  {
+    "headline": "Cyprus and Vietnam Explore Bilateral Trade and Shipping Ties",
+    "continent": "Europe",
+    "country": "Cyprus",
+    "category": "international_relations",
+    "date": "2026-11-15",
+    "summary": "Officials from Cyprus and Vietnam recently convened in Nicosia for a trade and investment forum, highlighting maritime shipping as a primary sector for bilateral collaboration. While discussions centered on leveraging the island nation as an entryway into European markets for the Southeast Asian country, the partnership faces operational limitations regarding container shipping capabilities. Both governments continue to evaluate strategic opportunities to strengthen commercial connections and supply chain pathways between the two regions.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cyprus-can-be-vietnams-door-to-europe-but-not-for-containers/"
+  },
+  {
+    "headline": "Samskip launches Morocco to North Europe container route",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Logistics provider Samskip has established a weekly container shipping route connecting Morocco with Northern Europe and the Iberian Peninsula. Designed to capture seasonal demand for Moroccan fruit exports, the service links Agadir directly to Spanish ports as well as key hubs in the United Kingdom and the Netherlands. This maritime connection offers agricultural exporters a streamlined path to major European consumer markets, enhancing regional trade efficiency during peak harvest periods.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/samskip-introduces-morocco-north-europe-service-via-spain/"
+  },
+  {
+    "headline": "CMA CGM introduces new peak season surcharges on key trade routes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Container shipping provider CMA CGM has implemented new peak season surcharges targeting major global routes. Shipments originating from the Far East bound for South Africa, alongside cargo moving from Europe and the Mediterranean toward Latin America and the Caribbean, will face additional fees. The added costs are scheduled to take effect across November and December, reflecting ongoing demand pressures and capacity adjustments managed by the carrier across these international shipping lanes.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cma-cgm-announces-new-peak-season-surcharges-on-africa-and-americas-trades/"
+  },
+  {
+    "headline": "Crude Tanker Freight Rates Drop 50 Percent from Highs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Crude tanker freight rates have experienced a sharp decline over the past month, falling more than fifty percent from unprecedented peaks due to a convergence of market factors. Despite this significant correction, current shipping rates continue to hold well above historical averages. Industry analysts note that while the recent rout has eased costs for shippers, the overall rate environment remains elevated compared to traditional norms, reflecting ongoing shifts in global maritime logistics and energy transport dynamics.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/tankers-a-crude-correction-but-rates-remain-well-above-historical-levels/"
+  },
+  {
+    "headline": "IMO struggles with net-zero shipping framework without emissions costs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-15",
+    "summary": "International Maritime Organization member states are facing difficulties developing regulations to enforce compliance with new bunker rules aimed at cutting greenhouse gas emissions. The lack of consensus stems largely from opposition led by Washington against financial punitive measures. Officials note that designing an effective net-zero framework proves challenging without implementing a clear cost on carbon emissions for shipping companies, delaying the adoption of crucial environmental policies for global maritime logistics.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/imo-faces-challenges-in-net-zero-framework-compliance-without-emissions-cost/"
+  },
+  {
+    "headline": "Capesize Dry Bulk Shipping Rates Rise on Pacific Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "The Capesize dry bulk shipping market maintained a positive trajectory over the week, driven primarily by gains in the Pacific region. Despite experiencing midweek market volatility, increased demand from mining operations and more competitive fixing levels propelled route C5 upward from $13.80 at the start of the week to $15.20 by Thursday, before settling slightly between $14.50 and $14.60 toward the week's conclusion.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesizes-retain-positive-momentum-2/"
+  },
+  {
+    "headline": "VLCC Deliveries Surge as New Tanker Orderbook Expands",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Very Large Crude Carrier deliveries have increased significantly, rising fivefold compared to previous periods as newly ordered vessels begin entering service. Despite near-record vessel prices, owners continue to expand the orderbook. Analysis of industry data highlights the scale of current construction activity, the shipyards involved, and the underlying market drivers sustaining high levels of investment in new oil tanker tonnage as the supply pipeline accelerates.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/vlcc-deliveries-rise-fivefold-as-the-orderbook-builds/"
+  },
+  {
+    "headline": "Australian Bauxite Exports Dip Overall Despite Chinese Demand Growth",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "international_relations",
+    "date": "2026-11-15",
+    "summary": "Australian bauxite exports contracted during the first ten months of the year, dropping 4.8 percent compared to the previous year. Despite the overall downward trend, shipment volumes experienced a temporary rebound in the third quarter. Concurrently, trade patterns shifted as a larger share of the departing raw material cargoes were directed toward buyers in China, highlighting a localized concentration of demand amidst broader volume reductions across the broader seaborne supply chain.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/australia-bauxite-fewer-cargoes-overall-but-more-of-them-bound-for-china/"
+  },
+  {
+    "headline": "Far East to US East Coast ocean freight rates drop",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Ocean container shipping rates from the Far East to the United States East Coast are beginning to decrease. This downward trend follows a period of record-breaking capacity deployed throughout the month of October. Industry analysts are closely monitoring these market adjustments as capacity levels and freight pricing continue to fluctuate across major global trade lanes, signaling potential shifts in supply chain dynamics and carrier performance as the peak shipping season evolves.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-rates-start-to-tumble-from-far-east-to-us-east-coast-following-record-breaking-capacity-in-october/"
+  },
+  {
     "headline": "Yang Ming Partners with DP World to Expand Egyptian Routes",
     "continent": "Africa",
     "country": "Egypt",
@@ -258,6 +408,16 @@
     "summary": "The United Arab Emirates is establishing an alternative freight route combining east coast port expansion with a new land corridor through Oman. This infrastructure initiative is designed to maintain continuous cargo flows and bypass potential disruptions in the critical strait, securing the nation's supply chain operations against regional geopolitical and maritime shipping vulnerabilities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/explainer-emirates-two-shore-bridge/"
+  },
+  {
+    "headline": "Evergreen Marine Reports 18% Profit Rise on Strong Demand",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Container shipping firm Evergreen Marine announced a strong financial performance for the first nine months of the year, driven by robust peak-season demand and elevated freight rates. Revenue reached over ten billion dollars while net profit climbed to more than two billion dollars. The positive results were further supported by ongoing capacity constraints across global maritime routes, which helped maintain high pricing power for ocean carriers during the period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/evergreen-marine-nine-month-profit-up-18-to-2-16-billion"
   },
   {
     "headline": "AI dash camera blind spots expose fleets to nuclear verdicts",
@@ -1000,6 +1160,16 @@
     "sourceUrl": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
   },
   {
+    "headline": "Hapag-Lloyd raises earnings forecast following profit surge",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Container shipping company Hapag-Lloyd experienced a significant increase in third-quarter profit, prompting management to revise its annual earnings outlook upward. The financial improvement was largely driven by rising freight rates across major maritime routes, which compensated for stagnant overall cargo volumes during the same period. This positive performance reflects resilient pricing power within the global ocean freight sector despite broader economic uncertainties affecting international trade and transport demand.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgrade"
+  },
+  {
     "headline": "GEODIS launches rail freight service linking Paris and Italy",
     "continent": "Europe",
     "country": "France",
@@ -1590,6 +1760,16 @@
     "sourceUrl": "https://www.freightwaves.com/news/fedex-enhances-european-road-and-air-networks"
   },
   {
+    "headline": "New Indian cargo carrier AirRajasthan announces market entry plans",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-11-11",
+    "summary": "A developing Indian cargo carrier is preparing for its market launch to link the state of Rajasthan with the United Arab Emirates, the Gulf Cooperation Council region, Africa, and broader international destinations. Although an official launch date has not yet been established, the airline intends to enhance global trade links and air logistics operations. The venture positions itself as the pioneering dedicated air freight carrier for the region, aiming to expand international connectivity.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freighter-operator/2026/11/cargo-airline-airrajasthan-plans-market-launch/"
+  },
+  {
     "headline": "Honda invests $3B in Ohio plant for hybrid production",
     "continent": "North America",
     "country": "United States",
@@ -1960,16 +2140,6 @@
     "sourceUrl": "https://container-news.com/freightos-launches-ai-powered-platform-for-freight-forwarders/"
   },
   {
-    "headline": "NYSHEX Secures $8.7M for Freight Index and Risk Management",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "The New York Shipping Exchange has successfully closed an 8.7 million dollar Series D funding round to scale its proprietary freight index and enhance its container shipping risk solutions. NewRoad Capital Partners and Intercontinental Exchange spearheaded the investment, which includes participation from current backers. The capital injection will support the broader rollout of the shipping exchange's financial tools aimed at improving market transparency and managing volatility within container logistics operations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/nyshex-raises-us8-7-million-to-expand-nyfi-freight-index/"
-  },
-  {
     "headline": "Baltic Dry Index Rises 97 Points to 2959",
     "continent": "Europe",
     "country": "United Kingdom",
@@ -1988,16 +2158,6 @@
     "summary": "Ahead of upcoming International Maritime Organization meetings, member states are holding informal talks to shape enforcement mechanisms and policy measures for maritime decarbonization. The discussions focus on finding a viable path forward to implement the organization's 2023 greenhouse gas strategy, addressing critical regulatory needs for the global shipping sector as environmental targets approach.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/new-insight-brief-offers-reflections-on-what-is-needed-from-shippings-regulatory-enforcement-mechanism/"
-  },
-  {
-    "headline": "New tool measures trade cost impacts of IMO Net Zero Framework",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-11",
-    "summary": "A newly launched open-access tool aims to provide delegations preparing for the International Maritime Organization's upcoming Marine Environment Protection Committee meetings with critical country-level data. The resource evaluates how various Net Zero Framework policy options could directly impact shipping and trade costs across different economies. This data particularly supports low-income nations and Least Developed Countries, which face high exposure to both climate change vulnerabilities and shifting maritime transportation expenses, helping them navigate complex environmental regulations and trade negotiations more effectively.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/new-open-access-tool-shows-imo-delegations-what-the-nzf-policy-options-could-mean-for-trade-costs-in-their-country/"
   },
   {
     "headline": "Maritime Robberies Surge in Singapore and Malacca Straits",
@@ -2030,26 +2190,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/evergreen-resumes-suez-canal-transits-after-nearly-3-year-hiatus/"
   },
   {
-    "headline": "Ports urged to future-proof against container congestion",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Container shipping networks face ongoing challenges with terminal utilization and severe congestion waves, forcing supply chain planners to closely monitor capacity levels. As maritime nodes experience persistent bottlenecks, stakeholders are exploring long-term infrastructure improvements and resilience strategies to mitigate container delays, enhance operational efficiency, and better manage the growing unpredictability of global freight movements.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/ports-could-future-proof-to-beat-box-terminal-congestion/"
-  },
-  {
-    "headline": "Pharma logistics growth does not guarantee higher profits",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Forwarders handling high-value pharmaceutical therapies face increasing pressure, as surging demand for specialist and time-sensitive medications does not automatically translate to higher profit margins. Industry experts warn that logistics providers can no longer rely on premium pricing strategies simply due to the nature of the cargo. Instead, shippers are demanding documented proof of operational capabilities and handling expertise before awarding contracts. This shift highlights a more competitive environment where service quality and specialization are required to secure business rather than guaranteed profitability.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/innovation-in-pharma-not-a-prescription-for-boosting-logistics-profits/"
-  },
-  {
     "headline": "DSV outperforms Kuehne + Nagel in recent earnings season",
     "continent": "Europe",
     "country": "Multiple",
@@ -2060,16 +2200,6 @@
     "sourceUrl": "https://theloadstar.com/earnings-season-champ-where-dsv-beat-kn-to-the-punch/"
   },
   {
-    "headline": "Evergreen resumes Suez Canal sailings, triggering congestion fears",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Evergreen is planning a series of ad hoc transits through the Suez Canal and Bab-el-Mandeb Strait for its Far East to Europe routes, alongside dedicated Red Sea market sailings. The carrier's vessel Ever Eon recently completed the first of these Suez passages while traveling from Rotterdam to Singapore on an Ocean Alliance service. This move by the Taiwanese shipping company back to the traditional maritime route has sparked concerns regarding potential vessel congestion at regional Red Sea ports.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/"
-  },
-  {
     "headline": "Digital Freight Forwarder Sennder Raises €228M in New Funding",
     "continent": "Europe",
     "country": "Multiple",
@@ -2078,36 +2208,6 @@
     "summary": "European digital freight forwarder Sennder has secured a €228 million financing round, combining €155 million in institutional facilities with €73 million in new equity from existing investors. The capital includes a factoring line with Coface, funding from the European Investment Bank, and a supply chain finance program involving Deutsche Bank and cflox. The company plans to use the investment to accelerate its profitable growth strategy across the European logistics market.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/sennder-secures-new-e228m-funding-round/"
-  },
-  {
-    "headline": "Hapag-Lloyd Announces Standalone Asia-Mexico Service for 2027",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Hapag-Lloyd has announced the launch of its AMX standalone Asia-Mexico shipping service scheduled to begin in January 2027. The service features a dedicated vessel rotation connecting ports in China, South Korea, and Mexico. Although operated independently with company-owned ships, the route functions as an extension of the broader Gemini hub network, relying on interconnected hub-and-spoke operations to maintain cargo volumes for the 8,000 TEU vessels deployed on the run.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/hapags-standalone-asia-mexico-string-adds-another-spoke-to-gemini-hub-network/"
-  },
-  {
-    "headline": "Kuehne+Nagel deploys AI agents to automate cold chain carrier calls",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Kuehne+Nagel successfully integrated artificial intelligence agents to manage overnight cold chain communications, with automated systems handling nearly seventy-eight percent of control tower carrier calls from start to finish. This technology streamlines logistics operations by reducing manual dialing and improving communication efficiency for temperature-sensitive freight transport. Major industry players are increasingly adopting similar automation tools to optimize freight management and network responsiveness across distribution channels.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/"
-  },
-  {
-    "headline": "Shippers struggle with outdated contract strategies in tight peak market",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Freight market conditions are tightening, exposing flaws in long-term shipper bid strategies carried over from recent years. Experts note that rigid contract terms, including prolonged rate locks and punitive penalty structures, are failing to secure reliable capacity as peak shipping season approaches. Shippers relying on historical playbook approaches are encountering resistance from carriers and brokers as market dynamics shift toward greater volatility and reduced flexibility.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/a-duie-pyle-peak-season-shipper-bids"
   },
   {
     "headline": "Europe hydrogen refueling lag delays heavy-duty fuel cell rollout",
