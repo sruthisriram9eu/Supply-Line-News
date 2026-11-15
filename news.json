@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Yang Ming Partners with DP World to Expand Egyptian Routes",
+    "continent": "Africa",
+    "country": "Egypt",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Container carrier Yang Ming Marine Transport is broadening its maritime shipping network in Egypt via a new slot-sharing agreement with DP World Shipping Solutions. The collaboration encompasses three distinct services connecting vital Mediterranean ports within the region. Specifically, the Taiwanese shipping company will secure container slots across two dedicated intra-Egypt routes managed by DP World, enhancing its operational reach and service frequency in the North African market.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/yang-ming-expands-egypt-coverage-through-dp-world-slot-sharing-deal/"
+  },
+  {
+    "headline": "MSC converts Baltic Loop 07 into direct Klaipeda–Kotka shuttle",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Mediterranean Shipping Company has reconfigured its Baltic Loop 07 service to operate as a dedicated direct shuttle linking the ports of Klaipeda in Lithuania and Kotka in Finland. This change eliminates previous multi-port calls at Gdynia, Antwerp, and Aarhus, streamlining maritime transport between the two Baltic locations to enhance regional schedule reliability and transit efficiency for regional cargo movers.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/msc-restructures-baltic-loop-07-into-klaipeda-kotka-shuttle/"
+  },
+  {
+    "headline": "US Census Data Shows Traditional Goods Drive 2026 Transpacific Peak",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Recent trade data indicates that the ongoing Transpacific container shipping peak season is propelled by standard consumer goods rather than the artificial intelligence boom. Analysis of monthly Asia-to-US containerized imports reveals that traditional retail and commercial products remain the primary volume drivers, countering assumptions that technology investments are reshaping transpacific freight demand.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/sea-intelligence-is-2026-tp-peak-season-driven-by-ai/"
+  },
+  {
+    "headline": "New biogas storage tank installed at Port of Gothenburg",
+    "continent": "Europe",
+    "country": "Sweden",
+    "category": "sustainability",
+    "date": "2026-11-15",
+    "summary": "Construction of a biogas liquefaction plant at the Port of Gothenburg has advanced with the installation of its primary liquefied biogas storage tank. Slated for completion in the second quarter of 2027, the facility aims to expand the availability of Swedish biogas for various sectors, with a particular focus on the shipping industry. This development represents a key step in enhancing sustainable fuel infrastructure within regional maritime logistics and distribution networks.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/liquefied-biogas-storage-tank-installed-at-the-port-of-gothenburg/"
+  },
+  {
+    "headline": "Hapag-Lloyd Announces Far East to Europe Rate Increases",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Ocean carrier Hapag-Lloyd has announced a tariff rate increase for shipments moving from the Far East to Europe. The new Freight All Kinds pricing structure takes effect in December, reaching up to US$6,800 for a standard 40-foot container. The adjustments apply to both 20-foot and 40-foot dry containers, as well as high-cube equipment, across scheduled maritime services on this critical international trade corridor.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/hapag-lloyd-raises-far-east-europe-freight-rates-from-december/"
+  },
+  {
+    "headline": "Texas-Mexico Cross-Border Truck Traffic Rises via Pilot Program",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Cross-border freight traffic between Texas and Mexico increased by 400 trucks during a recent Saturday pilot initiative designed to evaluate expanded operational hours. Meanwhile, total truck freight value connecting the United States and Mexico reached $75.4 billion in September. In addition, Teleflex announced a $5 million investment to establish a new medical device manufacturing plant within Mexico, highlighting ongoing industrial expansion and nearshoring trends across the cross-border trade corridor.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot"
+  },
+  {
     "headline": "GXO and Apptronik partner for warehouse humanoid robots",
     "continent": "North America",
     "country": "United States",
@@ -198,6 +258,16 @@
     "summary": "The United Arab Emirates is establishing an alternative freight route combining east coast port expansion with a new land corridor through Oman. This infrastructure initiative is designed to maintain continuous cargo flows and bypass potential disruptions in the critical strait, securing the nation's supply chain operations against regional geopolitical and maritime shipping vulnerabilities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/explainer-emirates-two-shore-bridge/"
+  },
+  {
+    "headline": "AI dash camera blind spots expose fleets to nuclear verdicts",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Trucking fleets utilizing artificial intelligence-only dashboard cameras face increasing legal exposure following significant court judgments. Defense experts warn that plaintiff attorneys are leveraging recorded footage of risky driving behavior that went unaddressed by fleet management to establish systemic operational failures. This technological vulnerability highlights a critical oversight in risk management and internal auditing processes within transport logistics operations, forcing companies to reevaluate their monitoring and compliance frameworks to mitigate catastrophic financial liabilities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ai-dash-cam-false-negatives-fleet-liability"
   },
   {
     "headline": "Proficient Auto Logistics Faces Q3 Net Loss and Margin Pressures",
@@ -928,6 +998,66 @@
     "summary": "The Maritime and Port Authority of Singapore is accepting applications for up to two liquefied natural gas floating storage unit licences to operate within local anchorages. This initiative follows the recent award of eight new LNG bunker supplier licences. The new floating storage units are designed to support the growing supplier base by enhancing storage diversification and reloading capabilities, thereby strengthening regional bunkering infrastructure and supply chain operations for maritime fuel.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
+  },
+  {
+    "headline": "GEODIS launches rail freight service linking Paris and Italy",
+    "continent": "Europe",
+    "country": "France",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "French logistics provider GEODIS has introduced a new rail freight connection running between Vicenza in northeastern Italy and Noisy-le-Sec near Paris. This route aims to enhance cross-border freight capabilities and provide an alternative transportation option between the two regions, supporting multimodal supply chain networks and regional distribution efficiency.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/business/2026/11/12/geodis-links-paris-with-northeastern-italy-with-new-service/"
+  },
+  {
+    "headline": "Netherlands and Germany Sign New Bilateral Rail Freight Pact",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "The governments of the Netherlands and Germany have entered into a formal joint declaration aimed at deepening bilateral cooperation on rail infrastructure, focusing specifically on cargo transportation and military mobility. While the agreement signals closer diplomatic alignment between the two neighboring nations, industry stakeholders within the Dutch rail freight sector have expressed skepticism regarding whether the initiative will drive tangible improvements or merely mirror past unsuccessful agreements.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/12/what-will-actually-change-this-time-rail-freight-questions-new-dutch-german-rail-pact/"
+  },
+  {
+    "headline": "Etihad Cargo Airlifts UAE Space Probe to US for 2028 Mission",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Etihad Cargo successfully transported a domestically manufactured space probe from Abu Dhabi to Chicago as a specialized shipment. The operation required eight months of meticulous planning and coordination with multiple stakeholders. The sensitive cargo arrived in the United States to undergo integration procedures with a spacecraft scheduled for a mission in 2028, highlighting the carrier's capability in managing complex, high-value specialized transport logistics across international borders.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/etihad-cargo-transports-space-probe-from-uae-to-us/"
+  },
+  {
+    "headline": "Natilus begins prototype wing production for Kona cargo aircraft",
+    "continent": "North America",
+    "country": "United States",
+    "category": "manufacturing",
+    "date": "2026-11-12",
+    "summary": "An American aerospace developer has partnered with a manufacturing specialist to produce composite wings for a new autonomous feeder cargo aircraft prototype. The supplier has implemented streamlined tooling techniques intended to lower production costs and shorten the overall build timeline. Manufacturing is currently underway, with the completed wing delivery scheduled for the spring of 2027. This development marks a significant step forward in the structural assembly phase for the upcoming cargo transport vehicle.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freighter-operator/2026/11/natilus-cargo-aircraft-wings-build-project-gets-underway/"
+  },
+  {
+    "headline": "Glasgow Prestwick Airport Names New Trade and Export Manager",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Glasgow Prestwick Airport in the United Kingdom has appointed a new trade and export development manager to drive growth in its outbound cargo volumes. The strategic hire aims to collaborate closely with regional exporters, air freight forwarders, and airline partners to boost load factors on eastbound flights. Initial efforts will concentrate on key sectors including seafood and pharmaceuticals, enhancing the facility's position as a vital international logistics hub.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/people/2026/11/prestwick-appoints-trade-and-export-development-manager/"
+  },
+  {
+    "headline": "Global Airfreight Rates Hit Yearly High on Peak Demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Global airfreight pricing surged to its highest point of the year, driven by sustained seasonal demand for air cargo capacity. Market data from the Baltic Exchange indicates that the overall air freight index increased by 6.6 percent week-over-week. This upward movement reflects tightening capacity and heightened activity across major trade lanes as the peak shipping period progresses, putting additional pressure on shippers relying on fast transit options to move goods.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/data/2026/11/airfreight-rates-reach-2026-high-on-peak-season-demand/"
   },
   {
     "headline": "Express carriers accelerate investments in air cargo operations",
@@ -2000,36 +2130,6 @@
     "sourceUrl": "https://container-news.com/lawfare-leverage-and-the-shrinking-us-china-truce/"
   },
   {
-    "headline": "Konecranes secures first overseas ESP.4 crane order for Bermuda",
-    "continent": "North America",
-    "country": "Bermuda",
-    "category": "storage_distribution",
-    "date": "2026-11-11",
-    "summary": "Konecranes has finalized an agreement to supply a Gottwald ESP.4 Mobile Harbor Crane to Stevedoring Services Limited in Bermuda. This transaction marks the initial deployment of the specific crane model outside of the European market. The order was officially booked during the third quarter of 2026, with the physical delivery of the equipment scheduled for the third quarter of 2027 to support local port operations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/konecranes-secures-first-overseas-esp-4-crane-order-in-bermuda/"
-  },
-  {
-    "headline": "Drewry and Cargoo Integrate Freight Benchmarks into Platform",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-11-11",
-    "summary": "Drewry Shipping Consultants has teamed up with ocean freight management platform Cargoo to embed freight benchmarking data directly into its digital procurement software. This collaboration enables mutual users belonging to the Drewry Benchmarking Club to access market rate information seamlessly within the platform. By connecting real-time market data with daily procurement and carrier negotiation workflows, the integration aims to streamline decision-making and improve cost efficiency for shippers managing ocean freight operations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/drewry-and-cargoo-integrate-freight-benchmarks-into-procurement-platform/"
-  },
-  {
-    "headline": "Beyond Inc. to close Maryland distribution center",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-10",
-    "summary": "The parent company of Bed Bath & Beyond is shutting down a major distribution facility in Maryland as part of a broader corporate strategy. Leadership announced that the network restructuring is designed to eliminate significant operational expenses and streamline overall supply chain execution. This footprint reduction reflects ongoing efforts to optimize fulfillment efficiency and achieve meaningful cost savings across the organization.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/bed-bath-beyond-parent-to-close-maryland-distribution-center/874149/"
-  },
-  {
     "headline": "DHL Express and TotalEnergies Agree to SAF Supply at Paris CDG",
     "continent": "Europe",
     "country": "France",
@@ -2070,16 +2170,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-209/"
   },
   {
-    "headline": "Drewry Benchmarking Club integrates data into Cargoo platform",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Maritime research firm Drewry Shipping Consultants has partnered with ocean freight management platform Cargoo to integrate its Benchmarking Club data. Members of the Drewry Benchmarking Club who also utilize Cargoo can now access this proprietary benchmarking data directly within the freight management interface to optimize their shipping operations, evaluate market rates, and enhance decision-making capabilities across their supply chain networks.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/drewry-benchmarking-club-data-now-available-on-cargoos-ocean-freight-management-platform-for-club-members/"
-  },
-  {
     "headline": "Auramarine to Provide Methanol Fuel Systems for New Vessels",
     "continent": "Europe",
     "country": "Spain",
@@ -2088,26 +2178,6 @@
     "summary": "Auramarine has reached an agreement with GONDAN Shipbuilders to provide methanol fuel supply systems for a pair of new hydrographic research vessels, named Wega and Deneb. The ships are currently under construction in Spain for the federal maritime safety and nautical cartography agency of Germany, the Bundesamt für Seeschifffahrt und Hydrographie. This partnership highlights the ongoing integration of alternative marine fuels and sustainable propulsion technologies within European ship manufacturing and supply chain operations.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/auramarine-secures-deal-with-gondan-shipbuilders-for-the-delivery-of-methanol-fuel-supply-systems-for-two-new-hydrographic-research-vessels/"
-  },
-  {
-    "headline": "LA and Long Beach Ports Extend Watchmen Contract",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Labor negotiations at the West Coast ports of Los Angeles and Long Beach have been extended as the International Longshore and Warehouse Union Local 26 and port management agreed to push the current contract deadline to November 20. The extension involves approximately 250 port watchmen and aims to prevent potential operational disruptions and work stoppages while discussions toward a finalized agreement continue.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/ports-of-la-lb-watchmen-extend-contract-through-20-november-as-negotiations-continue/"
-  },
-  {
-    "headline": "AI Data Security Risks Surface in Supply Chain Operations",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-10",
-    "summary": "A recent industry survey reveals that a significant portion of supply chain professionals have encountered security incidents where sensitive customer or supplier information was compromised via artificial intelligence applications. This finding underscores mounting worries regarding data protection and governance as enterprises accelerate their adoption of advanced digital tools across operational networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/1-in-6-supply-chain-professionals-report-ai-related-data-exposure-survey-finds"
   },
   {
     "headline": "Rubico expands MR tanker fleet with Chinese newbuild acquisition",
@@ -2158,16 +2228,6 @@
     "summary": "Valenciaport and the Shanghai International Port Group hosted a joint client event at the Shanghai Tower to highlight commercial opportunities and deepen cooperation between the two maritime hubs. The discussions focused on enhancing trade routes and advancing initiatives for sustainable green corridors. Leadership from both port authorities participated in the presentations to reinforce their strategic partnership and foster closer operational alignment for future shipping activities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/valenciaport-and-shanghai-port-reinforce-their-strategic-connection/"
-  },
-  {
-    "headline": "Maersk implements Nicaragua customs transit surcharge",
-    "continent": "North America",
-    "country": "Nicaragua",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "Global ocean carrier Maersk has announced a new Internal Customs Transit Surcharge affecting store door shipments moving through ports in Nicaragua. Effective November 2026, the fee is set at 75 US dollars per container. This additional charge applies automatically to container quotations that necessitate an internal customs transit declaration, commonly referred to as DUCA-T, for final delivery coordination.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/maersk-introduces-nicaragua-customs-transit-surcharge/"
   },
   {
     "headline": "Two oil tankers on fire following explosions in Strait of Hormuz",
