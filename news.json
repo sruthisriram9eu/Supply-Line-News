@@ -1,5 +1,45 @@
 [
   {
+    "headline": "GXO and Apptronik partner for warehouse humanoid robots",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-15",
+    "summary": "GXO Logistics has entered into an agreement with robotics developer Apptronik to integrate humanoid robots into its warehouse operations. Over the next four years, the companies plan to explore the global deployment of up to 1,000 Apollo robots. This initiative expands upon their current partnership and includes upcoming operational trials designed to evaluate the technology's effectiveness in distribution environments, marking a significant step toward automated material handling and fulfillment center innovation.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/gxo-and-apptronik-target-deployment-of-up-to-1000-humanoid-robots/"
+  },
+  {
+    "headline": "ZIM Exits Arkas and Evergreen Black Sea Shipping Service",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Container shipping company ZIM has terminated its slot-chartering agreement for the joint Arkas and Evergreen Black Sea service. The Israeli ocean carrier previously utilized this maritime route to market its Black Sea Express connection, which linked the port of Piraeus in Greece with regional destinations in Georgia, Romania, and Bulgaria. By withdrawing from the arrangement, the carrier scales back its regional vessel-sharing participation in these European and Eurasian trade corridors, altering capacity availability within the Black Sea maritime network.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/zim-withdraws-from-arkas-evergreen-black-sea-service/"
+  },
+  {
+    "headline": "MSC Launches New North India to Red Sea Shipping Service",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Mediterranean Shipping Company is launching a direct container service linking northern India and Pakistan with Saudi Arabia. Set to begin operations in late November 2026, the new North India–Red Sea route will utilize vessels with capacities between 2,500 and 3,000 TEU, utilizing key regional hubs such as the port of Mundra to streamline maritime trade and logistics flows across these corridors.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/msc-to-launch-new-north-india-red-sea-container-service/"
+  },
+  {
+    "headline": "Trucking Spot Rates Surge Ahead of Holidays",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Trucking spot market rates are experiencing an unusually early upward surge prior to the holiday season. Industry observers are questioning whether this sudden acceleration in rates was anticipated and incorporated into standard shipper strategies and forecasting models. This shift highlights traditional seasonal volatility in freight markets, arriving sooner than expected and potentially impacting transportation budgets for companies managing holiday inventory distribution and final-mile delivery networks across the region.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/spot-rates-jump-ahead-of-holidays"
+  },
+  {
     "headline": "Asean Seas Line alters China-Philippines service rotation",
     "continent": "Asia",
     "country": "Philippines",
@@ -158,6 +198,16 @@
     "summary": "The United Arab Emirates is establishing an alternative freight route combining east coast port expansion with a new land corridor through Oman. This infrastructure initiative is designed to maintain continuous cargo flows and bypass potential disruptions in the critical strait, securing the nation's supply chain operations against regional geopolitical and maritime shipping vulnerabilities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/explainer-emirates-two-shore-bridge/"
+  },
+  {
+    "headline": "Proficient Auto Logistics Faces Q3 Net Loss and Margin Pressures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-13",
+    "summary": "Proficient Auto Logistics experienced a significant drop in share value following the release of its third-quarter financial results, which revealed a net loss. Investors are currently weighing the company's prospects for profitability against its newly outlined margin recovery strategy. The automotive transport provider is working to navigate these financial hurdles as market conditions impact its operating margins and investor sentiment in the near term.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/proficient-auto-logistics-eyes-margin-recovery-after-challenging-q3"
   },
   {
     "headline": "USPS Implements Permanent 11% Fuel Surcharge and Rate Hike",
@@ -2120,16 +2170,6 @@
     "sourceUrl": "https://container-news.com/maersk-introduces-nicaragua-customs-transit-surcharge/"
   },
   {
-    "headline": "C.H. Robinson Cites Ongoing Port and Drayage Bottlenecks",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-10",
-    "summary": "According to the latest industry report from C.H. Robinson, United States container ports continue to experience significant inland transportation bottlenecks. Despite a moderation in overall import demand, persistent pressures affecting rail connections, terminal access, and chassis availability are disrupting container deliveries. While maritime vessel operations remain relatively steady, these landside friction points continue to strain domestic logistics and intermodal supply chain efficiency.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/c-h-robinson-warns-of-persistent-port-and-drayage-constraints/"
-  },
-  {
     "headline": "Two oil tankers on fire following explosions in Strait of Hormuz",
     "continent": "Middle East",
     "country": "Iran",
@@ -2138,16 +2178,6 @@
     "summary": "Iranian authorities reported that two oil vessels caught fire after explosions occurred while they attempted to navigate unauthorized routes through the Strait of Hormuz. One of the affected ships was identified as a supertanker that allegedly struck an object in the area. This critical maritime chokepoint is vital for global energy transit and international trade flows, raising immediate concerns over regional security and potential disruptions to maritime logistics and petroleum supply chains.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/iran-claims-two-oil-tankers-are-burning-in-strait-of-hormuz/"
-  },
-  {
-    "headline": "US Midterm Elections Create Uncertainty for Shipping Market",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-10",
-    "summary": "The maritime shipping sector confronts fresh instability following the recent United States midterm elections. Political shifts in Washington have altered the legislative landscape, introducing new variables for trade policies and economic conditions that directly impact global freight markets. Analysts note that evolving political dynamics, combined with ongoing concerns regarding inflation and regulatory changes, are forcing maritime operators and supply chain planners to reassess their operational strategies and market outlooks as the political environment shifts.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/shipping-in-new-crossroads-after-the-us-mid-term-election/"
   },
   {
     "headline": "Carriers face hurdles on November rate hikes as Suez returns",
@@ -2188,16 +2218,6 @@
     "summary": "Freight rates connecting Asia with Gulf economies through the Strait of Hormuz reached historic highs during the peak shipping season. Importers accelerated cargo shipments into the region to beat delays, triggering a fresh wave of port congestion. Trade data indicates that the Far East to Middle East and Indian subcontinent route experienced the most significant container shipping price increases among all major global trade lanes.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/cargo-surge-and-port-congestion-send-far-east-middle-east-rates-climbing/"
-  },
-  {
-    "headline": "Canada Goose to adjust pricing strategy to offset import tariffs",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "international_relations",
-    "date": "2026-11-10",
-    "summary": "Canada Goose is planning to modify its pricing structure in the upcoming year to mitigate the financial impact of new import tariffs. Ahead of these duties taking effect in August, the Toronto-based luxury apparel manufacturer proactively accelerated shipments to secure inventory within the United States. This strategic inventory positioning, combined with the upcoming pricing adjustments, reflects how businesses are actively managing trade policy shifts and cost pressures within their cross-border supply chain operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/"
   },
   {
     "headline": "UK offshore energy supply chain shifts focus overseas",
