@@ -1,5 +1,205 @@
 [
   {
+    "headline": "John Xylas re-elected as chairman of dry bulk association Intercargo",
+    "continent": "Europe",
+    "country": "Italy",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "The dry bulk shipping association Intercargo has re-elected Greek shipowner John Xylas to a second two-year term as chairman, covering 2027 and 2028. Members gathered in Rome confirmed the Ariston Navigation CEO's leadership extension, alongside the addition of executives from Berge Bulk and Fleet Management to the governing team. This leadership continuity comes as the maritime sector navigates ongoing operational and logistical challenges within global trade networks.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/xylas-wins-second-term-at-intercargo/"
+  },
+  {
+    "headline": "JFE Engineering Secures Japan Offshore Wind Maintenance Deal",
+    "continent": "Asia",
+    "country": "Japan",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "A joint venture between JFE Engineering and Akita Maritime Service has been awarded a five-year maintenance contract for the Oga-Katagami-Akita offshore wind facility in Japan. The agreement covers operational support for critical balance-of-plant infrastructure, including twenty-one monopile foundations, subsea cabling, transmission lines, and onshore substations. This service agreement ensures ongoing structural integrity and operational reliability for the 315-megawatt renewable energy installation over the medium term.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/jfe-engineering-wins-offshore-wind-maintenance-contract/"
+  },
+  {
+    "headline": "SwissChemGas orders two VLACs from Hengli Heavy Industries",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "SwissChemGas, a trader with Greek affiliations, has contracted two very large ammonia carriers at Hengli Heavy Industries in China. The Bermuda-registered firm joins a wave of shipping companies investing in this vessel class. Construction of the 93,000 cubic meter carriers is scheduled for completion with deliveries anticipated across 2028 and 2029, expanding maritime transport capacity for ammonia supply chains.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/swisschemgas-joins-vlac-ordering-rush-with-hengli-pair/"
+  },
+  {
+    "headline": "Italy's Ve-Na di Navigazione orders new cargo ship in China",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Italian shipowner Ve-Na di Navigazione has placed an order with China's CSSC Guangxi Shipbuilding for a new general cargo vessel. This agreement builds upon an existing relationship between the two companies formed the previous year. The vessel, boasting a capacity of 9,200 deadweight tons, is anticipated for delivery in mid-2028, according to reports from shipbroking sources. Financial terms and specific delivery schedules have not been officially released by the shipyard.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/italys-ve-na-di-navigazione-returns-to-china-for-another-newbuild/"
+  },
+  {
+    "headline": "DOF secures subsea contract with Amplitude Energy in Australia",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Norwegian offshore vessel operator DOF has finalized a subsea installation agreement valued between $50m and $100m with Amplitude Energy. The project will utilize the construction vessel Skandi Inventor to execute operations in the Otway Basin, transitioning a previously announced letter of intent into a firm commitment for the Oslo-listed shipping company.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/dof-lands-up-to-100m-australian-subsea-contract/"
+  },
+  {
+    "headline": "Tanker secondhand sales hit record $30bn in ten months",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "The secondary market for tankers has shattered historical transaction volumes, with asset sales surpassing thirty billion dollars through the first ten months of the year. Data from Clarksons Research indicates that nearly six hundred vessels totaling nearly seventy million deadweight tonnage have changed hands, fueled by climbing vessel valuations. This unprecedented activity reflects intense demand within maritime freight markets as operators adjust their fleets amidst evolving global trade patterns and shifting transport requirements.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/tanker-secondhand-sales-smash-records-with-30bn-changing-hands/"
+  },
+  {
+    "headline": "Baltic Dry Index drops 59 points to 2,921",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "The Baltic Dry Index experienced a decrease of 59 points, settling at 2,921 points. Compiled by the Baltic Exchange in London, this maritime freight measure tracks shipping costs for major dry bulk commodities including iron ore, grain, and coal. The daily index is calculated using global surveys of shipping agents and serves as a key indicator for international maritime logistics and global economic activity within the bulk transport sector.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2921-down-59-points/"
+  },
+  {
+    "headline": "LNG Shipping Rates Diverge Across Atlantic and Pacific Basins",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Global liquefied natural gas shipping markets experienced mixed conditions recently. The Eastern market maintained solid activity levels, keeping rates at a premium compared to the Atlantic region. Meanwhile, the Atlantic basin saw increased activity around the US Gulf and West Africa, though high vessel availability and modest cargo demand constrained potential rate growth. Concurrently, liquefied petroleum gas transport faced downward pricing pressures as market fundamentals shifted across major trading corridors.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/lng-shipping-rates-mixed-while-lpgs-facing-downward-pressure/"
+  },
+  {
+    "headline": "Shell warns slow IMO green bunker rules risk fragmentation",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-16",
+    "summary": "Energy major Shell has raised concerns that ongoing delays in establishing international green bunker regulations could stall crucial maritime investments and create a fragmented compliance environment. Ahead of upcoming decarbonization discussions by the United Nations shipping agency, the company emphasized the importance of decisive global policy frameworks to guide sustainable fuel adoption. Furthermore, industry stakeholders are increasingly evaluating mass-balanced bio-LNG solutions as a viable transitional pathway to lower emissions while awaiting official long-term regulatory standards.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/shell-concerned-over-imo-delays-on-green-bunker-rules-backs-mass-balanced-bio-lng/"
+  },
+  {
+    "headline": "IMO aims to establish first global shipping climate framework",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-16",
+    "summary": "The International Maritime Organization's Marine Environment Protection Committee is meeting to establish the first global regulatory framework aimed at reducing greenhouse gas emissions within the shipping sector. The upcoming negotiations seek to build consensus on rules that will drive maritime carriers to transition away from traditional fossil fuels toward cleaner alternatives. This potential regulatory shift marks a major milestone for international logistics, potentially reshaping maritime fuel standards and accelerating decarbonization efforts across global supply chain networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/mepc85-researcher-on-how-first-global-climate-deal-could-pave-the-way-for-fossil-free-shipping/"
+  },
+  {
+    "headline": "Transatlantic MR vessel arbitrage closed for December arrivals",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Declining cash differentials in Northwest Europe have compressed transatlantic margins, closing the arbitrage window for all December Medium Range vessel arrivals. Despite falling freight rates, weaker regional cash values pushed late-December margins significantly lower. This shift halts transatlantic product flows for the remainder of the month, impacting regional shipping economics and supply distribution patterns.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/ta-is-now-shut-for-every-december-mr-arrival/"
+  },
+  {
+    "headline": "Rotterdam Biofuel Bunker Prices Surge While Singapore Declines",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "sustainability",
+    "date": "2026-11-16",
+    "summary": "Rotterdam recently experienced a significant surge in its B30-VLSFO biofuel bunker price, climbing by over one hundred dollars per metric ton within a single week. This sharp increase outpaced conventional very low sulfur fuel oil gains at the Dutch port, substantially widening the price premium for the sustainable alternative. Meanwhile, market conditions in Singapore trended in the opposite direction, with prices sliding during the same period. The European pricing dynamics are partially influenced by local regulatory mechanisms that allow fuel suppliers to generate compliance tickets for marketing low-carbon products.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-rotterdams-b30-vlsfo-price-jumps-as-singapores-slides/"
+  },
+  {
+    "headline": "CMA CGM shipping profits rise as logistics margins lag",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-16",
+    "summary": "Carrier financial results for the third quarter reveal a significant divergence between soaring maritime shipping earnings and lower profitability within expanding logistics operations. Despite generating higher revenue through its logistics arm compared to key competitors, margins remain under pressure, highlighting ongoing operational challenges for the division's leadership as a major restructuring effort gets underway to improve earnings performance.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cma-cgm-shipping-profit-boom-exposes-logistics-earnings-gap/"
+  },
+  {
+    "headline": "Container spot rate predictability varies by trade lane",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Recent data analysis reveals that vessel capacity utilization serves as a strong predictor of container spot freight rates on the transpacific trade lane, with rates climbing significantly when utilization passes ninety percent. Conversely, this correlation proves much weaker on the Asia-Europe route. Analysts attribute the divergence on the Asia-Europe corridor to complex factors including ongoing geopolitical disruptions and heavy transhipment activities, which distort traditional forecasting models based purely on capacity metrics.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/how-reliable-in-predicting-spot-prices-is-box-ship-utilisation/"
+  },
+  {
+    "headline": "Smaller US trucking companies collapse amid rising operational costs",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Smaller trucking carriers in North America are facing severe financial distress as operational expenses outpace freight rate increases, leading to numerous bankruptcies and closures. Industry data indicates a sharp rise in carrier casualties, with at least sixteen firms filing for Chapter 11 protection or shutting down entirely within a five-week period. While smaller operators struggle to survive the downturn, executives at larger trucking corporations remain optimistic about their own market positions and future outlooks.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/smaller-us-truckers-buckling-under-as-costs-outpace-rate-gains/"
+  },
+  {
+    "headline": "Toll Group Restructures Operations to Improve Financial Health",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "strategy",
+    "date": "2026-11-16",
+    "summary": "Logistics provider Toll Group is undergoing a strategic operational contraction aimed at improving its financial performance. Financial insights remain limited due to sparse interim data provided by its parent organization, Japan Post. Comprehensive transparency into the logistics operator's turnaround progress and true operational health will require waiting for official corporate filings expected to be published. The restructuring reflects ongoing efforts within the transport sector to streamline networks, divest underperforming assets, and focus on core profitability amidst shifting global market conditions and regional economic pressures.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/toll-group-on-the-mend-shrinking-to-get-fitter/"
+  },
+  {
+    "headline": "Wan Hai's Transpacific Expansion Drives Strong Financial Returns",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Ocean carrier Wan Hai's strategic re-entry into the transpacific trade lane has yielded significant financial results, with the Asia to US East Coast route becoming the company's primary revenue source. Despite facing a temporary market downturn in 2023, the Taiwan-based container shipping operator has accumulated substantial cumulative net profits since initially launching its transpacific services in 2020, highlighting the long-term success of this trade route expansion.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/wan-hai-transpac-gamble-has-paid-off-asia-usec-now-its-top-earner/"
+  },
+  {
+    "headline": "Navigating Five Stages of AI Maturity in Procurement",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-11-16",
+    "summary": "Artificial intelligence agents are increasingly integrated into sourcing operations, though numerous procurement divisions experiment with these technologies lacking a clear strategy. To address this, a structured five-stage maturity model has been introduced to help organizations map their progress. Additionally, professionals are provided with ten essential questions to evaluate their current capabilities and guide future implementation efforts effectively across the supply chain.",
+    "sourceName": "IMD Business School",
+    "sourceUrl": "https://www.imd.org/ibyimd/artificial-intelligence/from-pilots-to-scale-navigating-five-stages-of-ai-maturity-in-procurement/"
+  },
+  {
+    "headline": "UniUni partners with external carriers for peak delivery efficiency",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Last-mile delivery provider UniUni is engaging external carriers, including Gofo, to manage select packages during the peak season. This strategic handoff is designed to enhance last-mile operational efficiency and improve the company's overall financial performance as shipping volumes surge. By leveraging external networks, UniUni aims to better handle capacity constraints and maintain service quality during high-demand periods.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/uniuni-to-tap-carriers-like-gofo-for-some-peak-season-deliveries/874556/"
+  },
+  {
+    "headline": "US container imports reach record high in October",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "United States container imports surged by sixteen percent compared to the previous year, reaching an all-time high of 2.67 million TEUs in October. This volume surpassed the prior monthly peak established in May 2022. The unprecedented influx of imported goods has simultaneously driven an increase in port delays across the nation's maritime gateways, putting pressure on domestic freight networks and terminal operations as supply chain managers navigate peak shipping volumes ahead of the holiday season.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/u-s-container-imports-hit-record-2-67-million-teus-in-october-as-port-delays-rise"
+  },
+  {
     "headline": "Akkon Lines Updates Bulgaria Shuttle Route, Drops Gemlik",
     "continent": "Europe",
     "country": "Turkey",
@@ -1230,6 +1430,16 @@
     "sourceUrl": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
   },
   {
+    "headline": "FarEye Achieves First Profitable Quarter on Strong EMEA Growth",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-12",
+    "summary": "Logistics technology provider FarEye achieved its first profitable quarter, driven by a 24.58 percent increase in operational revenue for fiscal 2026, reaching $27.9 million. The financial milestone was significantly bolstered by a 51.17 percent surge in revenue from the Europe, Middle East, and Africa region. The company's expansion highlights increasing enterprise demand for digital supply chain visibility and efficient last-mile delivery orchestration tools across international markets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/fareye-q4-profit-emea-revenue"
+  },
+  {
     "headline": "XPO Receives Investment-Grade Credit Rating from Fitch",
     "continent": "North America",
     "country": "United States",
@@ -1810,16 +2020,6 @@
     "sourceUrl": "https://theloadstar.com/wan-hai-orders-110000-containers-for-its-fleet-of-new-box-ships/"
   },
   {
-    "headline": "Air cargo sector invests in digital tools to cut delays",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Major players in the air cargo industry are significantly increasing their investments in digital technology and automation to address operational inefficiencies. Carriers and major aviation hubs are deploying new software platforms to minimize missed shipments, recover from flight disruptions, and optimize overall cargo capacity utilization. This strategic shift highlights a broader industry focus on enhancing the reliability and responsiveness of freight movement through advanced decision-making tools and process automation.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/air-cargo-puts-tech-to-work-on-missed-flights-delays-and-wasted-capacity/"
-  },
-  {
     "headline": "Freight forwarders face heightened compliance risks from clients",
     "continent": "North America",
     "country": "United States",
@@ -1878,16 +2078,6 @@
     "summary": "Danish shipping company AP Moller-Maersk confirmed a cybersecurity incident after unauthorized individuals accessed a legacy IT system inherited from a previous acquisition and extracted data. The breach occurred years after the company suffered significant financial losses from the NotPetya ransomware attack. Representatives stated that the recent event involved a localized system rather than core operational infrastructure, though the security compromise highlights ongoing vulnerabilities in legacy enterprise technology integration.",
     "sourceName": "Splash247",
     "sourceUrl": "https://splash247.com/maersk-hit-by-fresh-cyber-breach/"
-  },
-  {
-    "headline": "Flex LNG secures $145.5m leaseback deal for refinancing",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Flex LNG has finalized a significant sale-and-leaseback agreement valued at $145.5 million for one of its modern liquefied natural gas carriers with an undisclosed Asian lessor. This financial transaction is part of an ongoing fleet refinancing initiative by the New York-listed maritime operator, which aims to generate approximately $34 million in net cash proceeds. The agreement specifically involves the 2018-built Flex Enterprise, a vessel with a 173,400 cubic meter capacity, as detailed in the company's recent third-quarter financial results.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/flex-lng-lines-up-145-5m-leaseback/"
   },
   {
     "headline": "Volare Shipping acquires $210m VLCC in Trafigura-linked deal",
@@ -1990,16 +2180,6 @@
     "sourceUrl": "https://container-news.com/eimskip-posts-43-6-ebitda-growth-in-third-quarter/"
   },
   {
-    "headline": "CMA CGM introduces new peak season surcharges for Asia routes",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Container shipping line CMA CGM has announced upcoming peak season surcharges targeting shipments originating in Asia and heading toward the Mediterranean, North Africa, and Mauritius. Scheduled to take effect in late 2026, the additional fees will reach as high as $1,600 for a standard 40-foot container on specific routes. These adjustments reflect ongoing capacity and demand dynamics managed by the carrier across major international trade lanes, impacting shippers and logistics providers operating between Asian manufacturing hubs and these regional destinations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/cma-cgm-announces-new-surcharges-for-mediterranean-and-mauritius-trades/"
-  },
-  {
     "headline": "Yang Ming Posts Strong Q3 Profit on Higher Freight Rates",
     "continent": "Asia",
     "country": "Taiwan",
@@ -2018,26 +2198,6 @@
     "summary": "The United States Treasury Department is considering a policy that would permit approved companies to purchase sanctioned shadow fleet shipping vessels on an individual basis. Under this potential approach, legitimate maritime operators could acquire these vessels and reintegrate them back into authorized, licit shipping networks, aiming to address fleet capacity and oversight concerns within the broader maritime transportation sector.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/us-treasury-may-allow-purchase-of-sanctioned-tankers-on-case-basis/"
-  },
-  {
-    "headline": "Tanker Demand Surges in October Secondhand Market",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "The secondhand maritime vessel market saw a notable shift toward tankers in October, even as total transaction volumes remained relatively stable compared to the previous year. Tanker sales surged significantly, capturing nearly half of all vessel transactions. In contrast, dry bulk sales experienced a sharp decline over the same period. This divergence highlights shifting capacity trends and market demand within maritime logistics and global freight transport sectors as operators adjust their fleets.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/tankers-in-high-demand-during-october/"
-  },
-  {
-    "headline": "Baltic Dry Index Extends Gains for Sixth Consecutive Session",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "The primary shipping rate benchmark for dry bulk commodities increased by 3.4 percent, reaching its highest level since early October and marking a sixth straight day of gains. The upward movement was driven largely by the capesize segment, which tracks large vessels typically used to transport major industrial commodities such as coal and iron ore. This continuous climb reflects shifting conditions in maritime freight markets and international raw material transportation.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-6th-day/"
   },
   {
     "headline": "Maritime industry launches AI maturity benchmark for shipping",
@@ -2080,46 +2240,6 @@
     "sourceUrl": "https://theloadstar.com/record-rates-mask-dire-situation-for-hauliers-as-costs-outstrip-earnings/"
   },
   {
-    "headline": "Air Cargo Peak Season Hopes Fade Amid Flat October Demand",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Expectations for a traditional end-of-year volume surge in the air cargo sector have diminished. According to Xeneta, overall market growth continues at a steady pace, but October failed to show the usual capacity pressures and demand signals that typically precede a late-year shipping rush. Without these indicators, carriers and forwarders are confronting a more subdued peak season than anticipated, reflecting broader cooling trends in global air freight volumes as capacity management remains a central focus for the industry.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/"
-  },
-  {
-    "headline": "BMW Secures Battery Supply Deals for US and Europe",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-11-11",
-    "summary": "The automotive manufacturer has finalized agreements with cell producers Samsung SDI and LG Energy Solution. These contracts support the company's objective to establish localized supply networks for its upcoming electric vehicle production lines in both European and North American markets, reducing reliance on distant suppliers and mitigating transportation vulnerabilities.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/bmw-announces-new-battery-supply-deals-for-the-us-europe/874409/"
-  },
-  {
-    "headline": "Freight sector faces severe distress with layoffs and bankruptcies",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "The freight and logistics industry is experiencing mounting financial pressures, evidenced by more than 1,000 workforce reductions and fifteen bankruptcy filings occurring over recent weeks. This downturn highlights persistent economic challenges and strain within the broader transportation and supply chain sector as companies struggle with operational viability amidst unfavorable market conditions.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/freight-distress-persists-as-logistics-layoffs-top-1000-bankruptcies-mount"
-  },
-  {
-    "headline": "North American Intermodal Rail Freight Hits All-Time Highs",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "North American rail traffic experienced its strongest three-month period in history, culminating in record-breaking intermodal volumes in October. This unprecedented growth reflects a healthy industrial economy and extends beyond mere market share gains from the trucking sector. Even amid prevailing economic pressures such as inflation and elevated interest rates, projections indicate that rail freight volumes will maintain their positive momentum moving forward.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/intermodal-booms-best-3-months-ever-for-rail-freight"
-  },
-  {
     "headline": "Monjasa expands fleet with acquisition of five product tankers",
     "continent": "Europe",
     "country": "Denmark",
@@ -2140,16 +2260,6 @@
     "sourceUrl": "https://splash247.com/hartnolls-eastway-makes-320m-tanker-comeback/"
   },
   {
-    "headline": "Shifting global coal trade maps alter dry bulk shipping in 2026",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Seaborne coal trade is projected to rise marginally to 1.343 billion tonnes, though underlying trade routes are shifting significantly. Indonesian export volumes are declining, while southern African shipments reach record highs amid fractured import demand across Asia. These regional adjustments are creating distinct commercial winners and losers within the dry bulk shipping sector as the global logistics landscape adapts to new sourcing patterns and altered maritime freight flows.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/coals-new-world-order-takes-shape/"
-  },
-  {
     "headline": "China Merchants revives dormant Quanzhou Shipyard",
     "continent": "Asia",
     "country": "China",
@@ -2158,16 +2268,6 @@
     "summary": "China Merchants has signed an agreement with local authorities in Fujian province to take control of the long-dormant Quanzhou Shipyard. This move is part of a broader trend of shipyard revivals across the country, significantly expanding China's total shipbuilding capacity in recent years. The reopening of this major facility highlights ongoing state support and strategic investment in the nation's maritime manufacturing sector.",
     "sourceName": "Splash247",
     "sourceUrl": "https://splash247.com/china-merchants-revives-another-shipyard/"
-  },
-  {
-    "headline": "Panama Canal Increases Capacity and Draft Limits After Rains",
-    "continent": "North America",
-    "country": "Panama",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "The Panama Canal Authority has raised daily vessel transit capacity to 34 ships and increased the maximum allowable draft for neopanamax vessels to 50 feet. This operational adjustment reflects a substantial easing of previous restrictions that had been implemented due to dry conditions. The recovery follows an exceptionally wet October, which helped replenish water levels and allowed the canal authority to add booking slots for super-category vessels at the original panamax locks, improving global maritime logistics flows.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/panama-canal-turns-the-taps-back-on/"
   },
   {
     "headline": "AD Ports Group Reports Record Q3 Profit Amid Volume Drops",
