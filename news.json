@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Akkon Lines Updates Bulgaria Shuttle Route, Drops Gemlik",
+    "continent": "Europe",
+    "country": "Turkey",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Carrier Akkon Lines has restructured its Bulgaria Shuttle Service by eliminating Gemlik from its port rotation. Following this change, Izmit stands as the sole Turkish port included in the itinerary, which maintains links to Constanta in Romania along with Varna and Burgas in Bulgaria. This adjustment streamlines the maritime service connecting Turkey to the western Black Sea region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/akkon-lines-removes-gemlik-from-bulgaria-shuttle-service/"
+  },
+  {
+    "headline": "Maritime Industry Faces Alternative Fuel Scale and Cost Hurdles",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-15",
+    "summary": "While numerous small-scale low- and zero-emission fuel projects are currently under development globally, the shipping sector requires significantly larger volumes at competitive price points across major bunker locations to drive widespread adoption. Notable initiatives include a planned commercial synthetic fuel facility by Swiss startup Synhelion, aimed at producing one thousand metric tons annually. Despite these technological advancements, scaling production to meet heavy maritime demand remains a critical challenge for sustainable supply chain logistics and environmental strategy.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-a-drop-in-the-tank/"
+  },
+  {
+    "headline": "Intra-Asia Container Freight Rates Decline",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "Drewry's Intra-Asia Container Index decreased by $38 to $1,440 per 40-foot container, driven primarily by declining shipping rates originating from China. Most trade routes out of China remained stable or experienced downward trends, contributing to the overall market dip. However, select low-volume regional corridors, including routes from Jakarta and Ho Chi Minh City to Shanghai, bucked the trend by posting rate increases, highlighting ongoing pricing volatility across regional maritime shipping networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-retreats/"
+  },
+  {
+    "headline": "Singapore fuel oil inventories increase in November",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "storage_distribution",
+    "date": "2026-11-15",
+    "summary": "Recent data from Enterprise Singapore indicates that the nation's residual fuel oil inventories have risen by 4% during the first part of November compared to the previous month, reaching 19.33 million barrels. Meanwhile, middle distillate stockpiles experienced a decline of 710,000 barrels down to 8.43 million barrels. These shifts highlight ongoing inventory adjustments in a major regional trading hub, which can influence local bunker fuel availability and broader maritime logistics operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/singapore-fuel-oil-stocks-rise-4/"
+  },
+  {
+    "headline": "INTERCARGO Issues Safety Guidelines for Bulk Carrier STS Transfers",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-15",
+    "summary": "New guidance has been released to address the distinct risks associated with ship-to-ship transfer operations in dry bulk shipping. These procedures become necessary when port infrastructure, draught limitations, or berth availability prevent standard terminal loading and discharging. By outlining operational protocols, the initiative aims to minimize hazards when bringing two vessels alongside each other for cargo handling, ensuring safer execution in challenging maritime logistics environments.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/safer-ship-to-ship-transfers-practical-lessons-for-bulk-carrier-operations/"
+  },
+  {
+    "headline": "China Iron Ore Port Inventories Rise as Pick-up Volumes Decline",
+    "continent": "Asia",
+    "country": "China",
+    "category": "storage_distribution",
+    "date": "2026-11-15",
+    "summary": "Data indicates that total iron ore stockpiles across major domestic harbors increased by nearly three million metric tons, continuing a steady accumulation trend. Concurrently, the daily average volume of material collected from these maritime hubs experienced a slight decline. These shifting metrics highlight evolving supply and demand dynamics within the raw materials logistics sector, impacting regional inventory management and material flow through primary import gateways.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/iron-ore-port-inventory-and-port-pick-up-volume-on-november-13-2026/"
+  },
+  {
+    "headline": "US and China Extend Suspension of Reciprocal Port and Service Fees",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-15",
+    "summary": "The United States and China have mutually agreed to extend the suspension of specific maritime fees, providing temporary relief for international shipping operations. The USTR delayed the implementation of service fees targeting Chinese-linked vessels for an additional two months, pushing the deadline to early January. This reciprocal action helps maintain stability in bilateral trade logistics and port operations between the two nations, averting potential cost increases for carriers operating across the Pacific trade lanes during the negotiation period.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/the-us-and-china-reciprocally-extend-the-suspensions-of-service-fees/"
+  },
+  {
     "headline": "Hong Kong advances ambitious maritime strategy and reforms",
     "continent": "Asia",
     "country": "China",
@@ -1160,6 +1230,26 @@
     "sourceUrl": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
   },
   {
+    "headline": "XPO Receives Investment-Grade Credit Rating from Fitch",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-12",
+    "summary": "Fitch Ratings has upgraded less-than-truckload carrier XPO to a BBB- investment-grade credit rating, placing it one notch above the non-investment grade threshold. This financial milestone follows previous evaluations by Moody's and S&P Global, reflecting the logistics provider's evolving financial standing and credit profile within the freight transport sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/one-of-3-ratings-agencies-now-has-xpo-as-investment-grade"
+  },
+  {
+    "headline": "ITF Report Links Retail Returns Costs to Freight Management",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-12",
+    "summary": "Industry projections estimate retail returns will reach hundreds of billions of dollars over the coming year, though showing a slight decrease compared to previous periods. A new report from the ITF Group indicates that many retailers misallocate a portion of these substantial return expenses by booking them under the wrong departmental budgets. The findings suggest that better alignment between freight operations and financial accounting could provide a more accurate picture of total reverse logistics costs across the retail sector.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/itf-group-report-retail-returns-freight"
+  },
+  {
     "headline": "Hapag-Lloyd raises earnings forecast following profit surge",
     "continent": "Global",
     "country": "Multiple",
@@ -2080,16 +2170,6 @@
     "sourceUrl": "https://splash247.com/panama-canal-turns-the-taps-back-on/"
   },
   {
-    "headline": "Panama Canal Expands Daily Transit Slots to 34",
-    "continent": "North America",
-    "country": "Panama",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "The Panama Canal Authority has raised daily transit capacity to 34 booking slots and increased the maximum allowable draft for vessels utilizing the Neopanamax locks. This operational expansion follows improved water levels in the regional lakes and positive hydrological forecasts, easing previous restrictions that had constrained maritime freight movement through the critical global trade bottleneck.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/panama-canal-increases-daily-transit-capacity-to-34-slots/"
-  },
-  {
     "headline": "AD Ports Group Reports Record Q3 Profit Amid Volume Drops",
     "continent": "Middle East",
     "country": "United Arab Emirates",
@@ -2098,26 +2178,6 @@
     "summary": "AD Ports Group announced record earnings for the third quarter of 2026, driven by significant revenue and EBITDA growth. This financial performance occurred despite a notable reduction in container throughput at its facilities in the United Arab Emirates, which was attributed to ongoing operational disruptions in the surrounding Strait of Hormuz region. The Abu Dhabi-based operator managed to expand its overall financial results year-over-year while navigating these critical maritime transit challenges affecting regional shipping volumes.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/ad-ports-group-posts-record-q3-profit-despite-drop-in-uae-container-volumes/"
-  },
-  {
-    "headline": "Maersk confirms data breach in legacy logistics system",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Global shipping giant Maersk has acknowledged an IT security incident after a hacker group claimed to have stolen around 100 gigabytes of data. The unauthorized access specifically targeted a legacy system tied to the company's logistics operations. Maersk stated it is actively investigating the breach and assessing the scope of the extracted information. While operations continue, the incident highlights ongoing cybersecurity vulnerabilities within critical international freight and transportation infrastructure, raising concerns regarding data protection and system resilience across global maritime supply networks.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/maersk-confirms-security-breach-amid-hacker-claims-of-major-data-theft/"
-  },
-  {
-    "headline": "US Container Imports Reach Record High in October",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "United States maritime container imports climbed to a record monthly total of over 2.67 million TEUs in October, according to Descartes Systems Group. This marks a 5 percent increase compared to the previous month. The growth was primarily driven by higher shipment volumes originating from China, alongside heightened operational activity across ports situated along the US East and Gulf coasts, reflecting strong cargo demand and shifting trade patterns.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/us-container-imports-hit-all-time-high-in-october-descartes-reports/"
   },
   {
     "headline": "Hai An launches Vietnam-to-Tuticorin container route",
@@ -2130,16 +2190,6 @@
     "sourceUrl": "https://container-news.com/hai-an-extends-vietnam-container-service-to-tuticorin/"
   },
   {
-    "headline": "Freightos unveils AI-driven platform for air and ocean freight",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-11",
-    "summary": "Freightos has introduced an advanced iteration of its forwarding platform, integrating artificial intelligence to streamline rate management, booking, and freight quoting processes. Designed to support both ocean and air shipping operations, the updated system consolidates carrier pricing, digital booking utilities, and market analytics into one unified interface. This technological upgrade is intended to enhance efficiency and simplify daily workflows for freight forwarders navigating complex global transportation networks.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/freightos-launches-ai-powered-platform-for-freight-forwarders/"
-  },
-  {
     "headline": "Baltic Dry Index Rises 97 Points to 2959",
     "continent": "Europe",
     "country": "United Kingdom",
@@ -2148,16 +2198,6 @@
     "summary": "The global shipping benchmark measuring the cost of transporting dry bulk commodities such as iron ore, coal, and grain increased by 97 points, reaching 2959 points. Compiled daily by the London-based Baltic Exchange through a worldwide survey of shipping agents, the index serves as a key indicator of international maritime freight rates and global economic activity within the dry bulk shipping sector.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2959-up-97-points/"
-  },
-  {
-    "headline": "IMO member states discuss shipping greenhouse gas regulations",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-11",
-    "summary": "Ahead of upcoming International Maritime Organization meetings, member states are holding informal talks to shape enforcement mechanisms and policy measures for maritime decarbonization. The discussions focus on finding a viable path forward to implement the organization's 2023 greenhouse gas strategy, addressing critical regulatory needs for the global shipping sector as environmental targets approach.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/new-insight-brief-offers-reflections-on-what-is-needed-from-shippings-regulatory-enforcement-mechanism/"
   },
   {
     "headline": "Maritime Robberies Surge in Singapore and Malacca Straits",
