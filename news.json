@@ -1,5 +1,185 @@
 [
   {
+    "headline": "Why Terminal Wait Times Don't Tell the Full Logistics Story",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "During peak shipping seasons, selecting freight carriers typically involves weighing costs, capacity, and route performance. However, evaluating reliability remains difficult because container terminal performance data is rarely aggregated across multiple carriers on identical routes. Consequently, relying solely on the shortest terminal wait time can be misleading, as other variables heavily influence overall transit speed and operational efficiency. Shippers need deeper data insights rather than general perceptions to optimize their transport networks and ensure timely cargo delivery.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/why-the-carrier-with-the-shortest-terminal-wait-isnt-always-the-fastest-option/"
+  },
+  {
+    "headline": "US Political Shifts Anticipated to Impact Global Shipping",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-16",
+    "summary": "Upcoming changes in United States policy direction, following political shifts in Congress, are projected to serve as significant catalysts for global maritime shipping markets in the coming years. According to industry analysis by shipbroker Intermodal, newly established legislative control in Washington is anticipated to steer future foreign and domestic agendas, which in turn will likely influence trade flows, regulatory environments, and overall operational conditions for international freight operators and supply chain networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/new-us-policy-priorities-could-shape-future-shipping-markets/"
+  },
+  {
+    "headline": "Tokyo and Paris MoUs launch joint cargo securing inspection campaign",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Maritime authorities in the Tokyo and Paris regions have initiated a joint Concentrated Inspection Campaign running from September through November, focusing on cargo securing compliance. The initiative aims to address safety vulnerabilities on vessels to protect crews, ships, and marine environments from the risks associated with inadequate cargo lashing and stowage practices.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/cargo-securing-compliance-starts-on-deck-not-in-the-manual/"
+  },
+  {
+    "headline": "ICS warns geopolitical tensions threaten maritime trade and navigation",
+    "continent": "Asia",
+    "country": "China",
+    "category": "international_relations",
+    "date": "2026-11-16",
+    "summary": "The International Chamber of Shipping has highlighted growing concerns over how rising geopolitical tensions and global fragmentation present severe risks to international trade networks and freedom of navigation. Speaking at an industry summit in Hong Kong, leadership urged for a reinforced global commitment to maintaining a secure, rules-based maritime system to safeguard the continuity of worldwide supply chains against escalating disruptions.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/ics-chair-warns-rising-geopolitical-risks-threaten-global-trade-and-freedom-of-navigation-at-hong-kong-global-maritime-trade-summit/"
+  },
+  {
+    "headline": "OceanScore acquires RightShip MEP customer portfolio",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-16",
+    "summary": "OceanScore has reached an agreement with RightShip to take over the customer portfolio of the Maritime Emissions Portal. This strategic move expands OceanScore's presence in the worldwide port sector and supports its goal of setting a global standard for tracking and managing port emissions. The partnership integrates RightShip's existing industry relationships to enhance port emissions intelligence capabilities and drive sustainability initiatives across maritime supply chain operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/oceanscore-advances-port-emissions-intelligence-ambitions-through-agreement-with-rightship-on-mep-customer-portfolio/"
+  },
+  {
+    "headline": "LNG bunker prices decline in ARA Rotterdam amid easing tension",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Liquefied natural gas bunker prices at ARA Rotterdam decreased week-on-week to $1,630 per metric ton. This reduction was primarily driven by falling Title Transfer Facility prices early in the period. Market sentiment shifted as optimism surrounding potential progress in diplomatic talks involving the United States and Iran helped alleviate longstanding concerns regarding stability and energy supplies in the Middle East region, according to reporting from the Japan Organization for Metals and Energy Security.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-singapore-price-drops-as-jkm-moves-to-january/"
+  },
+  {
+    "headline": "GXO Logistics outlines 2030 financial targets and strategy",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-16",
+    "summary": "Contract logistics provider GXO Logistics held its Investor Day event at the New York Stock Exchange to present its long-term financial targets for 2030. Led by CEO Patrick Kelleher and the executive team, the company shared its strategic roadmap for value creation and capital allocation with investors and analysts. The announcement highlights the firm's growth objectives and operational focus within the global contract logistics sector as it plans its financial trajectory through the end of the decade.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gxo-announces-2030-financial-targets-at-investor-day/"
+  },
+  {
+    "headline": "U.S. Commerce Department Targets Third-Party China Chip Loophole",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-16",
+    "summary": "The U.S. Commerce Department has introduced an interim final rule to close a regulatory loophole allowing Chinese firms to utilize advanced computing hardware, such as Nvidia chips, through data centers located in third countries. This measure addresses concerns regarding the circumvention of existing export restrictions on sensitive semiconductor technologies. The policy action follows recent executive changes at Nvidia and aims to tighten enforcement on international technology access and semiconductor supply chains affecting cross-border trade and compliance.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cnbc-nvidia-fallout-commerce-targets-loophole-for-chinas-data-center-use/"
+  },
+  {
+    "headline": "France Approves Major Rail Network Modernization Investment",
+    "continent": "Europe",
+    "country": "France",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "The French government has greenlit a significant financial program aimed at upgrading and modernizing the national railway infrastructure. The initiative includes a substantial increase in annual spending dedicated to the regeneration of rail assets, signaling a strategic effort to enhance the reliability and capacity of the country's freight and passenger transportation corridors.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/policy/2026/11/16/france-signs-off-unprecedented-investment-programme-for-rail-network/"
+  },
+  {
+    "headline": "Georgia tenders €183m rail link for Anaklia port",
+    "continent": "Europe",
+    "country": "Georgia",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Georgian Railway has issued an international tender to construct a new 17.7-kilometre electrified rail connection linked to the Anaklia deep-sea port. The infrastructure project, valued at approximately €183 million, aims to improve freight connectivity and support maritime logistics development in the region.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/16/georgia-tenders-e183m-rail-link-to-anaklia-deep-sea-port/"
+  },
+  {
+    "headline": "Dutch Rail Freight Operator RRF Seeks Restructuring",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Rotterdam Rail Feeding, a rail freight operator based in the Netherlands, has received a suspension of payments as it attempts to restructure its operations and prevent bankruptcy. The company has faced severe financial pressure resulting from increasing operating expenses, compressed profit margins, and other unspecified market challenges. This financial restructuring effort highlights the ongoing economic difficulties impacting European rail logistics and freight transport providers as they navigate rising cost structures within the intermodal supply chain network.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/16/rotterdamse-spoorvervoerder-rrf-wil-reorganiseren-om-faillissement-te-voorkomen/"
+  },
+  {
+    "headline": "UK rail watchdog investigates freight train derailment at Barking",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "The British Rail Accident Investigation Branch has released additional findings regarding an intermodal freight train derailment operated by GB Railfreight in Barking. Investigators revealed that a derailed wagon continued traveling along the tracks for over a kilometer before coming to a stop. The incident highlights ongoing concerns regarding rail infrastructure safety and the operational integrity of freight networks, prompting closer scrutiny from regulatory authorities to prevent similar disruptions to freight logistics and rail transport operations.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/16/raib-reveals-barking-freight-trains-derailed-wagon-travelled-for-1-1km/"
+  },
+  {
+    "headline": "Reformation Adopts AI to Optimize Inventory and Production",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-16",
+    "summary": "Apparel brand Reformation is integrating artificial intelligence solutions to enhance its inventory management processes. The technology enables the company to closely track consumer demand patterns, resulting in data-driven manufacturing choices. By utilizing these advanced digital tools, the retailer aims to align its output more precisely with market needs, reducing excess stock and improving overall operational efficiency within its supply chain network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/"
+  },
+  {
+    "headline": "Meta Partners with Nevoya for Electric Freight on I-10",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-11-16",
+    "summary": "Meta has agreed to purchase environmental attribute certificates associated with twenty-five battery-electric trucks operated by Nevoya. The zero-emission vehicles will transport freight along the Interstate 10 corridor connecting San Bernardino, California, and Phoenix, Arizona. Operations for this sustainability-focused logistics initiative are scheduled to commence in the year 2027. This collaboration highlights corporate investment in green transportation infrastructure and highlights efforts to reduce carbon emissions within regional supply chain freight networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/meta-nevoya-electric-trucks-i-10"
+  },
+  {
+    "headline": "Associations urge IATA to revise Direct Air Waybill framework",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Industry groups have jointly released a white paper pressing the International Air Transport Association to update its Direct Air Waybill framework. The associations argue that the current guidelines impose unfair legal and insurance liabilities on freight forwarders for operational risks that fall outside their direct control. They are seeking amendments to protect forwarders from these heightened exposures under the newly introduced framework.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freight-forwarder/2026/11/iata-urged-to-revise-dawb-framework-over-forwarder-liability-concerns/"
+  },
+  {
+    "headline": "Turkish Cargo launches Istanbul-Yerevan freighter route",
+    "continent": "Asia",
+    "country": "Armenia",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Turkish Cargo has expanded its operational network by initiating scheduled freighter flights between Istanbul and Yerevan. The new air cargo connection establishes a direct trade lane linking Turkey and Armenia, enhancing regional logistics capabilities. The inaugural round-trip flight successfully completed operations, marking a notable development in cross-border freight transport for the carrier.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/turkish-cargo-adds-yerevan-to-network/"
+  },
+  {
+    "headline": "DHL Adds India Route to Asia-Europe Airfreight Network",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "DHL Global Forwarding has introduced a new dedicated airfreight route connecting Hong Kong, India, and Europe to address rising customer demand for dependable capacity. The service utilizes a Boeing 747 freighter with a 100-tonne capacity operated by DHL Aviation. Operating twice weekly, the flight links Hong Kong, Navi Mumbai, and Liege, strengthening trade lanes between key Asian and European markets while expanding logistics options in the region.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freight-forwarder/2026/11/dhl-global-forwarding-adds-india-through-new-asia-europe-freighter-flight/"
+  },
+  {
+    "headline": "Lufthansa Cargo maintains strategic focus on Asia trade lanes",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-16",
+    "summary": "Lufthansa Cargo continues to prioritize the Asian market within its global network, driven by robust regional manufacturing activity. Leadership highlights the critical importance of the Asia to Europe trade corridor for current operations. Strong production output across Asian nations sustains the carrier's commitment to facilitating international commerce and maintaining active freight pathways between the two regions.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/asia-to-remain-a-focus-for-lufthansa-cargo/"
+  },
+  {
     "headline": "John Xylas re-elected as chairman of dry bulk association Intercargo",
     "continent": "Europe",
     "country": "Italy",
@@ -1890,16 +2070,6 @@
     "sourceUrl": "https://container-news.com/msc-ceo-soren-toft-highlights-stronger-growth-despite-global-uncertainty/"
   },
   {
-    "headline": "ICTSI posts strong container volume and revenue growth for 2026",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "International Container Terminal Services, Inc. registered significant double-digit expansion across its key financial and operational metrics during the first nine months of the year. Consolidated container volume rose by thirteen percent to surpass twelve million TEUs, while third-quarter throughput also registered healthy gains. Total revenue generated from port operations climbed substantially compared to the prior year period, driven by higher global handling volumes and improved operational performance across its network of terminals.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/ictsi-reports-throughput-increase-and-net-income-growth/"
-  },
-  {
     "headline": "HMM Reports 370% Surge in Third-Quarter Operating Profit",
     "continent": "Asia",
     "country": "South Korea",
@@ -1930,16 +2100,6 @@
     "sourceUrl": "https://container-news.com/agility-global-reports-revenue-growth-as-logistics-businesses-expand/"
   },
   {
-    "headline": "Financing Maritime Energy Transition and Zero-Emission Shipping",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-12",
-    "summary": "The global shipping sector requires targeted financial investment and human capacity development to achieve zero-emission operations by 2050. Discussions at an International Maritime Organization project session highlighted the necessity of supporting developing nations, including small island developing states and least developed countries, to fund scalable and bankable green projects. These efforts align with the organization's overarching greenhouse gas strategy aimed at modernizing maritime logistics and international trade pathways sustainably.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/financing-the-maritime-energy-transition/"
-  },
-  {
     "headline": "Ulsan Port Achieves Commercial e-Ammonia Bunkering Milestone",
     "continent": "Asia",
     "country": "South Korea",
@@ -1948,16 +2108,6 @@
     "summary": "Ulsan Port Authority collaborated with several key maritime and chemical companies to successfully deliver 800 tonnes of renewable energy-based e-ammonia to a large ammonia carrier using a port-to-ship bunkering system. This commercial milestone represents a significant step forward in the adoption of alternative, low-carbon fuels for maritime logistics and international shipping operations, aligning with broader industry sustainability goals to reduce greenhouse gas emissions across global supply chains.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/pacific-environment-welcomes-ulsan-ports-commercial-e-ammonia-bunkering-milestone/"
-  },
-  {
-    "headline": "Monjasa expands fleet with five tankers in major renewal deal",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Global oil and shipping firm Monjasa has acquired five sister tankers from German shipowner Bernhard Schulte in its largest tonnage purchase to date. The transaction includes 16,621-dwt product tankers intended to bolster regional operations in West Africa and enhance flexibility throughout the company's worldwide marine fuels supply network, supporting ongoing fleet modernization efforts.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/monjasa-adds-five-sister-tankers-in-major-fleet-renewal-deal/"
   },
   {
     "headline": "Asyad Shipping JV agrees to sell LR2 tanker Haima",
@@ -2000,16 +2150,6 @@
     "sourceUrl": "https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/"
   },
   {
-    "headline": "Newbuild Containership Influx Threatens Aging Panamax Fleet",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "An incoming wave of larger container vessels is expected to make aging panamax ships commercially obsolete before the end of the decade. Analysts indicate that carrier efforts to modernize smaller fleets will likely result in significant capacity displacement. The mid-sized vessel segment is currently facing high vulnerability, with a large number of ships approaching retirement age compared to the relatively low volume of new vessels currently on order to replace them.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/wave-of-larger-newbuild-box-ships-a-threat-to-the-panamax-fleet/"
-  },
-  {
     "headline": "Wan Hai Lines Invests $325M in 110,000 New Containers",
     "continent": "Asia",
     "country": "Taiwan",
@@ -2028,16 +2168,6 @@
     "summary": "Recent regulatory enforcement actions by the Office of Foreign Assets Control against freight forwarders highlight the critical need for rigorous customer screening in international trade. While compliance efforts often focus on consignees, industry experts warn that vetting the beneficial cargo owners paying the invoices is equally essential. Neglecting comprehensive due diligence during client onboarding can expose supply chain intermediaries to significant legal and financial penalties for facilitating unauthorized transactions or dealing with sanctioned entities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/know-your-customers-rap-sheet-the-risk-hiding-in-your-own-book-of-business/"
-  },
-  {
-    "headline": "Truck stop diesel prices remain elevated despite falling crude",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Despite a twenty-one percent decline in Brent crude prices, retail diesel at truck stops surged to $6.23 per gallon in early November, marking a sixty-five percent increase year-over-year. Market analysis highlights the widening crack spread as a primary driver of this persistent cost pressure for the freight and logistics sector, explaining the disconnect between crude oil benchmarks and refined fuel prices at the pump.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/diesel-101-why-truck-stop-diesel-is-still-above-6-a-gallon-as-crude-falls"
   },
   {
     "headline": "FedEx invests in European road and air network upgrades",
@@ -2060,16 +2190,6 @@
     "sourceUrl": "https://www.aircargonews.net/freighter-operator/2026/11/cargo-airline-airrajasthan-plans-market-launch/"
   },
   {
-    "headline": "Honda invests $3B in Ohio plant for hybrid production",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-11",
-    "summary": "Honda is committing three billion dollars to establish a new hybrid vehicle manufacturing facility in Ohio. The strategic factory expansion will generate two thousand positions and aims to accelerate hybrid development by positioning the site near the company's established American operational footprint. This investment highlights ongoing efforts to adapt domestic manufacturing capabilities to meet changing vehicle demand and streamline North American supply chains.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/honda-to-invest-3b-in-new-ohio-hybrid-vehicle-plant/874281/"
-  },
-  {
     "headline": "Maersk reports data breach in legacy IT system",
     "continent": "Europe",
     "country": "Denmark",
@@ -2090,16 +2210,6 @@
     "sourceUrl": "https://splash247.com/volare-snaps-up-210m-vlcc-in-trafigura-linked-deal/"
   },
   {
-    "headline": "Canada reinstates trade sanctions on Iranian oil tanker giant",
-    "continent": "North America",
-    "country": "Canada",
-    "category": "international_relations",
-    "date": "2026-11-11",
-    "summary": "Canada has re-imposed economic sanctions on the National Iranian Tanker Company, alongside several other major energy and financial entities in Tehran. This policy shift rolls back previous exemptions that had been granted ten years ago following an international nuclear accord. The targeted measures encompass vital components of the nation's petroleum export infrastructure, potentially disrupting maritime logistics, trade flows, and fuel procurement networks connected to these sanctioned operators on the global market.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/"
-  },
-  {
     "headline": "Yangzijiang linked to Torm LR2 tanker joint venture",
     "continent": "Asia",
     "country": "Singapore",
@@ -2118,16 +2228,6 @@
     "summary": "Mitsui O.S.K. Lines experienced a threefold surge in containership earnings for the first half of its 2026 fiscal year. This financial growth was primarily driven by enhanced profitability from Ocean Network Express, alongside high freight rates and persistent capacity limitations affecting primary container shipping routes. The Japanese shipping enterprise recorded an ordinary profit of 73.4 billion yen for the segment, reflecting robust market conditions across global maritime corridors.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/mol-containership-profit-triples-as-one-earnings-strengthen/"
-  },
-  {
-    "headline": "US Election Shift and LA/LB Strike Deadline Impact Trade",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-11",
-    "summary": "Recent midterm election results in the United States have introduced new trade uncertainties as control of Congress shifts. Voter anxiety regarding inflation, energy costs, and existing tariffs may influence the administration to hold off on implementing new trade levies. Meanwhile, the deadline for potential labor disruptions at the crucial Los Angeles and Long Beach port complex has been extended, providing temporary relief for ocean freight operations and supply chain stakeholders navigating ongoing cargo flow vulnerabilities.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/freightos-weekly-update-la-lb-strike-deadline-extended-dem-win-increasing-trade-uncertainty/"
   },
   {
     "headline": "Houthi Attacks Disrupted Suez Canal Trade Route",
@@ -2160,16 +2260,6 @@
     "sourceUrl": "https://container-news.com/rcl-to-deploy-two-new-7000-teu-vessels-on-asia-india-service/"
   },
   {
-    "headline": "Georgia Grows as Automotive Manufacturing Hub",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-11",
-    "summary": "State port officials highlighted significant growth in the automotive manufacturing and logistics sectors during an annual port address. Recent major investments by global automakers, including a new Audi factory and Hyundai's Metaplant, have solidified the region as a primary center of excellence for vehicle production and supply chain integration. Leadership emphasized ongoing regional developments designed to support expanding manufacturing operations and strengthen regional automotive supply chains moving forward.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/georgia-emerges-as-a-centre-of-excellence-for-automotive-manufacturing-and-logistics/"
-  },
-  {
     "headline": "Eimskip Reports Strong Q3 Growth on Volumes and Rates",
     "continent": "Europe",
     "country": "Iceland",
@@ -2188,16 +2278,6 @@
     "summary": "Yang Ming Marine Transport Corporation announced a robust after-tax net profit for the third quarter of 2026, driven by elevated freight rates, healthy cargo demand, and ongoing capacity limitations on major maritime trade lanes. The Taiwanese ocean carrier recorded substantial consolidated revenue for the period, reflecting favorable market conditions across its global container shipping network despite persistent logistical hurdles.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/yang-ming-reports-strong-q3-profit-amid-higher-freight-rates/"
-  },
-  {
-    "headline": "US Treasury may permit acquisition of sanctioned vessels",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-11",
-    "summary": "The United States Treasury Department is considering a policy that would permit approved companies to purchase sanctioned shadow fleet shipping vessels on an individual basis. Under this potential approach, legitimate maritime operators could acquire these vessels and reintegrate them back into authorized, licit shipping networks, aiming to address fleet capacity and oversight concerns within the broader maritime transportation sector.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/us-treasury-may-allow-purchase-of-sanctioned-tankers-on-case-basis/"
   },
   {
     "headline": "Maritime industry launches AI maturity benchmark for shipping",

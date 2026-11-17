@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Tesla plans €3B Berlin factory expansion for Cybercab production",
+    "continent": "Europe",
+    "country": "Germany",
+    "kind": "use_case",
+    "status": "news",
+    "date": "2026-11-16",
+    "summary": "Tesla is investing €3 billion to expand its gigafactory in Berlin, placing the European facility on its roadmap for producing the upcoming Cybercab. This significant capital injection aims to scale manufacturing infrastructure in the region to support the new autonomous vehicle design.",
+    "whyItMatters": "This major facility expansion could significantly shift European automotive manufacturing capacity and future freight or transport logistics.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"
+  },
+  {
+    "headline": "Food robotics shifts from novelties to B2B supply chain tools",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-14",
+    "summary": "Food robotics is evolving past consumer-facing gimmicks toward back-of-house B2B automation. Companies are deploying robotics to help food manufacturers, restaurants, and grocery retailers tackle labor shortages, boost productivity, and scale operations efficiently. This shift focuses on practical supply chain and operational improvements rather than entertainment, integrating automation deeper into food production, warehousing, and retail fulfillment processes.",
+    "whyItMatters": "This trend could streamline food manufacturing, warehousing, and grocery fulfillment, helping businesses offset ongoing labor shortages and scale operations.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/"
+  },
+  {
     "headline": "AGIBOT G2 Robots Complete 24-Hour Shanghai Convenience Store Trial",
     "continent": "Asia",
     "country": "China",
