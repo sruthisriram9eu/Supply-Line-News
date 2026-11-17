@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Boston Dynamics humanoid robot set for semiconductor trial",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "use_case",
+    "status": "news",
+    "date": "2026-11-17",
+    "summary": "Boston Dynamics is preparing to test its Atlas humanoid robot outside of the automotive industry for the first time. Scheduled for early 2027, the trial will take place at a major semiconductor manufacturing facility. The deployment represents a significant step for advanced robotics in high-precision electronics manufacturing environments, moving beyond traditional automotive assembly lines into new industrial sectors.",
+    "whyItMatters": "This early-stage trial could pave the way for humanoid robots to handle delicate, complex tasks in electronics and semiconductor manufacturing facilities.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/"
+  },
+  {
     "headline": "Tesla plans €3B Berlin factory expansion for Cybercab production",
     "continent": "Europe",
     "country": "Germany",
@@ -22,6 +34,18 @@
     "whyItMatters": "This trend could streamline food manufacturing, warehousing, and grocery fulfillment, helping businesses offset ongoing labor shortages and scale operations.",
     "sourceName": "The Robot Report",
     "sourceUrl": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/"
+  },
+  {
+    "headline": "Model Maps Framework Traces Upstream AI Supply Chains",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-13",
+    "summary": "Researchers introduced 'model maps,' a conceptual documentation framework designed to trace the ancestry and dependencies of foundation models. By building knowledge graphs that map relationships between upstream data, benchmarks, and models, the framework helps developers track how upstream properties flow downstream. The team applied this framework to analyze 15 closed and open-weight foundation models, addressing the opacity of AI supply chains that can cause hidden vulnerabilities and biases.",
+    "whyItMatters": "This early-stage documentation framework could help logistics and supply chain software developers trace hidden AI vulnerabilities and security risks.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.18998v1"
   },
   {
     "headline": "AGIBOT G2 Robots Complete 24-Hour Shanghai Convenience Store Trial",

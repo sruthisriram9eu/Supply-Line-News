@@ -1,5 +1,255 @@
 [
   {
+    "headline": "StealthGas LPG Carrier Crew Rescued After Suspected Attack",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "All 19 crew members aboard a StealthGas LPG carrier were airlifted to safety following a suspected drone strike off the coast of Bulgaria in the western Black Sea. This incident marks the second serious maritime emergency affecting commercial shipping in the region within a 24-hour window, raising growing concerns over navigational safety and regional shipping lane stability for cargo vessels operating in Black Sea waters.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/stealthgas-crew-airlifted-from-stricken-lpg-carrier-off-bulgaria/"
+  },
+  {
+    "headline": "Semco Maritime and PTSC win Taiwan wind substation contract",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "category": "procurement",
+    "date": "2026-11-17",
+    "summary": "Denmark-based Semco Maritime and Vietnam's PTSC Mechanical and Construction have been awarded a major contract for the Fengmiao II offshore wind project in Taiwan. Commissioned by Copenhagen Infrastructure Partners, the agreement encompasses the complete engineering, procurement, fabrication, and installation of an offshore substation. This critical infrastructure component will support the transmission network for the 600MW renewable energy development, highlighting cross-border collaboration in clean energy supply chains.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/semco-maritime-and-ptsc-bag-taiwan-offshore-wind-deal/"
+  },
+  {
+    "headline": "African Nations Agree to Develop Shipping Carbon Charges",
+    "continent": "Africa",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-17",
+    "summary": "Several African nations have formed an agreement to implement carbon fees on international shipping operations. Signed at a recent climate summit, the pact involves countries such as Guinea, Ivory Coast, and Mauritania, aiming to establish a coordinated environmental framework. This regional initiative presents an additional regulatory layer for shipowners, who must already navigate compliance with existing European environmental laws targeting maritime emissions and sustainability.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/african-nations-join-forces-to-impose-carbon-charges-on-shipping/"
+  },
+  {
+    "headline": "China Surges as Global Dry Bulk Export Powerhouse",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "China is shifting rapidly from its traditional role as a primary dry bulk importer into a major global exporter. Recent data indicates that outbound cargo volumes have more than doubled since 2020, currently driving nearly two-thirds of worldwide dry bulk shipment growth. This structural shift in maritime trade patterns is reshaping shipping lanes and altering global commodity flows, according to recent vessel-tracking analytics.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/"
+  },
+  {
+    "headline": "Merchant ship lost in Black Sea drone attack near Bulgaria",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "A commercial merchant vessel sank in the Black Sea after a suspected naval drone strike off the coast of Bulgaria, highlighting escalating security risks for international shipping lanes near NATO territory. The ship capsized within Bulgaria's exclusive economic zone, intensifying concerns regarding maritime logistics, freight safety, and the vulnerability of commercial transport operating in conflict-adjacent waters.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/another-merchant-ship-lost-in-black-sea-drone-onslaught/"
+  },
+  {
+    "headline": "EU Expands Sanctions on Russia's Shadow Fleet and Oil Buyers",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-17",
+    "summary": "The European Union has intensified its sanctions targeting Russia's maritime energy exports by expanding restrictions to encompass tanker owners, ship managers, insurers, and oil buyers in multiple jurisdictions. The newly enacted measures add 12 individuals and 101 entities to the official sanctions registry, incorporating companies based in countries such as China and the United Arab Emirates. This coordinated regulatory enforcement aims to further restrict revenue generation by disrupting key nodes within the illicit transport network.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/eu-widens-shadow-fleet-crackdown-to-tanker-managers-and-oil-buyers/"
+  },
+  {
+    "headline": "GXO Outlines 2030 Growth Strategy Focused on AI and Logistics",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "Contract logistics provider GXO Logistics has announced financial and strategic targets through 2030 during an Investor Day presentation in New York. The long-term plan centers on driving revenue and profitability by scaling automated warehouse operations and deploying artificial intelligence across its supply chain network. The company detailed its capital allocation priorities and growth initiatives to investors, highlighting technological integration as a core driver for future operational performance and market expansion in the logistics sector.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/gxo-sets-2030-growth-targets-as-it-expands-ai-powered-logistics/"
+  },
+  {
+    "headline": "Maersk Adjusts UK Port Emergency Fuel Surcharges",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Maersk has revealed its upcoming Emergency Fuel Surcharge rates for laden import containers passing through the UK ports of Felixstowe and London Thamesport for the final two months of 2026. The surcharge for Felixstowe will remain steady at four pounds and forty-four pence per container across November and December. Meanwhile, the fee for London Thamesport is scheduled to drop to five pounds and fifty-one pence per container starting the first of November, reflecting recent adjustments in fuel cost recovery measures implemented by the carrier.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-lowers-thamesport-efs-and-holds-felixstowe-charge/"
+  },
+  {
+    "headline": "Boluda Towage Expands Into Ecuador With Cititug Acquisition",
+    "continent": "South America",
+    "country": "Ecuador",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Boluda Towage has established its presence in Ecuador by acquiring local maritime assistance and towage provider Cititug. The transaction incorporates a five-vessel tugboat fleet alongside the acquired company's workforce. Financial details regarding the purchase were not disclosed by the involved parties. This move enhances Boluda's operational capabilities within the regional maritime services sector.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/boluda-towage-enters-ecuador-with-cititug-acquisition/"
+  },
+  {
+    "headline": "MSC consolidates operations with new headquarters in Abidjan",
+    "continent": "Africa",
+    "country": "Côte d'Ivoire",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Container carrier MSC has inaugurated a new regional headquarters in Abidjan, Côte d'Ivoire, bringing together its core shipping, logistics, and terminal operations under one roof. The facility opening coincides with the company's 30th anniversary of operations in the country. This consolidation aims to enhance administrative efficiency, support long-term regional development, and strengthen connectivity for local businesses operating through the major ports of Abidjan and San Pedro.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/msc-opens-new-headquarters-in-abidjan/"
+  },
+  {
+    "headline": "CMA CGM Imposes Rate Hike on Asia-Latin America Route",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Ocean carrier CMA CGM has implemented a freight rate increase of one thousand US dollars per container for shipments moving from Asian origins to Latin American destinations. Scheduled to take effect in December 2026, the price adjustment encompasses cargo originating from all regional ports, spanning Japan, Southeast Asia, and Bangladesh. The updated pricing structure applies broadly to shipments destined for both the eastern and western coasts of Latin America, impacting transpacific and regional maritime logistics networks.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cma-cgm-announces-us1000-rate-increase-from-asia-to-latin-america/"
+  },
+  {
+    "headline": "Bangladesh Ship Recyclers Face Margin Pressure from Falling Steel",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "category": "manufacturing",
+    "date": "2026-11-17",
+    "summary": "Ship recycling operations in Bangladesh are experiencing financial strain as local currency acquisition costs for vessels increase while market prices for recovered steel decline. According to industry reports, local steel plate values dropped by six dollars per tonne and scrap prices fell by eight dollars per tonne within a single week, squeezing profitability for shipbreakers dependent on these raw material sales.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/bangladesh-ship-recyclers-face-rising-costs-as-steel-prices-fall/"
+  },
+  {
+    "headline": "AVEVA and PROSTEP Partner on Industrial Software",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-17",
+    "summary": "Industrial software provider AVEVA has expanded its partnership with digital integration specialist PROSTEP through a new technology agreement. The collaboration focuses on enabling PROSTEP to develop advanced standard connectors tailored for engineering, construction, and operational workflows, particularly supporting complex sectors such as shipbuilding and offshore industries. This initiative aims to enhance digital continuity across industrial value chains by improving system interoperability and streamlining data exchange throughout the engineering and manufacturing lifecycle.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/aveva-and-prostep-sign-a-new-technology-partnership-agreement/"
+  },
+  {
+    "headline": "Nigerian port terminals operated on expired concession licenses",
+    "continent": "Africa",
+    "country": "Nigeria",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Terminal operators in Nigeria have continued managing port facilities for more than ten years past the official expiration of their concession licenses. Delays in the renewal process and a failure to publish required performance audits, despite regulatory mandates, have raised concerns among industry stakeholders. This prolonged regulatory uncertainty threatens to cause significant revenue losses for the country, undermine investor confidence, and exacerbate existing infrastructure challenges within the national maritime supply chain.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/chaos-at-nigerian-ports-as-firms-operate-terminals-with-decade-old-expired-licences/"
+  },
+  {
+    "headline": "China's October iron ore imports decline MoM and YoY",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-17",
+    "summary": "Official trade data reveals that China's inbound shipments of iron ore and concentrates dropped in October compared to both the previous month and the same period last year. Despite the monthly contraction, cumulative import volumes for the first ten months of the year still registered a modest year-over-year increase. Analysts project that import activity is likely to rebound as overseas arrivals recover in November.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/chinas-iron-ore-oct-imports-down-3-79-mom-turn-lower-yoy-nov-arrivals-recover-imports-may-rebound/"
+  },
+  {
+    "headline": "Russian crude exports drop 36.6% in October amid shifting trade flows",
+    "continent": "Europe",
+    "country": "Russia",
+    "category": "international_relations",
+    "date": "2026-11-17",
+    "summary": "Russian crude exports declined significantly in October, falling to 2.794 million barrels per day. This sharp month-over-month decrease was primarily driven by a dramatic drop in shipments to India, despite increased purchasing from China and some relief from United States sanctions. Overall export volumes also saw a substantial year-over-year decline compared to the same period in the previous year, highlighting ongoing disruptions and shifts in global energy supply chains and international trade routes.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/russian-october-crude-exports-fall-36-6-on-month-despite-us-sanctions-waiver/"
+  },
+  {
+    "headline": "Iron Ore Hits Four-Year Low on Weak Demand",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-17",
+    "summary": "Iron ore futures dropped toward CNY 640 per ton, hovering near four-year lows due to a deteriorating demand outlook and rising global supplies. The key steelmaking ingredient faced persistent downward pressure from declining domestic steel consumption and production. Additionally, narrowing profit margins among steel mills in China weighed heavily on market sentiment, reflecting broader industrial headwinds and subdued manufacturing activity in the region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/iron-ore-languishes-at-four-year-low/"
+  },
+  {
+    "headline": "CH Robinson's RXO acquisition driven by freight data value",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-17",
+    "summary": "The multi-billion dollar acquisition of RXO by CH Robinson is primarily focused on securing proprietary freight intelligence rather than traditional operational synergies or cost reductions. Industry observers note that the combination of three brokerage operations creates a massive data asset. Shippers are being urged to examine data ownership rights closely following the completion of the transaction next year, as the deal significantly concentrates market information within the newly formed entity.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/the-5-8bn-data-moat-ch-robinson-is-really-buying/"
+  },
+  {
+    "headline": "Warehouse operators increase automation and AI spending",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "Global warehousing operations are significantly increasing investments in artificial intelligence and automation technologies. Recent research involving thousands of supply chain professionals across multiple countries reveals that a vast majority of businesses plan to expand their budgets for generative and agentic AI within the next few years. This rising trend occurs despite ongoing challenges for operators in accurately measuring and proving the tangible financial return on these technology investments.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/spending-on-warehouse-automation-rises-but-does-it-pay/"
+  },
+  {
+    "headline": "GXO Sets Ambitious Growth and Margin Targets Through 2030",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "During its first investor day in four years, contract logistics provider GXO outlined long-term financial targets through 2030, aiming for organic revenue growth exceeding 7 percent annually. The strategy focuses heavily on internal operational standardization across its warehouse network rather than pursuing mergers and acquisitions. Led by a newly appointed executive team with significant industry experience, the company also projects substantial margin expansion and double-digit annual earnings growth over the rest of the decade.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gxos-investor-day-mind-the-self-help-playbook-and-the-dhl-gap/"
+  },
+  {
+    "headline": "Container Market Outlook Divided by Regional Analysts",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-17",
+    "summary": "Container shipping markets face conflicting forecasts as Asian equity analysts anticipate sustained growth driven by port congestion, cargo rerouting, and new trade routes. Conversely, European credit analysts warn of impending downward pressure due to upcoming vessel deliveries from a substantial orderbook and the potential reopening of the Suez Canal. Recent financial results from a major carrier indicate strong short-term performance with significant volume and earnings growth, though longer-term capacity risks remain a central point of debate for industry observers.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/analysis-two-sides-of-the-same-cma-cgm-coin/"
+  },
+  {
+    "headline": "For Love & Lemons shifts to shared fulfillment to speed deliveries",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "Apparel brand For Love & Lemons has transitioned away from a dedicated fulfillment model, opting instead to ship orders from a shared Cart.com facility located in Texas. This strategic move aims to reduce overall storage expenses while simultaneously accelerating transit times for customers.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fashion-brand-nixes-dedicated-fulfillment-model-to-boost-transit-times/874630/"
+  },
+  {
+    "headline": "Kontoor Brands Invests in Inventory Recovery After Q3 Supply Chain Disruptions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-17",
+    "summary": "Kontoor Brands, the parent company of Wrangler, announced a planned $50 million investment to rebuild inventory levels following a difficult third quarter. The apparel company's supply chain experienced operational setbacks, resulting in a six percent year-over-year decline in inventory. This funding aims to stabilize stock levels and mitigate ongoing fulfillment challenges, ensuring better product availability and positioning the company for improved operational resilience moving forward.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/wrangler-parent-company-plans-to-beef-up-inventory-spending/874783/"
+  },
+  {
+    "headline": "Retail diesel prices drop below $6 amid crude market decline",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Benchmark retail diesel prices experienced a significant decline, falling by nineteen cents per gallon according to recent energy department data. This drop aligns with the broader downturn currently affecting global oil markets, providing temporary relief for fuel surcharges across the transportation and freight sectors after months of elevated costs. The adjustment reflects shifting macroeconomic conditions in the energy sector, directly impacting operating expenses for logistics providers and fleet operators.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/oil-market-slide-brings-benchmark-diesel-under-6-level"
+  },
+  {
+    "headline": "CPC Fleet Solutions secures seven new drop yards",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "CPC Fleet Solutions significantly accelerated its real estate expansion by acquiring seven drop yards in just two months using the Truck Parking Club platform. Previously, the company required up to two months to secure a single yard. This new arrangement successfully accommodates a fleet of 47 trucks and over 120 trailers, streamlining the organization's parking and staging operations and demonstrating the effectiveness of digital platforms in solving commercial vehicle parking shortages.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/truck-parking-club-cpc-drop-yards"
+  },
+  {
     "headline": "Why Terminal Wait Times Don't Tell the Full Logistics Story",
     "continent": "Global",
     "country": "Multiple",
@@ -1910,16 +2160,6 @@
     "sourceUrl": "https://container-news.com/geodis-launches-new-rail-freight-connection-between-italy-and-france/"
   },
   {
-    "headline": "Ethanol offers viable alternative for methanol-fueled ships",
-    "continent": "North America",
-    "country": "United States",
-    "category": "sustainability",
-    "date": "2026-11-12",
-    "summary": "A recent industry study indicates that ethanol can be utilized in dual-fuel engines and bunkering infrastructure originally designed for methanol, requiring only minor modifications. This compatibility provides shipowners with an accessible alternative fuel option at a time when the availability of low-emission methanol remains limited. The findings highlight a potential pathway for maritime operators seeking to maintain sustainability goals amid tight supplies in traditional alternative fuel markets.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/us-ethanol-readily-available-to-fuel-the-worlds-methanol-capable-fleet/"
-  },
-  {
     "headline": "Global Shipyards See Sustained Inflow of Newbuilding Orders",
     "continent": "Global",
     "country": "Multiple",
@@ -1940,36 +2180,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/lr2s-turn-dirty-a-larger-fleet-but-fewer-lr2s-trading-clean/"
   },
   {
-    "headline": "Baltic Dry Index Rises for Seventh Consecutive Session",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "The primary benchmark for global dry bulk shipping rates extended its winning streak to seven sessions, climbing 2.1 percent to reach its highest level since early October. The upward movement was supported by widespread increases across multiple vessel classes, with particularly strong performance observed in the larger capesize segment, which typically handles massive shipments of industrial commodities. This steady growth reflects strengthening demand within the maritime freight sector, impacting global shipping costs and international trade logistics for dry bulk goods.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-advances-for-7th-day/"
-  },
-  {
-    "headline": "Dry bulk ship recycling hits 18-year low amid high freight rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Global dry bulk ship recycling dropped significantly by 36 percent year-over-year to 3 million DWT between January and October 2026, marking an 18-year low. Only 70 vessels, mostly within the handysize and supramax categories, were sent for recycling during this period. Market analysts attribute this sharp decline to robust freight rates, which are incentivizing operators to keep older vessels active and extend their operational lifespans rather than scrapping them.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/dry-bulk-ship-recycling-falls-36-to-18-year-low/"
-  },
-  {
-    "headline": "IMO considers alternative net-zero framework for shipping in 2027",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "Global maritime regulators are preparing to discuss an alternative net-zero framework for bunker fuels during upcoming sessions. According to maritime officials, the international shipping agency aims to build consensus on the framework ahead of finalizing the formal text. These regulatory developments could significantly impact international maritime logistics, emissions compliance, and future fuel procurement strategies across the global shipping sector as authorities work toward decarbonization targets.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/imo-may-codify-alternative-net-zero-bunker-rules-in-2027-us-fmc/"
-  },
-  {
     "headline": "Geodis and RLE launch Italy-France rail freight line",
     "continent": "Europe",
     "country": "France",
@@ -1978,46 +2188,6 @@
     "summary": "Logistics providers Geodis and Rail Logistics Europe have introduced a new dedicated intermodal rail freight connection linking Vicenza in Italy with Noisy-le-Sec near Paris, France. Operated by Captrain and Hexafret, the service aims to expand sustainable freight capacity and enhance intermodal transport networks for businesses in the Veneto region. The route builds upon existing rail partnerships within the parent group to facilitate cross-border movement of goods between the two European nations.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/geodis-rle-launch-new-dedicated-railway-line-between-italy-and-france/"
-  },
-  {
-    "headline": "Trump Threatens Immediate Tariff Hike on Mexico Over Migration",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "The incoming U.S. administration has warned that tariffs on Mexican imports could double with immediate effect unless the neighboring nation successfully halts northward migrant caravans. This aggressive trade stance introduces significant geopolitical risk and potential supply chain disruption for cross-border commerce between the two countries, forcing manufacturers and logistics providers to closely monitor trade policy volatility and prepare for sudden cost escalations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/"
-  },
-  {
-    "headline": "Shippers Advised to Prepare Early for 2028 UPS Labor Contract Expiration",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Supply chain experts recommend that businesses begin preparing for the expiration of the UPS labor contract well in advance of the 2028 deadline. With potential disruptions on the horizon, organizations are advised to diversify their carrier networks and establish alternative shipping relationships to mitigate potential strike risks and ensure continuity in parcel delivery operations.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ups-teamsters-contract-expires-in-2028-shippers-should-prepare-now/874374/"
-  },
-  {
-    "headline": "Clarifying Legal Restrictions for Foreign Truck Drivers on B-1 Visas",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Debates surrounding foreign commercial drivers in the American freight sector often stem from misunderstandings regarding federal visa regulations. The B-1 business visitor visa permits Canadian and Mexican truck operators to perform only a strictly defined set of cross-border transportation activities within the United States. This regulatory framework governs how international carriers legally participate in domestic freight operations, addressing a central point of contention within North American logistics and transportation networks over the past two years.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/what-the-b-1-visa-lets-a-foreign-truck-driver-legally-do-in-the-united-states"
-  },
-  {
-    "headline": "Mexico Heavy-Duty Vehicle Exports and Production Surge in October",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "manufacturing",
-    "date": "2026-11-12",
-    "summary": "Mexico experienced a massive growth in its heavy-duty vehicle sector during October. Heavy-duty vehicle exports experienced a dramatic surge, climbing 158.9 percent, while overall manufacturing production jumped by 129.6 percent. This significant upward shift highlights heightened activity within the nation's automotive manufacturing and cross-border logistics networks, reflecting robust capacity and surging international demand for heavy commercial transport vehicles originating from the region.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/mexico-truck-exports-soar-159-as-production-jumps-130-in-october"
   },
   {
     "headline": "Marine Platforms plans full acquisition of offshore pipelay vessel",
@@ -2040,16 +2210,6 @@
     "sourceUrl": "https://splash247.com/brazilian-soybean-exports-smash-records/"
   },
   {
-    "headline": "NYK forecasts major structural shifts in global maritime trade",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "A prominent Japanese shipping enterprise has released projections regarding the future trajectory of international gas, dry bulk, and tanker sectors. The analysis highlights significant capacity growth expected within the global VLCC fleet, despite the robust financial performance currently experienced by vessel operators in the market. These insights reflect ongoing shifts in maritime trade routes and structural adjustments across major commodity shipping segments as operators navigate evolving global demand patterns and fleet expansion dynamics.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/nyk-charts-the-great-reshuffling-of-global-commodity-trades/"
-  },
-  {
     "headline": "Klaipėda Port Seeks Tenants for Billion-Euro Expansion",
     "continent": "Europe",
     "country": "Lithuania",
@@ -2058,16 +2218,6 @@
     "summary": "The Klaipėda State Seaport Authority has initiated a tender process to find strategic investors and future tenants for a newly developed 100-hectare zone in the port's southern region. This major infrastructure undertaking, valued at over one billion euros, seeks early partnership to collaboratively design and construct the maritime and logistics facilities, bolstering regional storage and distribution capabilities.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/klaipeda-port-launches-tender-for-southern-port-area/"
-  },
-  {
-    "headline": "MSC reports strong container shipping growth led by Asia trades",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Mediterranean Shipping Company experienced robust volume expansion beginning in the spring, driven significantly by export routes originating in Asia. Despite prevailing macroeconomic instability and ongoing operational hurdles affecting the global maritime sector, the major ocean carrier maintained positive momentum. Leadership pointed to continuous strategic capital investments and fleet developments as key drivers sustaining performance through the final quarters of the year, even as international trade routes face shifting geopolitical and logistical headwinds.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/msc-ceo-soren-toft-highlights-stronger-growth-despite-global-uncertainty/"
   },
   {
     "headline": "HMM Reports 370% Surge in Third-Quarter Operating Profit",
@@ -2158,16 +2308,6 @@
     "summary": "Taiwanese ocean carrier Wan Hai Lines is procuring over 110,000 containers for approximately $325 million to accommodate upcoming vessel deliveries and replace aging equipment. Following a strong financial performance with nearly doubled net profits over the first nine months, the company plans to integrate the new inventory to support expanded fleet capacity as new box ships enter service next year.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/wan-hai-orders-110000-containers-for-its-fleet-of-new-box-ships/"
-  },
-  {
-    "headline": "Freight forwarders face heightened compliance risks from clients",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "Recent regulatory enforcement actions by the Office of Foreign Assets Control against freight forwarders highlight the critical need for rigorous customer screening in international trade. While compliance efforts often focus on consignees, industry experts warn that vetting the beneficial cargo owners paying the invoices is equally essential. Neglecting comprehensive due diligence during client onboarding can expose supply chain intermediaries to significant legal and financial penalties for facilitating unauthorized transactions or dealing with sanctioned entities.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/know-your-customers-rap-sheet-the-risk-hiding-in-your-own-book-of-business/"
   },
   {
     "headline": "FedEx invests in European road and air network upgrades",
