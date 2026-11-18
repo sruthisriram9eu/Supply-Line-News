@@ -1,5 +1,235 @@
 [
   {
+    "headline": "ITF joins ISF Verify to advance digital seafarer certification",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-18",
+    "summary": "The International Transport Workers’ Federation has partnered with the ISF Verify initiative to help scale digital seafarer certification throughout the maritime shipping sector. Formalized at Hong Kong Maritime Week, the integration incorporates the union into a digital validation platform originally created by the International Chamber of Shipping and Lloyd's Register OneOcean. This collaboration aims to streamline credential verification processes and improve compliance monitoring across international shipping networks.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/itf-joins-isf-verify-initiative-to-expand-digital-seafarer-certification/"
+  },
+  {
+    "headline": "Hormuz crisis grants US energy exporters lasting advantage",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-17",
+    "summary": "Disruptions in the Strait of Hormuz during 2026 caused traditional Middle Eastern energy supplies to become unreliable. This supply chain shift enabled American exporters of liquefied natural gas, liquefied petroleum gas, jet fuel, and plastics to capture new international customers. US companies secured alternative shipping routes and long-term contracts extending decades into the future, fundamentally strengthening their global market position and export footprint.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/how-the-hormuz-crisis-handed-america-a-lasting-export-advantage/"
+  },
+  {
+    "headline": "Seatrium wins MODEC contract for Guyana FPSO integration",
+    "continent": "South America",
+    "country": "Guyana",
+    "category": "manufacturing",
+    "date": "2026-11-17",
+    "summary": "Seatrium has been awarded a contract by MODEC to perform integration work on the Essequibo 1899 Floating Production, Storage and Offloading vessel. The FPSO is destined for the offshore Hammerhead project in Guyana. This agreement represents the second FPSO integration project that Seatrium has undertaken for MODEC within the same region, reinforcing collaboration on major offshore energy infrastructure development and maritime manufacturing operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/seatrium-secures-modec-contract-for-hammerhead-fpso-in-guyana/"
+  },
+  {
+    "headline": "Gemini carriers reroute three services back through Suez Canal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Maersk and Hapag-Lloyd are routing three additional Gemini Cooperation ocean services back through the Red Sea and the Suez Canal on a permanent basis. The NE1, NE2, and NE3 loops will abandon the longer detour around the Cape of Good Hope for both eastbound and westbound transits. This transition stems from an updated security evaluation regarding the regional shipping lanes, allowing the container lines to restore more direct pathways between Asia and Europe after months of disruptions caused by ongoing security concerns.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-and-hapag-lloyd-return-three-more-gemini-services-to-suez/"
+  },
+  {
+    "headline": "Port congestion masks container shipping overcapacity",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Persistent port congestion continues to obscure the underlying surplus of capacity within the container shipping market. Anticipated shifts in vessel routing and the potential return of services to the Suez Canal were expected to reveal the extent of the market's hidden overcapacity, but ongoing logistical bottlenecks at ports have delayed this visibility, keeping vessel supply and demand dynamics distorted across global trade lanes.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/why-port-congestion-is-hiding-container-shippings-overcapacity/"
+  },
+  {
+    "headline": "HJSC reports revenue and profit growth driven by container ships",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "manufacturing",
+    "date": "2026-11-17",
+    "summary": "HJ Shipbuilding & Construction experienced a significant rise in earnings through the first nine months of 2026, bolstered by robust activity within its shipbuilding sector and the ongoing construction of high-value container ships. The South Korean industrial firm posted a consolidated revenue increase of over forty-six percent compared to the prior year period, reflecting strong demand and improved operational performance in maritime manufacturing and commercial vessel delivery.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/hjsc-operating-profit-surges-as-container-shipbuilding-drives-growth/"
+  },
+  {
+    "headline": "Maersk to Reinstate Original Qilin Service Rotation",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Ocean carrier Maersk announced plans to reinstate the original port rotation for its Qilin shipping service connecting China and Australia. The adjustment concludes a temporary operational setup that began in September. The reinstated schedule officially commences with a scheduled departure from Shanghai in early December, restoring direct routing between the two regions to streamline maritime freight operations for regional shippers and enhance schedule reliability across the trade lane.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-restores-original-qilin-service-rotation/"
+  },
+  {
+    "headline": "Port of Oakland Deploys Electric Cargo-Handling Equipment",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-11-17",
+    "summary": "Everport Terminal Services and the Port of Oakland introduced eight newly acquired battery-electric top picks at the Oakland Seaport. These heavy-duty, American-built machines are designed to lift and stack shipping containers weighing up to one hundred thousand pounds, subsequently loading them onto trucks. This deployment replaces traditional diesel-powered machinery, marking a significant step toward updating terminal equipment with sustainable alternatives to reduce emissions during port operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/port-of-oakland-and-everport-celebrate-arrival-of-eight-electric-top-picks/"
+  },
+  {
+    "headline": "Global shipbuilding contract activity slows down",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Shipbuilding orders experienced a noticeable slowdown recently following a sustained period of expansion. Industry reports indicate that contracting volumes dropped to twenty-eight vessels across various sectors. Despite the reduced pace of new agreements, the order distribution remained balanced across multiple vessel types, particularly within the bulk sector. This shift highlights a temporary cooling in maritime capacity investments after weeks of consistent growth.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/newbuilding-activity-shows-signs-of-fatigue/"
+  },
+  {
+    "headline": "VLCC Freight Weakness Spreads to Gulf and East of Suez Routes",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Freight market weakness has expanded from the Atlantic into Gulf routes, contributing to declining earnings for very large crude carriers. East of Suez, the surplus of ballast vessels grew as average ballast counts increased while laden vessel counts declined. This growing imbalance underscores softening demand and shifting vessel deployment patterns across major global maritime crude oil transport corridors, impacting carrier profitability and overall shipping logistics.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/gulf-earnings-give-way-as-vlcc-ballasters-build-east-of-suez/"
+  },
+  {
+    "headline": "Greenland scrubber ban sparks concern from Clean Shipping Alliance",
+    "continent": "North America",
+    "country": "Greenland",
+    "category": "sustainability",
+    "date": "2026-11-17",
+    "summary": "Greenland has announced a ban on exhaust gas cleaning systems, commonly known as scrubbers, set to take effect in 2027 to safeguard local marine ecosystems. The Clean Shipping Alliance expressed disappointment over the policy shift, raising questions regarding the specific environmental risks identified by authorities and the assessment methods used to justify the upcoming restrictions on maritime operations in the region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/clean-shipping-alliance-disappointed-on-greenlands-scrubber-ban/"
+  },
+  {
+    "headline": "Ukraine Grain Exports Shift from Black Sea to Baltic",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Despite ongoing conflict, agricultural exports from Ukraine and Russia have largely continued, maintaining their critical role in global food supply chains. However, recent security incidents involving merchant vessels in the Black Sea are prompting a strategic shift in trade routes. Exporters are increasingly redirecting grain shipments through Baltic ports to mitigate transit risks and maintain the flow of vital foodstuffs to international markets.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/"
+  },
+  {
+    "headline": "Tight Bunker Fuel Supplies Persist in Singapore and Malaysia",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Bunker fuel availability remains constrained across Singapore and Malaysia, driven by heavily booked terminal loading schedules and limited barge capacity through November. Several suppliers have already secured bookings extending into December. Concurrently, very low sulfur fuel oil lead times have stretched to between 15 and 17 days, reflecting ongoing tightness in regional maritime fuel markets and increased operational delays for vessel operators seeking prompt resupply.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-210/"
+  },
+  {
+    "headline": "New Tanker Attack in Strait of Hormuz Threatens Gulf Shipping",
+    "continent": "Middle East",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Maritime authorities have reported a fresh attack on a commercial tanker navigating the Strait of Hormuz. This incident is the latest in an ongoing series of security threats targeting vessels attempting to transit the critical Middle Eastern shipping corridor, raising concerns over maritime logistics disruptions and crew safety in the vital waterway.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/fresh-tanker-attack-in-hormuz-highlights-ongoing-threats-facing-gulf-shipping/"
+  },
+  {
+    "headline": "UPS Expands Healthcare Logistics in Asia-Pacific with Smartways Acquisition",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "strategy",
+    "date": "2026-11-17",
+    "summary": "UPS has entered into an agreement to acquire Smartways Logistics, a specialized healthcare logistics provider operating in Australia and New Zealand. This strategic move aims to strengthen the buyer's regional network and enhance its capability to handle time-critical, complex medical shipments across the Asia-Pacific area. The transaction expands the footprint of the company's dedicated healthcare division, improving service offerings for pharmaceutical and medical device customers in those markets upon completion.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/down-under-ma-ups-acquires-smartways-logistics/"
+  },
+  {
+    "headline": "Gemini carriers plan full return to Suez transits by mid-January",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Maersk and Hapag-Lloyd, partners in the Gemini Cooperation, announced plans to completely restore their Asia-Europe services to the Suez Canal route by mid-January. The carriers detailed the timeline for returning their final three Asia-North Europe loops from the longer Cape of Good Hope detour back through the Red Sea corridor. This transition includes specific eastbound and westbound voyages, marking a significant operational shift back to traditional maritime trade pathways for major container shipping services.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits-by-mid-january/"
+  },
+  {
+    "headline": "Korean Air expands transpacific cargo capacity amid AI demand surge",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Korean Air is optimizing its cargo capacity between Asia and the Americas to manage high demand driven by data-centre expansion and artificial intelligence infrastructure. This emerging sector has combined with traditional November peak-season shipping to strain transpacific space. Despite a softening in global weekly shipping volumes, the airline reports that year-round technology sector growth is serving as a major driver for its cargo division, creating sustained capacity pressure on key transpacific trade routes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/"
+  },
+  {
+    "headline": "Containership charter rates rise as carriers pursue tonnage",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Container shipping charter prices are continuing to increase despite a cooling trend in long-haul freight rates. Major ocean carriers are actively seeking additional vessel capacity to meet their operational needs. Industry reports indicate that a prominent French container line secured a multi-year charter for a mid-sized containership. Current market rates for comparable vessels have experienced a year-over-year increase of approximately ten percent, reflecting sustained demand for vessel capacity among major operators.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/box-ship-charter-rates-still-climbing-as-lines-hunt-for-more-tonnage/"
+  },
+  {
+    "headline": "India-Gulf shippers face capacity constraints and rising costs",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "Shippers moving freight between India and the Middle East are encountering mounting financial pressure due to persistent high ocean freight rates, new booking restrictions from major container lines, and landside supply chain bottlenecks in the conflict-affected region. Operators such as Maersk and Hapag-Lloyd have implemented fresh booking curbs, tightening available vessel capacity for cargo moving from India to the Persian Gulf. Additionally, complications surrounding container box returns are compounding the financial strain for exporters and importers navigating these vital trade routes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/more-pain-for-india-gulf-shippers-as-costly-box-returns-add-to-rising-rates/"
+  },
+  {
+    "headline": "US Foods Expands Warehouse Robot Trials",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "US Foods is expanding the deployment of automated inventory-scanning technology to six additional warehouse facilities by the end of the year. The food service distributor's leadership announced the upcoming pilot programs during an investor update, reflecting ongoing efforts to improve operational efficiency, inventory accuracy, and stock management across its distribution network through the integration of emerging warehouse automation tools.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/us-foods-to-test-inventory-scanning-robots-at-6-more-warehouses/874829/"
+  },
+  {
+    "headline": "Manufacturers advised to prepare systems for severe El Nino risks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "manufacturing",
+    "date": "2026-11-17",
+    "summary": "As extreme weather conditions approach, industry experts are urging manufacturers to conduct thorough risk audits of their operational systems. Companies are encouraged to implement proactive protective measures to mitigate potential disruptions caused by the severe El Nino event. Preparing infrastructure and supply chains in advance helps safeguard against unexpected operational failures and maintains business continuity during adverse weather conditions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/how-to-prepare-for-the-most-severe-el-nino-on-record/874732/"
+  },
+  {
+    "headline": "UPS acquires healthcare logistics provider Smartway Logistics",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "storage_distribution",
+    "date": "2026-11-17",
+    "summary": "UPS has announced an agreement to purchase Smartway Logistics, an Australian specialist in healthcare supply chain services. This strategic acquisition highlights the company's ongoing expansion and investment within the critical healthcare logistics sector, extending its specialized distribution capabilities into the Australian market. Financial terms and the expected closing date were not disclosed in the initial announcement.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/ups-to-acquire-australian-healthcare-specialist-smartway-logistics"
+  },
+  {
+    "headline": "Supreme Court revives shipper and receiver liability case",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-17",
+    "summary": "The U.S. Supreme Court has granted certiorari in the Casarez versus Irigoyen Farms case, issuing a Grant, Vacate, Remand action. This legal development opens the door for a significant judicial ruling regarding the liability of shippers and receivers following prior regulatory shifts. The case highlights ongoing legal debates concerning operational responsibilities and potential liabilities for parties involved in freight transportation and goods handling across the supply chain network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/scotus-action-revives-shipper-receiver-liability-post-montgomery"
+  },
+  {
     "headline": "StealthGas LPG Carrier Crew Rescued After Suspected Attack",
     "continent": "Europe",
     "country": "Bulgaria",
@@ -1930,16 +2160,6 @@
     "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/etihad-cargo-transports-space-probe-from-uae-to-us/"
   },
   {
-    "headline": "Natilus begins prototype wing production for Kona cargo aircraft",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-12",
-    "summary": "An American aerospace developer has partnered with a manufacturing specialist to produce composite wings for a new autonomous feeder cargo aircraft prototype. The supplier has implemented streamlined tooling techniques intended to lower production costs and shorten the overall build timeline. Manufacturing is currently underway, with the completed wing delivery scheduled for the spring of 2027. This development marks a significant step forward in the structural assembly phase for the upcoming cargo transport vehicle.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/freighter-operator/2026/11/natilus-cargo-aircraft-wings-build-project-gets-underway/"
-  },
-  {
     "headline": "Glasgow Prestwick Airport Names New Trade and Export Manager",
     "continent": "Europe",
     "country": "United Kingdom",
@@ -1948,26 +2168,6 @@
     "summary": "Glasgow Prestwick Airport in the United Kingdom has appointed a new trade and export development manager to drive growth in its outbound cargo volumes. The strategic hire aims to collaborate closely with regional exporters, air freight forwarders, and airline partners to boost load factors on eastbound flights. Initial efforts will concentrate on key sectors including seafood and pharmaceuticals, enhancing the facility's position as a vital international logistics hub.",
     "sourceName": "Air Cargo News",
     "sourceUrl": "https://www.aircargonews.net/people/2026/11/prestwick-appoints-trade-and-export-development-manager/"
-  },
-  {
-    "headline": "Global Airfreight Rates Hit Yearly High on Peak Demand",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Global airfreight pricing surged to its highest point of the year, driven by sustained seasonal demand for air cargo capacity. Market data from the Baltic Exchange indicates that the overall air freight index increased by 6.6 percent week-over-week. This upward movement reflects tightening capacity and heightened activity across major trade lanes as the peak shipping period progresses, putting additional pressure on shippers relying on fast transit options to move goods.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/data/2026/11/airfreight-rates-reach-2026-high-on-peak-season-demand/"
-  },
-  {
-    "headline": "Express carriers accelerate investments in air cargo operations",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Major express logistics providers are intensifying their strategic focus on airfreight capabilities in response to prevailing market dynamics. Industry leaders, including top executives at FedEx, have confirmed a heightened emphasis on expanding and optimizing air cargo operations as part of third-quarter business performance strategies. This ongoing trend highlights the critical role of air freight in maintaining agile and responsive global logistics networks amidst fluctuating supply chain demands.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/supply-chains/2026/11/express-firms-continue-to-ramp-up-their-focus-on-air-cargo/"
   },
   {
     "headline": "IMO Urges Strict Maritime Enforcement in Strait of Hormuz",
@@ -1990,26 +2190,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/korean-partnerships-carbon-capture-proposal-selected-as-basis-for-imos-future-safety-guidelines/"
   },
   {
-    "headline": "Houston Bunker Fuel Tightens Amid Strong Demand",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Bunker fuel availability in Houston has experienced notable tightness, particularly for high-sulfur fuel oil and very low-sulfur variants, driven by steady regional demand. Market suppliers advise maritime operators to plan ahead with extended lead times ranging from six to ten days depending on the specific fuel grade. This tightening supply dynamic reflects ongoing logistical pressures within North American maritime fueling hubs, potentially impacting vessel scheduling and operational costs for carriers navigating the region.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/engine-americas-bunker-fuel-availability-outlook-126/"
-  },
-  {
-    "headline": "Hapag-Lloyd Reports Strong Financial Results in Third Quarter",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Ocean carrier Hapag-Lloyd finished the third quarter of 2026 with a substantial increase in profitability, driven by strong market conditions. The company generated a Group EBITDA of USD 1.7 billion, up significantly from the same timeframe in the prior year. Group EBIT rose to USD 1.1 billion, while overall Group profit reached USD 1.0 billion. These robust financial outcomes highlight the carrier's continued operational success and favorable demand dynamics within the global container shipping and logistics sector.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/hapag-lloyd-with-a-strong-third-quarter/"
-  },
-  {
     "headline": "Ernst Russ Expands Fleet with New Tankers Amid Strong Financials",
     "continent": "Europe",
     "country": "Germany",
@@ -2028,36 +2208,6 @@
     "summary": "Construction of a new liquefied biogas facility at the Port of Gothenburg has reached a key milestone following the installation of its main storage tank. Developed and owned by Nordion Energi, the plant is on track to be completed by the second quarter of 2027. Once operational, the facility will enable large-scale bunkering of liquefied biogas, supporting maritime sustainability and cleaner shipping operations by providing alternative green fuel options for vessels calling at the major Swedish port.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/large-scale-liquefied-biogas-bunkering-to-become-possible-in-the-port-of-gothenburg-in-2027/"
-  },
-  {
-    "headline": "US Lawmakers Push Bills to Restrict Presidential Tariff Authority",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "Legislative efforts in the United States Congress aim to curtail executive trade powers through three distinct proposed bills. Industry experts note a growing political appetite for reforming national trade policies and placing stricter congressional oversight on the implementation of tariffs. If enacted, these measures could alter the country's approach to international trade and trade-related geopolitics by limiting unilateral tariff decisions by the executive branch.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/"
-  },
-  {
-    "headline": "Trump Threatens to Double Tariffs on Mexican Imports",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "The administration has issued a warning to increase tariffs on goods imported from Mexico, linking trade policy directly to border enforcement and migration issues. This potential escalation threatens to disrupt cross-border supply chains, manufacturing operations, and international trade stability between the two nations, introducing significant cost pressures and regulatory uncertainty for businesses reliant on North American shipping routes and integrated production networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trump-threatens-to-double-mexico-tariffs-over-alleged-migrant-influx"
-  },
-  {
-    "headline": "BLET Ends Wheeling & Lake Erie Strike After Agreement",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "The Brotherhood of Locomotive Engineers and Trainmen has concluded its strike against the Wheeling & Lake Erie Railway. The labor action ended following the successful negotiation of a new agreement designed to protect the professional scope and work assignments of union conductors. This resolution restores normal operational continuity for the regional rail carrier, averting further freight transportation disruptions in the affected service network.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/blet-ends-wheeling-lake-erie-strike"
   },
   {
     "headline": "Seanergy Maritime expands fleet with $264m bulk carrier acquisitions",
@@ -2080,16 +2230,6 @@
     "sourceUrl": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/"
   },
   {
-    "headline": "Earnings-sharing models offer maritime alternative to debt",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "strategy",
-    "date": "2026-11-12",
-    "summary": "Shipowners are exploring earnings-sharing financial structures as an alternative to traditional debt obligations. While standard loans require fixed repayments irrespective of fluctuating freight market conditions, profit-sharing models allow investors to directly participate in a vessel's financial performance. This approach enables shipowners to maintain operational control while mitigating the risks associated with rigid debt commitments, offering a more flexible strategy for capital management within the maritime shipping sector amidst shifting market dynamics.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/"
-  },
-  {
     "headline": "Marine fuel prices drop 20 percent on easing tensions",
     "continent": "Asia",
     "country": "Singapore",
@@ -2100,16 +2240,6 @@
     "sourceUrl": "https://splash247.com/bunker-prices-plunge-20/"
   },
   {
-    "headline": "DSV and Google Cloud Partner on Sustainable Aviation Fuel",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-12",
-    "summary": "Logistics provider DSV has formed a partnership with Google Cloud to integrate sustainable aviation fuel into air cargo transport. The agreement encompasses nearly 9.7 million liters of alternative fuel, aiming to decrease lifecycle greenhouse gas emissions by 25,000 tonnes compared to traditional jet fuel. This joint initiative highlights ongoing industry efforts to reduce the environmental impact of international freight operations through green fuel adoption.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/dsv-and-google-cloud-partner-on-sustainable-aviation-fuel/"
-  },
-  {
     "headline": "Euroports Rauma Deploys Portchain Connect for Berthing",
     "continent": "Europe",
     "country": "Finland",
@@ -2118,16 +2248,6 @@
     "summary": "Euroports is implementing the Portchain Connect platform at its container terminal located in the Port of Rauma, Finland. This digital integration aims to enhance coordination and berth planning with shipping lines by facilitating the direct exchange of vessel schedules and operational data. The technology enables terminal operators and carriers to streamline communication and jointly finalize berthing arrangements.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/euroports-rauma-adopts-portchain-connect-to-improve-berth-planning/"
-  },
-  {
-    "headline": "Addressing China's shipbuilding dominance through alternative marine fuels",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "Global maritime discussions are exploring alternative competitive strategies as China maintains its dominance in commercial shipbuilding. While domestic shipyards struggle to match production volume, industry analysts suggest that shifting focus toward innovative marine propulsion and alternative fuels, such as ethanol, could offset vessel manufacturing imbalances. This approach aims to secure alternative advantages within the broader maritime supply chain and reduce long-term operational vulnerabilities.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/explainer-ethanol-against-chinas-shipbuilding-dominance/"
   },
   {
     "headline": "MSC Announces December FAK Rate Increases for Mediterranean Routes",
@@ -2158,26 +2278,6 @@
     "summary": "Logistics provider GEODIS has introduced a new rail freight service linking Vicenza in northern Italy to Noisy-le-Sec outside Paris, expanding its European intermodal transportation network. Operated in partnership with Captrain, the route commenced operations on October 19, 2026. This new connection offers businesses located in Italy's Veneto region an alternative cross-border transport option, enhancing sustainable freight mobility and supply chain connectivity between the two European nations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/geodis-launches-new-rail-freight-connection-between-italy-and-france/"
-  },
-  {
-    "headline": "Global Shipyards See Sustained Inflow of Newbuilding Orders",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Shipyards across the globe continue to experience high levels of contracting activity as vessel owners seek to expand their presence in both the wet and dry bulk shipping sectors. Industry reporting highlights recent transactions, such as a major bulker order placed with Oshima Shipbuilding for a scheduled future delivery. This ongoing fleet investment reflects strong market participation and strategic capacity building among maritime operators aiming to meet anticipated transport and freight demands.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/newbuilding-contracting-activity-remains-elevated/"
-  },
-  {
-    "headline": "LR2 tanker fleet sees major shift toward dirty employment",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Market data reveals a significant transformation in LR2 vessel employment patterns. The proportion of the fleet engaged in dirty product trade rose sharply, climbing from just over half at the beginning of 2025 to nearly three-quarters by late 2026. This accelerated transition has substantially decreased the availability of vessels operating in clean trades, altering deployment dynamics across the sector.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/lr2s-turn-dirty-a-larger-fleet-but-fewer-lr2s-trading-clean/"
   },
   {
     "headline": "Geodis and RLE launch Italy-France rail freight line",
