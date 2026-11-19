@@ -1,5 +1,235 @@
 [
   {
+    "headline": "Stamford Shipping orders 10 MR tankers in China",
+    "continent": "Asia",
+    "country": "China",
+    "category": "manufacturing",
+    "date": "2026-11-19",
+    "summary": "Singapore-based Stamford Shipping has finalized a contract to build ten medium-range product tankers at a shipyard in China. The vessels will be constructed by Nantong CIMC Sinopacific Offshore and Engineering, a subsidiary of CIMC Enric. Additionally, the same shipbuilding facility secured an order for two identical vessels from an unnamed European client, bringing the total number of newly contracted tankers to twelve. This development highlights ongoing manufacturing activity within the maritime logistics sector as operators expand and modernize their fleets.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/"
+  },
+  {
+    "headline": "ALNG secures fixed-term charters to exit LNG spot market",
+    "continent": "Europe",
+    "country": "Norway",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Norwegian liquefied natural gas carrier company ALNG has transitioned its entire fleet away from the spot market by securing fixed-period charters for both vessels with an undisclosed international energy major. The agreements were finalized in October following a challenging third quarter for the Oslo-listed firm, providing revenue stability and removing its 2013-built vessels from volatile spot trading conditions.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/alng-locks-in-lng-duo-with-oil-major/"
+  },
+  {
+    "headline": "Samsung Heavy partners with Tesser for nuclear LNG carriers",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "manufacturing",
+    "date": "2026-11-19",
+    "summary": "South Korea's Samsung Heavy Industries has formed an exclusive agreement with American reactor developer Tesser Atomics to design a nuclear-powered liquefied natural gas carrier. Formalized through a memorandum of understanding, the collaboration designates Samsung Heavy as the exclusive shipbuilder for the initiative. The partnership aims to build and commercially operate a demonstration vessel along trade routes between the United States and Europe, marking a significant step toward integrating advanced nuclear propulsion technology into maritime logistics and international shipping fleets.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/samsung-heavy-teams-with-tesser-on-nuclear-powered-lng-carrier/"
+  },
+  {
+    "headline": "Red Sea shipping route resumption impacts carrier reliability",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Container services are gradually shifting back to the Red Sea route between Asia and Europe, offering shippers an alternative to the longer Cape of Good Hope detour as they prepare for 2027 contracts. While the Suez passage significantly shortens transit times, industry stakeholders are evaluating whether the transition will actually improve dependable arrival windows and overall schedule reliability for global supply chains.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/red-sea-returns-are-rewriting-carrier-reliability-not-just-transit-times/"
+  },
+  {
+    "headline": "Napier Port Posts Higher Earnings on Optimized Cargo Mix",
+    "continent": "Oceania",
+    "country": "New Zealand",
+    "category": "storage_distribution",
+    "date": "2026-11-19",
+    "summary": "Napier Port has recorded an increase in annual revenue and net profit for the financial year ending September 2026, driven by an improved cargo mix, elevated container revenue, and strategic yield management. Despite container volumes remaining flat, total revenue grew by 11.7 percent to NZ$176.2 million, while net profit after tax experienced a 15 percent rise to NZ$35.5 million. The financial results highlight the port's ability to drive profitability through operational strategy and pricing optimization rather than relying strictly on volume growth.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/napier-port-lifts-earnings-despite-flat-container-volumes/"
+  },
+  {
+    "headline": "Steer Acquires Maritime Consultancy Mercator International",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-19",
+    "summary": "International consultancy Steer has finalized the acquisition of Mercator International to broaden its freight, ports, and maritime advisory services. Mercator, headquartered in Washington state, provides commercial strategy and infrastructure transaction guidance to terminal operators, port authorities, logistics firms, ocean carriers, and investors. This strategic purchase enhances Steer's footprint in North America and deepens its specialized industry expertise.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/steer-acquires-ports-and-maritime-consultancy-mercator-international/"
+  },
+  {
+    "headline": "Europe-Central Asia trade surges, driving logistics demand",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Central Asian economies experienced robust growth exceeding six percent, driving significant expansion in regional trade volumes and transport options. As economic ties between Europe and Central Asia strengthen, the demand for efficient supply chain infrastructure and logistics solutions continues to rise. Operators in the region are expanding their footprints to manage the increasing flow of goods across these evolving trade corridors, highlighting the critical role of modern freight networks in supporting cross-continental economic development.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/europe-and-central-asia-are-closing-the-distance-growing-trade-needs-efficient-logistics/"
+  },
+  {
+    "headline": "Fincantieri subsidiary partners with India's BDL for defense",
+    "continent": "Asia",
+    "country": "India",
+    "category": "manufacturing",
+    "date": "2026-11-19",
+    "summary": "WASS Submarine Systems, a subsidiary of Fincantieri, has entered into a memorandum of understanding with Bharat Dynamics Limited in India. The agreement aims to foster industrial cooperation regarding underwater defense technologies, focusing specifically on heavyweight torpedoes and corresponding countermeasure systems. This partnership was formalized during recent bilateral defense talks in New Delhi, setting the stage for joint development and supply chain integration in the specialized maritime defense manufacturing sector.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/fincantieris-wass-signs-underwater-defence-agreement-in-india/"
+  },
+  {
+    "headline": "LOGISTEED to Acquire Neovia Logistics for Global Expansion",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-19",
+    "summary": "Japan-based LOGISTEED has reached a definitive agreement to purchase United States-based contract logistics provider Neovia Logistics as part of an international growth strategy. The transaction will integrate Neovia as a wholly owned subsidiary, significantly expanding LOGISTEED's footprint within North American and European markets. Completion of the acquisition remains contingent upon receiving standard regulatory approvals and fulfilling customary closing conditions, with finalization anticipated between January and March 2027.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/logisteed-to-acquire-neovia-logistics-in-global-expansion-deal/"
+  },
+  {
+    "headline": "DP World adapts global network to permanent shipping shifts",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-19",
+    "summary": "DP World is reshaping its operational strategy to navigate ongoing geopolitical tensions and shipping disruptions, treating recent maritime turbulence as a structural reordering rather than a temporary crisis. The operator is aligning its infrastructure investments to address these shifting trade patterns, while identifying critical vulnerabilities that still need to be resolved within its global network to ensure long-term supply chain resilience.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/explainer-how-dp-world-is-moving-amid-geopolitical-turbulencies/"
+  },
+  {
+    "headline": "COSCO acquires Tianjin site for new shipbuilding facility",
+    "continent": "Asia",
+    "country": "China",
+    "category": "manufacturing",
+    "date": "2026-11-19",
+    "summary": "COSCO Shipping Heavy Industry has acquired a substantial 146-hectare industrial property within the Lingang sector of the Tianjin Port Free Trade Zone for RMB570 million. The company plans to utilize this strategic location to construct a major new manufacturing and engineering hub dedicated to shipbuilding and offshore projects. This infrastructure expansion strengthens the enterprise's production capabilities and regional footprint within the maritime industrial sector.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cosco-secures-site-for-major-tianjin-shipbuilding-base/"
+  },
+  {
+    "headline": "US air cargo recovers from outage amid escalating trade tensions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "United States air cargo operations are stabilizing following a major air traffic control system failure that caused widespread flight groundings and lingering freight delays over the weekend. Meanwhile, international air shipping rates bound for the US continue to face upward pressure driven by strong seasonal demand across several trade lanes. Additionally, new geopolitical tensions are emerging between the United States and China ahead of upcoming high-level bilateral discussions, potentially impacting future trade flows and supply chain dynamics between the two nations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/freightos-weekly-update-us-air-cargo-recovering-from-outage-new-us-cn-tensions-ahead-of-talks/"
+  },
+  {
+    "headline": "Lauritzen Bulkers Takes Delivery of Methanol-Capable Vessel",
+    "continent": "Asia",
+    "country": "Philippines",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Danish dry bulk shipping operator Lauritzen Bulkers has accepted delivery of its newest Kamsarmax vessel, the Brave Bulker, constructed at Tsuneishi Shipbuilding's facility in Cebu, Philippines. The 81,000-dwt bulk carrier features a dual-fuel propulsion system designed to operate using either conventional marine fuels or methanol, marking a notable step toward alternative fuel adoption in dry bulk maritime transport operations.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/lauritzen-bulkers-takes-delivery-of-methanol-capable-vessel-in-cebu/"
+  },
+  {
+    "headline": "Chancay Port Transforms Latin America-Asia Logistics",
+    "continent": "South America",
+    "country": "Peru",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "A major megaproject on Peru's eastern Pacific coast has rapidly developed into a critical logistics hub, strengthening connections between Latin America and Asia. This infrastructure expansion supports broader regional economic integration goals under the Asia-Pacific Economic Cooperation framework, serving as a key driver for international trade growth across the Pacific basin.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/cosco-port-fuels-growth-in-apec-trade/"
+  },
+  {
+    "headline": "BHP and Rio Tinto executives meet Chinese leaders in Beijing",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-19",
+    "summary": "Senior executives from major mining firms BHP and Rio Tinto are scheduled to meet with Chinese Premier Li Qiang and business figures in Beijing alongside the Australian Prime Minister. The high-level discussions occur amidst ongoing strains regarding iron ore pricing and supply agreements that are impacting economic relations between Australia and China. The meeting forms part of the ongoing Australia-China CEO Roundtable initiative aimed at fostering bilateral business dialogue and addressing commercial challenges.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/bhp-rio-tinto-executives-to-meet-chinese-leaders-amid-iron-ore-tensions/"
+  },
+  {
+    "headline": "Europe Faces Winter Gas Shortages Without Warm Weather",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-19",
+    "summary": "European industrial facilities and residential areas face potential natural gas shortages during the winter months. Because the region depends heavily on stored gas reserves to maintain operations and heating when temperatures drop, summer storage levels are critical. Current expectations rely on favorable weather patterns to reduce demand and prevent severe energy deficits across the continent.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/europe-needs-a-warm-winter-to-avoid-major-gas-shortages/"
+  },
+  {
+    "headline": "Uniper expects European natural gas demand to stabilize",
+    "continent": "Europe",
+    "country": "Germany",
+    "category": "strategy",
+    "date": "2026-11-19",
+    "summary": "Germany's Uniper anticipates that the fifteen-year decline in European natural gas demand will halt, forecasting flat demand trends moving into the 2030s. According to the company's leadership, the downward trajectory observed across the energy market is leveling off, signaling a period of stabilization for industrial and energy supply planning in the region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/uniper-sees-european-gas-needs-steadying-into-2030s/"
+  },
+  {
+    "headline": "Expeditors Shifts Strategy to Include Mergers and Acquisitions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-19",
+    "summary": "Global freight forwarder Expeditors is reconsidering its long-standing reliance on organic growth and has begun evaluating potential merger and acquisition opportunities. During its first investor day in over a decade, company leadership indicated that the firm is actively reviewing targets, specifically focusing on technology enhancements to bolster its global logistics network. This marks a significant strategic pivot for an organization that has historically avoided corporate acquisitions.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/expeditors-opens-door-to-ma-after-decades-of-organic-growth/"
+  },
+  {
+    "headline": "US shippers shift to short-term freight contracts amid fuel cost pressures",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-11-19",
+    "summary": "American road transport shippers are increasingly moving away from traditional long-term freight agreements to embrace short-term contracts. Recent industry data indicates this shift is driven by rising diesel prices that are outpacing standard freight rate increases. Consequently, logistics providers are observing a significant drop in the volume of annual commitments within sectors like automotive and food and beverage, reflecting a broader evolution in procurement strategies as operators navigate ongoing market volatility and compressed carrier margins.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates/"
+  },
+  {
+    "headline": "Maersk and Hapag-Lloyd advance twin-hub terminal strategy",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Ocean carriers Maersk and Hapag-Lloyd are deepening their operational alignment under the Gemini cooperation through coordinated terminal investments. Following Hapag-Lloyd's acquisition of a stake in Maersk's Maasvlakte II facility in Rotterdam, the partners are strategically integrating their infrastructure plans. This approach concentrates resources on key strategic nodes to enhance network efficiency, optimize vessel sharing arrangements, and strengthen their competitive position across major global trade lanes.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/geminis-twin-hub-terminal-strategy-has-a-double-purpose/"
+  },
+  {
+    "headline": "Labor negotiations stall threatening San Pedro Bay ports strike",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Contract talks between employers and port security workers at the ports of Los Angeles and Long Beach have broken down, raising the threat of a potential strike that could disrupt cargo operations across the crucial gateway. The Pacific Maritime Association and the International Longshore and Warehouse Union Local 26 failed to reach an agreement, making a walkout a distinct possibility. Such a disruption would impact terminal operators and shipping lines, creating bottlenecks in regional freight and logistics flows.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/"
+  },
+  {
+    "headline": "Brooks Running leverages supplier data to mitigate labor risks",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-19",
+    "summary": "Footwear brand Brooks Running is enhancing its supply chain transparency and addressing human rights compliance by conducting annual mock detention exercises with its suppliers. This proactive strategy allows the company to gain deeper visibility into its material sourcing tiers and downstream operations, helping to identify and mitigate potential labor and human rights vulnerabilities within its production network.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/how-brooks-running-is-using-supplier-data-to-address-human-rights-risks/875090/"
+  },
+  {
+    "headline": "Expeditors expands into space logistics for NASA missions",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Expeditors International has broadened its service portfolio to encompass the aerospace sector, marking its entry with a new logistics operation at NASA's Kennedy Space Center. This strategic expansion enables the freight forwarder to manage specialized supply chain requirements for space exploration initiatives, highlighting the increasing commercialization and complex logistical demands of the space industry. The company will oversee critical transport and handling operations essential for supporting upcoming launch activities.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/expeditors-enters-new-logistics-frontier-supporting-kennedy-space-missions"
+  },
+  {
     "headline": "ABP Finishes New Storage and Processing Hub at King's Lynn",
     "continent": "Europe",
     "country": "United Kingdom",
@@ -8,6 +238,16 @@
     "summary": "Associated British Ports has finalized a seven million pound investment for a custom storage and processing building at the Port of King's Lynn. This project marks the port's largest capital expenditure to date, designed to accommodate the expanding operations of speciality chemical and food ingredient firm Azelis. The facility strengthens the long-term operational ties between the two companies at this key maritime hub.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/abp-completes-storage-facility-at-the-port-of-kings-lynn/"
+  },
+  {
+    "headline": "PepsiCo boosts deforestation-free sourcing for key inputs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-18",
+    "summary": "The food and beverage company increased its procurement of deforestation-free key commodities, such as palm oil and sugar cane, reaching ninety-four percent in 2025. This represents an improvement from the ninety percent achieved during the previous year, reflecting ongoing efforts to enhance sustainability across upstream agricultural supply chains.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/pepsico-improves-deforestation-free-sourcing-for-key-commodities/874963/"
   },
   {
     "headline": "Dry Bulk Shipping Warned Over Vessel Price and Rate Mismatch",
@@ -1990,16 +2230,6 @@
     "sourceUrl": "https://www.aircargonews.net/freight-forwarder/2026/11/dhl-forwarding-warns-that-market-wide-growth-hides-trade-lane-disparities/"
   },
   {
-    "headline": "King Ocean streamlines Haiti shipping routes and cuts vessels",
-    "continent": "North America",
-    "country": "Haiti",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "King Ocean Services has combined its two weekly container shipping routes linking Port Everglades in Florida with Haiti into one streamlined rotation. The operational adjustment cuts the active fleet on this maritime trade lane from two vessels down to one. While Port-au-Prince maintains its regular weekly connection to Florida, port calls to Cap-Haïtien are being scaled back under the new schedule.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/king-ocean-consolidates-haiti-services-reduces-cap-haitien-calls/"
-  },
-  {
     "headline": "DP World Accelerates Fujairah Port Expansion Projects",
     "continent": "Middle East",
     "country": "United Arab Emirates",
@@ -2008,16 +2238,6 @@
     "summary": "DP World is investing AED 2.5 billion to fast-track the development of two ports in Fujairah, aiming to begin phased operations within 18 to 24 months. The project is part of the United Arab Emirates' strategy to establish alternative shipping routes and maintain continuous trade flows amid ongoing disruptions in the Strait of Hormuz.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/dp-world-fast-tracks-developments-in-fujairah/"
-  },
-  {
-    "headline": "Tropical Shipping Expands Canada Express Route to St. Croix",
-    "continent": "North America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Tropical Shipping has enhanced its Canada Express container service by integrating St. Croix into the route network within the US Virgin Islands. Operated by two container ships with an approximate capacity of 1,100 TEU each, the updated maritime service connects Halifax and Palm Beach to key Caribbean destinations. This expansion broadens geographical reach and freight options for shippers moving goods between Canada, Florida, and the region.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/tropical-shipping-adds-st-croix-to-canada-express-service/"
   },
   {
     "headline": "Port of Hamburg sees slight cargo throughput decline in 2026",
@@ -2048,16 +2268,6 @@
     "summary": "Ocean carrier Maersk has announced the implementation of a new peak season surcharge for cargo moving from Far East Asia to Northern Europe, scheduled to take effect in December 2026. Additionally, the company is adjusting existing surcharge rates for specific shipping lanes originating from the Indian Subcontinent and heading toward North America. These pricing modifications reflect ongoing capacity management and cost adjustments across major global trade corridors.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/maersk-introduces-new-asia-europe-pss-and-revises-north-america-charges/"
-  },
-  {
-    "headline": "Premier Alliance to Move PS6 Transpacific Service to Long Beach",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "The Premier Alliance plans to relocate the Southern California port call for its transpacific PS6 service from the Port of Los Angeles to the Port of Long Beach in January 2027. Operated by HMM in collaboration with Ocean Network Express and Yang Ming, this maritime trade route connects key ports in China and South Korea with the United States market, marking a strategic shift in regional container shipping operations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/premier-alliance-ps6-to-return-to-long-beach-in-january-2027/"
   },
   {
     "headline": "ADNOC L&S Reports Q3 Profit Surge and Raises 2026 Outlook",
@@ -2110,26 +2320,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/imo-may-codify-alternative-net-zero-bunker-rules-in-2027-us-fmc-2/"
   },
   {
-    "headline": "Global ocean schedule reliability drops to 24 percent",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Global maritime schedule reliability has declined, with less than a quarter of vessels arriving on time according to the latest performance tracking data. Performance metrics indicate a slight decrease from previous estimates due to late-month arrival adjustments. Additionally, a major carrier alliance has lost its previous reliability advantage on key trade routes connecting the Far East to Europe. The analysis highlights ongoing volatility and congestion challenges impacting international maritime freight schedules across major global shipping lanes.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/xeneta-schedule-reliability-scorecard-october-2026-less-than-a-quarter-of-global-vessels-arrive-on-time-and-geminis-lead-disappears-on-asian-trades/"
-  },
-  {
-    "headline": "Drewry World Container Index Drops 2 Percent",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Global container freight benchmark rates experienced a downward trend last week, declining by two percent according to the latest assessments. Procurement and logistics teams widely utilize the World Container Index as an independent reference for managing index-linked shipping contracts across major international trade lanes. This recent movement reflects ongoing adjustments in global ocean freight pricing and market conditions.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-2-last-week-8/"
-  },
-  {
     "headline": "CMA CGM Reports Strong Q3 Ocean Volume Growth",
     "continent": "Europe",
     "country": "France",
@@ -2138,56 +2328,6 @@
     "summary": "French container shipping giant CMA CGM released its financial performance update for the third quarter, highlighting robust ocean shipping volume growth that outpaced major European competitors. The carrier reported a 5.5 percent year-on-year increase in transported volumes, reaching 6.5 million TEUs. Meanwhile, performance across its logistics subsidiary, Ceva, presented a more mixed outcome. The results reflect ongoing strategic adaptations within the carrier network amidst broader global market conditions and shifting competitive dynamics among major ocean shipping alliances.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/cma-cgm-q3-26-update-out-ocean-outperforms-ceva-a-mixed-bag/"
-  },
-  {
-    "headline": "Port of Los Angeles faces mounting rail container dwell times",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Rail dwell times for idle containers waiting for transport at the Port of Los Angeles have surged beyond nine days, according to Executive Director Gene Seroka. This buildup points to emerging bottlenecks in intermodal operations at North America's busiest container gateway. Elevated dwell times often signal congestion issues that can ripple through domestic supply chains, impacting cargo velocity and equipment availability for shippers relying on seamless transitions between maritime and rail freight networks.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/"
-  },
-  {
-    "headline": "JD Sports adopts Zebra technology to enhance inventory speed",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "storage_distribution",
-    "date": "2026-11-13",
-    "summary": "Sportswear retailer JD Sports is collaborating with Zebra Technologies to improve inventory tracking throughout its omnichannel retail network. By implementing these digital tools, the company aims to achieve continuous stock visibility across its operations. The initiative is designed to support rapid product replenishment and maintain high product availability rates for customers shopping across digital and physical channels.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/"
-  },
-  {
-    "headline": "Appellate Court Overturns DOT Funding Denial to New York Over CDLs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "A federal appeals court has unanimously ruled in favor of New York State in its legal challenge against the Department of Transportation. The dispute centered on federal funding withheld from the state regarding the validity period of non-domiciled commercial driver's licenses. The three-judge panel on the U.S. Court of Appeals for the Second Circuit agreed with the state's position, effectively reversing the federal agency's funding penalty over CDL regulations.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/denial-of-funds-to-ny-over-non-domiciled-cdls-overturned-appellate-court"
-  },
-  {
-    "headline": "Carriers leverage trailer rentals and tech to cut costs",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Carriers are increasingly utilizing trailer rentals as a strategic growth tool to reduce equipment expenses and explore new operating lanes without capital investments. By leveraging specialized optimization platforms, fleets can transform costly and inefficient asset repositioning operations into revenue-generating activities. This approach allows transport companies to maximize asset utilization, enhance operational flexibility, and adapt more dynamically to shifting market demand without the financial burden of permanent fleet expansion.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/trailer-flexibility-is-becoming-a-growth-strategy-for-carriers"
-  },
-  {
-    "headline": "BW LPG sells very large gas carrier for over $100m",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "BW LPG has agreed to sell the very large gas carrier BW Mistral for a price well exceeding $100 million. The vessel, built in 2015 with an 83,134 cubic meter capacity, was originally acquired less than two years ago as part of a fleet transaction with Avance Gas. The latest sale by the New York- and Oslo-listed gas carrier operator is anticipated to yield a substantial net financial gain upon completion.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/bw-lpg-scores-another-lucrative-avance-vlgc-flip/"
   },
   {
     "headline": "Cetus Maritime secures $200m share placement ahead of Oslo listing",
@@ -2248,16 +2388,6 @@
     "summary": "Italian shipbuilder Fincantieri experienced increased profitability during the first nine months of the year, driven by strong operating margins and steady demand across core sectors. Consequently, the enterprise upgraded its annual earnings outlook as its order backlog achieved a new record level. EBITDA climbed by over ten percent, reflecting robust commercial momentum within the maritime manufacturing and supply sector.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/fincantieri-reports-record-backlog-and-raises-2026-earnings-outlook/"
-  },
-  {
-    "headline": "Container Shipping Shares Extend Weekly Declines",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "The maritime and container shipping sectors experienced their fourth consecutive week of market losses, driven by a broad downturn across industry equities. The benchmark industry index dropped 4.1 percent, losing 111 points to settle at 2,583. Sector performance indicators showed widespread downward pressure, with shipping carriers suffering the most pronounced weekly decrease among all measured categories.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/dynaliners-shares-index-falls-for-fourth-consecutive-week/"
   },
   {
     "headline": "Peter Döhle linked to Chinese shipyard containership order",
@@ -3758,165 +3888,5 @@
     "summary": "Boluda Shipping has reached an agreement to buy rival firm Samskip, pending regulatory approval, with the transaction slated to finalize on January 1. This strategic merger aims to strengthen European shortsea shipping operations by integrating regional networks. The resulting entity will deploy a fleet of 32 vessels, providing substantial container capacity across numerous routes, countries, and maritime terminals throughout Northern Europe, the Iberian Peninsula, the Canary Islands, and West Africa.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/"
-  },
-  {
-    "headline": "Cyberattacks on refrigeration systems expose cold chain vulnerabilities",
-    "continent": "Europe",
-    "country": "France",
-    "category": "storage_distribution",
-    "date": "2026-10-29",
-    "summary": "Recent cyber incidents targeting supermarket refrigeration units in France demonstrate growing physical security risks within temperature-controlled supply chains. Malicious remote manipulation caused significant temperature spikes, leading to equipment damage and facility flooding. These events highlight critical vulnerabilities across connected cold storage facilities, pharmaceutical warehouses, and refrigerated transport fleets, emphasizing the urgent need for enhanced cybersecurity measures in logistics operations to protect sensitive cargo and infrastructure from sabotage.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/the-cold-chain-just-got-weaponised-logistics-is-exposed/"
-  },
-  {
-    "headline": "UK Emissions Trading Scheme Imposes New Rules on Vessel Operators",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "sustainability",
-    "date": "2026-10-29",
-    "summary": "Maritime operators must prepare for upcoming regulatory requirements under the UK Emissions Trading Scheme, which expands to include offshore vessels starting in January. Large ships exceeding 5,000 gross tonnes will face strict monitoring, reporting, and allowance-surrender obligations. Non-compliance will result in significant financial penalties, with a charge of £100 for each missing allowance. This regulatory shift introduces additional operational and financial pressures for shipping companies navigating the evolving environmental compliance landscape in the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/vessel-operators-need-to-prepare-for-compliance-as-uk-ets-looms/"
-  },
-  {
-    "headline": "Boluda Shipping Agrees to Acquire Samskip",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-29",
-    "summary": "Boluda Shipping has reached an agreement to buy Samskip in a move designed to establish a prominent short-sea maritime network across Europe. The transaction combines the resources and operational expertise of both maritime transport providers, creating expanded trade routes that link Northern Europe with the Iberian Peninsula, the Canary Islands, and West Africa. This corporate consolidation aims to enhance regional maritime connectivity and freight capacity for shippers operating within these key European and African corridors.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/boluda-acquires-samskip/"
-  },
-  {
-    "headline": "UK Logistics Sector Relieved by Budget Fuel Duty Freeze",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "logistics",
-    "date": "2026-10-28",
-    "summary": "British transport and logistics operators have expressed relief following the latest government budget, which chose to maintain the existing five-pence-per-litre reduction on fuel duty and prevent scheduled tax increases. Additionally, the policy announcement ensured that commercial warehouse property rates will not increase. Industry representatives welcomed the measures as vital temporary relief for operators navigating challenging financial conditions, though sector leaders caution that broader macroeconomic cost pressures still threaten profitability and ongoing operational stability across the domestic supply chain network.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/under-pressure-uk-transport-and-logistics-firms-dodge-budget-bullet/"
-  },
-  {
-    "headline": "Seko Urges Early Planning for 2027 Chinese New Year Shipping",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-10-28",
-    "summary": "Logistics provider Seko is advising cargo owners who source products from China to accelerate purchase orders and secure ocean freight capacity well in advance of upcoming factory closures. Because the holiday falls earlier in the year than previously, the operational timeline for moving goods prior to the shutdown is significantly compressed. Supply chain managers must adjust their booking schedules by several weeks to mitigate potential delays and maintain inventory flow during the seasonal disruption.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/early-lunar-new-year-means-shippers-need-to-plan-ahead-says-seko/"
-  },
-  {
-    "headline": "Cyclone Arnab disrupts port operations along India's eastern coast",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-10-28",
-    "summary": "Severe weather conditions caused by Cyclone Arnab have forced the suspension or restriction of vessel-handling services at multiple major ports along India's eastern coastline. The storm brought powerful gale winds and high swells to the region, prompting critical gateways like Visakhapatnam to halt all operations until further notice. This shutdown impacts vital feeder services for major ocean carriers operating out of the area, creating potential cargo bottlenecks and schedule delays for regional maritime supply chains.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/cyclone-arnab-brings-more-disruption-along-indias-eastern-coast/"
-  },
-  {
-    "headline": "Typhoon Champi Fails to Halt Container Rate Decline",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-27",
-    "summary": "Recent disruptions caused by Typhoon Champi and ongoing congestion across Southeast and South Asian ports have offered a brief lift to container freight rates and caused minor schedule delays. Nevertheless, market analysts indicate this temporary boost will not reverse the broader downward trend in shipping costs. Persistent vessel overcapacity, aggressive pricing rivalry among carriers, and the arrival of the traditional winter slack season are expected to maintain downward pressure on the market.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/champis-support-wont-reverse-market-trend/"
-  },
-  {
-    "headline": "SITC Issues Major Special Dividend Following Record Share Price",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "category": "logistics",
-    "date": "2026-10-27",
-    "summary": "Regional maritime carrier SITC, based in Hong Kong, has announced a substantial special dividend payout totaling $344 million to its investors. This financial move follows a period of record-breaking performance for the company's stock value. The leadership board formally authorized the distribution, which amounts to $0.13 per ordinary share, reflecting robust financial returns within the intra-Asian container shipping sector.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/shipping-series-sitc-shareholders-in-line-for-bumper-payout/"
-  },
-  {
-    "headline": "UK rail freight suspended at London Gateway and Tilbury after storm",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "logistics",
-    "date": "2026-10-27",
-    "summary": "Severe storms in the United Kingdom caused a train derailment and damaged over a kilometer of railway track, leading to the suspension of rail freight services at key south-eastern terminals including London Gateway, Tilbury, and Tilbury 2. The sudden disruption has forced supply chain operators and shippers to urgently seek alternative transportation methods for inland container distribution throughout the region while infrastructure repairs are carried out.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/no-rail-freight-from-london-gateway-and-tilbury-after-storms/"
-  },
-  {
-    "headline": "Japan Airlines Expands Freighter Capacity for Tech Goods",
-    "continent": "Asia",
-    "country": "Japan",
-    "category": "logistics",
-    "date": "2026-10-26",
-    "summary": "Japan Airlines is increasing its long-haul freight capacity to accommodate rising demand for technology shipments. The carrier is achieving this expansion by outsourcing operations to external airlines that operate large freighter aircraft, allowing them to scale their logistics capabilities and better serve high-tech sector shipping needs without purchasing new planes directly.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/japan-airlines-hires-b747-cargo-carriers-to-meet-high-tech-demand"
-  },
-  {
-    "headline": "Australia Post CEO Steps Down Amid Financial Pressures",
-    "continent": "Oceania",
-    "country": "Australia",
-    "category": "strategy",
-    "date": "2026-10-26",
-    "summary": "The chief executive officer of Australia Post is preparing to step down following a tenure focused on restructuring the national postal service. During his time in the leadership role, the postal organization faced ongoing financial hurdles that impacted operations. A successor will soon take over the responsibility of steering the agency through its continued reform process and addressing these persistent economic pressures.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/australia-post-ceo-to-retire-as-financial-challenges-continue"
-  },
-  {
-    "headline": "China-India Ocean Freight Rates Ease Following Festival Peak",
-    "continent": "Asia",
-    "country": "India",
-    "category": "logistics",
-    "date": "2026-10-26",
-    "summary": "Spot freight rates for container shipments originating in China and heading toward India have dropped by ten to twenty percent as seasonal import demand tied to recent festival celebrations cools down. Despite the financial relief for importers booking standard forty-foot boxes to major terminals such as Nhava Sheva and Chennai, vessel turnaround times and port congestion continue to create operational bottlenecks and strain maritime logistics services across key coastal trade lanes.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/china-india-rates-ease-but-port-delays-still-a-strain-on-services/"
-  },
-  {
-    "headline": "Navia Expands Southeast Asian Logistics Footprint in Malaysia",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "category": "logistics",
-    "date": "2026-10-26",
-    "summary": "Global logistics provider Navia has opened a new freight forwarding office in Johor Bahru, marking its second facility in Malaysia and twelfth in the Asia-Pacific region. Strategically positioned near Singapore along a major international trade corridor, the expansion strengthens the company's regional forwarding capabilities and supports its broader network growth across Southeast Asia, enhancing service delivery for cross-border freight operations in the area.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/"
-  },
-  {
-    "headline": "Singapore Urged to Evolve Logistics Beyond Container Shipping",
-    "continent": "Asia",
-    "country": "Singapore",
-    "category": "logistics",
-    "date": "2026-10-23",
-    "summary": "Singapore faces mounting competitive pressure in maritime trade as regional hubs narrow the gap in container port rankings. Industry analysts emphasize that the nation must look past traditional container throughput metrics to secure its long-term standing in global logistics. As shipping dynamics shift across Asia, the city-state is confronted with the strategic challenge of adapting its maritime infrastructure and trade models to maintain its competitive advantage in an evolving global supply chain environment.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/singapore-must-look-beyond-the-box-to-secure-its-logistics-future/"
-  },
-  {
-    "headline": "DSV Shifts Focus to Road Network Sales Following European Recovery",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-10-23",
-    "summary": "Logistics provider DSV has restored its European road network operations, shifting its primary objective toward commercial growth and sales strategy. Following leadership changes within the road division, financial institutions project profit increases, though analysts hold differing views regarding the precise growth trajectory leading toward their long-term forecasts. The company's future financial performance now hinges heavily on the commercial expansion and operational stability of its upgraded freight and ground transportation network across the region.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/analysis-keep-calm-and-hit-the-road-with-dsv/"
-  },
-  {
-    "headline": "IKEA Faces Criticism Over European Wood Sourcing Practices",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-10-22",
-    "summary": "Environmental advocates have raised concerns regarding the furniture retailer's timber procurement methods across the continent. According to recent findings, the organization falls short of necessary standards to safeguard regional biodiversity. This scrutiny highlights ongoing challenges in responsible sourcing and environmental stewardship within the retail sector, prompting calls for stricter oversight and improved sustainability measures in forest management.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ikea-accused-of-harmful-wood-sourcing-in-europes-forests/833625/"
   }
 ]

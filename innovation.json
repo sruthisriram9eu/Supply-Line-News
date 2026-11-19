@@ -60,6 +60,18 @@
     "sourceUrl": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/"
   },
   {
+    "headline": "New tool stops AI coding agents from using vulnerable software dependencies",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-13",
+    "summary": "Researchers have developed YUL, a system designed to prevent AI coding agents from accidentally using outdated software dependencies. Coding agents frequently select older package versions learned during their training, exposing projects to known security vulnerabilities. YUL checks every dependency against live package registries, blocking outdated versions and instructing the AI to use the latest secure release instead. In tests across multiple programming ecosystems, YUL successfully guided AI agents to use current versions in the vast majority of cases where they initially tried to use stale code.",
+    "whyItMatters": "This early-stage tool could help secure software supply chains by preventing AI-generated code from introducing known vulnerabilities.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.23314v1"
+  },
+  {
     "headline": "Model Maps Framework Traces Upstream AI Supply Chains",
     "continent": "North America",
     "country": "United States",
