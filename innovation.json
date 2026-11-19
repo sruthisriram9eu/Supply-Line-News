@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Humyn Labs Secures $47M to Gather Real-World Robotics Data",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-18",
+    "summary": "Humyn Labs has raised $47 million to supply real-world operational data to frontier artificial intelligence laboratories, robotics developers, and world-model creators. By capturing data from actual physical environments, the company aims to help developers train more capable and adaptable autonomous systems. This information is intended to bridge the gap between controlled testing environments and the unpredictable conditions machines face in practical applications.",
+    "whyItMatters": "This early-stage funding could accelerate the development of more reliable autonomous warehouse robots and logistics automation tools.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/"
+  },
+  {
+    "headline": "Rockwell Automation to acquire mobile robot maker AGILOX",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-18",
+    "summary": "Industrial automation provider Rockwell Automation has announced an agreement to acquire AGILOX, a developer of autonomous mobile robots. This move expands Rockwell's mobile robotics offerings, building on its previous 2023 acquisition of OTTO Motors. By integrating AGILOX's technology, the company aims to strengthen its portfolio of automated material handling solutions for manufacturing and warehouse environments.",
+    "whyItMatters": "This consolidation could give warehouses and factories access to a broader range of integrated automation tools for moving goods.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/"
+  },
+  {
     "headline": "Boston Dynamics humanoid robot set for semiconductor trial",
     "continent": "Global",
     "country": "Multiple",
