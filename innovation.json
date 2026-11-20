@@ -1,5 +1,17 @@
 [
   {
+    "headline": "MassRobotics to open marine robotics facility in Boston",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-20",
+    "summary": "MassRobotics is planning to open a new facility focused on marine robotics on Boston Harbor by early 2028, with programming set to begin throughout 2027. The initiative aims to support the development and testing of maritime technologies. While the center's exact focus spans multiple ocean industries, it provides a dedicated environment for innovators to advance water-based autonomous systems and hardware.",
+    "whyItMatters": "This early-stage facility could eventually help accelerate the development of autonomous vessels and port logistics technology.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/"
+  },
+  {
     "headline": "Humyn Labs Secures $47M to Gather Real-World Robotics Data",
     "continent": "North America",
     "country": "United States",
