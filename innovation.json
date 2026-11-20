@@ -24,6 +24,18 @@
     "sourceUrl": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/"
   },
   {
+    "headline": "Testing LLM agents in a simulated supply chain disruption",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-17",
+    "summary": "Researchers introduced MANGO Arena, an open-source testbed where four large language model agents manage companies in a serial supply chain game. The environment enforces strict operational rules like truck limits and cash constraints while tracking economic outcomes, rule-following, and potential collusion. In an initial pilot using small reasoning models and scripted policies under disrupted conditions, all the AI agents amplified demand variability upstream significantly more than standard policies, primarily by batching their orders. While the models rarely broke hard operational rules, the pilot highlighted evaluation hurdles, including API failures and rate limits.",
+    "whyItMatters": "This early-stage testbed could help developers safely evaluate how artificial intelligence agents handle supply chain disruptions and decision-making.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.23613v1"
+  },
+  {
     "headline": "Boston Dynamics humanoid robot set for semiconductor trial",
     "continent": "Global",
     "country": "Multiple",
