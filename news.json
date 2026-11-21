@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Akkon Lines introduces Türkiye-Levant container route",
+    "continent": "Middle East",
+    "country": "Türkiye",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "Akkon Lines is set to roll out a new maritime container route linking Türkiye with Syria and Lebanon starting in December 2026. Designated as the Levant Bridge Service, the operation will utilize one small vessel to maintain a ten-day sailing frequency. The route establishes direct connections among three Turkish ports, Latakia, and Beirut, enhancing regional maritime logistics and shipping connectivity across the Eastern Mediterranean basin.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/akkon-lines-launches-turkiye-levant-service/"
+  },
+  {
+    "headline": "Seatrium secures S$12.2B order book amid new contract wins",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "manufacturing",
+    "date": "2026-11-21",
+    "summary": "Singapore-based marine engineering and offshore energy firm Seatrium has announced a net order book totaling S$12.2 billion as of September 2026, driven by recent contract acquisitions. The company accumulated S$1.7 billion in new orders over the course of the year. The current order portfolio includes 35 active projects, with fulfillment and deliveries slated through 2033.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/seatrium-reports-s12-2-billion-order-book-as-new-contracts-increase/"
+  },
+  {
+    "headline": "CMA CGM Expands India West Coast Coverage on PIKEX2 Route",
+    "continent": "Asia",
+    "country": "India",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "Maritime carrier CMA CGM has integrated the port of Hazira into its weekly Pakistan Khalifa Express 2 container shipping route. This network adjustment broadens regional trade connectivity along the western coast of India. The service utilizes two container vessels with capacities ranging from 1,700 to 2,500 TEU, linking key maritime hubs in India, Pakistan, and Sri Lanka to support regional logistics and freight movement.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cma-cgm-adds-hazira-to-pikex2-service/"
+  },
+  {
+    "headline": "Eimskip Orders Konecranes Mobile Harbor Crane for Iceland",
+    "continent": "Europe",
+    "country": "Iceland",
+    "category": "storage_distribution",
+    "date": "2026-11-21",
+    "summary": "Icelandic shipping and logistics provider Eimskip has placed an order for a new Konecranes Gottwald ESP.8 Mobile Harbor Crane destined for the port of Reyðarfjörður. Booked during the final quarter of the year, the equipment delivery is planned for the third quarter of the following year. The infrastructure addition is designed to enhance cargo handling capabilities at the facility, supporting the processing of containerized shipments as well as general and project cargo operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/"
+  },
+  {
+    "headline": "IMO to weigh net-zero framework amid decarbonization debate",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-20",
+    "summary": "The International Maritime Organization is preparing for upcoming negotiations regarding its Net-Zero Framework. Committee members face a critical decision between adopting a softer regulatory approach to resolve ongoing deadlocks or maintaining stringent standards to ensure meaningful emissions reductions. The outcome of the upcoming meetings will significantly influence the maritime industry's long-term sustainability trajectory and operational compliance timelines for global shipping networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-the-net-zero-bargain/"
+  },
+  {
+    "headline": "Indian ship recycling market weakens on currency shifts",
+    "continent": "Asia",
+    "country": "India",
+    "category": "procurement",
+    "date": "2026-11-20",
+    "summary": "The ship recycling market in India experienced a downturn over the week, driven largely by ongoing currency fluctuations. These monetary shifts led to reduced purchasing activity and softer market conditions overall. Such volatility impacts the broader maritime asset liquidation and scrap metal supply chains operating within the region.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-november-2026/"
+  },
+  {
+    "headline": "Holiday Shipping Capacity Tightens Amid Rising Tender Rejections",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Data indicates that the freight market is tightening ahead of Thanksgiving, driven by low inventory levels and surging last-minute shipping demand. Industry metrics suggest that tender rejection rates could exceed 14 percent. This tightening capacity, when combined with potential port labor disruptions, points toward significant logistical constraints for carriers and shippers navigating the peak holiday shipping season.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/trucking-rejection-rates-why-holiday-shipping-gets-spicy"
+  },
+  {
+    "headline": "Q3 Shipping Costs Drop 3.3% Despite Rising Per-Package Fees",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Although carrier shipping rates decreased during the third quarter, overall operational savings failed to materialize. A transition toward heavier shipments, accelerated delivery timelines, and an increase in residential drop-offs drove individual package costs higher. This shift completely counterbalanced the base rate reductions. Supply chain operators prioritized enhanced service quality and customer satisfaction over cost-cutting, changing how logistics expenditures affected their bottom lines during the period.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/q3-shipping-costs-down-3-3-where-did-the-savings-go"
+  },
+  {
     "headline": "Panda Express Line Restructures Russian Far East Network",
     "continent": "Asia",
     "country": "Russia",
@@ -1920,26 +2000,6 @@
     "sourceUrl": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/"
   },
   {
-    "headline": "Meta Partners with Nevoya for Electric Freight on I-10",
-    "continent": "North America",
-    "country": "United States",
-    "category": "sustainability",
-    "date": "2026-11-16",
-    "summary": "Meta has agreed to purchase environmental attribute certificates associated with twenty-five battery-electric trucks operated by Nevoya. The zero-emission vehicles will transport freight along the Interstate 10 corridor connecting San Bernardino, California, and Phoenix, Arizona. Operations for this sustainability-focused logistics initiative are scheduled to commence in the year 2027. This collaboration highlights corporate investment in green transportation infrastructure and highlights efforts to reduce carbon emissions within regional supply chain freight networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/meta-nevoya-electric-trucks-i-10"
-  },
-  {
-    "headline": "Associations urge IATA to revise Direct Air Waybill framework",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "Industry groups have jointly released a white paper pressing the International Air Transport Association to update its Direct Air Waybill framework. The associations argue that the current guidelines impose unfair legal and insurance liabilities on freight forwarders for operational risks that fall outside their direct control. They are seeking amendments to protect forwarders from these heightened exposures under the newly introduced framework.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/freight-forwarder/2026/11/iata-urged-to-revise-dawb-framework-over-forwarder-liability-concerns/"
-  },
-  {
     "headline": "Turkish Cargo launches Istanbul-Yerevan freighter route",
     "continent": "Asia",
     "country": "Armenia",
@@ -2198,16 +2258,6 @@
     "summary": "Data indicates that total iron ore stockpiles across major domestic harbors increased by nearly three million metric tons, continuing a steady accumulation trend. Concurrently, the daily average volume of material collected from these maritime hubs experienced a slight decline. These shifting metrics highlight evolving supply and demand dynamics within the raw materials logistics sector, impacting regional inventory management and material flow through primary import gateways.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/iron-ore-port-inventory-and-port-pick-up-volume-on-november-13-2026/"
-  },
-  {
-    "headline": "US and China Extend Suspension of Reciprocal Port and Service Fees",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-15",
-    "summary": "The United States and China have mutually agreed to extend the suspension of specific maritime fees, providing temporary relief for international shipping operations. The USTR delayed the implementation of service fees targeting Chinese-linked vessels for an additional two months, pushing the deadline to early January. This reciprocal action helps maintain stability in bilateral trade logistics and port operations between the two nations, averting potential cost increases for carriers operating across the Pacific trade lanes during the negotiation period.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/the-us-and-china-reciprocally-extend-the-suspensions-of-service-fees/"
   },
   {
     "headline": "Hong Kong advances ambitious maritime strategy and reforms",
