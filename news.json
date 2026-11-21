@@ -1,5 +1,25 @@
 [
   {
+    "headline": "Tentative union agreement avoids strike at major US container port",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-21",
+    "summary": "A provisional labor accord has successfully prevented a potential work stoppage at the nation's largest container port hub. This breakthrough follows more than twelve months of intense contract discussions and federally facilitated mediation, ultimately removing a significant disruption threat to domestic import and export operations on the West Coast.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach"
+  },
+  {
+    "headline": "DHL Express launches AI-powered customs clearance tool",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-21",
+    "summary": "DHL Express has rolled out a new artificial intelligence tool designed to help small international shippers determine accurate product identifiers for cross-border customs clearance. The technology aims to remove guesswork and streamline the compliance process for smaller businesses engaged in international trade, reducing potential delays and administrative burdens at international borders by automating product classification.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/dhl-express-makes-customs-clearance-easier-for-small-cross-border-shippers"
+  },
+  {
     "headline": "Akkon Lines introduces Türkiye-Levant container route",
     "continent": "Middle East",
     "country": "Türkiye",
@@ -38,6 +58,16 @@
     "summary": "Icelandic shipping and logistics provider Eimskip has placed an order for a new Konecranes Gottwald ESP.8 Mobile Harbor Crane destined for the port of Reyðarfjörður. Booked during the final quarter of the year, the equipment delivery is planned for the third quarter of the following year. The infrastructure addition is designed to enhance cargo handling capabilities at the facility, supporting the processing of containerized shipments as well as general and project cargo operations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/"
+  },
+  {
+    "headline": "Fujairah Fuel Oil Inventories Increase Slightly in November",
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "storage_distribution",
+    "date": "2026-11-20",
+    "summary": "Inventories of fuel oil at the Middle Eastern storage and bunkering hub of Fujairah have posted a modest one percent increase during the first half of November compared to the previous month's averages. Data from the local oil industry zone and S&P Global indicates that the growth is driven primarily by gains in heavy distillate and residual inventories, which rose by 42,000 barrels to reach 4.49 million barrels, alongside smaller upward movements in middle distillate supplies.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/fujairah-fuel-oil-stocks-edge-up-1-in-november-so-far/"
   },
   {
     "headline": "IMO to weigh net-zero framework amid decarbonization debate",
@@ -1990,16 +2020,6 @@
     "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/16/raib-reveals-barking-freight-trains-derailed-wagon-travelled-for-1-1km/"
   },
   {
-    "headline": "Reformation Adopts AI to Optimize Inventory and Production",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-16",
-    "summary": "Apparel brand Reformation is integrating artificial intelligence solutions to enhance its inventory management processes. The technology enables the company to closely track consumer demand patterns, resulting in data-driven manufacturing choices. By utilizing these advanced digital tools, the retailer aims to align its output more precisely with market needs, reducing excess stock and improving overall operational efficiency within its supply chain network.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/"
-  },
-  {
     "headline": "Turkish Cargo launches Istanbul-Yerevan freighter route",
     "continent": "Asia",
     "country": "Armenia",
@@ -2238,16 +2258,6 @@
     "summary": "Recent data from Enterprise Singapore indicates that the nation's residual fuel oil inventories have risen by 4% during the first part of November compared to the previous month, reaching 19.33 million barrels. Meanwhile, middle distillate stockpiles experienced a decline of 710,000 barrels down to 8.43 million barrels. These shifts highlight ongoing inventory adjustments in a major regional trading hub, which can influence local bunker fuel availability and broader maritime logistics operations.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/singapore-fuel-oil-stocks-rise-4/"
-  },
-  {
-    "headline": "INTERCARGO Issues Safety Guidelines for Bulk Carrier STS Transfers",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-15",
-    "summary": "New guidance has been released to address the distinct risks associated with ship-to-ship transfer operations in dry bulk shipping. These procedures become necessary when port infrastructure, draught limitations, or berth availability prevent standard terminal loading and discharging. By outlining operational protocols, the initiative aims to minimize hazards when bringing two vessels alongside each other for cargo handling, ensuring safer execution in challenging maritime logistics environments.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/safer-ship-to-ship-transfers-practical-lessons-for-bulk-carrier-operations/"
   },
   {
     "headline": "China Iron Ore Port Inventories Rise as Pick-up Volumes Decline",
