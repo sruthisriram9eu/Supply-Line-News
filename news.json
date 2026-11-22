@@ -1,5 +1,115 @@
 [
   {
+    "headline": "Valenciaport Reports Steady Container Traffic and Growth in Rail",
+    "continent": "Europe",
+    "country": "Spain",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Container volumes at the Port Authority of València remained stable over the past twelve months, registering a modest 0.15 percent increase to total over 5.6 million TEUs. Meanwhile, intermodal operations experienced substantial growth, with rail-handled TEUs jumping more than 20 percent compared to the previous year. Additionally, vehicle shipments processed as cargo through the port facilities increased by nine percent, highlighting positive momentum across specific segments of the maritime logistics hub.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/valenciaport-container-traffic-holds-steady-as-vehicle-traffic-rises/"
+  },
+  {
+    "headline": "Sidra Line Realigns Mediterranean–West Africa Route",
+    "continent": "Africa",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Sidra Line has announced updates to its Mediterranean–West Africa maritime route, adjusting port calls to optimize regional connectivity. The carrier is expanding its service by adding stops in Misurata, Libya, Rades, Tunisia, and Casablanca, Morocco. Concurrently, the rotation will drop Adana, while maintaining connections to Conakry in Guinea utilizing a 750 TEU vessel.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/sidra-line-revises-mediterranean-west-africa-service/"
+  },
+  {
+    "headline": "JSV Logistic Restores Direct Turkey-Canary Islands Service",
+    "continent": "Europe",
+    "country": "Spain",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Logistics provider JSV Logistic has brought back the direct Canary Islands route within its weekly Turkey to Spain shipping operation. The archipelago leg had been temporarily detached from the network. To support the reinstated route, the company expanded capacity by deploying three container vessels with capacities ranging from 750 to 1,200 TEU, enhancing maritime connectivity between Turkish ports and the Spanish islands.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/jsv-logistic-reconnects-turkiye-with-canary-islands/"
+  },
+  {
+    "headline": "Backup carriers raise rates as market tightens for shippers",
+    "continent": "North America",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Shippers utilizing contingency carriers as part of their backup strategies are facing rising costs. As market conditions tighten, secondary transportation providers are no longer readily available on standby without increased pricing. Organizations relying on alternative logistics networks must navigate higher expenditures to secure capacity when primary carriers face disruptions, impacting overall freight and distribution budgets.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/shippers-backup-plan-is-getting-more-expensive"
+  },
+  {
+    "headline": "Port of LA issues environmental report for terminal upgrade",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-11-21",
+    "summary": "The Port of Los Angeles has published a draft environmental impact assessment concerning proposed upgrades at the Wilmington marine oil terminal managed by Phillips 66. The document serves to gather stakeholder feedback prior to the development of a final environmental report. This infrastructure initiative involves specific modifications at Berths 148 to 151 aimed at improving facility operations and environmental compliance within the key maritime shipping hub.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/port-of-los-angeles-releases-environmental-impact-report/"
+  },
+  {
+    "headline": "MSC Updates Ecuador-NWC-USA Service Port Rotation",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "MSC has announced updates to its Ecuador-Northwest Continent-USA shipping service, reinstating calls at St. Petersburg, Rotterdam, and Jacksonville. These three ports were previously cut from the route in July of the current year. Under the revised schedule, Jacksonville will be integrated into the westbound transatlantic portion of the voyage, while Klaipeda has been removed entirely from the port rotation. This adjustment alters the connectivity between South American production points, European hubs, and United States ports.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/msc-reinstates-three-calls-on-ecuador-nwc-usa-service/"
+  },
+  {
+    "headline": "Lloyd's Register Clears Nuclear Ship Rules",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "New classification standards have been established to govern the integration of nuclear power systems into commercial vessels and offshore assets. Developed by Lloyd's Register, this framework provides essential evaluation guidelines for adopting nuclear energy across various ship types, representing a notable development for maritime logistics and propulsion technology in the shipping sector.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/lloyds-register-approves-new-classification-rules-for-nuclear-powered-ships/"
+  },
+  {
+    "headline": "Maersk Postpones Australia-New Zealand Shipping Policy",
+    "continent": "Oceania",
+    "country": "Australia",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "Ocean carrier Maersk has pushed back the full enforcement date of its No Shipping Instruction, No Load Policy for export cargo originating in Australia and New Zealand. The strict enforcement was initially scheduled to begin following an introductory soft launch phase. However, the carrier decided to extend the transition period and has not yet established a new firm deadline for implementing the policy. This regulatory adjustment affects regional freight forwarders and shippers managing containerized exports across the Australasian market.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-delays-australia-and-new-zealand-no-load-policy/"
+  },
+  {
+    "headline": "MSC Launches Two New Regional Services in Asia and Middle East",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "Mediterranean Shipping Company is enhancing its regional maritime network by introducing two distinct shipping routes targeting the Arabian Gulf and the Indian Subcontinent. Slated for a December launch, the Fujairah Shuttle 2 will establish connections between Colombo, Khor Fakkan, and Fujairah. Additionally, the carrier is rolling out a direct maritime service linking Ennore in India directly with Chittagong in Bangladesh, aimed at improving transit efficiency and regional trade flows across these key South Asian and Middle Eastern corridors.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/msc-expands-regional-network-with-two-new-services/"
+  },
+  {
+    "headline": "Caerus Shipping Introduces Direct Oman-India Maritime Service",
+    "continent": "Asia",
+    "country": "Oman",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "Caerus Shipping has launched the Arab Sea Express, a bi-weekly maritime service connecting the port of Sohar in Oman with the Indian ports of Nhava Sheva and Mundra. This new direct route aims to improve ocean freight options and connectivity for exporters, importers, freight forwarders, and non-vessel-operating common carriers moving cargo between the two countries, streamlining regional supply chain operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/caerus-shipping-launches-direct-oman-india-service/"
+  },
+  {
+    "headline": "Maersk implements 15 percent fuel surcharge for Cyprus trucking",
+    "continent": "Europe",
+    "country": "Cyprus",
+    "category": "logistics",
+    "date": "2026-11-21",
+    "summary": "Maersk announced a temporary 15 percent fuel surcharge on all truck transportation services within Cyprus, effective late November 2026. The carrier stated that the adjustment is a direct response to escalating fuel expenses driven by ongoing geopolitical tensions in the Middle East. The fee will be designated on customer billing invoices as either an Export Fuel Surcharge or an Import Fuel Surcharge based on shipment direction.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-sets-cyprus-truck-fuel-surcharge-at-15/"
+  },
+  {
     "headline": "Tentative union agreement avoids strike at major US container port",
     "continent": "North America",
     "country": "United States",
@@ -58,6 +168,16 @@
     "summary": "Icelandic shipping and logistics provider Eimskip has placed an order for a new Konecranes Gottwald ESP.8 Mobile Harbor Crane destined for the port of Reyðarfjörður. Booked during the final quarter of the year, the equipment delivery is planned for the third quarter of the following year. The infrastructure addition is designed to enhance cargo handling capabilities at the facility, supporting the processing of containerized shipments as well as general and project cargo operations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/"
+  },
+  {
+    "headline": "Industrial Real Estate Tightens Amid Surging Demand",
+    "continent": "North America",
+    "country": "United States",
+    "category": "storage_distribution",
+    "date": "2026-11-20",
+    "summary": "Industrial real estate markets are experiencing tightening conditions as demand broadens across sectors. The competition for available space is intensifying due to the rapid growth of data centers, increasing power access requirements, and the necessity for faster decision-making processes in commercial leasing. Industry experts highlight how these evolving operational needs are reshaping leasing strategies and transforming the broader landscape of supply chain infrastructure and warehousing availability.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/industrial-demand-is-broadening-so-is-competition-for-space"
   },
   {
     "headline": "Fujairah Fuel Oil Inventories Increase Slightly in November",
@@ -1910,16 +2030,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/why-the-carrier-with-the-shortest-terminal-wait-isnt-always-the-fastest-option/"
   },
   {
-    "headline": "US Political Shifts Anticipated to Impact Global Shipping",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-16",
-    "summary": "Upcoming changes in United States policy direction, following political shifts in Congress, are projected to serve as significant catalysts for global maritime shipping markets in the coming years. According to industry analysis by shipbroker Intermodal, newly established legislative control in Washington is anticipated to steer future foreign and domestic agendas, which in turn will likely influence trade flows, regulatory environments, and overall operational conditions for international freight operators and supply chain networks.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/new-us-policy-priorities-could-shape-future-shipping-markets/"
-  },
-  {
     "headline": "Tokyo and Paris MoUs launch joint cargo securing inspection campaign",
     "continent": "Global",
     "country": "Multiple",
@@ -1958,26 +2068,6 @@
     "summary": "Liquefied natural gas bunker prices at ARA Rotterdam decreased week-on-week to $1,630 per metric ton. This reduction was primarily driven by falling Title Transfer Facility prices early in the period. Market sentiment shifted as optimism surrounding potential progress in diplomatic talks involving the United States and Iran helped alleviate longstanding concerns regarding stability and energy supplies in the Middle East region, according to reporting from the Japan Organization for Metals and Energy Security.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-singapore-price-drops-as-jkm-moves-to-january/"
-  },
-  {
-    "headline": "GXO Logistics outlines 2030 financial targets and strategy",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-16",
-    "summary": "Contract logistics provider GXO Logistics held its Investor Day event at the New York Stock Exchange to present its long-term financial targets for 2030. Led by CEO Patrick Kelleher and the executive team, the company shared its strategic roadmap for value creation and capital allocation with investors and analysts. The announcement highlights the firm's growth objectives and operational focus within the global contract logistics sector as it plans its financial trajectory through the end of the decade.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/gxo-announces-2030-financial-targets-at-investor-day/"
-  },
-  {
-    "headline": "U.S. Commerce Department Targets Third-Party China Chip Loophole",
-    "continent": "North America",
-    "country": "United States",
-    "category": "international_relations",
-    "date": "2026-11-16",
-    "summary": "The U.S. Commerce Department has introduced an interim final rule to close a regulatory loophole allowing Chinese firms to utilize advanced computing hardware, such as Nvidia chips, through data centers located in third countries. This measure addresses concerns regarding the circumvention of existing export restrictions on sensitive semiconductor technologies. The policy action follows recent executive changes at Nvidia and aims to tighten enforcement on international technology access and semiconductor supply chains affecting cross-border trade and compliance.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/cnbc-nvidia-fallout-commerce-targets-loophole-for-chinas-data-center-use/"
   },
   {
     "headline": "France Approves Major Rail Network Modernization Investment",
@@ -2210,16 +2300,6 @@
     "sourceUrl": "https://theloadstar.com/wan-hai-transpac-gamble-has-paid-off-asia-usec-now-its-top-earner/"
   },
   {
-    "headline": "Navigating Five Stages of AI Maturity in Procurement",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "procurement",
-    "date": "2026-11-16",
-    "summary": "Artificial intelligence agents are increasingly integrated into sourcing operations, though numerous procurement divisions experiment with these technologies lacking a clear strategy. To address this, a structured five-stage maturity model has been introduced to help organizations map their progress. Additionally, professionals are provided with ten essential questions to evaluate their current capabilities and guide future implementation efforts effectively across the supply chain.",
-    "sourceName": "IMD Business School",
-    "sourceUrl": "https://www.imd.org/ibyimd/artificial-intelligence/from-pilots-to-scale-navigating-five-stages-of-ai-maturity-in-procurement/"
-  },
-  {
     "headline": "Akkon Lines Updates Bulgaria Shuttle Route, Drops Gemlik",
     "continent": "Europe",
     "country": "Turkey",
@@ -2228,16 +2308,6 @@
     "summary": "Carrier Akkon Lines has restructured its Bulgaria Shuttle Service by eliminating Gemlik from its port rotation. Following this change, Izmit stands as the sole Turkish port included in the itinerary, which maintains links to Constanta in Romania along with Varna and Burgas in Bulgaria. This adjustment streamlines the maritime service connecting Turkey to the western Black Sea region.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/akkon-lines-removes-gemlik-from-bulgaria-shuttle-service/"
-  },
-  {
-    "headline": "Maritime Industry Faces Alternative Fuel Scale and Cost Hurdles",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-15",
-    "summary": "While numerous small-scale low- and zero-emission fuel projects are currently under development globally, the shipping sector requires significantly larger volumes at competitive price points across major bunker locations to drive widespread adoption. Notable initiatives include a planned commercial synthetic fuel facility by Swiss startup Synhelion, aimed at producing one thousand metric tons annually. Despite these technological advancements, scaling production to meet heavy maritime demand remains a critical challenge for sustainable supply chain logistics and environmental strategy.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-a-drop-in-the-tank/"
   },
   {
     "headline": "Intra-Asia Container Freight Rates Decline",
@@ -3878,55 +3948,5 @@
     "summary": "Gulftainer has established a new bonded logistics route connecting the Fujairah Terminal to Sharjah Dry Ports located in Sajaa, United Arab Emirates. This service facilitates the movement of freight under a customs bond between the two facilities, enabling customs clearance to be performed at the destination. The initiative is intended to streamline inland cargo transportation and expand routing alternatives for shippers operating within the region.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/gulftainer-launches-bonded-corridor-linking-fujairah-and-sharjah/"
-  },
-  {
-    "headline": "SOHAR Freezone Secures Six New Investment Agreements",
-    "continent": "Middle East",
-    "country": "Oman",
-    "category": "storage_distribution",
-    "date": "2026-11-09",
-    "summary": "SOHAR Freezone has finalized six land-lease agreements representing over $163 million in planned investments across 440,000 square meters. The deals encompass various sectors, including automotive and advanced industries, transformer manufacturing, medical devices, textile reuse, and specialized logistics operations. These developments aim to expand the industrial and logistics footprint within the region, bolstering manufacturing capabilities and specialized supply chain infrastructure to attract further commercial growth and economic diversification.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/sohar-freezone-signs-six-land-lease-agreements/"
-  },
-  {
-    "headline": "chainPORT annual meeting addresses scaling AI in port operations",
-    "continent": "Africa",
-    "country": "Morocco",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Delegates from major global ports convened in Tangier for the eleventh annual chainPORT meeting to discuss the transition of artificial intelligence from experimental pilots to fully scaled deployment within port ecosystems. Hosted by Tanger Med, the gathering brought together representatives from international hubs including Los Angeles, Singapore, Rotterdam, Shanghai, and Hamburg to collaborate on digital transformation strategies, operational efficiency improvements, and the practical implementation of emerging technologies across worldwide maritime distribution networks.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/chainport-focuses-on-moving-ai-from-pilot-projects-to-scaled-port-deployment/"
-  },
-  {
-    "headline": "Sharjah Dry Ports Rebrands and Sets TEU Record",
-    "continent": "Middle East",
-    "country": "United Arab Emirates",
-    "category": "storage_distribution",
-    "date": "2026-11-09",
-    "summary": "Gulftainer has renamed its key inland facility in Sajaa to Sharjah Dry Ports to better highlight its expanded function as a primary trade gateway for the Northern Emirates. The logistics hub connects regional manufacturing zones and distribution centers with major regional trade corridors, providing essential last-mile transport links to Sharjah and Khorfakkan Port. Alongside the rebranding, the facility achieved a milestone by handling a record volume of twenty-foot equivalent units in a single month, demonstrating strong regional cargo demand.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/sharjah-dry-ports-reports-record-teus-in-a-single-month/"
-  },
-  {
-    "headline": "Lloyd's Register and MAWANI partner on Saudi port development",
-    "continent": "Middle East",
-    "country": "Saudi Arabia",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Lloyd's Register and the Saudi Ports Authority have established a three-year memorandum of understanding to advance the nation's maritime infrastructure and port operations. The partnership targets key areas including digitalization, sustainability practices, safety standards, and workforce development. By combining expertise, the organizations aim to optimize port management capabilities and enhance maritime services throughout the region over the coming years.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/lloyds-register-and-mawani-sign-agreement-on-saudi-port-development/"
-  },
-  {
-    "headline": "VIKING secures contract to build patrol vessels for Greece",
-    "continent": "Europe",
-    "country": "Greece",
-    "category": "manufacturing",
-    "date": "2026-11-09",
-    "summary": "VIKING Life-Saving Equipment has finalized a €23.8 million agreement via its Greek subsidiary to construct seven high-speed patrol vessels for the Hellenic Coast Guard. The deal was officially formalized during a ceremony hosted at the Ministry of Maritime Affairs and Insular Policy in Athens, featuring the participation of Maritime Affairs Minister Vassilis Kikilias. This manufacturing initiative will bolster the operational fleet of the Hellenic Coast Guard, highlighting a notable defense and maritime manufacturing engagement within the European region.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/viking-wins-e23-8-million-contract-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/"
   }
 ]
