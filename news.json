@@ -1,5 +1,75 @@
 [
   {
+    "headline": "Diamond Line Doubles Piraeus-Constanta Shipping Frequency",
+    "continent": "Europe",
+    "country": "Romania",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Diamond Line, an intra-European subsidiary of COSCO Shipping Lines, has increased the frequency of its Piraeus-Constanta Express maritime service from once to twice a week. The carrier introduced a second vessel to the route to enhance sailing availability between Greece and Romania. The established port rotation connecting Piraeus and Constanta remains unaffected by the capacity and schedule expansion, improving regional supply chain connectivity and transit options for freight moving through these key maritime hubs.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/diamond-line-doubles-piraeus-constanta-service-frequency/"
+  },
+  {
+    "headline": "Pan Continental and PanStar launch PHX container service",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Pan Continental and PanStar are introducing a weekly container service linking South Korea, Vietnam, and China. Named the PHX service, the operation will utilize two container ships with capacities ranging from 700 to 1,000 TEU. Additionally, CK Line has secured slot charters on this new maritime route. The deployment aims to enhance intra-Asian container shipping connectivity and capacity across key trade hubs in the region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/pan-continental-and-panstar-launch-new-phx-service/"
+  },
+  {
+    "headline": "Claus-Peter Offen orders four 7,000 TEU container ships from GSI",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "German shipowner Claus-Peter Offen has contracted Guangzhou Shipyard International in China to build four 7,000 TEU container vessels, with delivery slated for 2030. The conventionally powered ships are backed by seven-year charter agreements secured with German carrier Hapag-Lloyd. This fleet expansion highlights ongoing investments in maritime transport capacity and long-term vessel chartering within the global container shipping sector.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/claus-peter-offen-orders-four-7000-teu-boxships/"
+  },
+  {
+    "headline": "Cool Carriers adds world-first gate-rudder reefer vessel",
+    "continent": "Asia",
+    "country": "Japan",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Cool Carriers has expanded its fleet with the delivery of the Snow Land, an ice-class refrigerated cargo ship built by Kitanihon Shipbuilding in Japan. This vessel represents the third addition to a planned seven-ship Snow-class program. Notably, the Snow Land is equipped with an innovative gate rudder system, marking the first time a specialized reefer vessel utilizes this advanced technology as an alternative to conventional rudder designs, enhancing the efficiency and maneuverability of maritime logistics operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cool-carriers-takes-delivery-of-world-first-gate-rudder-reefer/"
+  },
+  {
+    "headline": "Swire Shipping lowers feeder surcharges for Indian Subcontinent",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Swire Shipping has announced a reduction in its Feeder and Equipment Surcharge specifically targeting selected trades across the Indian Subcontinent. The updated fee structure will take effect for all Bills of Lading carrying an on-board date starting November 20, 2026. Meanwhile, services governed by the United States Federal Maritime Commission will continue to follow standard regulatory notification timelines before any adjustments are implemented. This move impacts regional maritime freight costs and shipping logistics for businesses operating within these trade lanes.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/swire-shipping-reduces-feeder-surcharge-for-indian-subcontinent-trades/"
+  },
+  {
+    "headline": "San Pedro Bay Ports Advance Zero-Emission Clean Air Plan",
+    "continent": "North America",
+    "country": "United States",
+    "category": "sustainability",
+    "date": "2026-11-22",
+    "summary": "The ports of Long Beach and Los Angeles are launching the next phase of their long-standing Clean Air Action Plan, marking two decades of environmental initiatives. This updated strategy focuses on accelerating the transition toward completely zero-emission port operations. Over the past twenty years, the ports have achieved significant reductions in air pollution through collaborative regional sustainability programs, and these new efforts aim to further green supply chain and maritime logistics activities in Southern California.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/san-pedro-bay-ports-mark-20-years-of-landmark-clean-air-action-plan/"
+  },
+  {
+    "headline": "Mexican Truckers Secure Highway Safety Agreements",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-11-22",
+    "summary": "Mexican freight transportation associations have successfully negotiated twenty-nine new agreements with government officials designed to enhance security along major highways. These commitments follow a nationwide strike organized by commercial drivers to protest escalating safety concerns and demanding better operating conditions for the logistics sector across the country.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-after-nationwide-strike"
+  },
+  {
     "headline": "Valenciaport Reports Steady Container Traffic and Growth in Rail",
     "continent": "Europe",
     "country": "Spain",
@@ -168,6 +238,76 @@
     "summary": "Icelandic shipping and logistics provider Eimskip has placed an order for a new Konecranes Gottwald ESP.8 Mobile Harbor Crane destined for the port of Reyðarfjörður. Booked during the final quarter of the year, the equipment delivery is planned for the third quarter of the following year. The infrastructure addition is designed to enhance cargo handling capabilities at the facility, supporting the processing of containerized shipments as well as general and project cargo operations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/"
+  },
+  {
+    "headline": "West London Orbital proposal threatens freight rail capacity",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "The Rail Freight Group has raised concerns that the planned West London Orbital passenger railway could compromise vital freight access and transport capacity in the region. Industry representatives are urging planners to ensure that future passenger infrastructure developments do not negatively impact the flow of goods or diminish the availability of essential freight train paths across the network.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/20/west-london-orbital-could-threaten-freight-capacity/"
+  },
+  {
+    "headline": "PKP Cargo Faces Operational Capacity Risks Amid Coal Mandates",
+    "continent": "Europe",
+    "country": "Poland",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Polish authorities cleared former executives of criminal wrongdoing regarding a 2022 mandate requiring the freight operator to prioritize coal transport. The policy decision has left the company facing severe risks to its ongoing operating capacity. The situation highlights ongoing vulnerabilities in European rail logistics when state-directed energy mandates conflict with commercial freight strategy and operational viability.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/20/pkp-cargo-at-risk-of-losing-operating-capacity-former-management-escapes-prosecution/"
+  },
+  {
+    "headline": "Rail freight removes HS2 Euston excavation material",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Rail freight transport is actively utilized to clear up to 170,000 tonnes of excavated material from the high-speed rail construction site located at Euston. This logistics approach effectively eliminates a significant volume of heavy road transport movements from the area, mitigating urban congestion and reducing carbon emissions associated with construction waste removal for the major infrastructure project.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/uk/2026/11/20/high-speed-hs2-low-speed-freight-at-euston/"
+  },
+  {
+    "headline": "Italian rail freight disrupted by 23-hour national strike",
+    "continent": "Europe",
+    "country": "Italy",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Rail freight operations across Italy are scheduled to halt entirely for 23 hours due to a nationwide labor strike. The stoppage will begin in the evening and last nearly a full day, causing significant disruptions to domestic and cross-border rail logistics networks, freight transit schedules, and supply chain movements throughout the country until normal operations resume the following evening.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/20/italian-rail-freight-halts-for-23-hours-due-to-strikes/"
+  },
+  {
+    "headline": "Mexico Introduces Digital Trucking Compliance Rules",
+    "continent": "North America",
+    "country": "Mexico",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Mexico has launched new regulatory requirements for trucking operators pursuing voluntary certification. The initiative is designed to enhance highway safety standards and ensure stricter operational compliance across the domestic freight sector. Transport companies must now adhere to updated digital protocols to achieve and maintain their certified status under the program, reflecting ongoing efforts to modernize logistics oversight and improve transport security throughout the country's extensive highway network.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules"
+  },
+  {
+    "headline": "Delta Cargo Airlifts Drought Relief Supplies to Puerto Rico",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-20",
+    "summary": "Delta Cargo collaborated with New York State officials and charitable organizations to transport nearly 11,000 pounds of essential supplies to San Juan, Puerto Rico. The emergency shipment included critical food, water, and medical resources to assist communities affected by severe drought conditions on the island this year. The logistics effort highlights humanitarian air freight operations in response to regional environmental crises.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/supply-chains/2026/11/delta-cargo-delivers-drought-relief-suppliers-to-puerto-rico/"
+  },
+  {
+    "headline": "Geodis Secures WHO GDP Certification for APAC Healthcare",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "storage_distribution",
+    "date": "2026-11-20",
+    "summary": "Logistics provider Geodis has earned World Health Organization Good Distribution Practices certification for its network across the Asia Pacific region. This accreditation validates the company's quality management systems and adherence to international standards designed to preserve the safety, quality, and integrity of pharmaceutical products as they move through the supply chain. The milestone enhances the company's capabilities within the regulated healthcare logistics sector across multiple markets in the region.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freight-forwarder/2026/11/geodis-achieves-who-gdp-certification-for-asia-pacific-operations/"
   },
   {
     "headline": "Industrial Real Estate Tightens Amid Surging Demand",
@@ -678,6 +818,46 @@
     "summary": "United States rail traffic increased by 7.3 percent year-over-year during the latest reported week. This growth was primarily driven by a 10.7 percent surge in intermodal volume. Meanwhile, other sectors experienced mixed results, with grain shipments declining compared to the same period in the previous year. The data highlights ongoing shifts in freight transportation demand and rail network utilization across the domestic market.",
     "sourceName": "FreightWaves",
     "sourceUrl": "https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week"
+  },
+  {
+    "headline": "Euroterminal Sławków signs contract to double capacity",
+    "continent": "Europe",
+    "country": "Poland",
+    "category": "storage_distribution",
+    "date": "2026-11-19",
+    "summary": "Poland's Euroterminal Sławków has signed a contract valued at nearly 88 million złoty to construct a new container yard designated TK-2. This significant infrastructure investment aims to double the facility's overall handling capacity, enhancing its operational efficiency and freight processing capabilities within the region.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/19/euroterminal-slawkow-gets-ready-to-double-its-capacity/"
+  },
+  {
+    "headline": "Railway Industry Association Expands to Include Republic of Ireland",
+    "continent": "Europe",
+    "country": "Ireland",
+    "category": "strategy",
+    "date": "2026-11-19",
+    "summary": "The Railway Industry Association has voted to broaden its geographic scope, welcoming members from the Republic of Ireland into its network. This expansion establishes new cross-border collaboration opportunities within the rail supply chain sector, strengthening industry integration and market access for rail suppliers operating across both regions.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/19/railway-industry-association-extends-into-ireland/"
+  },
+  {
+    "headline": "China Cargo Airlines launches UK-Denmark freighter route",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "China Cargo Airlines has introduced a new scheduled freighter service connecting Shanghai with Copenhagen and a stop at London Stansted. Operated four times weekly by the carrier, the new route aims to strengthen the airline's cargo network and expand its operational footprint across northern Europe, improving freight connectivity between Asian manufacturing hubs and European markets.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/editorial/2026/11/china-cargo-airlines-adds-new-stansted-copenhagen-freighter-flight/"
+  },
+  {
+    "headline": "Lufthansa Cargo Partners with Poste Air Cargo on Rome-Tel Aviv Route",
+    "continent": "Europe",
+    "country": "Italy",
+    "category": "logistics",
+    "date": "2026-11-19",
+    "summary": "Lufthansa Cargo has resumed operations in the narrowbody freighter sector through a new partnership with Poste Air Cargo, linking Rome Fiumicino Airport and Tel Aviv. The agreement introduces scheduled charter flights operating twice weekly on Mondays and Thursdays. These services utilize Boeing 737-800 Converted Freighters managed by the Italian postal service's cargo division, adding dedicated narrowbody freight capacity to the route.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/lufthansa-cargo-partners-with-poste-air-cargo-on-rome-tel-aviv-route/"
   },
   {
     "headline": "Indianapolis Warehouses Urged to Upgrade Electrical Systems",
@@ -1978,46 +2158,6 @@
     "summary": "Container shipping markets face conflicting forecasts as Asian equity analysts anticipate sustained growth driven by port congestion, cargo rerouting, and new trade routes. Conversely, European credit analysts warn of impending downward pressure due to upcoming vessel deliveries from a substantial orderbook and the potential reopening of the Suez Canal. Recent financial results from a major carrier indicate strong short-term performance with significant volume and earnings growth, though longer-term capacity risks remain a central point of debate for industry observers.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/analysis-two-sides-of-the-same-cma-cgm-coin/"
-  },
-  {
-    "headline": "For Love & Lemons shifts to shared fulfillment to speed deliveries",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-17",
-    "summary": "Apparel brand For Love & Lemons has transitioned away from a dedicated fulfillment model, opting instead to ship orders from a shared Cart.com facility located in Texas. This strategic move aims to reduce overall storage expenses while simultaneously accelerating transit times for customers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/fashion-brand-nixes-dedicated-fulfillment-model-to-boost-transit-times/874630/"
-  },
-  {
-    "headline": "Kontoor Brands Invests in Inventory Recovery After Q3 Supply Chain Disruptions",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-17",
-    "summary": "Kontoor Brands, the parent company of Wrangler, announced a planned $50 million investment to rebuild inventory levels following a difficult third quarter. The apparel company's supply chain experienced operational setbacks, resulting in a six percent year-over-year decline in inventory. This funding aims to stabilize stock levels and mitigate ongoing fulfillment challenges, ensuring better product availability and positioning the company for improved operational resilience moving forward.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/wrangler-parent-company-plans-to-beef-up-inventory-spending/874783/"
-  },
-  {
-    "headline": "Retail diesel prices drop below $6 amid crude market decline",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-17",
-    "summary": "Benchmark retail diesel prices experienced a significant decline, falling by nineteen cents per gallon according to recent energy department data. This drop aligns with the broader downturn currently affecting global oil markets, providing temporary relief for fuel surcharges across the transportation and freight sectors after months of elevated costs. The adjustment reflects shifting macroeconomic conditions in the energy sector, directly impacting operating expenses for logistics providers and fleet operators.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/oil-market-slide-brings-benchmark-diesel-under-6-level"
-  },
-  {
-    "headline": "CPC Fleet Solutions secures seven new drop yards",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-17",
-    "summary": "CPC Fleet Solutions significantly accelerated its real estate expansion by acquiring seven drop yards in just two months using the Truck Parking Club platform. Previously, the company required up to two months to secure a single yard. This new arrangement successfully accommodates a fleet of 47 trucks and over 120 trailers, streamlining the organization's parking and staging operations and demonstrating the effectiveness of digital platforms in solving commercial vehicle parking shortages.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/truck-parking-club-cpc-drop-yards"
   },
   {
     "headline": "Why Terminal Wait Times Don't Tell the Full Logistics Story",
@@ -3818,135 +3958,5 @@
     "summary": "The New ConTex container ship time charter assessment index saw a modest increase in week 45, climbing five points to reach 1,687 points. This upward movement indicates that the maritime charter market maintains a stable and firm foundation. Industry assessments reflect steady conditions across container shipping sectors without significant disruptions, supporting ongoing ocean freight operations and vessel deployment strategies globally.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-45-3/"
-  },
-  {
-    "headline": "Iron Ore Prices Show Mixed Movement at Chinese Ports",
-    "continent": "Asia",
-    "country": "China",
-    "category": "procurement",
-    "date": "2026-11-09",
-    "summary": "Iron ore markets experienced a combination of price stability and minor declines across key trading hubs. Domestic futures remained flat, while major port product quotations held steady. Indices for various iron grades saw slight upward and downward adjustments of one yuan domestically, alongside modest decreases in seaborne benchmarks. These fluctuations reflect ongoing demand patterns and supply adjustments within the raw materials sector, impacting upstream procurement costs for steel manufacturers and influencing broader industrial supply chains.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-9-2026/"
-  },
-  {
-    "headline": "India Reduces Coking Coal Import Reliance on Australia",
-    "continent": "Asia",
-    "country": "India",
-    "category": "procurement",
-    "date": "2026-11-09",
-    "summary": "India has decreased its reliance on Australia for coking coal imports, dropping from 73 percent in 2019 to 54 percent in 2025, according to a steel ministry statement to a parliamentary committee. Because the country possesses limited domestic reserves, it must import approximately 90 percent of the coking coal required for its blast furnace steelmaking operations. This shift reflects a diversification of sourcing strategies for essential raw materials within the regional industrial supply chain.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/indias-coking-coal-import-dependence-on-australia-falls-to-54/"
-  },
-  {
-    "headline": "Black Sea Grain Exports Face Severe Backlogs and Disruptions",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-09",
-    "summary": "Grain markets face mounting pressures as Black Sea export routes experience significant bottlenecks. Ships remain anchored offshore while waiting to access the Danube for loading, severely limiting agricultural shipments from key Ukrainian ports. These ongoing regional transit challenges are forcing global importers to adapt their supply chains and shift routing strategies. At the same time, environmental factors such as El Nino are adding further complexity to international grain distribution networks and trade flows.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-routes-importer-shifts-and-el-nino-test-grain-markets/"
-  },
-  {
-    "headline": "Xeneta Unveils AI-Powered Freight Tender and Transshipment Tools",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Xeneta introduced a major suite of artificial intelligence capabilities during its annual summit in Munich, aiming to transform freight procurement and market visibility. The platform updates feature an AI tender product, an MCP connector, enhanced air freight tools, and the sector's initial visibility into transshipment operations. Designed for shippers, carriers, and forwarders, the innovations seek to improve supply chain decision-making by delivering advanced data insights for global ocean and air transportation networks.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/xeneta-announces-new-ai-native-capabilities-with-a-tender-product-and-an-mcp-connector-new-air-and-the-industrys-first-view-of-transshipment/"
-  },
-  {
-    "headline": "HD Korea Shipbuilding Secures African Order for Two LNGCs",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "manufacturing",
-    "date": "2026-11-09",
-    "summary": "HD Korea Shipbuilding and Offshore Engineering secured a contract valued at over 600 billion South Korean won to construct two liquefied natural gas carriers. The vessels will be built by its subsidiary, HD Hyundai, following an agreement finalized with an undisclosed shipping enterprise located in the African region. This commercial maritime manufacturing deal highlights ongoing global demand for specialized gas transport vessels and reinforces the shipbuilder's position within international maritime supply chains.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/hd-korea-shipbuilding-offshore-engineering-receives-order-for-lngc-duo/"
-  },
-  {
-    "headline": "COSCO Shipping Launches Massive $1.42B Supertanker Expansion",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Chinese maritime giant COSCO Shipping Energy Transportation has announced a major fleet expansion project involving twenty-four Very Large Crude Carriers. The initiative includes direct contracts for ten new supertankers valued at approximately $1.42 billion, alongside fourteen additional vessels secured via long-term bareboat charter agreements. This extensive capital investment highlights the company's aggressive strategy to scale up its global energy transport capabilities and modernize its marine logistics fleet.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/"
-  },
-  {
-    "headline": "Regional Container Lines Expands Fleet With $213M Vessel Order",
-    "continent": "Asia",
-    "country": "Thailand",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Thailand-based Regional Container Lines has invested approximately $213 million to acquire two new neo-panamax containerships. Each vessel, featuring a capacity of 9,200 TEU, is valued at about $106.5 million. The expansion of the carrier's newbuilding program reflects ongoing fleet growth and capacity planning, with the delivery of the two ships scheduled for 2030 and 2031.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/"
-  },
-  {
-    "headline": "PowerChina Secures Three Offshore Wind Engineering Deals",
-    "continent": "Asia",
-    "country": "China",
-    "category": "manufacturing",
-    "date": "2026-11-09",
-    "summary": "PowerChina's East China Engineering Institute has won three survey and engineering design contracts for offshore wind developments in China. Valued at a combined 124.23 million yuan, the agreements encompass the 308-megawatt China Resources Xiangshui project in Jiangsu, the 302.4-megawatt China Resources Daishan development in Zhejiang, and CGN New Energy's 396-megawatt Shengsi initiative. These awards highlight ongoing infrastructure investments within the domestic renewable energy supply chain and engineering sector.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/powerchina-picks-up-trio-of-offshore-wind-contracts/"
-  },
-  {
-    "headline": "Sinopec awards offshore platform and pipeline contract",
-    "continent": "Asia",
-    "country": "China",
-    "category": "procurement",
-    "date": "2026-11-09",
-    "summary": "Chinese energy company Sinopec has issued an engineering, procurement, and construction contract for the Weizhou oilfield expansion located in the Beibu Gulf. The project scope includes the construction of a new offshore processing facility, along with associated subsea pipelines and fibre-optic cables. The contract was secured by a joint venture consisting of Sinopec Petroleum Engineering Design and Sinopec Shengli Oil Construction. This initiative encompasses detailed engineering and procurement operations to support regional energy production infrastructure.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/sinopec-awards-offshore-platform-and-pipeline-contract-in-china/"
-  },
-  {
-    "headline": "A.E. Nomikos orders new kamsarmax vessel from Oshima",
-    "continent": "Europe",
-    "country": "Greece",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Greek dry bulk shipping operator A.E. Nomikos Shipping Investments has contracted Japan-based Oshima Shipbuilding for a new kamsarmax vessel, with brokerage involvement from Sumisho Marine. The agreement advances the Piraeus-headquartered company's ongoing fleet modernization strategy. Delivery of the newly ordered bulk carrier is anticipated by the end of the decade, strengthening the firm's dry cargo transport capabilities as part of its long-term asset management initiatives.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/a-e-nomikos-adds-oshima-kamsarmax-to-fleet-renewal-drive/"
-  },
-  {
-    "headline": "A2B-online orders two methanol-ready container vessels in China",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Dutch shortsea container operator A2B-online has contracted China Merchants Industry Weihai Shipyard to build two additional methanol-capable boxships, expanding its ongoing fleet renewal initiative to a total of four vessels. This new agreement represents a shift in construction location for the company, following its initial order of two similar ships at a Turkish shipyard in the previous year. The newly commissioned vessels will be equipped with multi-fuel methanol propulsion systems to support lower-emission maritime transport operations.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/a2b-online-turns-to-china-for-methanol-ready-boxship-pair/"
-  },
-  {
-    "headline": "Boluda Acquires Dutch Towage Firm Muller Dordrecht",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "category": "logistics",
-    "date": "2026-11-09",
-    "summary": "Spanish maritime towage leader Boluda has completed the acquisition of Dutch offshore towage and heavy transport provider Muller Dordrecht, securing full ownership of the family-run enterprise. The deal integrates 16 tugboats and eight barges into the acquirer's international operations, expanding its capacity for complex maritime transport, rig relocations, anchor handling, and support for offshore wind energy projects. This strategic expansion strengthens Boluda's footprint in the European maritime logistics and offshore support sector.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/"
-  },
-  {
-    "headline": "Gulftainer launches Fujairah-Sharjah bonded logistics corridor",
-    "continent": "Middle East",
-    "country": "United Arab Emirates",
-    "category": "storage_distribution",
-    "date": "2026-11-09",
-    "summary": "Gulftainer has established a new bonded logistics route connecting the Fujairah Terminal to Sharjah Dry Ports located in Sajaa, United Arab Emirates. This service facilitates the movement of freight under a customs bond between the two facilities, enabling customs clearance to be performed at the destination. The initiative is intended to streamline inland cargo transportation and expand routing alternatives for shippers operating within the region.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/gulftainer-launches-bonded-corridor-linking-fujairah-and-sharjah/"
   }
 ]
