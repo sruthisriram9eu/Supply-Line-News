@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Study highlights cyber risks in increasingly automated railways",
+    "continent": "Global",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-20",
+    "summary": "A new academic review examines how growing automation in the rail sector improves efficiency but creates new cyber-physical vulnerabilities. By analyzing security literature, government guidance, and past incidents, researchers mapped how reliance on software, remote access, and connected signaling systems shifts risks away from isolated mechanical failures. The findings show that cyber incidents can disrupt operations and impact freight flows, even when fail-safe mechanisms prevent catastrophic accidents.",
+    "whyItMatters": "This early-stage research highlights growing digital vulnerabilities in rail freight, pointing to the need for stronger operational resilience.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.27088v1"
+  },
+  {
     "headline": "MassRobotics to open marine robotics facility in Boston",
     "continent": "North America",
     "country": "United States",
