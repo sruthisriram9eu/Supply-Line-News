@@ -1,5 +1,17 @@
 [
   {
+    "headline": "New hybrid AI model uses graph theory to predict supply chain delays",
+    "continent": "Europe",
+    "country": "Multiple",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-21",
+    "summary": "Researchers in the Horizon Europe M4ESTRO project have developed a hybrid machine learning model that combines graph theory and Markov chains to predict delivery times and inbound bottlenecks. The system uses both historical and real-time data, including weather, traffic, and supplier dispatch readiness. By mapping supply chains as networks, the mathematical framework detects schedule deviations, quantifies prediction uncertainty, and generates interpretable metrics to help operators manage disruptions from external events and internal inefficiencies.",
+    "whyItMatters": "This early-stage research could help manufacturers better anticipate inbound delays and manage supply chain disruptions using real-time data.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.28467v1"
+  },
+  {
     "headline": "Study highlights cyber risks in increasingly automated railways",
     "continent": "Global",
     "country": "Multiple",
@@ -22,6 +34,18 @@
     "whyItMatters": "This early-stage facility could eventually help accelerate the development of autonomous vessels and port logistics technology.",
     "sourceName": "The Robot Report",
     "sourceUrl": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/"
+  },
+  {
+    "headline": "Upgraded IT system reduces fuel supply chain data errors",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "research",
+    "status": "preprint",
+    "date": "2026-11-19",
+    "summary": "Researchers evaluated an upgraded transactional information system designed to monitor and support decisions within fuel supply chains. By testing a revised SQL Server architecture against a baseline using synthetic transactions, public US energy data, and simulated disruptions, the study assessed data reliability and reporting accuracy. The updated system introduced automated alerts, stock-movement tracking, and recovery controls, which significantly lowered data integration defect rates in controlled tests. However, demand forecasting methods showed no significant improvement over historical averages, and operational benefits remain theoretical.",
+    "whyItMatters": "This early-stage research could eventually help fuel logistics networks improve data accuracy and reduce manual workloads during disruptions.",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.25542v2"
   },
   {
     "headline": "Humyn Labs Secures $47M to Gather Real-World Robotics Data",
