@@ -1,5 +1,17 @@
 [
   {
+    "headline": "SoftBank Acquires Marc Raibert's Robotics and AI Institute",
+    "continent": "North America",
+    "country": "United States",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-24",
+    "summary": "SoftBank has completed the acquisition of the Robotics and AI Institute from Hyundai Motor Group. The research organization, founded by Marc Raibert, will expand SoftBank's growing robotics portfolio. Operating out of facilities in Massachusetts and Switzerland, the institute is currently looking to fill 24 open positions as it continues its research and development efforts in advanced robotics and artificial intelligence.",
+    "whyItMatters": "This ownership shift could eventually influence the development of mobile robots and automation technologies deployed in warehouses and factories.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/"
+  },
+  {
     "headline": "New hybrid AI model uses graph theory to predict supply chain delays",
     "continent": "Europe",
     "country": "Multiple",
