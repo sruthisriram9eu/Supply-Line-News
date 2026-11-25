@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Vention uses AI to slash factory programming time",
+    "continent": "North America",
+    "country": "Canada",
+    "kind": "technology",
+    "status": "news",
+    "date": "2026-11-25",
+    "summary": "Industrial automation platform Vention is leveraging artificial intelligence to dramatically reduce the time it takes to program factory equipment. By streamlining the software deployment process, the system replaces manual coding workflows that traditionally took weeks with automated solutions that run in minutes. This approach addresses a major bottleneck in manufacturing, where setting up robotic cells and automated assembly lines often requires specialized engineering hours and delays production line launches.",
+    "whyItMatters": "This early-stage approach could help manufacturers ramp up production lines faster and deploy automation with significantly less engineering overhead.",
+    "sourceName": "The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/"
+  },
+  {
     "headline": "SoftBank Acquires Marc Raibert's Robotics and AI Institute",
     "continent": "North America",
     "country": "United States",

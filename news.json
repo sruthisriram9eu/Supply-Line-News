@@ -1,5 +1,345 @@
 [
   {
+    "headline": "Shenzhen Energy orders new kamsarmax bulk carrier",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Chinese energy conglomerate Shenzhen Energy has contracted CSSC Huangpu Wenchong Shipbuilding to construct an 82,000 deadweight tonnage kamsarmax bulk carrier. Valued at approximately $44.4m, the vessel order is executed through the enterprise's maritime logistics subsidiary, Shenzhen Energy Transportation, as part of an ongoing initiative to modernize its existing dry bulk shipping fleet and secure reliable maritime transport capabilities for its operations.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/shenzhen-energy-makes-44m-dry-bulk-newbuild-move/"
+  },
+  {
+    "headline": "Nigeria LNG expands fleet with two new carriers built in China",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Bonny Gas Transport, the shipping subsidiary of Nigeria LNG, has expanded its fleet renewal initiative by ordering two additional liquefied natural gas carriers from Hudong-Zhonghua Shipbuilding in China. This latest contract brings the total number of firm vessels under the current program at the Shanghai shipyard to five. The agreement involves a pair of 174,000 cubic meter newbuild vessels, with participation from China Shipbuilding Trading, marking a significant development in maritime logistics and transport capacity for energy supply chains.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/bonny-gas-transport-adds-lng-carrier-double-in-china/"
+  },
+  {
+    "headline": "Hong Kong introduces tax reforms for maritime and trading firms",
+    "continent": "Asia",
+    "country": "China",
+    "category": "international_relations",
+    "date": "2026-11-25",
+    "summary": "The Hong Kong Shipowners Association has expressed support for a newly proposed package of tax reforms designed to draw additional shipping and commodity trading operations to the region. The legislative measures feature a reduced half-rate profits tax concession specifically intended for physical commodity traders. These policy adjustments aim to enhance the city's competitiveness as a global maritime and trading hub, encouraging international businesses to establish or expand their commercial footprint within the jurisdiction.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/hong-kong-shipowners-hail-shipping-tax-overhaul/"
+  },
+  {
+    "headline": "Neda Maritime orders VLCC tankers at New Times Shipbuilding",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Greek shipowner Neda Maritime Agency has re-entered the very large crude carrier newbuilding market through an agreement with China's New Times Shipbuilding. The company secured one firm 303,000 deadweight ton crude carrier alongside an option for an additional vessel. Both tankers are scheduled for delivery in the year 2030, marking a significant fleet expansion investment by the family-controlled enterprise.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/neda-makes-vlcc-comeback-with-chinese-order/"
+  },
+  {
+    "headline": "MPC Container Ships Expands Fleet with $76M in Deals",
+    "continent": "Europe",
+    "country": "Norway",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Oslo-listed MPC Container Ships has announced transactions totaling $76.3 million, which include the acquisition of a modern feeder containership and the sale of two older vessels. In addition to these fleet adjustments, the company secured new employment contracts for two of its ships. The strategic moves reflect ongoing fleet modernization efforts within the container shipping sector as operators balance capacity adjustments and vessel deployments in response to market conditions.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/mpc-container-ships-strikes-76m-in-fleet-deals/"
+  },
+  {
+    "headline": "Safe Bulkers sells vintage post-panamax vessel for $15m",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Safe Bulkers is continuing to divest its older tonnage by agreeing to sell a 20-year-old post-panamax bulk carrier for approximately $14.86 million. The Japanese-built vessel, named Marina and with a capacity of 87,000 deadweight tons, is scheduled to be delivered to its new owner in January. This fleet adjustment highlights the ongoing management of maritime assets and capacity within the dry bulk shipping sector as owners modernize their fleets.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/safe-bulkers-offloads-vintage-post-panamax-for-15m/"
+  },
+  {
+    "headline": "Saipem Secures Two Offshore EPCI Contracts from Aramco",
+    "continent": "Middle East",
+    "country": "Saudi Arabia",
+    "category": "procurement",
+    "date": "2026-11-25",
+    "summary": "Italian engineering firm Saipem has secured two offshore contracts valued at approximately $650 million from Saudi Aramco under an existing long-term agreement. The scope of work encompasses engineering, procurement, construction, and installation activities, including production deck manifolds and associated infrastructure development in Saudi Arabian waters.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/saipem-bags-dual-offshore-epci-contracts-from-aramco/"
+  },
+  {
+    "headline": "Vantris secures $115m Petronas transport and installation work",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Malaysian offshore contractor Vantris Energy has been awarded additional transportation and installation work orders from Petronas Carigali through its wholly owned subsidiary, VTEB Offshore. The new assignments carry a combined potential value of approximately $115 million and build upon an existing framework agreement between the two companies for offshore logistics and infrastructure support services.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/vantris-secures-115m-petronas-work-package/"
+  },
+  {
+    "headline": "DEME secures major marine works contract for Canadian LNG pipeline",
+    "continent": "North America",
+    "country": "Canada",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Belgian marine contractor DEME has been awarded a large subcontract valued at over €300 million by Swiss offshore specialist Allseas. The agreement involves critical marine construction works for the Prince Rupert Gas Transmission pipeline project located in Canada. DEME's dedicated offshore energy division will execute the marine scope of the infrastructure development, supporting the transport and export logistics of liquefied natural gas in the region.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/deme-joins-allseas-on-canadian-lng-pipeline-project/"
+  },
+  {
+    "headline": "Rotterdam and APM Terminals Plan Major Capacity Expansion",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "storage_distribution",
+    "date": "2026-11-25",
+    "summary": "APM Terminals Maasvlakte II and the Port of Rotterdam Authority are advancing plans for a significant expansion of the container terminal. The project will introduce twenty-five hectares of new terminal space, over seven hundred meters of additional quay, and essential infrastructure upgrades. Upon completion, the development is projected to increase annual throughput capacity by approximately one point four million TEU, enhancing the port's overall operational capabilities and maritime freight handling efficiency in the region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/apm-terminals-and-port-of-rotterdam-prepare-terminal-expansion/"
+  },
+  {
+    "headline": "New logistics area contract awarded at Vibo Valentia Marina",
+    "continent": "Europe",
+    "country": "Italy",
+    "category": "storage_distribution",
+    "date": "2026-11-25",
+    "summary": "The Southern Tyrrhenian and Ionian Sea Port Authority has approved a decree to demolish a former industrial building and construct a new commercial logistics hub near the Bengasi dock in the port of Vibo Valentia Marina. Valued at EUR 1.5 million, the project aims to enhance port infrastructure and regional cargo handling capabilities. This development marks a significant step in modernizing the port's facilities to better support commercial shipping and supply chain operations in the area.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/construction-of-a-new-logistics-area-awarded-at-vibo-valentia-marina/"
+  },
+  {
+    "headline": "India shifts maritime strategy from financial subsidies to state orders",
+    "continent": "Asia",
+    "country": "India",
+    "category": "manufacturing",
+    "date": "2026-11-25",
+    "summary": "India is pivoting its approach to developing domestic shipyards by moving away from direct financial subsidies and instead utilizing direct state procurement orders. This change in strategy is highlighted by the state-owned Shipping Corporation of India's recent announcement to acquire up to 22 newbuild vessels, including very large gas carriers. By guaranteeing work rather than simply funding growth, the government aims to stimulate the domestic maritime manufacturing sector and strengthen its position in the global shipbuilding industry through consistent state demand.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/how-india-is-switching-strategy-from-subsidies-to-state-orders/"
+  },
+  {
+    "headline": "PIL and Qingdao Port execute China's first bio-LNG bunkering",
+    "continent": "Asia",
+    "country": "China",
+    "category": "sustainability",
+    "date": "2026-11-25",
+    "summary": "Pacific International Lines and Qingdao Port have successfully performed the first liquefied bio-methane bunkering operation for an international vessel in China. Conducted via a truck-to-ship transfer at the QQCTN terminal, the LNG dual-fuel container vessel Kota Odyssey was supplied with ISCC-certified bio-methane. This milestone also represents the initial adoption of this sustainable marine fuel by the Singapore-based ocean carrier, supporting broader efforts to decarbonize maritime supply chain operations and expand green fuel infrastructure across major global shipping hubs.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/pil-and-qingdao-port-complete-chinas-first-bio-lng-bunkering-for-international-shipping/"
+  },
+  {
+    "headline": "Everllence and COSCO Shipping expand digital fleet partnership",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Everllence and China COSCO Shipping Corporation have signed a memorandum of understanding to broaden their digital services cooperation to the entire shipping group level. Building on prior agreements with individual companies under the COSCO umbrella, this partnership aims to develop advanced digital solutions and software across their global fleet operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/everllence-and-cosco-shipping-expand-digital-cooperation-across-fleets/"
+  },
+  {
+    "headline": "Houston Ship Channel Trade Surges Through September",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Foreign tonnage along the Houston Ship Channel rose 15% year-to-date through September, reaching 200.2 million tons. This growth was largely driven by a 20% increase in export volumes. Additionally, deep draft vessel transits experienced a 12% rise in October, highlighting the waterway's expanding capacity and ongoing importance in facilitating international maritime trade and supporting domestic manufacturing and economic activity.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/houston-ship-channel-trade-grows/"
+  },
+  {
+    "headline": "Port of Oakland Launches Heavy-Duty Electric Truck Depot",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "The Port of Oakland and WattEV have inaugurated Northern California's first heavy-duty electric truck charging depot. Additionally, officials announced plans to acquire 300 electric Tesla Semi trucks to operate at the port, with the initial delivery expected soon. This infrastructure development supports the transition toward zero-emission freight transportation and sustainability goals within regional port logistics operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/port-of-oakland-opens-heavy-duty-electric-truck-charging-depot/"
+  },
+  {
+    "headline": "Gulftainer acquires Suksawat Terminal in Thailand",
+    "continent": "Asia",
+    "country": "Thailand",
+    "category": "storage_distribution",
+    "date": "2026-11-25",
+    "summary": "UAE-based port operator Gulftainer has finalized its acquisition and operational takeover of Suksawat Terminal in Thailand. This strategic transaction establishes the company's entry into the Thai market and expands its container operations footprint across Southeast Asia. The deal follows a binding agreement previously established in September, culminating in the formal transfer of operational control to the regional port operator.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/gulftainer-completes-acquisition-of-suksawat-terminal-in-thailand/"
+  },
+  {
+    "headline": "Major ocean carriers drive new wave of global containership orders",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Recent industry data reveals that major ocean carriers Maersk, MSC, and HMM are driving a significant expansion in global maritime capacity. Together, these three lines account for nearly eighty percent of the newly recorded vessel orders detailed in a recent industry report. This latest wave of containership acquisitions highlights ongoing investments in fleet scaling, bringing substantial new TEU capacity into the future maritime supply chain and placing renewed focus on global vessel supply dynamics.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/maersk-msc-and-hmm-raise-the-stakes-in-global-fleet-expansion/"
+  },
+  {
+    "headline": "SUARDIAZ Adds RS Atlantico Vessel to Atlantic Line in Zeebrugge",
+    "continent": "Europe",
+    "country": "Belgium",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "The SUARDIAZ Group has integrated its new 5,500-CEU PCTC vessel, the RS Atlantico, into its Atlantic Line operations. Company executives, customers, and industry stakeholders gathered in Zeebrugge to mark the ship's arrival in Europe. The new carrier expands the company's maritime fleet capacity, joining three existing vessels on the route to enhance vehicle logistics and distribution capabilities across the European network.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/suardiaz-group-welcomes-rs-atlantico-to-zeebrugge-as-new-vessel-joins-atlantic-line/"
+  },
+  {
+    "headline": "Transpetro Completes First B30 Bunkering at Port of Suape",
+    "continent": "South America",
+    "country": "Brazil",
+    "category": "sustainability",
+    "date": "2026-11-25",
+    "summary": "Transpetro, the shipping and logistics subsidiary of Petrobras, successfully executed the initial B30 bunkering procedure at the Brazilian Port of Suape. The operation involved supplying 520 metric tons of a fuel blend containing 30 percent biofuel and 70 percent very low sulfur fuel oil to the crude oil tanker Castro Alves. The milestone delivery represents a significant step in incorporating sustainable fuel alternatives into maritime operations within the region's supply chain network.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/transpetro-carries-out-suapes-first-b30-bunkering/"
+  },
+  {
+    "headline": "Houthis Issue Threat Against Saudi Red Sea Ports",
+    "continent": "Middle East",
+    "country": "Saudi Arabia",
+    "category": "international_relations",
+    "date": "2026-11-25",
+    "summary": "Yemeni Houthi forces have issued warnings directed at Saudi Arabia's Jeddah port and other Red Sea maritime hubs, stating they will face attacks if the Yemeni port of Hodeidah is targeted. The militant group publicly urged local workers and nearby inhabitants to evacuate these facilities immediately, escalating geopolitical tensions in the region and raising serious concerns over potential disruptions to critical maritime shipping lanes and international trade flows passing through the Red Sea corridor.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation/"
+  },
+  {
+    "headline": "PSA Vietnam and Partners Break Ground on Hai Phong Terminal",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "category": "storage_distribution",
+    "date": "2026-11-25",
+    "summary": "PSA Vietnam and Lach Huyen International Logistics & Industrial Park have commenced construction on a major new container terminal in Hai Phong, North Vietnam. Scheduled for completion to boost regional handling capabilities, the facility is designed to process an annual volume of 4.7 million twenty-foot equivalent units. This infrastructure investment aims to enhance North Vietnam's port capacity and improve integration into worldwide shipping networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/psa-vietnam-and-lach-huyen-international-logistics-industrial-park-break-ground-for-new-container-terminal-in-hai-phong/"
+  },
+  {
+    "headline": "Imported Iron Ore Margins Rise on Stronger Port Prices",
+    "continent": "Asia",
+    "country": "China",
+    "category": "procurement",
+    "date": "2026-11-25",
+    "summary": "Profit margins for imported iron ore improved slightly, moving from a negative 8.78 yuan per metric ton to a negative 4.30 yuan per metric ton. This recovery was primarily supported by stronger spot prices at ports. Meanwhile, domestic ore concentrators in the Tangshan region experienced delays in restarting operations, keeping local concentrate supplies restricted and local pricing relatively steady. This dynamic highlights ongoing supply constraints within the domestic raw materials sector, influencing domestic manufacturing and procurement strategies for steel production.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/imported-iron-ore-margins-increased-on-firmer-port-spot-prices-shanghai-metals-market-smm/"
+  },
+  {
+    "headline": "Durable goods orders rise 0.2%, missing market forecasts",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-25",
+    "summary": "Recent economic data indicates that durable goods orders grew by only 0.2 percent, significantly missing the anticipated 0.7 percent increase. This softer-than-expected growth highlights growing economic caution among businesses and consumers alike. The shortfall in durable goods demand may have broader implications for industrial production schedules, manufacturing output, and upstream supply chain planning as stakeholders reassess near-term volume expectations and capital expenditure strategies in light of the subdued macroeconomic indicators.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/durable-goods-orders-rise-less-than-expected-signaling-economic-caution/"
+  },
+  {
+    "headline": "APM Terminals Expands Rotterdam Facility Capacity",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "storage_distribution",
+    "date": "2026-11-25",
+    "summary": "APM Terminals and the port authority have announced a significant capacity expansion at the Maasvlakte II facility in the Netherlands, aiming to add 1.4 million TEUs. Building upon a recently finished initial expansion phase, this next stage involves constructing an additional 711 meters of quay and developing 25 hectares of terminal yard space. The project represents a major long-term infrastructure investment designed to enhance container handling capabilities at this critical European logistics hub.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/apm-terminals-plans-1-4m-teu-expansion-at-rotterdams-maasvlakte-ii/"
+  },
+  {
+    "headline": "Maersk flags ongoing UK and global logistics congestion",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Maersk has alerted customers to persistent network disruptions throughout the United Kingdom and Ireland, driven by heavy import volumes, adverse weather conditions, and recent rail infrastructure issues. These combined pressures have created significant bottlenecks across both maritime ports and landside transport operations. The carrier notes that these challenges reflect broader, ongoing cargo clearing difficulties and schedule reliability problems that continue to impact international shipping lanes and supply chain flows globally.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/maersk-warns-of-uk-logistics-bottlenecks-as-port-congestion-persists-globally/"
+  },
+  {
+    "headline": "Cargo owners to absorb IMO net-zero framework costs",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-25",
+    "summary": "Maritime decarbonisation expenses stemming from the proposed International Maritime Organization Net-Zero Framework will ultimately be transferred to cargo owners, according to Federal Maritime Commission leadership. Industry figures support this assessment, noting that the fiercely competitive nature of the shipping sector ensures compliance costs are passed down the supply chain. Furthermore, persistent regulatory uncertainty is already driving maritime operational expenses higher, creating additional financial pressure for businesses that rely on global freight transportation.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/cargo-owners-will-foot-the-bill-for-imo-net-zero-framework-warns-fmc-chair/"
+  },
+  {
+    "headline": "Small forwarders face hurdles with IATA liability terms",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Smaller freight forwarders are struggling to negotiate alternative liability terms under IATA's updated direct air waybill framework. While major logistics providers leverage their size to secure favorable conditions with airlines, smaller operators report a lack of bargaining power. Industry representatives warn that the framework currently favors larger market players, leaving smaller firms with the choice of accepting default carrier terms or shifting cargo to different airlines, which highlights ongoing inequities in air cargo standard-setting.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/smaller-forwarders-struggle-to-secure-alternative-terms-under-iata-air-waybill-rules/"
+  },
+  {
+    "headline": "Ceva Logistics begins major corporate restructuring",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "strategy",
+    "date": "2026-11-25",
+    "summary": "Ceva Logistics has initiated a comprehensive corporate reorganization under new leadership, aiming to implement significant changes to its existing business model. Industry sources indicate that the strategic shift marks a departure from previous operational approaches, signaling a major overhaul for the global freight and logistics provider as management seeks to correct course following a stagnant period.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/the-bolloreisation-of-ceva-logistics-is-finally-underway/"
+  },
+  {
+    "headline": "Severe Cargo Backlog at Brazil's Guarulhos Airport",
+    "continent": "South America",
+    "country": "Brazil",
+    "category": "storage_distribution",
+    "date": "2026-11-25",
+    "summary": "Brazil's primary international air cargo hub is experiencing significant operational delays due to stricter export inspection procedures. These intensified checks have caused severe warehouse congestion at São Paulo's Guarulhos Airport, leaving transport trucks stranded for multiple days awaiting permission to unload. Furthermore, the bottleneck has obstructed the release of import shipments that have already cleared customs, while several airlines are currently unable to retrieve their cargo from the affected terminal facilities, disrupting regional supply chain flows.",
+    "sourceName": "The Loadstar",
+    "sourceUrl": "https://theloadstar.com/brazils-biggest-air-cargo-gateway-hit-by-backlog-as-trucks-wait-days-to-unload/"
+  },
+  {
+    "headline": "US considers new tariffs up to 35% on global trading partners",
+    "continent": "North America",
+    "country": "United States",
+    "category": "international_relations",
+    "date": "2026-11-25",
+    "summary": "The United States is preparing to implement new trade levies ranging from 15% to 35% on goods imported from China, the European Union, and twelve other international partners. This regulatory action follows the conclusions of a Section 301 investigation conducted earlier in the year, which raised significant strategic concerns regarding foreign manufacturing capacity and production levels. The proposed measures could substantially impact international trade flows and global procurement strategies for companies sourcing from the targeted regions.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/"
+  },
+  {
+    "headline": "PETA shareholder proposal targets PepsiCo sugar supply chain",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-11-25",
+    "summary": "Animal rights organization People for the Ethical Treatment of Animals has introduced a shareholder proposal targeting PepsiCo. The measure claims that the multinational food and beverage corporation's sugar procurement methods present significant risks to animal welfare. By filing through company stakeholders, the advocacy group aims to force leadership to address ethical concerns within upstream agricultural sourcing operations and review the treatment of animals affected by sugar production practices.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/peta-alleges-animal-abuse-in-pepsicos-supply-chain/875654/"
+  },
+  {
+    "headline": "CFOs Face Freight Volatility Impact on Financial Planning",
+    "continent": "North America",
+    "country": "United States",
+    "category": "strategy",
+    "date": "2026-11-25",
+    "summary": "Unpredictable freight markets are increasingly affecting corporate balance sheets and financial statements, requiring corporate leadership to rethink budgeting strategies. Industry experts and market analytics emphasize that chief financial officers must adapt their forecasting and procurement approaches ahead of upcoming bidding seasons to mitigate financial risks associated with transportation cost fluctuations. Organizations need closer alignment between supply chain and finance teams to handle ongoing market unpredictability effectively.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/freight-volatility-moved-to-the-pl-is-your2027-budget-ready"
+  },
+  {
+    "headline": "Freight Fraud Trends: Hijacked Carrier Identities Cost Shippers",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Recent logistics data highlights a troubling shift in cargo theft, with the vast majority of stolen loads involving legitimate carrier credentials rather than entirely fabricated ones. Driven by a tight truckload market and evolving legal liabilities, freight fraud places shippers on the front lines of security threats. This trend demonstrates how sophisticated criminal tactics exploit trusted identities within the transportation network, forcing supply chain stakeholders to reevaluate their vetting processes, risk management strategies, and carrier verification protocols to protect shipments from interception and loss.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/real-credentials-wrong-hands"
+  },
+  {
     "headline": "Gestion Maritime highlights rising costs and geopolitics in dry bulk",
     "continent": "Europe",
     "country": "Switzerland",
@@ -2090,16 +2430,6 @@
     "sourceUrl": "https://theloadstar.com/sale-of-neovia-in-the-us-and-turkeys-ekol-marks-return-of-ma-to-logistics/"
   },
   {
-    "headline": "Mexico-US Cargo Charters Face Extended US Approval Delays",
-    "continent": "North America",
-    "country": "Mexico",
-    "category": "international_relations",
-    "date": "2026-11-19",
-    "summary": "Cargo airlines based in Mexico continue to experience prolonged wait times for United States approval regarding cross-border charter operations. This regulatory friction persists despite Washington recently removing restrictions on passenger flights connecting Mexico City to the United States. The situation stems from ongoing tensions originating from a previous Mexican government mandate that removed all cargo operations from Mexico City's primary airport and reduced scheduling slots, actions that US authorities viewed as a violation of bilateral aviation agreements.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/mexico-us-cargo-charters-still-facing-long-wait-for-approval/"
-  },
-  {
     "headline": "Meta secures multiyear supply deals for low-carbon materials",
     "continent": "Global",
     "country": "Multiple",
@@ -2108,36 +2438,6 @@
     "summary": "Meta has finalized multiyear procurement agreements targeting low-carbon concrete, plastics, and steel to reduce emissions within its data center supply chain. The initiative aims to scale up the production of sustainable industrial materials to support the technology company's broader corporate decarbonization targets and address supply chain environmental impacts.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/meta-strikes-deals-to-boost-low-carbon-materials-production/875095/"
-  },
-  {
-    "headline": "Honda Invests $462M in Alabama Facility to Expand Output",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-19",
-    "summary": "Honda is committing $462 million to upgrade its manufacturing plant located in Alabama. The strategic capital investment aims to enhance production capacity and streamline operations to better meet surging consumer demand for popular vehicle models. This move highlights the company's ongoing commitment to strengthening its domestic manufacturing footprint and optimizing its automotive production networks within the region.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/"
-  },
-  {
-    "headline": "DOL maintains independent contractor rule, receiving trucking support",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-19",
-    "summary": "The Department of Labor has finalized its independent contractor regulation, making minimal adjustments from the initial February proposal. This policy shift transitions from the prior administration's framework to one aligned with the current administration's approach. Industry stakeholders within the trucking sector have expressed approval of the finalized guidelines, which are expected to impact how labor classifications are managed across freight operations and logistics networks.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dol-sticks-with-independent-contractor-proposal-trucking-applauds"
-  },
-  {
-    "headline": "PACCAR issues recall for over 6,000 trucks due to radar flaw",
-    "continent": "North America",
-    "country": "United States",
-    "category": "manufacturing",
-    "date": "2026-11-19",
-    "summary": "Truck manufacturer PACCAR has initiated a recall affecting 6,185 commercial vehicles manufactured between February and October. The action addresses a potential defect within the vehicle radar braking system that poses operational risks. The manufacturer has documented eight warranty claims and eight field reports associated with the issue, though no injuries have been reported to safety regulators so far. The recall highlights ongoing quality control and component reliability challenges within automotive manufacturing supply chains.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/paccar-kenworth-peterbilt-radar-braking-recall"
   },
   {
     "headline": "Stamford Shipping orders 10 MR tankers in China",
@@ -2190,16 +2490,6 @@
     "sourceUrl": "https://container-news.com/napier-port-lifts-earnings-despite-flat-container-volumes/"
   },
   {
-    "headline": "Steer Acquires Maritime Consultancy Mercator International",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-19",
-    "summary": "International consultancy Steer has finalized the acquisition of Mercator International to broaden its freight, ports, and maritime advisory services. Mercator, headquartered in Washington state, provides commercial strategy and infrastructure transaction guidance to terminal operators, port authorities, logistics firms, ocean carriers, and investors. This strategic purchase enhances Steer's footprint in North America and deepens its specialized industry expertise.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/steer-acquires-ports-and-maritime-consultancy-mercator-international/"
-  },
-  {
     "headline": "Europe-Central Asia trade surges, driving logistics demand",
     "continent": "Asia",
     "country": "Multiple",
@@ -2250,16 +2540,6 @@
     "sourceUrl": "https://container-news.com/cosco-secures-site-for-major-tianjin-shipbuilding-base/"
   },
   {
-    "headline": "US air cargo recovers from outage amid escalating trade tensions",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-19",
-    "summary": "United States air cargo operations are stabilizing following a major air traffic control system failure that caused widespread flight groundings and lingering freight delays over the weekend. Meanwhile, international air shipping rates bound for the US continue to face upward pressure driven by strong seasonal demand across several trade lanes. Additionally, new geopolitical tensions are emerging between the United States and China ahead of upcoming high-level bilateral discussions, potentially impacting future trade flows and supply chain dynamics between the two nations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/freightos-weekly-update-us-air-cargo-recovering-from-outage-new-us-cn-tensions-ahead-of-talks/"
-  },
-  {
     "headline": "Lauritzen Bulkers Takes Delivery of Methanol-Capable Vessel",
     "continent": "Asia",
     "country": "Philippines",
@@ -2308,26 +2588,6 @@
     "summary": "Germany's Uniper anticipates that the fifteen-year decline in European natural gas demand will halt, forecasting flat demand trends moving into the 2030s. According to the company's leadership, the downward trajectory observed across the energy market is leveling off, signaling a period of stabilization for industrial and energy supply planning in the region.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/uniper-sees-european-gas-needs-steadying-into-2030s/"
-  },
-  {
-    "headline": "Expeditors Shifts Strategy to Include Mergers and Acquisitions",
-    "continent": "North America",
-    "country": "United States",
-    "category": "strategy",
-    "date": "2026-11-19",
-    "summary": "Global freight forwarder Expeditors is reconsidering its long-standing reliance on organic growth and has begun evaluating potential merger and acquisition opportunities. During its first investor day in over a decade, company leadership indicated that the firm is actively reviewing targets, specifically focusing on technology enhancements to bolster its global logistics network. This marks a significant strategic pivot for an organization that has historically avoided corporate acquisitions.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/expeditors-opens-door-to-ma-after-decades-of-organic-growth/"
-  },
-  {
-    "headline": "US shippers shift to short-term freight contracts amid fuel cost pressures",
-    "continent": "North America",
-    "country": "United States",
-    "category": "procurement",
-    "date": "2026-11-19",
-    "summary": "American road transport shippers are increasingly moving away from traditional long-term freight agreements to embrace short-term contracts. Recent industry data indicates this shift is driven by rising diesel prices that are outpacing standard freight rate increases. Consequently, logistics providers are observing a significant drop in the volume of annual commitments within sectors like automotive and food and beverage, reflecting a broader evolution in procurement strategies as operators navigate ongoing market volatility and compressed carrier margins.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates/"
   },
   {
     "headline": "Maersk and Hapag-Lloyd advance twin-hub terminal strategy",
@@ -2600,36 +2860,6 @@
     "sourceUrl": "https://container-news.com/zim-net-profit-surges-to-830-million-in-q3-as-freight-rates-climb/"
   },
   {
-    "headline": "Maersk sets conditional terms for returning to Suez route",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-18",
-    "summary": "Maersk is resuming its Asia-Europe shipping services through the Suez Canal, distinguishing itself from competitors by retaining the explicit right to withdraw from the route if conditions change. This flexible approach allows the carrier to navigate ongoing regional security uncertainties while restoring its primary trade lane operations. The conditional return highlights the delicate balance major ocean carriers must maintain between operational efficiency and risk management in volatile maritime corridors.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/explainer-what-terms-have-been-set-by-maersk-on-its-return-to-suez/"
-  },
-  {
-    "headline": "Euroseas Reports Strong Q3 2026 Amid Rising Containership Rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-18",
-    "summary": "Euroseas Ltd., a container carrier vessel owner and operator, announced its financial results for the third quarter of 2026, driven by a strengthening containership market. The company reported total net revenues of $54.1 million and a net income attributable to controlling shareholders of $25.6 million. These figures reflect continued positive momentum in seaborne containerized cargo transportation, supported by favorable market conditions affecting global maritime logistics and freight operations.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/euroseas-ltd-reports-solid-third-quarter-results-as-containership-market-continues-its-upward-climb/"
-  },
-  {
-    "headline": "NGOs Push IMO to Adopt Net-Zero Framework for Shipping",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-18",
-    "summary": "Environmental groups are urging member states of the International Maritime Organization to approve the proposed Net-Zero Framework during the upcoming Marine Environment Protection Committee meeting. The coalition stresses the urgency of establishing this emissions-reduction mechanism before the end of the year to address sustainability goals within global maritime logistics and international trade operations.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/ngos-urge-un-shipping-body-to-adopt-crucial-climate-agreement-before-year-end/"
-  },
-  {
     "headline": "Global VE Trading cuts vessel screening time to five minutes",
     "continent": "Asia",
     "country": "Malaysia",
@@ -2670,16 +2900,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/fujairah-bunker-sales-rose-19-in-october/"
   },
   {
-    "headline": "Transatlantic airfreight rates hit four-year peak",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-18",
-    "summary": "Transatlantic airfreight rates have reached their highest point since December 2022, driven by strong peak-season demand and reduced capacity. Recent market data shows that Europe to United States rates increased by 12% to reach $3.27 per kilogram, while routes from China to North America climbed 16% to $9.25 per kilogram, surpassing the peak pricing levels recorded during the previous December. These upward price movements occurred independently of recent domestic aviation disruptions in the United States, reflecting broader structural market pressures across key international air corridors.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/"
-  },
-  {
     "headline": "MSC to expand capacity at Turkish Asyaport transhipment hub",
     "continent": "Asia",
     "country": "Turkey",
@@ -2688,26 +2908,6 @@
     "summary": "Mediterranean Shipping Company is significantly expanding its East Mediterranean transhipment hub at Turkey's Asyaport facility. Co-owned with the Soyuer Group, the terminal aims to increase its annual handling capacity from 2.75 million TEUs to 4 million TEUs by the end of the year. The upgrade includes extending the facility's deep-sea berths from one kilometer to 1.4 kilometers to accommodate larger vessels and boost regional container handling capabilities.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/msc-plans-to-triple-capacity-at-its-aysaport-transhipment-hub/"
-  },
-  {
-    "headline": "Kuehne + Nagel automates carrier calls with AI",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-18",
-    "summary": "Logistics provider Kuehne + Nagel is utilizing artificial intelligence agents to manage a significant portion of connected carrier calls within its air logistics division without human assistance. Beyond immediate efficiency improvements, these automated interactions are generating valuable operational intelligence and data. The technology highlights a broader industry trend toward digital transformation and automation in freight management and communication workflows, enhancing overall supply chain visibility and responsiveness.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/kuehne-nagel-how-ai-calling-becomes-a-data-mine/"
-  },
-  {
-    "headline": "ITF joins ISF Verify to advance digital seafarer certification",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-18",
-    "summary": "The International Transport Workers’ Federation has partnered with the ISF Verify initiative to help scale digital seafarer certification throughout the maritime shipping sector. Formalized at Hong Kong Maritime Week, the integration incorporates the union into a digital validation platform originally created by the International Chamber of Shipping and Lloyd's Register OneOcean. This collaboration aims to streamline credential verification processes and improve compliance monitoring across international shipping networks.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/itf-joins-isf-verify-initiative-to-expand-digital-seafarer-certification/"
   },
   {
     "headline": "Seatrium wins MODEC contract for Guyana FPSO integration",
@@ -3658,285 +3858,5 @@
     "summary": "The Port of Helsingborg plans to implement the Secure Container Release digital platform by March 2027 to enhance security and traceability during import container pickups. Created by technology vendor T-Mining, the software connects authorization rights for container retrieval directly to authenticated driver identities. This initiative aims to streamline terminal operations and safeguard the cargo release process against unauthorized access.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/port-of-helsingborg-to-introduce-secure-container-release-for-import-containers/"
-  },
-  {
-    "headline": "Asian Terminals secures 25-year Manila South Harbour extension",
-    "continent": "Asia",
-    "country": "Philippines",
-    "category": "storage_distribution",
-    "date": "2026-11-13",
-    "summary": "Asian Terminals has finalized a 25-year concession renewal with the Philippine Ports Authority to operate and develop Manila South Harbour. The agreement extends the terminal operator's mandate through May 2063, providing long-term operational stability. This extension aims to ensure the ongoing modernization and efficient handling of international trade at one of the nation's primary maritime gateways, supporting regional supply chain growth and port infrastructure development over the coming decades.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/ati-secures-renewal-of-manila-south-harbour-concession/"
-  },
-  {
-    "headline": "Tanker explosion in Hormuz highlights ongoing maritime risks",
-    "continent": "Middle East",
-    "country": "Bahrain",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "A liquefied natural gas tanker struck a naval mine and exploded in the Strait of Hormuz, while military assets in Bahrain were targeted, underscoring persistent threats to commercial maritime transport and regional shipping lanes. These security incidents highlight the continued vulnerability of critical energy transit corridors, threatening global supply chain stability and vessel safety despite temporary lulls in the ongoing conflict.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/iran-targets-us-radar-in-bahrain-reports-tanker-explosion-in-hormuz/"
-  },
-  {
-    "headline": "China Merchants adds methanol-capable car carrier to fleet",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "China Merchants Heavy Industry has delivered a new methanol-capable car carrier, named CM Wuhan, to China Merchants RoRo. Built in Jiangsu, the vessel is specifically designed to transport electric and plug-in hybrid vehicles. This addition aims to expand maritime transport capacity for China's growing vehicle export market, reflecting broader industry trends toward alternative fuel vessels and enhanced outbound logistics capabilities to support international trade in the automotive sector.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/china-merchants-takes-delivery-of-methanol-capable-car-carrier/"
-  },
-  {
-    "headline": "Turkey increases environmental pollution fines for vessels in 2027",
-    "continent": "Europe",
-    "country": "Turkey",
-    "category": "international_relations",
-    "date": "2026-11-13",
-    "summary": "Turkish authorities are raising environmental pollution fines for maritime operations starting January 1, 2027. Under the updated regulations tied to the Environmental Code, penalties for discharging petroleum products, sewage, garbage, and other waste materials will increase by nearly twenty-eight percent. The exact financial penalties are determined based on the gross tonnage of the offending vessel and the specific classification of the pollution offense, impacting maritime logistics and shipping operators navigating through Turkish waters.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/turkey-environmental-pollution-fines-updated-for-2027/"
-  },
-  {
-    "headline": "IAPH Unveils New Decarbonization Tools for Ports",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "sustainability",
-    "date": "2026-11-13",
-    "summary": "During the World Ports Conference in London, the International Association of Ports and Harbors introduced a suite of new tools designed to accelerate decarbonization efforts within the port sector. Created by the organization's Climate and Energy committee working groups, these resources were showcased in dedicated sessions throughout the event. The initiative includes significant upgrades aimed at helping ports achieve their environmental sustainability goals and reduce emissions across global maritime supply chain networks.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/iaph2026-tools-launched-to-support-decarbonisation/"
-  },
-  {
-    "headline": "Nanning Advances ASEAN Logistics Hub Ambitions via Pinglu Canal",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Nanning is actively working to elevate its status from an inland Chinese municipality to an international freight and distribution center targeting South-east Asia. By utilizing the upcoming opening of the Pinglu Canal to enhance river-sea intermodal connectivity, the regional capital is accelerating the expansion of its comprehensive transportation network. This multimodal strategy encompasses highway, railway, waterway, and aviation corridors designed to significantly broaden commercial trade partnerships across the Association of Southeast Asian Nations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/pinglu-canal-fuels-nanning-ambition-to-be-an-asean-logistics-hub/"
-  },
-  {
-    "headline": "Secondhand Vessel Cybersecurity Risks Highlighted by Breach",
-    "continent": "Europe",
-    "country": "Greece",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "Recent cyber intrusions at a major ocean carrier reveal critical vulnerabilities associated with acquiring secondhand vessels. Inherited legacy systems and undocumented digital doors present significant operational hazards for maritime fleet operators. Experts emphasize that vessel acquisitions routinely bypass thorough digital audits at the time of delivery, leaving organizations exposed to threat actors. This oversight underscores the urgent need for comprehensive cybersecurity assessments during vessel transactions to protect global maritime supply chains from escalating digital threats.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/maersks-cyber-breach-is-a-warning-for-every-secondhand-ship-sale/"
-  },
-  {
-    "headline": "Kalmar to supply 21 hybrid straddle carriers to TTI Algeciras",
-    "continent": "Europe",
-    "country": "Spain",
-    "category": "storage_distribution",
-    "date": "2026-11-13",
-    "summary": "Kalmar has received an order from Total Terminal International Algeciras for twenty-one hybrid straddle carriers to enhance shuttle operations at its Spanish container terminal. Booked into Kalmar's fourth-quarter order intake, the delivery of the new equipment is scheduled for completion by the final quarter of 2027.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/kalmar-secures-order-for-21-hybrid-straddle-carriers-at-tti-algeciras/"
-  },
-  {
-    "headline": "Singapore Opens Applications for LNG Floating Storage Licences",
-    "continent": "Asia",
-    "country": "Singapore",
-    "category": "logistics",
-    "date": "2026-11-13",
-    "summary": "The Maritime and Port Authority of Singapore is accepting applications for up to two liquefied natural gas floating storage unit licences to operate within local anchorages. This initiative follows the recent award of eight new LNG bunker supplier licences. The new floating storage units are designed to support the growing supplier base by enhancing storage diversification and reloading capabilities, thereby strengthening regional bunkering infrastructure and supply chain operations for maritime fuel.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
-  },
-  {
-    "headline": "GEODIS launches rail freight service linking Paris and Italy",
-    "continent": "Europe",
-    "country": "France",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "French logistics provider GEODIS has introduced a new rail freight connection running between Vicenza in northeastern Italy and Noisy-le-Sec near Paris. This route aims to enhance cross-border freight capabilities and provide an alternative transportation option between the two regions, supporting multimodal supply chain networks and regional distribution efficiency.",
-    "sourceName": "RailFreight.com",
-    "sourceUrl": "https://www.railfreight.com/business/2026/11/12/geodis-links-paris-with-northeastern-italy-with-new-service/"
-  },
-  {
-    "headline": "Netherlands and Germany Sign New Bilateral Rail Freight Pact",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "The governments of the Netherlands and Germany have entered into a formal joint declaration aimed at deepening bilateral cooperation on rail infrastructure, focusing specifically on cargo transportation and military mobility. While the agreement signals closer diplomatic alignment between the two neighboring nations, industry stakeholders within the Dutch rail freight sector have expressed skepticism regarding whether the initiative will drive tangible improvements or merely mirror past unsuccessful agreements.",
-    "sourceName": "RailFreight.com",
-    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/12/what-will-actually-change-this-time-rail-freight-questions-new-dutch-german-rail-pact/"
-  },
-  {
-    "headline": "Glasgow Prestwick Airport Names New Trade and Export Manager",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Glasgow Prestwick Airport in the United Kingdom has appointed a new trade and export development manager to drive growth in its outbound cargo volumes. The strategic hire aims to collaborate closely with regional exporters, air freight forwarders, and airline partners to boost load factors on eastbound flights. Initial efforts will concentrate on key sectors including seafood and pharmaceuticals, enhancing the facility's position as a vital international logistics hub.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/people/2026/11/prestwick-appoints-trade-and-export-development-manager/"
-  },
-  {
-    "headline": "IMO Urges Strict Maritime Enforcement in Strait of Hormuz",
-    "continent": "Middle East",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "The leader of the International Maritime Organization is urging member countries to rigorously apply maritime safety and security laws within the Strait of Hormuz. This appeal comes in response to an ongoing series of attacks targeting commercial vessels navigating the vital shipping corridor. Officials emphasize the critical need to utilize established technical and operational protocols to safeguard merchant vessels and crews operating in the volatile region, ensuring uninterrupted global maritime trade and freight movement through the strategic chokepoint.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/imo-secretary-general-calls-on-states-to-enforce-maritime-rules-in-the-strait-of-hormuz/"
-  },
-  {
-    "headline": "Korean maritime carbon capture proposal chosen by IMO",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "sustainability",
-    "date": "2026-11-12",
-    "summary": "A public-private consortium of ten maritime organizations in South Korea has achieved a significant milestone after the International Maritime Organization selected its onboard carbon capture and storage proposal as the foundational document for upcoming international safety regulations. The framework will guide the safe integration of carbon capture technologies on vessels, supporting global efforts to reduce emissions across maritime logistics and shipping operations.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/korean-partnerships-carbon-capture-proposal-selected-as-basis-for-imos-future-safety-guidelines/"
-  },
-  {
-    "headline": "Ernst Russ Expands Fleet with New Tankers Amid Strong Financials",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Ernst Russ announced its financial results for the first nine months of the year, reporting revenues of EUR 118.8 million and an EBIT of EUR 47.9 million. The Hamburg-based shipping company also advanced its fleet expansion strategy by entering the tanker segment, integrating two new product and chemical tankers into active operations. This fleet growth contributed to a significant 38% increase in the company's overall charter backlog, reflecting positive momentum in its maritime logistics operations.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/ernst-russ-reports-revenues-of-eur-118-8-million-and-ebit-of-eur-47-9-million-in-the-first-nine-months-of-2026/"
-  },
-  {
-    "headline": "Port of Gothenburg installs storage tank for new biogas plant",
-    "continent": "Europe",
-    "country": "Sweden",
-    "category": "sustainability",
-    "date": "2026-11-12",
-    "summary": "Construction of a new liquefied biogas facility at the Port of Gothenburg has reached a key milestone following the installation of its main storage tank. Developed and owned by Nordion Energi, the plant is on track to be completed by the second quarter of 2027. Once operational, the facility will enable large-scale bunkering of liquefied biogas, supporting maritime sustainability and cleaner shipping operations by providing alternative green fuel options for vessels calling at the major Swedish port.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/large-scale-liquefied-biogas-bunkering-to-become-possible-in-the-port-of-gothenburg-in-2027/"
-  },
-  {
-    "headline": "Seanergy Maritime expands fleet with $264m bulk carrier acquisitions",
-    "continent": "Europe",
-    "country": "Greece",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Greek maritime enterprise Seanergy Maritime has committed an additional $264 million to acquire four bulk carriers, consisting of two newbuilds and two secondhand vessels. This latest investment elevates the Nasdaq-listed company's total ongoing fleet expansion expenditure to $855 million. The newly secured ships are scheduled for delivery between 2027 and 2029, enhancing the firm's capacity within the capesize segment and supporting its long-term operational capabilities in global maritime freight and logistics.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/seanergy-lines-up-four-more-bulkers-in-855m-fleet-push/"
-  },
-  {
-    "headline": "Chinese shipyard secures South American AHTS vessel order",
-    "continent": "South America",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Rainbow Offshore Engineering, a subsidiary of Jiangsu Rainbow Heavy Industries in China, has contracted to construct a 71.95-metre anchor-handling tug supply vessel for an unnamed client based in South America. The ship is engineered for deepwater operations, featuring a 110-tonne bollard pull capacity designed to support offshore energy logistics and heavy marine towing activities.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/"
-  },
-  {
-    "headline": "Marine fuel prices drop 20 percent on easing tensions",
-    "continent": "Asia",
-    "country": "Singapore",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Bunker fuel prices decreased by up to twenty percent in less than two weeks following hopes of reduced conflict involving Iran, which caused oil markets to fall. Despite this recent decline, marine fuel costs remain on track to record their most expensive year overall. The drop provides temporary financial relief for ship operators, with prices for very low sulphur fuel oil in Singapore leading the downward trend as global petroleum markets react to shifting geopolitical conditions.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/bunker-prices-plunge-20/"
-  },
-  {
-    "headline": "Euroports Rauma Deploys Portchain Connect for Berthing",
-    "continent": "Europe",
-    "country": "Finland",
-    "category": "storage_distribution",
-    "date": "2026-11-12",
-    "summary": "Euroports is implementing the Portchain Connect platform at its container terminal located in the Port of Rauma, Finland. This digital integration aims to enhance coordination and berth planning with shipping lines by facilitating the direct exchange of vessel schedules and operational data. The technology enables terminal operators and carriers to streamline communication and jointly finalize berthing arrangements.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/euroports-rauma-adopts-portchain-connect-to-improve-berth-planning/"
-  },
-  {
-    "headline": "MSC Announces December FAK Rate Increases for Mediterranean Routes",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Mediterranean Shipping Company has announced higher Freight All Kinds tariffs for cargo moving from the Far East to Mediterranean, North Africa, and Black Sea destinations. The upcoming price adjustments are scheduled to take effect at the beginning of December and will stay active until mid-December, whereas pricing for shipments destined for Northern Europe will remain unchanged during this period.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/msc-raises-december-fak-rates-to-mediterranean-and-black-sea/"
-  },
-  {
-    "headline": "Konecranes secures first new mobile harbor crane order in Peru",
-    "continent": "South America",
-    "country": "Peru",
-    "category": "storage_distribution",
-    "date": "2026-11-12",
-    "summary": "Konecranes has been contracted by Terminal Internacional del Sur to supply a new Gottwald ESP.6 mobile harbor crane for the Port of Matarani. This transaction represents the manufacturer's inaugural sale of a factory-new mobile harbor crane within the Peruvian market, aiming to enhance cargo handling and port terminal efficiency in the southern region of the country.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/konecranes-secures-mobile-harbor-crane-order-for-perus-port-of-matarani/"
-  },
-  {
-    "headline": "GEODIS launches new Italy-France rail freight route",
-    "continent": "Europe",
-    "country": "France",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Logistics provider GEODIS has introduced a new rail freight service linking Vicenza in northern Italy to Noisy-le-Sec outside Paris, expanding its European intermodal transportation network. Operated in partnership with Captrain, the route commenced operations on October 19, 2026. This new connection offers businesses located in Italy's Veneto region an alternative cross-border transport option, enhancing sustainable freight mobility and supply chain connectivity between the two European nations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/geodis-launches-new-rail-freight-connection-between-italy-and-france/"
-  },
-  {
-    "headline": "Geodis and RLE launch Italy-France rail freight line",
-    "continent": "Europe",
-    "country": "France",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Logistics providers Geodis and Rail Logistics Europe have introduced a new dedicated intermodal rail freight connection linking Vicenza in Italy with Noisy-le-Sec near Paris, France. Operated by Captrain and Hexafret, the service aims to expand sustainable freight capacity and enhance intermodal transport networks for businesses in the Veneto region. The route builds upon existing rail partnerships within the parent group to facilitate cross-border movement of goods between the two European nations.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/geodis-rle-launch-new-dedicated-railway-line-between-italy-and-france/"
-  },
-  {
-    "headline": "Marine Platforms plans full acquisition of offshore pipelay vessel",
-    "continent": "Africa",
-    "country": "Nigeria",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Nigerian offshore services provider Marine Platforms is advancing toward complete ownership of the heavy-lift construction and pipelay vessel Zhong Fei Huan Qiu 1200. Previously known as Global 1200, the company initially secured a 51 percent stake in the ship, while Chinese offshore engineering firm DS Global held the remaining portion. This move expands the contractor's operational fleet capabilities for regional offshore engineering and maritime construction projects.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/"
-  },
-  {
-    "headline": "Brazil soybean exports break all-time records",
-    "continent": "South America",
-    "country": "Brazil",
-    "category": "international_relations",
-    "date": "2026-11-12",
-    "summary": "Brazilian soybean export volumes through October have already surpassed the total figures for the previous year, reaching 108.4 million tonnes. This massive surge in agricultural output has driven a strong increase in demand for maritime dry bulk shipping, particularly benefiting panamax and supramax vessel segments. The record-breaking performance highlights Brazil's dominant position in global agricultural trade and provides substantial momentum to international shipping markets operating out of South America.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/brazilian-soybean-exports-smash-records/"
-  },
-  {
-    "headline": "Klaipėda Port Seeks Tenants for Billion-Euro Expansion",
-    "continent": "Europe",
-    "country": "Lithuania",
-    "category": "storage_distribution",
-    "date": "2026-11-12",
-    "summary": "The Klaipėda State Seaport Authority has initiated a tender process to find strategic investors and future tenants for a newly developed 100-hectare zone in the port's southern region. This major infrastructure undertaking, valued at over one billion euros, seeks early partnership to collaboratively design and construct the maritime and logistics facilities, bolstering regional storage and distribution capabilities.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/klaipeda-port-launches-tender-for-southern-port-area/"
-  },
-  {
-    "headline": "HMM Reports 370% Surge in Third-Quarter Operating Profit",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "South Korean container shipping company HMM experienced a dramatic 370% year-on-year increase in operating profit during the third quarter of 2026. The major carrier also posted a 52% rise in consolidated revenue, reaching KRW 4.13 trillion compared to the previous year. Company leadership attributed these strong financial results to enhanced operational efficiency and overall profitability improvements across its international maritime shipping operations.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/hmm-operating-profit-surges-370-in-third-quarter/"
   }
 ]
