@@ -1,5 +1,145 @@
 [
   {
+    "headline": "Gestion Maritime highlights rising costs and geopolitics in dry bulk",
+    "continent": "Europe",
+    "country": "Switzerland",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "At the Geneva Dry event, a shipping executive noted that while the dry bulk sector benefits from strong supply fundamentals and potential stability compared to other maritime segments, shipowners face escalating operational breakevens. Rising cost pressures are converging with shifting geopolitical landscapes, creating both hurdles and strategic opportunities for the industry. Although the fleet supply outlook remains relatively balanced, maritime operators must navigate increasing financial demands to sustain profitability moving forward.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/geneva-dry-gestion-maritimes-danilo-fumarola-discusses-dry-bulks-rising-cost-base/"
+  },
+  {
+    "headline": "CMA CGM CEO Admits 2050 Net-Zero Shipping Target is Unlikely",
+    "continent": "Europe",
+    "country": "France",
+    "category": "sustainability",
+    "date": "2026-11-25",
+    "summary": "The leader of a major global container shipping enterprise has acknowledged that the industry's shared ambition for complete decarbonization by mid-century will likely not be met. This announcement comes immediately prior to critical environmental policy discussions scheduled by the International Maritime Organization. The executive made the statement during a maritime economy conference in France, signaling a notable shift in expectations for sustainable maritime logistics and long-term environmental targets within the global freight transport sector.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/cma-cgms-saade-concedes-2050-net-zero-target-is-out-of-reach/"
+  },
+  {
+    "headline": "Okee Maritime acquires two feeder boxships in $84m deal",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "German containership owner Okee Maritime has purchased two 1,800 teu feeder newbuilds from Greece-based Cosmoship in an $84 million resale transaction. The vessels, currently under construction at China's Huanghai Shipyard and provisionally named Ambition C and Voyager C, have already secured employment commitments extending through 2030, reinforcing regional maritime capacity and long-term deployment stability within the container shipping sector.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/okee-maritime-pounces-on-84m-boxship-resale-deal/"
+  },
+  {
+    "headline": "Supertankers targeted by cyberattacks far from Hormuz",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Up to fifty oil tankers have experienced cyberattacks targeting their Fortinet firewalls, raising significant concerns for maritime logistics and vessel security. While the perpetrators remain unidentified, the attacks demonstrate that ships are vulnerable far beyond regional chokepoints like the Strait of Hormuz. For instance, a supertanker received a ransom demand while navigating from Egypt to Galveston, thousands of miles away from traditional conflict zones. This trend highlights growing digital risks to global shipping lanes and maritime transportation networks.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/hormuz-has-followed-the-ships-that-sailed-around-it/"
+  },
+  {
+    "headline": "Windcat orders second extra-large CSOV from Damen",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Windcat has placed an order with Dutch shipbuilder Damen for a second extra-large commissioning service operation vessel. This marks the second vessel ordered within Windcat's Innovation Series, following a previous agreement for a lead vessel and options for five additional units. The specialized multi-purpose accommodation vessel will expand the company's fleet capabilities to support offshore energy operations. The contract underscores ongoing fleet investments by the Saverys family-controlled CMB.TECH subsidiary to meet specialized maritime logistics and service demands.",
+    "sourceName": "Splash247",
+    "sourceUrl": "https://splash247.com/windcat-orders-second-extra-large-csov-from-damen/"
+  },
+  {
+    "headline": "Ningbo to Middle East Container Rates Surge 453% YoY",
+    "continent": "Asia",
+    "country": "China",
+    "category": "logistics",
+    "date": "2026-11-25",
+    "summary": "Container shipping markets are experiencing widening pricing discrepancies globally, highlighted by a dramatic year-over-year increase in freight rates originating from the port of Ningbo-Zhoushan and heading toward the Middle East. Regional maritime disruptions and ongoing operational uncertainties are driving these significant cost shifts, illustrating a growing two-speed environment for international container shipping logistics and maritime trade routes.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/ningbo-middle-east-freight-rates-surge-453-5-yoy-as-container-shipping-enters-a-two-speed-market/"
+  },
+  {
+    "headline": "EU Proposes New Sanctions on Russian Shadow Fleet Tankers",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-25",
+    "summary": "The European Commission has introduced a fresh sanctions package targeting Russia's maritime and energy sectors. This proposed 22nd round of restrictions aims to add over seventy vessels from Russia's shadow fleet to the official sanctions blacklist. Additionally, the regulatory measures seek to ban all tanker ships holding insurance within the European Union, further tightening maritime trade and logistics restrictions associated with Russian energy exports.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/eu-targets-shadow-fleet-and-russian-insured-tankers-in-new-sanctions-package/"
+  },
+  {
+    "headline": "UK and EU plan joint emissions trading by 2028",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-24",
+    "summary": "The United Kingdom and the European Union have agreed to connect their respective carbon pricing systems, aiming for full implementation by the start of 2028. This integration coincides with the UK's expansion of carbon pricing to cover international shipping. By aligning the two frameworks, the initiative intends to streamline regulatory compliance for maritime operators working across both jurisdictions, enabling them to utilize carbon allowances interchangeably.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/uk-and-eu-aim-to-link-emissions-trading-schemes-by-january-2028/"
+  },
+  {
+    "headline": "\"K\" Line orders two LPG dual-fuel VLGCs from HD Hyundai",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "manufacturing",
+    "date": "2026-11-24",
+    "summary": "Japanese shipping firm Kawasaki Kisen Kaisha has finalized shipbuilding contracts with South Korea's HD Hyundai Samho for two very large gas carriers. The vessels will feature dual-fuel engines capable of running on liquefied petroleum gas and are designed to transport both LPG and ammonia. This fleet addition aligns with maritime industry efforts to adopt cleaner propulsion technologies and expand specialized energy transport capabilities.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/k-line-signs-contract-for-construction-of-two-lpg-dual-fuel-vlgcs/"
+  },
+  {
+    "headline": "Singapore Shipping Corp Orders Two LNG-Capable Car Carriers",
+    "continent": "Asia",
+    "country": "Singapore",
+    "category": "logistics",
+    "date": "2026-11-24",
+    "summary": "Singapore Shipping Corporation has contracted Guangzhou Shipyard International in China to build two pure car and truck carriers. Each vessel will feature a capacity of 7,000 car equivalent units and utilize dual-fuel engines capable of operating on liquefied natural gas or conventional marine fuels. Delivery timelines for the new additions to the fleet are set for upcoming years.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/singapore-shipping-corporation-orders-two-lng-capable-car-carriers-in-china/"
+  },
+  {
+    "headline": "FedEx and UPS Announce 5.9% Average Rate Hikes",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-24",
+    "summary": "Major logistics providers FedEx and UPS are implementing a standard 5.9% average price increase. Supply chain experts warn that underlying adjustments within the new rate structures could impose additional financial burdens on shipping budgets, forcing organizations to reevaluate their carrier strategies and transportation spending to mitigate escalating distribution costs.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/fedex-ups-upcoming-rate-hikes-what-shippers-should-know/875495/"
+  },
+  {
+    "headline": "Tropical Smoothie boosts growth using data and supplier ties",
+    "continent": "North America",
+    "country": "United States",
+    "category": "procurement",
+    "date": "2026-11-24",
+    "summary": "Tropical Smoothie is advancing its expansion strategy by moving past traditional transactional procurement to build deeper supplier relationships and leverage advanced data analytics. The approach is designed to foster new product development and better manage operational risks within the supply chain, ensuring stability and growth as the brand scales its restaurant footprint.",
+    "sourceName": "Supply Chain Dive",
+    "sourceUrl": "https://www.supplychaindive.com/news/tropical-smoothie-powers-expansion-with-strong-supplier-relationships-data/875588/"
+  },
+  {
+    "headline": "Freight Pricing Power Index Holds at 76 Amid Market Shifts",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-24",
+    "summary": "The freight pricing power index remained resilient at seventy-six despite a narrowing rate spread between spot and contract rates. Rail traffic reached a five-year peak, while freight tender rejections experienced a notable increase of ninety-one basis points to reach their highest mark since late October. Meanwhile, the weekly pricing power indicator rose to seventy-three, reflecting ongoing momentum in transportation markets and shifting dynamics across domestic logistics networks.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/sonar-ppi-outlook-holds-strong-at-76-despite-narrowing-rate-spread"
+  },
+  {
+    "headline": "Refrigerated truckload tender rejections double year-over-year",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-24",
+    "summary": "Refrigerated truckload tender rejections have surged to 23 percent during Thanksgiving week, doubling the rates seen during the same period last year. This sharp increase indicates a severe supply-driven capacity crunch rather than a shift in consumer demand. The tightening capacity is expected to place upward pressure on spot rates and disrupt contract tenders across the freight market as the holiday season progresses.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/reefer-rejections-double-yoy-holiday-capacity-crisis-looms"
+  },
+  {
     "headline": "Bulker Refloated off French Coast After Four Days",
     "continent": "Europe",
     "country": "France",
@@ -2200,16 +2340,6 @@
     "sourceUrl": "https://theloadstar.com/geminis-twin-hub-terminal-strategy-has-a-double-purpose/"
   },
   {
-    "headline": "Labor negotiations stall threatening San Pedro Bay ports strike",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-19",
-    "summary": "Contract talks between employers and port security workers at the ports of Los Angeles and Long Beach have broken down, raising the threat of a potential strike that could disrupt cargo operations across the crucial gateway. The Pacific Maritime Association and the International Longshore and Warehouse Union Local 26 failed to reach an agreement, making a walkout a distinct possibility. Such a disruption would impact terminal operators and shipping lines, creating bottlenecks in regional freight and logistics flows.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/"
-  },
-  {
     "headline": "Brooks Running leverages supplier data to mitigate labor risks",
     "continent": "Global",
     "country": "Multiple",
@@ -2218,16 +2348,6 @@
     "summary": "Footwear brand Brooks Running is enhancing its supply chain transparency and addressing human rights compliance by conducting annual mock detention exercises with its suppliers. This proactive strategy allows the company to gain deeper visibility into its material sourcing tiers and downstream operations, helping to identify and mitigate potential labor and human rights vulnerabilities within its production network.",
     "sourceName": "Supply Chain Dive",
     "sourceUrl": "https://www.supplychaindive.com/news/how-brooks-running-is-using-supplier-data-to-address-human-rights-risks/875090/"
-  },
-  {
-    "headline": "Expeditors expands into space logistics for NASA missions",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-19",
-    "summary": "Expeditors International has broadened its service portfolio to encompass the aerospace sector, marking its entry with a new logistics operation at NASA's Kennedy Space Center. This strategic expansion enables the freight forwarder to manage specialized supply chain requirements for space exploration initiatives, highlighting the increasing commercialization and complex logistical demands of the space industry. The company will oversee critical transport and handling operations essential for supporting upcoming launch activities.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/expeditors-enters-new-logistics-frontier-supporting-kennedy-space-missions"
   },
   {
     "headline": "ABP Finishes New Storage and Processing Hub at King's Lynn",
@@ -2320,16 +2440,6 @@
     "sourceUrl": "https://container-news.com/cnc-launches-scv2-service-linking-south-china-thailand-and-cambodia/"
   },
   {
-    "headline": "Northwest Seaport Alliance Reports October Import Growth",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-18",
-    "summary": "The Northwest Seaport Alliance experienced a significant rise in import volumes during October 2026, driven by a 13.1 percent year-over-year increase in full imports. The gateway credited this growth to efficient berth operations, minimal rail dwell times, and an influx of cargo redirected from congested ports elsewhere. Overall container volumes, encompassing both international and domestic shipments, climbed to 235,210 TEUs, reflecting strong operational performance and increased regional demand.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/nwsa-records-increased-import-volumes-in-october/"
-  },
-  {
     "headline": "Euroseas Posts $25.6M Third-Quarter Profit Amid Revenue Dip",
     "continent": "Global",
     "country": "Multiple",
@@ -2408,16 +2518,6 @@
     "summary": "Recent European Union customs duties and handling fees on low-value ecommerce imports are significantly impacting cross-border trade. Following a sharp year-on-year decline in low-value shipments after the introduction of a customs duty in July, logistics providers are warning that upcoming Black Friday promotions could face steep additional charges before value-added tax is applied. These added costs present a major hurdle for retailers managing profit margins on discounted holiday bundles shipped into the European market.",
     "sourceName": "The Loadstar",
     "sourceUrl": "https://theloadstar.com/black-friday-bundles-test-retail-margins-as-eu-parcel-charges-bite/"
-  },
-  {
-    "headline": "Amazon Opens First Puerto Rico Delivery Station in San Juan",
-    "continent": "North America",
-    "country": "United States",
-    "category": "storage_distribution",
-    "date": "2026-11-18",
-    "summary": "Amazon has established its first delivery station in Puerto Rico, featuring a 100,000-square-foot facility located in the San Juan metropolitan area. This new infrastructure significantly improves regional fulfillment efficiency, reducing typical customer shipping times from approximately two weeks down to just two days. The development enhances local warehousing and distribution capabilities, addressing historical logistical challenges in serving the island territory and streamlining last-mile operations for regional consumers.",
-    "sourceName": "Supply Chain Dive",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazons-first-puerto-rico-delivery-station-speeds-up-shipping/874996/"
   },
   {
     "headline": "Eiffage wins German offshore wind platform foundation contract",
@@ -2618,26 +2718,6 @@
     "summary": "Seatrium has been awarded a contract by MODEC to perform integration work on the Essequibo 1899 Floating Production, Storage and Offloading vessel. The FPSO is destined for the offshore Hammerhead project in Guyana. This agreement represents the second FPSO integration project that Seatrium has undertaken for MODEC within the same region, reinforcing collaboration on major offshore energy infrastructure development and maritime manufacturing operations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/seatrium-secures-modec-contract-for-hammerhead-fpso-in-guyana/"
-  },
-  {
-    "headline": "Gemini carriers reroute three services back through Suez Canal",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-17",
-    "summary": "Maersk and Hapag-Lloyd are routing three additional Gemini Cooperation ocean services back through the Red Sea and the Suez Canal on a permanent basis. The NE1, NE2, and NE3 loops will abandon the longer detour around the Cape of Good Hope for both eastbound and westbound transits. This transition stems from an updated security evaluation regarding the regional shipping lanes, allowing the container lines to restore more direct pathways between Asia and Europe after months of disruptions caused by ongoing security concerns.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/maersk-and-hapag-lloyd-return-three-more-gemini-services-to-suez/"
-  },
-  {
-    "headline": "Port congestion masks container shipping overcapacity",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-17",
-    "summary": "Persistent port congestion continues to obscure the underlying surplus of capacity within the container shipping market. Anticipated shifts in vessel routing and the potential return of services to the Suez Canal were expected to reveal the extent of the market's hidden overcapacity, but ongoing logistical bottlenecks at ports have delayed this visibility, keeping vessel supply and demand dynamics distorted across global trade lanes.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/why-port-congestion-is-hiding-container-shippings-overcapacity/"
   },
   {
     "headline": "HJSC reports revenue and profit growth driven by container ships",
@@ -3858,45 +3938,5 @@
     "summary": "South Korean container shipping company HMM experienced a dramatic 370% year-on-year increase in operating profit during the third quarter of 2026. The major carrier also posted a 52% rise in consolidated revenue, reaching KRW 4.13 trillion compared to the previous year. Company leadership attributed these strong financial results to enhanced operational efficiency and overall profitability improvements across its international maritime shipping operations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/hmm-operating-profit-surges-370-in-third-quarter/"
-  },
-  {
-    "headline": "Hapag-Lloyd Doubles Q3 EBITDA and Raises 2026 Outlook",
-    "continent": "Europe",
-    "country": "Germany",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "German container shipping line Hapag-Lloyd reported a significant surge in third-quarter earnings, with Group EBITDA reaching US$1.73 billion, nearly doubling the figure from the same period previously. The strong financial performance was driven by elevated freight rates and high vessel utilization rates. In response to these favorable market conditions, the carrier upgraded its full-year earnings outlook for 2026.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/hapag-lloyd-nearly-doubles-q3-ebitda-and-raises-2026-outlook/"
-  },
-  {
-    "headline": "Agility Global Q3 Revenue Rises 22% on Logistics Growth",
-    "continent": "Middle East",
-    "country": "United Arab Emirates",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "Agility Global announced a 22 percent increase in third-quarter revenue, reaching $1.60 billion compared to $1.31 billion during the same period in the prior year. The growth was driven by expansions across the company's aviation services, fuel logistics, and industrial real estate sectors. Despite the top-line revenue growth, earnings before interest, taxes, depreciation, and amortization experienced a three percent decline, dropping to $208 million for the quarter.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/agility-global-reports-revenue-growth-as-logistics-businesses-expand/"
-  },
-  {
-    "headline": "Ulsan Port Achieves Commercial e-Ammonia Bunkering Milestone",
-    "continent": "Asia",
-    "country": "South Korea",
-    "category": "sustainability",
-    "date": "2026-11-12",
-    "summary": "Ulsan Port Authority collaborated with several key maritime and chemical companies to successfully deliver 800 tonnes of renewable energy-based e-ammonia to a large ammonia carrier using a port-to-ship bunkering system. This commercial milestone represents a significant step forward in the adoption of alternative, low-carbon fuels for maritime logistics and international shipping operations, aligning with broader industry sustainability goals to reduce greenhouse gas emissions across global supply chains.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/pacific-environment-welcomes-ulsan-ports-commercial-e-ammonia-bunkering-milestone/"
-  },
-  {
-    "headline": "Asyad Shipping JV agrees to sell LR2 tanker Haima",
-    "continent": "Asia",
-    "country": "Oman",
-    "category": "logistics",
-    "date": "2026-11-12",
-    "summary": "A joint venture between Oman's Asyad Shipping Company and Japan's Mitsui OSK Lines has signed an agreement to sell the LR2 tanker Haima for approximately $63.1 million. The transaction, formalized through a memorandum of agreement, is projected to yield a substantial financial gain for the partnership. This divestment highlights ongoing fleet management and strategic asset optimization within the maritime logistics sector as operators continually reassess their vessel portfolios.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/oman-asyad-shipping-jv-to-sell-tanker-haima-for-63-1mln/"
   }
 ]
