@@ -1,5 +1,205 @@
 [
   {
+    "headline": "CU Lines Expands Intra-Asia Service with Thailand-Malaysia Link",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-28",
+    "summary": "CU Lines is expanding its intra-Asia network by securing slot charters on the Malaysia-Thailand route connecting Laem Chabang and Port Klang starting in December. Marketed as the MT1 service, this new offering leverages an existing route operated by major carriers between Southeast Asia and the Indian region. Simultaneously, Zhonggu has initiated a new service connecting to Dongguan, reflecting ongoing capacity adjustments and route optimization within regional maritime logistics networks.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cu-lines-adds-thailand-malaysia-link-as-zhonggu-launches-dongguan-service/"
+  },
+  {
+    "headline": "CMA CGM Launches Mombasa to Afungi Feeder Service",
+    "continent": "Africa",
+    "country": "Mozambique",
+    "category": "logistics",
+    "date": "2026-11-28",
+    "summary": "Ocean carrier CMA CGM has established a new container feeder route connecting Mombasa, Kenya, with Afungi, Mozambique, operating under the identifier MOMAF1. The service runs with a frequency of approximately every two weeks, utilizing slot charters on a multipurpose vessel operated by Alpha Logistics Services. This new maritime link aims to improve regional logistics connectivity and support transport operations in northern Mozambique.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/cma-cgm-adds-feeder-link-from-mombasa-to-afungi/"
+  },
+  {
+    "headline": "Wan Hai Lines Places Major Container Procurement Order",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "procurement",
+    "date": "2026-11-28",
+    "summary": "Container shipping operator Wan Hai Lines has finalized a large-scale procurement initiative to commission over 110,000 new shipping containers from four distinct manufacturing partners. The acquisition is divided among suppliers, with CIMC securing the largest portion of the order at 45,800 units valued at US$145 million. Additional manufacturing contracts were awarded to Dong Fang International Containers, Pan Ocean Container Supplies, and Singamas to fulfill the total container production requirements.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/wan-hai-announces-order-for-more-than-110000-containers/"
+  },
+  {
+    "headline": "GT Lines Joins CU Lines on China-Gulf Express",
+    "continent": "Asia",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-28",
+    "summary": "Gulftainer container shipping subsidiary GT Lines has partnered with CU Lines on the China–Gulf Express route, marketing the maritime connection under the KCX5 designation. This strategic alliance supports an increase in frequency from a departure every twenty-three days to a regular weekly schedule. The route utilizes large-capacity vessels to handle trade volumes between Asian manufacturing hubs and the Middle East, enhancing supply chain connectivity and liner service reliability for regional freight forwarders and shippers.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/gt-lines-joins-cu-lines-china-gulf-express-as-service-goes-weekly/"
+  },
+  {
+    "headline": "ZIM Resumes Levant Black Sea Express Service",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Container shipping line ZIM has reinstated its Levant Black Sea Express route, re-establishing maritime feeder connections linking Israel to Black Sea ports in Constanta and Varna. The fortnightly service had previously been put on hold following the loss of a vessel off the coast of Bulgaria in late October. The updated route rotation omits the previous call at Alexandria, utilizing a replacement vessel to maintain operations.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/zim-restarts-levant-black-sea-express-without-alexandria-call/"
+  },
+  {
+    "headline": "Global Feeder Shipping restructures Djibouti JSA service",
+    "continent": "Middle East",
+    "country": "Djibouti",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Global Feeder Shipping has announced a restructuring of its regional feeder service operating out of Djibouti. The updated network re-establishes a stop in Yemen and introduces regular port calls in Oman, while removing Berbera from the route rotation. Operating on a ten-day frequency, the revised vessel schedule now connects Djibouti, Mukalla, and Salalah to maintain maritime connectivity across the region.",
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/global-feeder-shipping-restructures-djibouti-jsa-feeder-service/"
+  },
+  {
+    "headline": "Maritime Industry Urges Global Framework at IMO MEPC 85",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "international_relations",
+    "date": "2026-11-27",
+    "summary": "Ahead of the International Maritime Organization meeting, maritime sector leaders are urging member nations to unite behind a cohesive global framework regarding mid-term measures. The industry emphasizes the necessity of avoiding fragmented regional regulations that disrupt coherent international operations. Stakeholders hope to bridge existing policy differences to establish an aligned, pragmatic approach for the shipping sector worldwide.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/shipping-industry-statement-calling-for-convergence-towards-pragmatic-alternative-global-framework/"
+  },
+  {
+    "headline": "Global maritime vessel orderbook reaches record high",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Shipbuilding orders across major commercial vessel segments have surged significantly, pushing the global orderbook to an unprecedented level by the end of October. According to industry data from shipbroker Banchero Costa, total vessel contracting reached 172.3 million compensated gross tonnage, representing over 5,400 ships and a notable year-over-year increase of twenty-four percent. This expansion spans multiple categories including bulk carriers, various tanker types, liquefied gas carriers, and containerships, reflecting sustained investment in maritime transport capacity despite ongoing macroeconomic and geopolitical complexities influencing global logistics networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/newbuilding-activity-orderbook-at-all-time-high/"
+  },
+  {
+    "headline": "Navigating Maritime Emissions Regulations and Commercial Strategy",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "sustainability",
+    "date": "2026-11-27",
+    "summary": "Maritime operators face mounting pressure to align carbon compliance with commercial decision-making as complex environmental regulations reshape the industry. Frameworks such as the EU Emissions Trading System and FuelEU Maritime are directly impacting operational economics, while upcoming standards from the International Maritime Organization signal further regulatory changes. Stakeholders must carefully balance sustainability mandates with financial performance to manage rising operational costs and maintain profitability within global shipping networks.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/how-emission-reduction-and-commercial-outcomes-go-hand-in-hand/"
+  },
+  {
+    "headline": "Baltic Dry Index Closes Week Up 4.6% Despite Friday Dip",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "The global shipping benchmark experienced a slight daily decline on Friday but finished the week with a 4.6% overall gain. The downward pressure on Friday was driven by the capesize segment, which tracks large commodity shipments like iron ore and coal and fell 1.5%. Despite this late-week drop, the capesize index still posted a weekly increase of 5.1%. Meanwhile, the panamax segment, which typically transports medium-sized bulk cargoes such as grain and coal, also contributed to overall market activity.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-on-friday-but-rises-4-6-this-week/"
+  },
+  {
+    "headline": "Potential Maersk and ONE North-South shipping alliance",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Industry speculation suggests that Maersk and Ocean Network Express might form a North-South container shipping alliance. This development points toward a potential shift in maritime liner cooperation, as formal vessel-sharing arrangements traditionally focused on East-West trade corridors could expand into North-South routes. Such a move would represent a new phase of structured collaboration and long-term partnership within the global container shipping sector.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/are-north-south-container-alliances-on-the-way/"
+  },
+  {
+    "headline": "Dirty tanker freight rates stabilize amid mixed sector demand",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Midsize dirty tanker shipping rates experienced a rebound this week, driven primarily by strong demand for Aframax vessels in the U.S. Gulf. Meanwhile, Very Large Crude Carriers in the Middle East Gulf remained largely steady due to adequate regional vessel supply. Conversely, clean product tanker markets declined across multiple Western and Asian routes as gasoline inventories grew and regional purchasing slowed. However, Long Range 2 rates saw a slight improvement, supported by stronger petrochemical margins in Northeast Asia as the maritime logistics sector adjusts to current market conditions.",
+    "sourceName": "Hellenic Shipping News",
+    "sourceUrl": "https://www.hellenicshippingnews.com/dirty-freight-stabilises-as-the-market-seeks-a-new-equilibrium/"
+  },
+  {
+    "headline": "Medway launches regular container rail service between Le Havre and Paris",
+    "continent": "Europe",
+    "country": "France",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Medway has introduced a scheduled rail freight service connecting the port of Le Havre directly to MSC's inland container terminal located north of Paris. This launch follows Medway assuming full operational control of the MSC facility. The new regular train service aims to enhance intermodal transport efficiency, streamline the movement of maritime containers inland, and provide a sustainable alternative to road freight for cargo entering and leaving the Paris metropolitan area.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/27/medway-starts-regular-le-havre-paris-trains-for-mscs-inland-terminal/"
+  },
+  {
+    "headline": "Swiss rail freight share drops to historic low",
+    "continent": "Europe",
+    "country": "Switzerland",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Switzerland recorded its lowest-ever rail freight modal share in 2025, with railways capturing just 35 percent of the land transport market. This decline highlights a significant shift in freight distribution across the country, as rail transport performance decreased relative to other land transport modes. The drop raises questions about modal shift policies, rail competitiveness, and infrastructure capacity within the Alpine freight corridor, impacting broader European transit logistics and national environmental targets for freight transport.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/27/swiss-rail-freight-share-falls-to-lowest-level-ever-recorded/"
+  },
+  {
+    "headline": "Kazakhstan Proposes Broad-Gauge Railway Connection to China",
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Kazakhstan has introduced a proposal for a broad-gauge railway link with China, highlighting ongoing infrastructural challenges posed by differing international track widths. Railway systems utilize various track standards, such as the standard European gauge and the wider broad gauge prevalent in specific regions, which can create operational bottlenecks at international borders. This initiative aims to address connectivity hurdles and streamline freight transport operations between the two nations, potentially enhancing cross-border trade efficiency and regional logistics capabilities.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/27/kazakhstan-proposes-broad-gauge-railway-in-china/"
+  },
+  {
+    "headline": "Spain tenders design for Madrid-Basque Country rail highway",
+    "continent": "Europe",
+    "country": "Spain",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Spain's infrastructure manager Adif has initiated the tendering process for the design of a new rail highway connecting Madrid with the Basque Country. Passing through key logistical hubs like Valladolid and Burgos, the project aims to enhance intermodal freight transport capacity and shift more cargo from road to rail, supporting national infrastructure development and improving overall freight distribution efficiency across the Iberian Peninsula.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/27/spain-tenders-design-of-madrid-basque-country-rail-highway/"
+  },
+  {
+    "headline": "Brenner Base Tunnel Main Tubes Fully Excavated",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "The final tunnel boring machine has completed its excavation work, marking a major milestone for the Brenner Base Tunnel project. All mechanised excavation on the main tubes is now finished, bringing the critical trans-Alpine rail corridor closer to completion. This infrastructure development is designed to significantly improve freight logistics and passenger transit capacity through the Alps, enhancing rail connectivity between northern and southern Europe once fully operational.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/infrastructure/2026/11/27/brenner-base-tunnel-main-tubes-now-fully-excavated/"
+  },
+  {
+    "headline": "Astral Aviation and Zeal Global Launch India-Kenya Cargo Route",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Kenyan cargo carrier Astral Aviation has teamed up with Indian general sales agent Zeal Global Corp to introduce a new Boeing 767 freighter route connecting Navi Mumbai International Airport and Jomo Kenyatta International Airport in Nairobi. The service will operate twice weekly utilizing a passenger-to-freighter converted aircraft, strengthening air freight connectivity and trade flows between the two regions.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freighter-operator/2026/11/astral-partners-with-zeal-to-launch-india-kenya-767-freighter-route/"
+  },
+  {
+    "headline": "Korean Air completes Incheon cargo terminal upgrade without downtime",
+    "continent": "Asia",
+    "country": "South Korea",
+    "category": "storage_distribution",
+    "date": "2026-11-27",
+    "summary": "Lödige Industries has finalized a smart terminal modernization project at Korean Air's air cargo facility located at Incheon International Airport. Executed in multiple phases to ensure continuous operations, the upgrade successfully prevented any service interruptions throughout the facility's modernization process. The project involved installing advanced material handling equipment as part of an ongoing effort to improve efficiency and capacity at one of the region's major aviation logistics hubs.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/technology/2026/11/no-downtime-during-korean-airs-incheon-air-cargo-terminal-upgrade/"
+  },
+  {
+    "headline": "Norse Cargo Operations Face Uncertain Future After Fleet Lease Terminations",
+    "continent": "Europe",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-27",
+    "summary": "Norse Cargo faces severe disruption as its parent carrier received lease termination notices for its complete twelve-aircraft fleet. The airline had already halted operations in late November due to mounting financial pressures. The cancellation of all aircraft lease agreements by lessors creates significant uncertainty for the future of the cargo division and its air freight capacity.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/editorial/2026/11/norse-cargo-faces-an-uncertain-future/"
+  },
+  {
     "headline": "Precious Shipping expands dry bulk fleet with five joint ventures",
     "continent": "Asia",
     "country": "Thailand",
@@ -408,6 +608,26 @@
     "summary": "MSC Cruises has officially received its newest liquefied natural gas-powered ship, the MSC World Asia, built by Chantiers de l'Atlantique in Saint-Nazaire, France. Following the successful completion of sea trials and final construction phases at the French shipyard, the handover marks the addition of the third vessel in the company's World Class series. The delivery highlights ongoing investments in alternative marine fuels and modern fleet expansion within the global maritime transport sector.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/msc-cruises-takes-delivery-of-lng-powered-msc-world-asia/"
+  },
+  {
+    "headline": "Ukraine Proposes 15 Percent Rail Freight Tariff Rise for 2027",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "category": "logistics",
+    "date": "2026-11-26",
+    "summary": "The transport ministry in Ukraine has released a draft order outlining a subsequent fifteen percent increase in rail freight tariffs. This adjustment involves modifying the coefficients applied to domestic shipments. The proposed change follows previous rate hikes and is part of ongoing efforts within the country's transport sector. Shippers and businesses relying on domestic rail infrastructure will face higher logistical costs if the measure is formally adopted and implemented according to the current timeline.",
+    "sourceName": "RailFreight.com",
+    "sourceUrl": "https://www.railfreight.com/railfreight/2026/11/26/ukraine-plans-another-15-rail-freight-tariff-increase-from-2027/"
+  },
+  {
+    "headline": "FTL Airlines Expands Fleet with Airbus A330-300P2F",
+    "continent": "Europe",
+    "country": "France",
+    "category": "logistics",
+    "date": "2026-11-26",
+    "summary": "French cargo carrier FTL Airlines has taken delivery of its second converted freighter, an Airbus A330-300P2F, to support operations on routes connecting Europe and Asia. The company plans to further expand its fleet with additional A330 and A321 cargo aircraft as part of its ongoing growth strategy. Established in early 2022 and certified in mid-2023, the carrier operates widebody freighter capacity to meet international shipping demand.",
+    "sourceName": "Air Cargo News",
+    "sourceUrl": "https://www.aircargonews.net/freighter-operator/2026/11/ftl-airlines-adds-a330-300p2f-to-support-europe-asia-flights/"
   },
   {
     "headline": "Maersk Details Trinidad and Tobago Port Setup for Feeders",
@@ -1328,6 +1548,26 @@
     "summary": "The European Commission has introduced a fresh sanctions package targeting Russia's maritime and energy sectors. This proposed 22nd round of restrictions aims to add over seventy vessels from Russia's shadow fleet to the official sanctions blacklist. Additionally, the regulatory measures seek to ban all tanker ships holding insurance within the European Union, further tightening maritime trade and logistics restrictions associated with Russian energy exports.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/eu-targets-shadow-fleet-and-russian-insured-tankers-in-new-sanctions-package/"
+  },
+  {
+    "headline": "Uber Freight withdraws participation from Gartner Magic Quadrant",
+    "continent": "North America",
+    "country": "United States",
+    "category": "logistics",
+    "date": "2026-11-24",
+    "summary": "Uber Freight has publicly announced it will no longer cooperate with Gartner for future Magic Quadrant evaluations. The decision, communicated by the company's leadership following recent interactions regarding its annual ratings, signals a significant shift in how the digital freight network engages with major technology and management advisory firms for industry benchmarking and visibility.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/uber-freight-makes-a-very-public-break-with-gartners-quadrant"
+  },
+  {
+    "headline": "Air cargo sector turns to AI to navigate cost and capacity pressures",
+    "continent": "Global",
+    "country": "Multiple",
+    "category": "logistics",
+    "date": "2026-11-24",
+    "summary": "Carriers in the air cargo sector face intense financial and operational pressures driven by escalating fuel expenses, tightening capacity, complex compliance requirements, and rising demand. To address these industry-wide challenges, stakeholders are increasingly adopting artificial intelligence-driven technologies. These advanced digital tools aim to optimize cargo operations, improve pricing strategies, and streamline compliance processes amidst a volatile market environment.",
+    "sourceName": "FreightWaves",
+    "sourceUrl": "https://www.freightwaves.com/news/air-cargos-squeeze-makes-the-case-for-ai-driven-cargo-technology"
   },
   {
     "headline": "Ports America Appoints New CEO",
@@ -2520,16 +2760,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach"
   },
   {
-    "headline": "DHL Express launches AI-powered customs clearance tool",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "international_relations",
-    "date": "2026-11-21",
-    "summary": "DHL Express has rolled out a new artificial intelligence tool designed to help small international shippers determine accurate product identifiers for cross-border customs clearance. The technology aims to remove guesswork and streamline the compliance process for smaller businesses engaged in international trade, reducing potential delays and administrative burdens at international borders by automating product classification.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/dhl-express-makes-customs-clearance-easier-for-small-cross-border-shippers"
-  },
-  {
     "headline": "Akkon Lines introduces Türkiye-Levant container route",
     "continent": "Middle East",
     "country": "Türkiye",
@@ -2568,16 +2798,6 @@
     "summary": "Icelandic shipping and logistics provider Eimskip has placed an order for a new Konecranes Gottwald ESP.8 Mobile Harbor Crane destined for the port of Reyðarfjörður. Booked during the final quarter of the year, the equipment delivery is planned for the third quarter of the following year. The infrastructure addition is designed to enhance cargo handling capabilities at the facility, supporting the processing of containerized shipments as well as general and project cargo operations.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/"
-  },
-  {
-    "headline": "Zim Reports Q3 Profit Surge Driven by Higher Freight Rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "Container shipping company Zim recorded a significant third-quarter net profit of $830 million, bolstered by a 55 percent increase in freight rates. Following this strong financial performance, the carrier upgraded its annual earnings outlook and announced a substantial dividend payout for shareholders. Meanwhile, the company continues to await regulatory approvals regarding its planned acquisition by Hapag-Lloyd, which would reshape its future market positioning and operational footprint within the global maritime shipping sector.",
-    "sourceName": "FreightWaves",
-    "sourceUrl": "https://www.freightwaves.com/news/zim-q3-profit-surges-to-830-million-as-freight-rates-jump-55"
   },
   {
     "headline": "Union Pacific and Norfolk Southern merger faces scrutiny",
@@ -2640,16 +2860,6 @@
     "sourceUrl": "https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules"
   },
   {
-    "headline": "Delta Cargo Airlifts Drought Relief Supplies to Puerto Rico",
-    "continent": "North America",
-    "country": "United States",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "Delta Cargo collaborated with New York State officials and charitable organizations to transport nearly 11,000 pounds of essential supplies to San Juan, Puerto Rico. The emergency shipment included critical food, water, and medical resources to assist communities affected by severe drought conditions on the island this year. The logistics effort highlights humanitarian air freight operations in response to regional environmental crises.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/supply-chains/2026/11/delta-cargo-delivers-drought-relief-suppliers-to-puerto-rico/"
-  },
-  {
     "headline": "Geodis Secures WHO GDP Certification for APAC Healthcare",
     "continent": "Asia",
     "country": "Multiple",
@@ -2668,16 +2878,6 @@
     "summary": "Inventories of fuel oil at the Middle Eastern storage and bunkering hub of Fujairah have posted a modest one percent increase during the first half of November compared to the previous month's averages. Data from the local oil industry zone and S&P Global indicates that the growth is driven primarily by gains in heavy distillate and residual inventories, which rose by 42,000 barrels to reach 4.49 million barrels, alongside smaller upward movements in middle distillate supplies.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/fujairah-fuel-oil-stocks-edge-up-1-in-november-so-far/"
-  },
-  {
-    "headline": "IMO to weigh net-zero framework amid decarbonization debate",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "sustainability",
-    "date": "2026-11-20",
-    "summary": "The International Maritime Organization is preparing for upcoming negotiations regarding its Net-Zero Framework. Committee members face a critical decision between adopting a softer regulatory approach to resolve ongoing deadlocks or maintaining stringent standards to ensure meaningful emissions reductions. The outcome of the upcoming meetings will significantly influence the maritime industry's long-term sustainability trajectory and operational compliance timelines for global shipping networks.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-the-net-zero-bargain/"
   },
   {
     "headline": "Indian ship recycling market weakens on currency shifts",
@@ -2710,16 +2910,6 @@
     "sourceUrl": "https://container-news.com/fesco-removes-two-ports-from-fcdl1-service/"
   },
   {
-    "headline": "Maersk introduces heavy-load surcharge for China to South America route",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "Ocean carrier Maersk has announced a new heavy-load surcharge of $200 per container for maritime shipments moving from China to South America. The fee takes effect in December 2026 and applies to cargo originating from major Chinese ports including Shanghai, Qingdao, Xingang, and Dalian when the Verified Gross Mass surpasses 23 metric tonnes. Target destination ports include key hubs in Brazil, Uruguay, and Argentina. The measure aims to manage vessel weight distribution and operational costs on this major trade lane.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/maersk-sets-heavy-load-surcharge-for-china-south-america-trade/"
-  },
-  {
     "headline": "DP World Ups Investment in Mozambique's Port of Maputo",
     "continent": "Africa",
     "country": "Mozambique",
@@ -2728,16 +2918,6 @@
     "summary": "DP World has increased its financial commitment to the Port of Maputo to 200 million United States dollars, raising its previous pledge of 165 million. This expanded funding follows discussions between the company's executive leadership and the President of Mozambique. The capital injection aims to enhance the port's infrastructure, boosting regional trade capabilities and strengthening the country's strategic trade position within Southern Africa.",
     "sourceName": "Container News",
     "sourceUrl": "https://container-news.com/dp-world-raises-mozambique-port-investment/"
-  },
-  {
-    "headline": "MSC Expands Mediterranean-Canada Service to Greece and Türkiye",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "MSC has broadened its weekly Med Canadian Service to directly link the Eastern Mediterranean with Montreal. The updated shipping route features port calls in Türkiye at Tekirdag, Gemlik, and Aliaga, alongside Piraeus in Greece, prior to transiting the Western Mediterranean toward Canada. To support this network expansion, the carrier has deployed a fleet of seven container vessels to maintain regular operational frequency on the corridor.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/msc-extends-med-canadian-service-to-greece-and-turkiye/"
   },
   {
     "headline": "KMTC and Namsung halt joint South Korea-Japan container route",
@@ -2770,26 +2950,6 @@
     "sourceUrl": "https://www.hellenicshippingnews.com/mepc-85-to-confront-net-zero-divide/"
   },
   {
-    "headline": "Baltic Dry Index Drops Second Consecutive Session on Lower Rates",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "The primary shipping freight benchmark experienced a second straight daily decline, dipping slightly to 2,898 points. The downturn was driven by decreases across major vessel categories, including the capesize segment, which handles large shipments of essential raw materials like coal and iron ore, as well as the supramax index.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-eases-for-2nd-day/"
-  },
-  {
-    "headline": "SAL Heavy Lift and DNV expand maritime partnership",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "SAL Heavy Lift and DNV are deepening their long-standing partnership to enhance heavy-lift shipping operations and vessel development. The collaboration encompasses classification services, newbuilding support, and advisory expertise, notably contributing to the design and rollout of SAL's Orca Class vessels. Additionally, the initiative integrates advanced digital tools like the Route-Specific Cargo Calculator to streamline day-to-day maritime logistics, improve cargo planning efficiency, and maintain high operational standards across a substantial fleet of specialized cargo vessels.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/how-sal-and-dnv-are-strengthening-heavy-lift-shipping/"
-  },
-  {
     "headline": "Container Ship Time Charter Index Holds Steady in Week 47",
     "continent": "Europe",
     "country": "Germany",
@@ -2798,16 +2958,6 @@
     "summary": "The container shipping charter market experienced overall stability during the forty-seventh week of the year. According to the latest assessment data released by the Hamburg and Bremen shipbrokers association, the market demonstrated only minimal movement and limited week-on-week gains across various vessel segments. This indicates steady demand and ongoing rate equilibrium within global maritime logistics as carriers navigate current trade conditions.",
     "sourceName": "Hellenic Shipping News",
     "sourceUrl": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-47-3/"
-  },
-  {
-    "headline": "Drewry World Container Index Falls 3 Percent",
-    "continent": "Global",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-20",
-    "summary": "The benchmark global container index dropped three percent over the past week, according to recent data. The widely followed metric serves as a key reference for procurement professionals managing ocean freight contracts and provides insights into fluctuating market conditions across major international trade lanes. Analysts continuously track these rate movements to help organizations evaluate shipping costs and optimize their global logistics strategies in response to shifting maritime pricing trends.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-3-last-week-8/"
   },
   {
     "headline": "IMO Talks Resume Amid High EU Shipping Carbon Costs",
@@ -3758,125 +3908,5 @@
     "summary": "Turkish Cargo has expanded its operational network by initiating scheduled freighter flights between Istanbul and Yerevan. The new air cargo connection establishes a direct trade lane linking Turkey and Armenia, enhancing regional logistics capabilities. The inaugural round-trip flight successfully completed operations, marking a notable development in cross-border freight transport for the carrier.",
     "sourceName": "Air Cargo News",
     "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/turkish-cargo-adds-yerevan-to-network/"
-  },
-  {
-    "headline": "Lufthansa Cargo maintains strategic focus on Asia trade lanes",
-    "continent": "Asia",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "Lufthansa Cargo continues to prioritize the Asian market within its global network, driven by robust regional manufacturing activity. Leadership highlights the critical importance of the Asia to Europe trade corridor for current operations. Strong production output across Asian nations sustains the carrier's commitment to facilitating international commerce and maintaining active freight pathways between the two regions.",
-    "sourceName": "Air Cargo News",
-    "sourceUrl": "https://www.aircargonews.net/airlines/2026/11/asia-to-remain-a-focus-for-lufthansa-cargo/"
-  },
-  {
-    "headline": "John Xylas re-elected as chairman of dry bulk association Intercargo",
-    "continent": "Europe",
-    "country": "Italy",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "The dry bulk shipping association Intercargo has re-elected Greek shipowner John Xylas to a second two-year term as chairman, covering 2027 and 2028. Members gathered in Rome confirmed the Ariston Navigation CEO's leadership extension, alongside the addition of executives from Berge Bulk and Fleet Management to the governing team. This leadership continuity comes as the maritime sector navigates ongoing operational and logistical challenges within global trade networks.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/xylas-wins-second-term-at-intercargo/"
-  },
-  {
-    "headline": "JFE Engineering Secures Japan Offshore Wind Maintenance Deal",
-    "continent": "Asia",
-    "country": "Japan",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "A joint venture between JFE Engineering and Akita Maritime Service has been awarded a five-year maintenance contract for the Oga-Katagami-Akita offshore wind facility in Japan. The agreement covers operational support for critical balance-of-plant infrastructure, including twenty-one monopile foundations, subsea cabling, transmission lines, and onshore substations. This service agreement ensures ongoing structural integrity and operational reliability for the 315-megawatt renewable energy installation over the medium term.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/jfe-engineering-wins-offshore-wind-maintenance-contract/"
-  },
-  {
-    "headline": "SwissChemGas orders two VLACs from Hengli Heavy Industries",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "SwissChemGas, a trader with Greek affiliations, has contracted two very large ammonia carriers at Hengli Heavy Industries in China. The Bermuda-registered firm joins a wave of shipping companies investing in this vessel class. Construction of the 93,000 cubic meter carriers is scheduled for completion with deliveries anticipated across 2028 and 2029, expanding maritime transport capacity for ammonia supply chains.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/swisschemgas-joins-vlac-ordering-rush-with-hengli-pair/"
-  },
-  {
-    "headline": "Italy's Ve-Na di Navigazione orders new cargo ship in China",
-    "continent": "Asia",
-    "country": "China",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "Italian shipowner Ve-Na di Navigazione has placed an order with China's CSSC Guangxi Shipbuilding for a new general cargo vessel. This agreement builds upon an existing relationship between the two companies formed the previous year. The vessel, boasting a capacity of 9,200 deadweight tons, is anticipated for delivery in mid-2028, according to reports from shipbroking sources. Financial terms and specific delivery schedules have not been officially released by the shipyard.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/italys-ve-na-di-navigazione-returns-to-china-for-another-newbuild/"
-  },
-  {
-    "headline": "DOF secures subsea contract with Amplitude Energy in Australia",
-    "continent": "Oceania",
-    "country": "Australia",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "Norwegian offshore vessel operator DOF has finalized a subsea installation agreement valued between $50m and $100m with Amplitude Energy. The project will utilize the construction vessel Skandi Inventor to execute operations in the Otway Basin, transitioning a previously announced letter of intent into a firm commitment for the Oslo-listed shipping company.",
-    "sourceName": "Splash247",
-    "sourceUrl": "https://splash247.com/dof-lands-up-to-100m-australian-subsea-contract/"
-  },
-  {
-    "headline": "Baltic Dry Index drops 59 points to 2,921",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "The Baltic Dry Index experienced a decrease of 59 points, settling at 2,921 points. Compiled by the Baltic Exchange in London, this maritime freight measure tracks shipping costs for major dry bulk commodities including iron ore, grain, and coal. The daily index is calculated using global surveys of shipping agents and serves as a key indicator for international maritime logistics and global economic activity within the bulk transport sector.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2921-down-59-points/"
-  },
-  {
-    "headline": "Transatlantic MR vessel arbitrage closed for December arrivals",
-    "continent": "Europe",
-    "country": "Multiple",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "Declining cash differentials in Northwest Europe have compressed transatlantic margins, closing the arbitrage window for all December Medium Range vessel arrivals. Despite falling freight rates, weaker regional cash values pushed late-December margins significantly lower. This shift halts transatlantic product flows for the remainder of the month, impacting regional shipping economics and supply distribution patterns.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/ta-is-now-shut-for-every-december-mr-arrival/"
-  },
-  {
-    "headline": "Rotterdam Biofuel Bunker Prices Surge While Singapore Declines",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "category": "sustainability",
-    "date": "2026-11-16",
-    "summary": "Rotterdam recently experienced a significant surge in its B30-VLSFO biofuel bunker price, climbing by over one hundred dollars per metric ton within a single week. This sharp increase outpaced conventional very low sulfur fuel oil gains at the Dutch port, substantially widening the price premium for the sustainable alternative. Meanwhile, market conditions in Singapore trended in the opposite direction, with prices sliding during the same period. The European pricing dynamics are partially influenced by local regulatory mechanisms that allow fuel suppliers to generate compliance tickets for marketing low-carbon products.",
-    "sourceName": "Hellenic Shipping News",
-    "sourceUrl": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-rotterdams-b30-vlsfo-price-jumps-as-singapores-slides/"
-  },
-  {
-    "headline": "Toll Group Restructures Operations to Improve Financial Health",
-    "continent": "Oceania",
-    "country": "Australia",
-    "category": "strategy",
-    "date": "2026-11-16",
-    "summary": "Logistics provider Toll Group is undergoing a strategic operational contraction aimed at improving its financial performance. Financial insights remain limited due to sparse interim data provided by its parent organization, Japan Post. Comprehensive transparency into the logistics operator's turnaround progress and true operational health will require waiting for official corporate filings expected to be published. The restructuring reflects ongoing efforts within the transport sector to streamline networks, divest underperforming assets, and focus on core profitability amidst shifting global market conditions and regional economic pressures.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/toll-group-on-the-mend-shrinking-to-get-fitter/"
-  },
-  {
-    "headline": "Wan Hai's Transpacific Expansion Drives Strong Financial Returns",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "category": "logistics",
-    "date": "2026-11-16",
-    "summary": "Ocean carrier Wan Hai's strategic re-entry into the transpacific trade lane has yielded significant financial results, with the Asia to US East Coast route becoming the company's primary revenue source. Despite facing a temporary market downturn in 2023, the Taiwan-based container shipping operator has accumulated substantial cumulative net profits since initially launching its transpacific services in 2020, highlighting the long-term success of this trade route expansion.",
-    "sourceName": "The Loadstar",
-    "sourceUrl": "https://theloadstar.com/wan-hai-transpac-gamble-has-paid-off-asia-usec-now-its-top-earner/"
-  },
-  {
-    "headline": "Akkon Lines Updates Bulgaria Shuttle Route, Drops Gemlik",
-    "continent": "Europe",
-    "country": "Turkey",
-    "category": "logistics",
-    "date": "2026-11-15",
-    "summary": "Carrier Akkon Lines has restructured its Bulgaria Shuttle Service by eliminating Gemlik from its port rotation. Following this change, Izmit stands as the sole Turkish port included in the itinerary, which maintains links to Constanta in Romania along with Varna and Burgas in Bulgaria. This adjustment streamlines the maritime service connecting Turkey to the western Black Sea region.",
-    "sourceName": "Container News",
-    "sourceUrl": "https://container-news.com/akkon-lines-removes-gemlik-from-bulgaria-shuttle-service/"
   }
 ]
